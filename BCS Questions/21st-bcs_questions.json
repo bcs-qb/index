@@ -1,0 +1,1306 @@
+{
+  "exam_name": "21st-bcs Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘বাঙ্গালা ভাষার ইতিবৃত্ত’ কার রচনা?",
+      "options": {
+        "A": "মুহম্মদ শহীদুল্লাহ",
+        "B": "মুহম্মদ আবদুল হাই",
+        "C": "মুনীর চৌধুরী",
+        "D": "মোফাজ্জল হায়দার চৌধুরী"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/1.jpg"
+    },
+    {
+      "question_number": 2,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘প্রভাবতী সম্ভাষণ’ কার রচনা?",
+      "options": {
+        "A": "দেবেন্দ্রনাথ ঠাকুর",
+        "B": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "C": "রামমোহন রায়",
+        "D": "কৃষ্ণমোহন বন্দ্যোপাধ্যায়"
+      },
+      "correct_answer": "B",
+      "explanation": "লেখক, সমাজ সংস্কারক ও শিক্ষাবিদ ঈশ্বরচন্দ্র বিদ্যাসাগরের (১৮২০-১৮৯১ খ্রি) একটি মৌলিক গ্রন্হ ‘প্রভাবতী সম্ভাষণ’ । তার রচিত অন্যান্য উল্লেখযোগ্য গ্রন্হের মধ্যে রয়েছে- ‘বেতালপঞ্চবিংশতি’ (হিন্দি বৈতালপচ্চীসীর বঙ্গানুবাদ), ‘শকুন্তলা’ (কালিদাসের ‘অভিজ্ঞানশকুন্তলম’ নাটকের উপাখ্যান ভাগের বঙ্গানুবাদ), ‘ভ্রান্তিবিলাস’ (শেক্সপীয়রের ‘Comedy of Errors’ - এর বঙ্গানুবাদ) ইত্যাদি।"
+    },
+    {
+      "question_number": 3,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘চতুর্দশপদী কবিতাবলী’ কার রচনা?",
+      "options": {
+        "A": "হেমচন্দ্র বন্দ্যোপাধ্যায়",
+        "B": "নবীনচন্দ্র সেন",
+        "C": "মাইকেল মধুসূদন দত্ত",
+        "D": "রঙ্গলাল বন্দ্যোপাধ্যায়"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলা সাহিত্যে প্রথম সনেট বা চতুর্দশপদী কবিতা লেখেন কবি ও নাট্যকার মধুসূদন দত্ত (১৮২৪-১৮৭৩ খ্রি.)। তার রচিত সনেটসমূহ ‘চতুর্দশপদী কবিতাবলী’ (১৮৬৬) তে সংকলিত। প্রশ্নে উল্লিখিত অন্য কবি- সাহিত্যিকগণ সনেট রচনা করেননি।"
+    },
+    {
+      "question_number": 4,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোনটি কাজী নজরুল ইসলাম রচিত গ্রন্থ?",
+      "options": {
+        "A": "বিষের বাঁশী",
+        "B": "বন্দীর বন্দনা",
+        "C": "সন্দ্বীপের চর",
+        "D": "রূপসী বাংলা"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/4.jpg"
+    },
+    {
+      "question_number": 5,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘কবর’ নাটক কার রচনা?",
+      "options": {
+        "A": "শহীদুল্লাহ কায়সার",
+        "B": "জহির রায়হান",
+        "C": "মুনীর চৌধুরী",
+        "D": "সত্যেন সেন"
+      },
+      "correct_answer": "C",
+      "explanation": "রণেশ দাশগুপ্তের অনুরোধে মুনীর চৌধুরী ১৯৫৩ সালে ঢাকা জেলখানায় ‘কবর’ নাটকটি রচনা করেন। মুনীর চৌধুরীর উল্লেখযোগ্য নাটক - রক্তাক্ত প্রান্তর, চিঠি, মানুষ, দণ্ডকারণ্য।"
+    },
+    {
+      "question_number": 6,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘চাঁদের হাট’- অর্থ কী?",
+      "options": {
+        "A": "বন্ধুদের সমাগম",
+        "B": "আত্মীয় সমাগম",
+        "C": "প্রিয়জন সমাগম",
+        "D": "গণ্যমান্যদের সমাগম"
+      },
+      "correct_answer": "C",
+      "explanation": "‘চাঁদের হাট’ একটি বাগধারা, যার অর্থ ধনে জনে পরিপূর্ণ সুখের ‘সংসার’ আনন্দের প্রাচুর্য।"
+    },
+    {
+      "question_number": 7,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "A": "সূচিষ্মিতা",
+        "B": "সূচিস্মিতা",
+        "C": "সুচীস্মিতা",
+        "D": "শুচিস্মিতা"
+      },
+      "correct_answer": "D",
+      "explanation": "শুদ্ধ বানান ‘শুচিস্মিতা’, যার অর্থ মৃদু ও নির্মল হাসিযুক্ত। যে নারীর হাসি সুন্দর।"
+    },
+    {
+      "question_number": 8,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘কর্মে যাহার ক্লান্তি নাই’ এই বাক্যাংশের সংক্ষিপ্ত রূপ কি?",
+      "options": {
+        "A": "ক্লান্তিহীন",
+        "B": "অক্লান্ত",
+        "C": "অক্লান্তকর্মী",
+        "D": "অবিশ্রাম"
+      },
+      "correct_answer": "C",
+      "explanation": "কর্মে যাহার ক্লান্তি নেই- অক্লান্তকর্মী, ক্লান্তি নেই যার- অক্লান্ত।"
+    },
+    {
+      "question_number": 9,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "ণ-ত্ব বিধি সাধারণত কোন শব্দে প্রযোজ্য?",
+      "options": {
+        "A": "দেশী",
+        "B": "বিদেশী",
+        "C": "তৎসম",
+        "D": "তদ্ভব"
+      },
+      "correct_answer": "C",
+      "explanation": "যে বিধান বা নিয়ম অনুসরণে তৎসম বা সংস্কৃত শব্দে ‘ণ’ (মূর্ধন্য-ণ) ও ‘ন’ (দন্ত্য-ন) এর সঠিক ব্যবহার নিশ্চিত করা যায় তাকে ণত্ব বিধান বলে। উল্লেখ্য, খাঁটি বাংলা ও বিদেশী শব্দে মূর্ধন্য-ণ হয় না। যেমন - কান, সোনা, কুরআন, গভর্নর, ইরান ইত্যাদি।"
+    },
+    {
+      "question_number": 10,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "ক্রিয়াপদ–",
+      "options": {
+        "A": "সবসময়ে বাক্যে থাকবে",
+        "B": "কখনো কখনো বাক্যে উহ্য থাকতে পারে",
+        "C": "শুধু অতীতকাল বোঝাতে বাক্যে ব্যবহৃত হয়",
+        "D": "আসলে বিশেষণ থেকে অভিন্ন"
+      },
+      "correct_answer": "B",
+      "explanation": "যে পদ দ্বারা কোনো কার্য সম্পাদন বুঝায় তাই ক্রিয়াপদ। সাধারণত বাক্যে ক্রিয়াপদ থাকে। তবে কখনো কখনো সময় বাক্যে ক্রিয়াপদ উহ্য থাকে। যেমন- ফুলটি সুন্দর। এ বাক্যে ‘হয়’ ক্রিয়াপদ উহ্য রয়েছে।"
+    },
+    {
+      "question_number": 11,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোনটি অনুজ্ঞা?",
+      "options": {
+        "A": "তুমি গিয়েছিলে",
+        "B": "তুমি যাও",
+        "C": "তুমি যাচ্ছিলে",
+        "D": "তুমি যাচ্ছ"
+      },
+      "correct_answer": "B",
+      "explanation": "কিছু করার আদেশ, উপদেশ, নিষেধ, অনুরোধ, আশীর্বাদ, প্রার্থনা-কামনা, অনুমতি ইত্যাদি বোঝাতে ক্রিয়ার যে বিশেষ রীতি ব্যবহৃত হয় তাকে অনুজ্ঞা (ভাব) বলা হয়। যেমন- বর্তমান কালে: কলমটি দাও। ভবিষ্যৎ কালে: কাল দেখা হবে ইত্যাদি। সুতরাং 'তুমি যাও' একটি অনুজ্ঞা।"
+    },
+    {
+      "question_number": 12,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘যত বড় মুখ নয় তত বড় কথা’- এখানে ‘মুখ’ বলতে কী বোঝাচ্ছে?",
+      "options": {
+        "A": "অনুভূতি",
+        "B": "গালি",
+        "C": "প্রত্যঙ্গ",
+        "D": "শক্তি"
+      },
+      "correct_answer": "D",
+      "explanation": "যে ভাষায় শব্দভাণ্ডার যত সমৃদ্ধ এবং যত বেশি অর্থবৈচিত্র্যে ঋদ্ধ সেই ভাষা তত উন্নত বলে স্বীকৃত। বাংলা একটি সমৃদ্ধ ভাষা হওয়ায় এ ভাষায় বানান ও উচ্চারণগত অভিন্নতা সত্ত্বে ও একই শব্দ বাক্যের মধ্যে বিভিন্ন অর্থ প্রকাশ করে থাকে। উপরিউক্ত প্রশ্নে ‘মুখ’ দ্বারা এখানে স্পষ্টতই শক্তি বুঝানো হয়েছে।"
+    },
+    {
+      "question_number": 13,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "A": "মুমুর্ষু",
+        "B": "মুমূর্ষু",
+        "C": "মূমুর্ষু",
+        "D": "মূমূর্ষূ"
+      },
+      "correct_answer": "B",
+      "explanation": "শুদ্ধ বানান ‘মুমূর্ষু’ শব্দটির অর্থ মরণাপন্ন বা মরণোন্মুখ (মুমূর্ষু অবস্থা)।"
+    },
+    {
+      "question_number": 14,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘বিরাগী’ শব্দের অর্থ কী?",
+      "options": {
+        "A": "উদাসীন",
+        "B": "প্রতিকূল",
+        "C": "রাগহীন",
+        "D": "বিশেষভাবে রুষ্ট"
+      },
+      "correct_answer": "A",
+      "explanation": "‘বিরাগী’ একটি পুরুষবাচক শব্দ, যার অর্থ বিরাগযুক্ত, উদাসীন, নিস্পৃহ বা বিরক্ত। ‘বিরাগী’ শব্দটির স্ত্রীবাচক রূপ হলো 'বিরাগিনী'।"
+    },
+    {
+      "question_number": 15,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘ব্রজবুলি’ বলতে কী বোঝায়?",
+      "options": {
+        "A": "ব্রজধামে কথিত ভাষা",
+        "B": "এক রকম কৃত্রিম কবিভাষা",
+        "C": "বাংলা ও হিন্দির যোগফল",
+        "D": "মৈথিলি ভাষার একটি উপভাষা"
+      },
+      "correct_answer": "B",
+      "explanation": "‘ব্রজবুলি’ হলো মৈথিলী ও বাংলা ভাষার মিশ্রণে গঠিত এক প্রকার কৃত্রিম কবিভাষা। এই ভাষায় বৈষ্ণব পদ রচনা করেছেন অনেক কবি, যাদের মধ্যে গোবিন্দদাস, বিদ্যাপতি, চণ্ডীদাস ও জ্ঞানদাস অন্যতম। উল্লেখ্য, রবীন্দ্রনাথ ঠাকুরও ব্রজবুলি ভাষায় ‘ভানুসিংহ ঠাকুরের পদাবলী’ নামে কাব্য রচনা করেন।"
+    },
+    {
+      "question_number": 16,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘সবার উপরে মানুষ সত্য, তাহার উপরে নাই’- কে বলেছেন?",
+      "options": {
+        "A": "চণ্ডীদাস",
+        "B": "বিদ্যাপতি",
+        "C": "রামকৃষ্ণ পরমহংস",
+        "D": "বিবেকানন্দ"
+      },
+      "correct_answer": "A",
+      "explanation": "এই অমর উক্তিটি করেছেন মধ্যযুগের প্রখ্যাত কবি বাংলা ভাষায় বৈষ্ণব পদাবলীর আদি রচিয়তা চণ্ডীদাস। উল্লেখ্য, পদাবলীতে ভিন্ন ভিন্ন চণ্ডীদাসের নাম (চণ্ডীদাস দ্বিজ, চণ্ডীদাস দীন, চণ্ডীদাস আদি ইত্যাদি।) জানা যায়। তবে ড. মুহম্মদ শহীদুল্লাহর মতে, চণ্ডীদাস তিনজন- বড়ু চণ্ডীদাস, দ্বিজ চণ্ডীদাস এবং দীন চণ্ডীদাস। যাদের মধ্যে বড়ু চণ্ডীদাস শ্রীকৃষ্ণকীর্তনের রচয়িতা এবং দ্বিজ ও দীন পদাবলীর কবি।"
+    },
+    {
+      "question_number": 17,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোনটি রবীন্দ্রনাথের রচনা?",
+      "options": {
+        "A": "চতুরঙ্গ",
+        "B": "চতুষ্কোণ",
+        "C": "চতুর্দশী",
+        "D": "চতুষ্পাঠী"
+      },
+      "correct_answer": "A",
+      "explanation": "‘চতুরঙ্গ’ রবীন্দ্রনাথ রচিত উপন্যাস। তাঁর উল্লেখযোগ্য উপন্যাস- চোখের বালি, যোগাযোগ, ঘরে বাইরে, মালঞ্চ, শেষের কবিতা।"
+    },
+    {
+      "question_number": 18,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোনটি কাব্যগ্রন্হ?",
+      "options": {
+        "A": "কবিতা",
+        "B": "কাব্য পরিক্রমা",
+        "C": "কয়েকটি কবিতা",
+        "D": "বাঙলার কাব্য"
+      },
+      "correct_answer": "C",
+      "explanation": "নাগরিক কবি সমর সেন (১৯১৬-১৯৮৭ খ্রি.) রচিত ‘কয়েকটি কবিতা’ (১৯৩৭)। একটি কাব্যগ্রন্হ।"
+    },
+    {
+      "question_number": 19,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোনটি নাটক?",
+      "options": {
+        "A": "কর্তার ইচ্ছায় কর্ম",
+        "B": "গড্ডলিকা",
+        "C": "পল্লীসমাজ",
+        "D": "সাজাহান"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/19.jpg"
+    },
+    {
+      "question_number": 20,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘আবোল-তাবোল’ কার লেখা?",
+      "options": {
+        "A": "উপেন্দ্রকিশোর রায় চৌধুরী",
+        "B": "দক্ষিণারঞ্জন মিত্র মজুমদার",
+        "C": "সুকুমার রায়",
+        "D": "সত্যজিৎ রায়"
+      },
+      "correct_answer": "C",
+      "explanation": "সুকুমার রায়ের বিখ্যাত শিশুতোষ গ্রন্হ ‘আবোল-তাবোল’ এবং ‘হ-য-ব-র-ল’।"
+    },
+    {
+      "question_number": 21,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/21th%20BCS/21.jpg)",
+      "options": {
+        "A": "concerned careful",
+        "B": "anxious nervous",
+        "C": "enthusiastic halfhearted",
+        "D": "devoted dedicated"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/21.01.jpg"
+    },
+    {
+      "question_number": 22,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Lengthen Prolong",
+      "options": {
+        "A": "stretch extend",
+        "B": "distance reduce",
+        "C": "draw out shorten",
+        "D": "reach out cut short"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/22.jpg"
+    },
+    {
+      "question_number": 23,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Delay Retard",
+      "options": {
+        "A": "postpone promote",
+        "B": "adjourn start",
+        "C": "slow down hold up",
+        "D": "defer accelerate"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/23.jpg"
+    },
+    {
+      "question_number": 24,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Submissive Disobedient",
+      "options": {
+        "A": "comply conform",
+        "B": "heed acquiesce",
+        "C": "observe defy",
+        "D": "obey hearken to."
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/24.jpg"
+    },
+    {
+      "question_number": 25,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Q. 25 to 30 are incomplete sentences. Choose the word or phrase that best completes the sentence. He fantasized ____ winning the lottery.",
+      "options": {
+        "A": "with",
+        "B": "from",
+        "C": "after",
+        "D": "about"
+      },
+      "correct_answer": "D",
+      "explanation": "Fantasize about- কল্পনা করা (কোনো ঘটনা/ বস্তু সম্পর্কে)।"
+    },
+    {
+      "question_number": 26,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The parthenon is said ____ erected in the Age of Pericles.",
+      "options": {
+        "A": "to have become",
+        "B": "to have begun",
+        "C": "to have been",
+        "D": "to have had begun"
+      },
+      "correct_answer": "C",
+      "explanation": "কোনো sentence এ অতীতকালের উল্লেখ থাকলে বা কোন কাজ অতীতে সম্পন্ন হয়েছিল বোঝালে simple infinitive এর পরিবর্তে perfect infinitive বসে। যেহেতু passive sentence সেহেতু perfect infinitive এর passive form."
+    },
+    {
+      "question_number": 27,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "He divided the money ____ the two children.",
+      "options": {
+        "A": "among",
+        "B": "between",
+        "C": "in between",
+        "D": "over"
+      },
+      "correct_answer": "B",
+      "explanation": "দুইয়ের মধ্যে বুঝালে = Between হবে এবং অনেকের মধ্যে বুঝালে Among হবে।"
+    },
+    {
+      "question_number": 28,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "As they waited Rahim argued against war–",
+      "options": {
+        "A": "While his brother discusses the effects of pollution",
+        "B": "While his brother discussed the effects of pollution",
+        "C": "While his brother was discussing the effects of pollution",
+        "D": "While his brother had discussed the effects of pollution"
+      },
+      "correct_answer": "C",
+      "explanation": "While দ্বারা কোনো Sentence বা Clause শুরু হলে While এর পরেই subject থাকলে Verb এর Past Continuous হয়।"
+    },
+    {
+      "question_number": 29,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "If we want concrete proof, we are looking for ____.",
+      "options": {
+        "A": "clear evidence",
+        "B": "building material",
+        "C": "a cement mixer",
+        "D": "something to cover a path"
+      },
+      "correct_answer": "A",
+      "explanation": "Concrete Proof এর অর্থ: বাস্তব/সঠিক প্রমাণ, look for -এর অর্থ : খোঁজা। সেই অর্থে এখানে Clear evidence- ই প্রযোজ্য।"
+    },
+    {
+      "question_number": 30,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The Olympic games were watched by ___ billions people all over the world.",
+      "options": {
+        "A": "exactly",
+        "B": "usually",
+        "C": "truly",
+        "D": "literally"
+      },
+      "correct_answer": "D",
+      "explanation": "exactly - নির্ভুলভাবে, সঠিকভাবে। usually - সচরাচর, সাধারণত। truly - যথাযথভাবে, সত্যিকারভাবে। literally - আক্ষরিক অর্থে, মোটামুটি । যেহেতু কত লোক অলিম্পিক প্রত্যক্ষ করেছে তার নির্ভুল সংখ্যা নির্ণয় অসম্ভব তাই exactly এবং truly কে বাদ দেয়া যায়। আর usually দ্বারা repeated present বুঝায় বলে তা past tense -এ ব্যবহার না করাই শ্রেয়। সুতরাং মোটের উপর বিলিয়ন বিলিয়ন লোক দেখেছে - এ অর্থে (ঘ) সঠিক।"
+    },
+    {
+      "question_number": 31,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The author thinks that true learning will lead to ___.",
+      "options": {
+        "A": "personal understanding of the ideas or writers",
+        "B": "discovery of the unknown world",
+        "C": "revelation of the mysteries of the world",
+        "D": "better expressive powers"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 32,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Which of the following best describes the author’s atitude towards learning?",
+      "options": {
+        "A": "Learning is not a matter of reading extensively",
+        "B": "Learning is not something to be demonstrated in examinations",
+        "C": "Learning is a matter of promoting creativity in students.",
+        "D": "Leanrning is a matter of memorization"
+      },
+      "correct_answer": "C",
+      "explanation": "শিক্ষা হলো সেটাই যা ছাত্র-ছাত্রীদের মধ্যে creativity (সৃজনশীলতা) বৃদ্ধি করে।"
+    },
+    {
+      "question_number": 33,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Read the following passage and answer questions number 33, 34, 35 and 36 that refer to this passage. The gypsies are a tribe of strange people. They do not have any fixed home, but wander about from place to place and live in tents. They were originally natives of India. But as they reached England from Egypt, the English took them for Egyptians. This is why they came to be called gypsies. They were beloved to possess strange powers. They could tell your fortune by reading the palm of your hand. It was thought they stole little children to train them in their way of life. Whenever a child got lost, It was thought that it had been carried away by gypisies, So they were arrested and sent for trial. But this attitude towards the gypsies has gradually changed. The gypsies are people who ____.",
+      "options": {
+        "A": "have a settled way of life.",
+        "B": "came originally from Egypt to England",
+        "C": "are always on the move",
+        "D": "steal children to train them in the way of life"
+      },
+      "correct_answer": "C",
+      "explanation": "সঠিক উত্তর (গ)। কারণ, ২য় লাইনে বলা হয়েছে, “They do not have any fixed home but wander about from place to place” কারণ ৪র্থ লাইনে আছে “They were originally natives of India”. (ঘ) সঠিক নয়। কারণ, সর্বশেষ লাইনটিতে বলা হয়েছে, “This attitude towards the gypsies has gradually changed”."
+    },
+    {
+      "question_number": 34,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The gypsies like to live in tents because ____.",
+      "options": {
+        "A": "it is easy to hide stolen children in a tent",
+        "B": "it is easy to raed one’s palm inside a tent",
+        "C": "it is easy to bring them from Egypt",
+        "D": "it is easy to pitch them"
+      },
+      "correct_answer": "D",
+      "explanation": "তাদের তাঁবুতে বাসের কারণ (ক) তে আছে, চুরি করা শিশুদের তাঁবুতে লুকানো সহজ। কিন্তু তারা যেহেতু শিশু চুরি করে না, কাজেই (ক) গ্রহণযোগ্য নয়। (খ) তে আছে, তাঁবুর মধ্যে হাতের তালু পঠন (ভাগ্য গণনা) সহজ। কিন্তু তাঁবুর মধ্যেই বরং অন্ধকার, তাই এটিও গ্রহণযোগ্য নয়। (গ) তে আছে, মিশর থেকে তাঁবু আনয়ন সহজ। আলোচ্য passage -এ ধরনের কোনো তথ্য দেয়া নেই। তাছাড়া মিশর সস্তায় তাঁবু তৈরি ও সরবরাহ করে তাও নয়। (ঘ) তে আছে, তাঁবু স্থাপন করা সহজ। হ্যাঁ এটা গ্রহণযোগ্য কারণ, যেকোনো বাসস্থানের চেয়ে তাঁ স্থাপন করা সহজ।"
+    },
+    {
+      "question_number": 35,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The English took them for Egyptian’s means-",
+      "options": {
+        "A": "The English took them to the Egyptians",
+        "B": "The English considered them to be Egyptians",
+        "C": "The English were taken in by the Egyptians",
+        "D": "The Englsih brought them as far as to Egypt"
+      },
+      "correct_answer": "B",
+      "explanation": "‘The English took them for Egyptians’ অর্থ হলো ইংরেজরা তাদেরকে মিশরীয় মনে করত। সুতরাং অর্থের ক্ষেত্রে 'মনে করা' অর্থটির উপস্থিতি জরুরি। যেহেতু Option (খ) তে consider রয়েছে যার অর্থ মনে করা, তাই সঠিক উত্তর (খ)।"
+    },
+    {
+      "question_number": 36,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Attitude towards the gypsies ____.",
+      "options": {
+        "A": "are still the same as before",
+        "B": "have not much changed over the years",
+        "C": "can change once they stop stealing children",
+        "D": "have shown signs of change"
+      },
+      "correct_answer": "D",
+      "explanation": "Option (ক) তে বলা হচ্ছে ধারণা পূর্বের মতই রয়েছে। Option (খ) তে বলা হচ্ছে, অনেক বছর পরেও তা তেমন পরিবর্তিত হয়নি। Option (গ) তে বলা হচ্ছে, তারা শিশু চুরি বন্ধ করলে হয়তো পরিবর্তন হতে পারে, Option (ঘ) বলা হচ্ছে পরিবর্তনের ইঙ্গিত বহন করছে (have shown the sings of change). অন্যদিকে passage এর শেষ লাইনে বলা হয়েছে। But this attitude towards the gypsies has gradually changed. সুতরাং মূল passage এর সাথে অর্থের সাযুজ্যের বিচারে সঠিক উত্তর (ঘ)।"
+    },
+    {
+      "question_number": 37,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Questions 37 to 40 are incomplete setences. Chose the one word or phrase that best completes the sentence. The tree has been blown ___ by the strong wind.",
+      "options": {
+        "A": "away",
+        "B": "up",
+        "C": "off",
+        "D": "out"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/37.png"
+    },
+    {
+      "question_number": 38,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "No one can ___ that he is clever.",
+      "options": {
+        "A": "defy",
+        "B": "admire",
+        "C": "deny",
+        "D": "denounce"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/38.png"
+    },
+    {
+      "question_number": 39,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "A reward has been announced for the employees who ___ hard.",
+      "options": {
+        "A": "have worked",
+        "B": "has worked",
+        "C": "will be work",
+        "D": "have had worked"
+      },
+      "correct_answer": "A",
+      "explanation": "Relative pronoun এর antecedent অনুসারে verb বসে। এখানে who এর antecedent হচ্ছে The employees. এইটি plural তাই পরের verb টিও plural."
+    },
+    {
+      "question_number": 40,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "To ___ the arrival of spring, Bangladesh Television ____ a special function.",
+      "options": {
+        "A": "Commemorate : launched",
+        "B": "Announce : telecast",
+        "C": "Celebrate : organied",
+        "D": "Welcome : sanctionzed"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/40.png"
+    },
+    {
+      "question_number": 41,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি গাড়ির চাকা প্রতি মিনিটে ৯০ বার ঘুরে। এক সেকেন্ডে চাকাটি কত ডিগ্রি ঘুরে?",
+      "options": {
+        "A": "\\(\\mathrm{১৮০^\\circ}\\)",
+        "B": "\\(\\mathrm{২৭০^\\circ}\\)",
+        "C": "\\(\\mathrm{৩৬০^\\circ}\\)",
+        "D": "\\(\\mathrm{৫৪০^\\circ}\\)"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/41.jpg"
+    },
+    {
+      "question_number": 42,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি ক্লাসে ৩০ জন ছাত্র আছে তাদের মধ্যে ১৮ জন ফুটবল খেলে এবং ১৪ জন ক্রিকেট খেলে এবং ৫ জন কিছুই খেলে না। কত জন উভয়টিই খেলে?",
+      "options": {
+        "A": "৩",
+        "B": "৫",
+        "C": "৭",
+        "D": "৯"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/42.jpg"
+    },
+    {
+      "question_number": 43,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি সোনার গহনার ওজন ১৬ গ্রাম। এতে সোনা ও তামার অনুপাত ৩ : ১। এতে কি পরিমাণ সোনা মেশালে অনুপাত ৪ : ১ হবে?",
+      "options": {
+        "A": "৮ গ্রাম",
+        "B": "৬ গ্রাম",
+        "C": "৩ গ্রাম",
+        "D": "৪ গ্রাম"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/43.png"
+    },
+    {
+      "question_number": 44,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "১,০০০ টাকা ক ও খ ১ : ৪ অনুপাতে ভাগ করে নেয়। খ-এর অংশ সে এবং তার মা ও মেয়ের মধ্যে ২ : ১ : ১ অনুপাতে ভাগ করে। মেয়ে কত টাকা পাবে?",
+      "options": {
+        "A": "১০০ টাকা",
+        "B": "৪০০ টাকা",
+        "C": "২০০ টাকা",
+        "D": "৮০০ টাকা"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/44.jpg"
+    },
+    {
+      "question_number": 45,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৯৯৯৯৯৯-এর সঙ্গে কোন ক্ষুদ্রতম সংখ্যা যোগ করলে যোগফল ২, ৩, ৪, ৫ এবং ৬ দ্বারা নিঃশেষে বিভাজ্য হবে?",
+      "options": {
+        "A": "২১",
+        "B": "৩৯",
+        "C": "৩৩",
+        "D": "২৯"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/45.jpg"
+    },
+    {
+      "question_number": 46,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি কুকুর একটি খরগোশকে ধরার জন্য তাড়া করে। কুকুর যে সময়ে ৪ বার লাফ দেয়, খরগোশ সে সময়ে ৫ বার লাফ দেয়। কিন্তু খরগোশ ৪ লাফে যতদূর যায়, কুকুর ৩ লাফে ততদূর যায়। কুকুর ও খরগোশের গতিবেগের অনুপাত কত?",
+      "options": {
+        "A": "১৫ : ১৬",
+        "B": "২০ : ১২",
+        "C": "১৬ : ১৫",
+        "D": "১২ : ২০"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/46.png"
+    },
+    {
+      "question_number": 47,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "এক দোকানদার ১১০ টাকা কেজি দামের কিছু চায়ের সঙ্গে ১০০ টাকা কেজি দামের দিগুণ পরিমাণ চা মিশ্রিত করে তা ১২০ টাকা কেজি দামে বিক্রি করে মোট ২,০০০ টাকা লাভ করল। দোকানদার দ্বিতীয় প্রকারে কত কেজি চা ক্রয় করেছিল?",
+      "options": {
+        "A": "১০০ কেজি",
+        "B": "৮০ কেজি",
+        "C": "৫০ কেজি",
+        "D": "৬০ কেজি"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/47.jpg"
+    },
+    {
+      "question_number": 48,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি সরলরেখার উপর অঙ্কিত বর্গের ক্ষেত্রফল ঐ সরল রেখার এক চতুর্থাংশের ওপর অঙ্কিত বর্গের ক্ষেত্রফলের কত গুণ?",
+      "options": {
+        "A": "১৬",
+        "B": "৪",
+        "C": "৮",
+        "D": "২"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/48.jpg"
+    },
+    {
+      "question_number": 49,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৮ জন লোক একটি কাজ ১২ দিনে করতে পারে। দুজন লোক কমিয়ে দিলে কাজটি সমাধা করতে শতকরা কত দিন বেশি লাগবে?",
+      "options": {
+        "A": "২৫%",
+        "B": "\\(\\mathrm{৩৩\\frac{১}{৩}\\%}\\)",
+        "C": "৫০%",
+        "D": "\\(\\mathrm{৬৬\\frac{২}{৩}\\%}\\)"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/49.jpg"
+    },
+    {
+      "question_number": 50,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একজন চাকুরিজীবীর বেতনের \\(\\mathrm{১ \\over১০}\\) অংশ কাপড় ক্রয়ে, \\(\\mathrm{১ \\over৩}\\) অংশ খাদ্য ক্রয়ে এবং \\(\\mathrm{১ \\over৫}\\) অংশ বাসা ভাড়ায় ব্যয় হয়। তার আয়ের শতকরা কত ভাগ অবশিষ্ট রইল?",
+      "options": {
+        "A": "\\(\\mathrm{৩৬{২ \\over৩}\\%}\\)",
+        "B": "\\(\\mathrm{৩৭{২ \\over৩}\\%}\\)",
+        "C": "\\(\\mathrm{৪২{১ \\over৩}\\%}\\)",
+        "D": "\\(\\mathrm{৪৬{২ \\over৩}\\%}\\)"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/50.jpg"
+    },
+    {
+      "question_number": 51,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "বাংলাদেশ সিভিল সার্ভিসের (BCS) ক্যাডার কয়টি?",
+      "options": {
+        "A": "২৯টি",
+        "B": "২২টি",
+        "C": "২১টি",
+        "D": "৫টি"
+      },
+      "correct_answer": "",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/51.jpg"
+    },
+    {
+      "question_number": 52,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "বাংলাদেশের সংবিধানের কোন অনুচ্ছেদ বলে রাষ্ট্র নারী, শিশু বা অনগ্রসর নাগরিকদের অগ্রগতির জন্য বিশেষ বিধান তৈরির ক্ষমতা পায়?",
+      "options": {
+        "A": "২৫",
+        "B": "২৮",
+        "C": "৪০",
+        "D": "৪২"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/52.jpg"
+    },
+    {
+      "question_number": 53,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "প্রধানমন্ত্রী নিয়োগের বাইরে রাষ্ট্রপতি প্রধানমন্ত্রীর পরামর্শ ব্যতীত কোন কাজ এককভাবে করতে পারেন?",
+      "options": {
+        "A": "প্রধান নির্বাচন কমিশনার নিয়োগ",
+        "B": "প্রধান বিচারপতি নিয়োগ",
+        "C": "অডিটর জেনারেল নিয়োগ",
+        "D": "পাবলিক সার্ভিস কমিশনের চেয়ারম্যান নিয়োগ"
+      },
+      "correct_answer": "B",
+      "explanation": "[অনুচ্ছেদ ৯৫(১)] প্রধান বিচারপতিকে নিয়োগ প্রদান করেন রাষ্ট্রপতি। সংবিধানের ৪৮ (৩) দফা অনুসারে দুটি কাজ রাষ্ট্রপতি প্রধানমন্ত্রীর পূর্ব পরামর্শ ছাড়া করতে পারেন। যেমন: ক. প্রথমত, রাষ্ট্রপতি ৫৬ নম্বর অনুচ্ছেদের (৩) দফা অনুসারে প্রধানমন্ত্রীর নিয়োগ প্রদানের ক্ষেত্রে স্বাধীন। খ. দ্বিতীয়, রাষ্ট্রপতি ৯৫ নম্বর অনুচ্ছেদের (১) দফা অনুসারে প্রধান বিচারপতি নিয়োগ প্রদানের ক্ষেত্রে স্বাধীন।"
+    },
+    {
+      "question_number": 54,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "বাংলাদেশের সংবিধানের প্রথম সংশোধনীর উদ্দেশ্য কি ছিল?",
+      "options": {
+        "A": "জরুরি অবস্থা ঘোষণা",
+        "B": "মহিলাদের জন্য সংসদের আসন সংরক্ষণ",
+        "C": "সুপ্রিম কোর্ট প্রতিষ্ঠা",
+        "D": "৯৩ হাজার যুদ্ধবন্দীর বিচার অনুষ্ঠান"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/54.jpg"
+    },
+    {
+      "question_number": 55,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "ঢাকা কখন সর্বপ্রথম বাংলার রাজধানী হয়েছিল?",
+      "options": {
+        "A": "১২৫৫ খ্রিস্টাব্দে",
+        "B": "১৬১০ খ্রিস্টাব্দে",
+        "C": "১৯০৫ খ্রিস্টাব্দে",
+        "D": "১৯৪৭ খ্রিস্টাব্দে"
+      },
+      "correct_answer": "B",
+      "explanation": "ঢাকা (প্রাচীন জাহাঙ্গীরনগর) মুঘল আমল (১৬১০ সাল) প্রথম রাজধানী হয় এবং স্বাধীনতার পূর্বে ১৬৬০, ১৯০৫ ও ১৯৪৭ সালে এবং স্বাধীনতার পরে ১৯৭১ সালে মোট ৫ বার রাজধানীর মর্যাদা লাভ করে।"
+    },
+    {
+      "question_number": 56,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "যমুনা বঙ্গবন্ধু সেতুর পিলার কয়টি?",
+      "options": {
+        "A": "৭৫টি",
+        "B": "৫৯টি",
+        "C": "৫০টি",
+        "D": "৪৫টি"
+      },
+      "correct_answer": "C",
+      "explanation": "৪.৮ কি.মি. দৈর্ঘ্য ও ১৮.৫ মি.প্রস্থ বিশিষ্ট এই সেতুতে স্প্যান সংখ্যা ৪৯টি এবং পিলার সংখ্যা ৫০টি। এটি দৈর্ঘ্যে দক্ষিণ এশিয়ার ৬ষ্ঠ বৃহত্তম সেতু। পদ্মাসেতুর পিলার ৪১টি ও স্প্যান ৪২টি।"
+    },
+    {
+      "question_number": 57,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "জাতীয় সংসদে ফোরাম হয় কত জনে?",
+      "options": {
+        "A": "৯০ জনে",
+        "B": "৭৫ জনে",
+        "C": "৬০ জনে",
+        "D": "৫০ জনে"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলাদেশ জাতীয় সংসদে কোরাম হয় নূন্যতম ৬০ জন সদস্য উপস্থিত থাকলে। ৬০ জনের কম উপস্থিত থাকলে স্পিকার বৈঠক স্থগিত করে ৫ মিনিট সময় ধরে সংসদের ঘণ্টা বাজান এতেও কোরাম না হলে স্পিকার বৈঠক মুলতবি ঘোষণা করেন।"
+    },
+    {
+      "question_number": 58,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "জাতীয় সংসদ ভবন কত একর জমির ওপর নির্মিত?",
+      "options": {
+        "A": "৩২০ একর",
+        "B": "২১৫ একর",
+        "C": "১৮৫ একর",
+        "D": "১২২ একর"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/58.jpg"
+    },
+    {
+      "question_number": 59,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "সংসদ ভবনের স্থপতি কে?",
+      "options": {
+        "A": "মাজহারুল হক",
+        "B": "লুই আই কান",
+        "C": "এফ আর খান",
+        "D": "নভেরা আহমেদ"
+      },
+      "correct_answer": "B",
+      "explanation": "সংসদ ভবনের স্থপতি লুই আই কান যুক্তরাষ্ট্রের নাগরিক। তার শ্রেষ্ঠ স্থাপত্য নিদর্শন হলো বাংলাদেশের জাতীয় সংসদ ভবন।"
+    },
+    {
+      "question_number": 60,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "তত্ত্বাবধায়ক সরকারের আইনটি জাতীয় সংসদে কবে পাস করা হয়?",
+      "options": {
+        "A": "২১ জানুয়ারি, ১৯৯১",
+        "B": "২২ ফেব্রুয়ারি, ১৯৯২",
+        "C": "২৭ মার্চ, ১৯৯৬",
+        "D": "২৮ এপ্রিল, ১৯৯৭"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/60.jpg"
+    },
+    {
+      "question_number": 61,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "ভারতের সাথে বাংলাদেশের পানি চুক্তি কোথায় স্বাক্ষরিত হয়?",
+      "options": {
+        "A": "দার্জিলিং",
+        "B": "কোলকাতা",
+        "C": "নয়াদিল্লি",
+        "D": "ঢাকা"
+      },
+      "correct_answer": "C",
+      "explanation": "৩০ (১৯৯৬-২০২৬) বছর মেয়াদি পানি চুক্তি স্বাক্ষরিত হয় ভারতের রাজধানী নয়াদিল্লির হায়দ্রাবাদ হাউসে ১২ ডিসেম্বর, ১৯৯৬। চুক্তিতে স্বাক্ষর করেন তৎকালীন প্রধানমন্ত্রী শেখ হাসিনা ও ভারতের প্রধানমন্ত্রী এইচ ডি দেবগৌড়।"
+    },
+    {
+      "question_number": 62,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "পদ্মা ও যমুনা কোথায় মিলিত হয়েছে?",
+      "options": {
+        "A": "চাঁদপুর",
+        "B": "সিরাজগঞ্জ",
+        "C": "গোয়ালন্দ",
+        "D": "ভোলা"
+      },
+      "correct_answer": "C",
+      "explanation": "পদ্মা ও মেঘনা নদীর মিলনস্থল - চাঁদপুর। পদ্মা ও যমুনা নদীর মিলনস্থল - গোয়ালন্দ।"
+    },
+    {
+      "question_number": 63,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "বাংলাদেশে কবে প্রথম গ্যাস উত্তোলন শুরু হয়?",
+      "options": {
+        "A": "১৯৫৫ সালে",
+        "B": "১৯৫৭ সালে",
+        "C": "১৯৬৭ সালে",
+        "D": "১৯৭২ সালে"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৫৭ সালে গ্যাস উত্তোলন শুরু হয়, কিন্তু সর্বপ্রথম গ্যাসক্ষেত্র আবিষ্কৃত হয় ১৯৫৫ সালে সিলেটের হরিপুরে।"
+    },
+    {
+      "question_number": 64,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "‘লালসালু’ উপন্যাসটির লেখক কে?",
+      "options": {
+        "A": "মুনির চৌধুরী",
+        "B": "সৈয়দ ওয়ালীউল্লাহ",
+        "C": "শরৎচন্দ্র চট্টোপাধ্যায়",
+        "D": "শওকত আলী"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/64.jpg"
+    },
+    {
+      "question_number": 65,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "বাংলাদেশে ফরায়েজী আন্দোলনের প্রবক্তা কে?",
+      "options": {
+        "A": "দুদু মিয়া",
+        "B": "তিতুমীর",
+        "C": "হাজী শরীয়তুল্লাহ",
+        "D": "সৈয়দ আহমদ"
+      },
+      "correct_answer": "C",
+      "explanation": "মুসলমানদের ফরজ কাজসমূহ পালনে উদ্বুদ্ধ করার আন্দোলন ফরায়েজী আন্দোলন, যার নেতৃত্ব দেন হাজী শরীয়তুল্লাহ। এর প্রধান কেন্দ্র ছিল ফরিদপুর। পরবর্তীতে তার পুত্র দুদু মিয়া ঐ আন্দোলনকে রাজনৈতিক রূপদান করেন।"
+    },
+    {
+      "question_number": 66,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "বর্তমানে বাংলাদেশে গড়পড়তা মাথাপিছু আয় কত মার্কিন ডলার?",
+      "options": {
+        "A": "২৪২ ডলার",
+        "B": "৩০০ ডলার",
+        "C": "২৮৯ ডলার",
+        "D": "৪০০ ডলার"
+      },
+      "correct_answer": "",
+      "explanation": "অর্থনৈতিক সমীক্ষা রিভাইজড ২০২২ অনুযায়ী বাংলাদেশের মাথাপিছু আয় ২৭৯৩ মার্কিন ডলার।"
+    },
+    {
+      "question_number": 67,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "ঐতিহাসিক ২১ দফা দাবির প্রথম দাবি কি ছিল?",
+      "options": {
+        "A": "প্রাদেশিক স্বায়ত্তশাসন",
+        "B": "বাংলাকে অন্যতম রাষ্ট্রভাষা করা",
+        "C": "পূর্ব বাংলার অর্থনৈতিক বৈষম্য দূরীকরণ",
+        "D": "বিনা ক্ষতিপূরণে জমিদারি স্বত্বের উচ্ছেদ সাধন"
+      },
+      "correct_answer": "B",
+      "explanation": "তৎকালীন পূর্ব পাকিস্তানে মুসলিম লীগের মতাদর্শের বিপরীতে ১৯৫৩ সালের ৪ ডিসেম্বর সমমনা কয়েকটি বিরোধীদল ‘যুক্তফ্রন্ট’ নামে একটি ঐক্যজোট গঠন করে। যুক্তফ্রন্টের প্রতীক ছিল নৌকা এবং ২১ দফা দাবীর ভিত্তিতে নির্বাচনে অংশগ্রহণ করেন। ২১ দফা দাবীর প্রথম দাবী ছিল বাংলাকে পাকিস্তানের অন্যতম রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেওয়া।"
+    },
+    {
+      "question_number": 68,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের সবচেয়ে বেশি বৈদেশিক মুদ্রা অর্জিত হয় কোন খাত থেকে?",
+      "options": {
+        "A": "চা",
+        "B": "পাট ও পাটজাত দ্রব্য",
+        "C": "তৈরি পোশাক",
+        "D": "চিংড়ি মাছ"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলাদেশ অর্থনৈতিক সমীক্ষা- ২০২২ অনুসারে বাংলাদেশ সবচেয়ে বেশি বৈদেশিক মুদ্রা অর্জিত হয় অর্থাৎ বাংলাদেশের সর্বাধিক রপ্তানি আয় আসে তৈরি পোশাক ও নীটওয়্যার থেকে। বাংলাদেশ অর্থনৈতিক সমীক্ষা-২০২২ শিল্পজাত পণ্যের রপ্তানি আয় ৩২৪৩৭ (মিলিয়ন মার্কিন ডলার) যা মোট রপ্তানির ৯৫.৮৫%। শিল্পজাত পণ্যের মধ্যে সবচেয়ে বেশি বৈদেশিক মুদ্রা অর্জিত হয় নীটওয়্যার ও তৈরিপোশাক (ওভেন) হতে। এই দুটি শিল্পখাত হতে ২০২১-২২ অর্থবছরে রপ্তানি আয় ২৭৪৯৭ মার্কিন ডলার) যা মোট রপ্তানি আয়ের ৮২.২৫%।"
+    },
+    {
+      "question_number": 69,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "সার্কভূক্ত দেশের মধ্যে শিক্ষিতের হার সর্বাধিক কোন দেশে?",
+      "options": {
+        "A": "ভারতে",
+        "B": "বাংলাদেশে",
+        "C": "শ্রীলংকায়",
+        "D": "নেপালে"
+      },
+      "correct_answer": "",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/69.jpg"
+    },
+    {
+      "question_number": 70,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "OPEC ভুক্ত দেশ কয়টি?",
+      "options": {
+        "A": "১০টি",
+        "B": "১১টি",
+        "C": "৮টি",
+        "D": "১২টি"
+      },
+      "correct_answer": "",
+      "explanation": "১লা জানুয়ারি, ২০২৪ সালে এঙ্গোলা ওপেক থেকে বের হয়ে যায়। বর্তমানে ওপেকভুক্ত দেশ ১২টি।"
+    },
+    {
+      "question_number": 71,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "জাতিসংঘ কোন বছর প্রতিষ্ঠিত হয়?",
+      "options": {
+        "A": "১৯৪১ সালে",
+        "B": "১৯৪৫ সালে",
+        "C": "১৯৪৮ সালে",
+        "D": "১৯৪৯ সালে"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৪৫ সালের ২৪ অক্টোবর মোট ৫১টি দেশ নিয়ে জাতিসংঘ সনদ অনুমোদনের মধ্যে দিয়ে জাতিসংঘ প্রতিষ্ঠিত হয়। এর বর্তমান সদস্য ১৯৩টি দেশ। জাতিসংঘের বর্তমান মহাসচিবের নাম আন্তোনিও গুতেরেস। এর সদর দপ্তর অবস্থিত নিউইয়র্ক, যুক্তরাষ্ট্রে।"
+    },
+    {
+      "question_number": 72,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "নর্থ আটলান্টিক ট্রিটি অর্গানাইজেশন (NATO) কোন বছর প্রতিষ্ঠিত হয়?",
+      "options": {
+        "A": "১৯৪৫ সালে",
+        "B": "১৯৪৮ সালে",
+        "C": "১৯৪৯ সালে",
+        "D": "১৯৫১ সালে"
+      },
+      "correct_answer": "C",
+      "explanation": "কমিউনিজম তথা ওয়ারশ জোট রোধকল্পে ধনতান্ত্রিক দেশসমূহের সামরিক জোট NATO ১৯৪৯ সালের ৪ এপ্রিল গঠিত হয়। বর্তমানে এর সদস্য সংখ্যা ৩০। সর্বশেষ সদস্য নর্থ মেসেডোনিয়া, ২৭ মার্চ, ২০২০।"
+    },
+    {
+      "question_number": 73,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "নেলসন ম্যান্ডেলার রাজনৈতিক দলের নাম কি?",
+      "options": {
+        "A": "ইনকথা ফ্রিডম পার্টি",
+        "B": "ন্যাশনালিস্ট পার্টি",
+        "C": "আফ্রিকান সোস্যালিস্ট পার্টি",
+        "D": "আফ্রিকান ন্যাশনাল কংগ্রেস"
+      },
+      "correct_answer": "D",
+      "explanation": "নেলসন ম্যান্ডেলার রাজনৈতিক দল আফ্রিকান ন্যাশনাল কংগ্রেস (ANC) প্রতিষ্ঠিত হয় ৮ জানুয়ারি, ১৯১২ সাল। ANC ক্ষমতায় আাসে ১৯৯৪ সালে।"
+    },
+    {
+      "question_number": 74,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "পার্বত্য চট্টগ্রাম শান্তিচুক্তি কত তারিখে এবং কোন বছর স্বাক্ষরিত হয়?",
+      "options": {
+        "A": "২৩ জুন, ১৯৯৬",
+        "B": "১২ ডিসেম্বর, ১৯৯৬",
+        "C": "২ ডিসেম্বর, ১৯৯৭",
+        "D": "১০ মার্চ, ১৯৯৮"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৯৭ সালের ২ ডিসেম্বর তখনকার পার্বত্য চট্টগ্রাম বিষয়ক জাতীয় কমিটির চেয়ারম্যান আবুল হাসনাত আব্দুল্লাহ ও জনসংহতি সমিতির পক্ষে জ্যোতিরিন্দ্র বোধিপ্রিয় লারমার (সন্তু লারমা) মধ্যে ঐতিহাসিক পার্বত্য চট্টগ্রাম শান্তিচুক্তি স্বাক্ষরিত হয়।"
+    },
+    {
+      "question_number": 75,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ইন্দোনেশিয়ার নতুন রাষ্ট্রপতির নাম কি?",
+      "options": {
+        "A": "জেনারেল হাবিবি",
+        "B": "মেঘবতী সুকর্ণপুত্রী",
+        "C": "আবদুর রহমান ওয়াহিদ",
+        "D": "জেনারেল বিরান্তো"
+      },
+      "correct_answer": "",
+      "explanation": "ইন্দোনেশিয়ার বর্তমান রাষ্ট্রপতি জোকো উইদোদো ২০ অক্টোবর, ২০১৪ থেকে বর্তমান পর্যন্ত ক্ষমতাশীন। আবদুর রহমান ওয়াহিদ ছিলেন ইন্দোনেশিয়ার চতুর্থ প্রেসিডেন্ট, যার মেয়াদকাল ১৯ অক্টোবর, ১৯৯৯-২৩ জুলাই ২০০১। মুসলিম বিশ্বের প্রথম নারী প্রেসিডেন্ট ও ইন্দোনেশিয়ার পঞ্চম মেঘবতী সুকর্ণপুত্রী ক্ষমতাসীন ছিলেন ২৩ জুলাই, ২০০১-২১ অক্টোবর ২০০৪ পর্যন্ত। তিনি দেশটির প্রথম প্রেসিডেন্ট ড. আহমদ সুকর্ণের (মেয়াদকাল ১৮.০৮.১৯৪৫-১২.০৬.১৯৬৭) কন্যা।"
+    },
+    {
+      "question_number": 76,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "সম্প্রতি কোন দেশকে কমনওয়েলথ থেকে বহিষ্কার করা হয়েছে?",
+      "options": {
+        "A": "নাইজেরিয়া",
+        "B": "শ্রীলংকা",
+        "C": "পাকিস্তান",
+        "D": "ভারত"
+      },
+      "correct_answer": "",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/76.jpg"
+    },
+    {
+      "question_number": 77,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "দক্ষিণ এশীয় রাষ্ট্রগুলো কবে সাপটা চুক্তি সই করে?",
+      "options": {
+        "A": "১৯৭৬ সালে",
+        "B": "১৯৮৫ সালে",
+        "C": "১৯৯৩ সালে",
+        "D": "১৯৯৪ সালে"
+      },
+      "correct_answer": "C",
+      "explanation": "সাপটা (সার্ক অগ্রাধিকার বাণিজ্য চুক্তি) হচ্ছে দক্ষিণ এশীয় আঞ্চলিক সহযোগিতা সংস্থা বা সার্কভুক্ত দেশগুলোর মধ্যকার সম্পাদিত একটি বাণিজ্য চুক্তি। SAPTA এর পূর্ণরূপ SAARC Preferential Trading Arrangement। ১৯৯৩ সালে এপ্রিল মাসে ঢাকায় সার্কের সপ্তম শীর্ষ সম্মেলনের শেষ দিন ১১ এপ্রিল সার্ক দেশগুলোর পররাষ্ট্রমন্ত্রীগণ এ চুক্তিতে স্বাক্ষর করেন। SAPTA কার্যকর হয় ৮ ডিসেম্বর, ১৯৯৫ থেকে।"
+    },
+    {
+      "question_number": 78,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "শতাব্দীর সর্বশেষ অলিম্পিক কোথায় অনুষ্ঠিত হবে?",
+      "options": {
+        "A": "রোম",
+        "B": "সিডনি",
+        "C": "মস্কো",
+        "D": "টরেন্টো"
+      },
+      "correct_answer": "B",
+      "explanation": "সর্বশেষ ৩২ তম অলিম্পিক অনুষ্ঠিত হয় টোকিও, জাপানে ২০২১ সালে। পরবর্তী অলিম্পিক অনুষ্ঠিত হবে ফ্রান্সে প্যারিসে ২০২৪ সালে।"
+    },
+    {
+      "question_number": 79,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোন চুক্তিতে পারমাণবিক পরীক্ষা বন্ধ হওয়ার কথা বলা হয়েছে?",
+      "options": {
+        "A": "ন্যাটো (NATO)",
+        "B": "সিটিবিটি (CTBT)",
+        "C": "এনপিটি (NPT)",
+        "D": "সল্ট (SALT)"
+      },
+      "correct_answer": "B",
+      "explanation": "NATO (North Atlantic Treaty Organization) হলো সামরিক জোট যা ৪ এপ্রিল, ১৯৪৯ সালে প্রতিষ্ঠিত হয়, CTBT (Comprehensive Neclear Test Ban Treaty) হলো সর্বাত্মক পারমাণবিক পরীক্ষা নিষিদ্ধকরণ চুক্তি যা স্বাক্ষরিত হয় ২৪ সেপ্টেম্বর, ১৯৯৬, NPT (Nuclear Non- Proliferation Treaty) হলো পারমাণবিক অস্ত্র বিস্তার রোধ চুক্তি যা কার্যকর হয় ৫ মার্চ, ১৯৭০।"
+    },
+    {
+      "question_number": 80,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কয়টি দেশ নিয়ে জাতিসংঘ শুরু হয়েছিল?",
+      "options": {
+        "A": "৪৮টি",
+        "B": "৫০টি",
+        "C": "৫১টি",
+        "D": "৬০টি"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৪৫ সালের ২৪ অক্টোবর মোট ৫১টি দেশ নিয়ে জাতিসংঘ সনদ অনুমোদনের মধ্যে দিয়ে জাতিসংঘ প্রতিষ্ঠিত হয়। এর বর্তমান সদস্য ১৯৩টি দেশ। জাতিসংঘের বর্তমান মহাসচিবের নাম আন্তোনিও গুতেরেস। এর সদর দপ্তর অবস্থিত নিউইয়র্ক, যুক্তরাষ্ট্রে।"
+    },
+    {
+      "question_number": 81,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বেনিন প্রজাতন্ত্র কোন মহাদেশে অবস্থিত?",
+      "options": {
+        "A": "এশিয়া",
+        "B": "ইউরোপ",
+        "C": "দক্ষিন আমেরিকা",
+        "D": "আফ্রিকা"
+      },
+      "correct_answer": "D",
+      "explanation": "বেনিন প্রজাতন্ত্র আফ্রিকা মহাদেশের একটি দেশ। দেশটির রাজধানী পোর্টোনোভা এবং আয়তন ১,১৪,৭৬৩ বর্গ কি.মি.।"
+    },
+    {
+      "question_number": 82,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বর্তমানে বাংলাদেশের বৃহৎ সাহায্যদানকারী দেশ কোনটি?",
+      "options": {
+        "A": "জাপান",
+        "B": "জার্মানি",
+        "C": "যুক্তরাষ্ট্র",
+        "D": "যুক্তরাজ্য"
+      },
+      "correct_answer": "A",
+      "explanation": "অর্থনৈতিক সম্পর্ক বিভাগের Foreign Aid Scenario 2021-22 রিপোর্ট অনুযায়ী বাংলাদেশের সর্বোচ্চ বৈদেশিক সহায়তা পাওয়া গেছে জাপান হতে যার পরিমাণ ২৬৬৮.১০ মিলিয়ন মার্কিন ডলার।"
+    },
+    {
+      "question_number": 83,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "গ্রুপ-৭৭ কোন ধরনের দেশ নিয়ে গঠিত?",
+      "options": {
+        "A": "উন্নত",
+        "B": "উন্নয়নশীল",
+        "C": "ঔপনিবেশিক",
+        "D": "অনুন্নত"
+      },
+      "correct_answer": "B",
+      "explanation": "তৃতীয় বিশ্বের উন্নয়নশীল দেশগুলোর অর্থনৈতিক ও বাণিজ্যিক স্বার্থরক্ষায় ১৫ জুন ১৯৬৪ সালে গঠিত হয় গ্রুপ-৭৭। বর্তমানে এর সদস্য ১৩৪।"
+    },
+    {
+      "question_number": 84,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "১৯৯৯ সালে নোবেল সাহিত্য পুরস্কার কে পেয়েছেন?",
+      "options": {
+        "A": "আর কে নারায়ণ",
+        "B": "অরুন্ধতি রায়",
+        "C": "হারমান হেস",
+        "D": "গুন্টার গ্রাস"
+      },
+      "correct_answer": "D",
+      "explanation": "গুন্টার গ্রাস তার প্রথম উপন্যাস ‘দ্য টিন ড্রাম’ এর জন্য ১৯৯৯ সালে সাহিত্যে নোবেল পুরস্কার লাভ করেন। ২০২০ এ মার্কিন যুক্তরাষ্ট্রের লুইস গ্লাক। ২০২১ সালে সাহিত্যে নোবেল পুরস্কার পান তানজানিয়ার আব্দুলরাজাক গুরনাহ। ২০২২ সালে সাহিত্য নোবেল পুরস্কার লাভ করেন ফ্রান্সের অ্যানি অর্ন।"
+    },
+    {
+      "question_number": 85,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশ কোন অলিম্পিক গেমসে প্রথম অংশগ্রহণ করে?",
+      "options": {
+        "A": "লস এঞ্জেলস",
+        "B": "আটলান্টা",
+        "C": "মস্কো",
+        "D": "মেক্সিকো সিটি"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলাদেশ ১৯৮০ সালের ১৫ ফেব্রুয়ারি বিশ্ব অলিম্পিক এসোসিয়েশনের সদস্যপদ লাভ করে। বাংলাদেশ ১৯৮৪ সালে লস এঞ্জেলস অলিম্পিকে প্রথম অংশগ্রহণ করে।"
+    },
+    {
+      "question_number": 86,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আইফেল টাওয়ার কোথায় অবস্থিত?",
+      "options": {
+        "A": "লন্ডনে",
+        "B": "মিউনিখে",
+        "C": "হংকং-এ",
+        "D": "প্যারিসে"
+      },
+      "correct_answer": "D",
+      "explanation": "প্রখ্যাত ফরাসি সেতু প্রকৌশলী আলেকজান্ডার গুস্তাভ আইফেলের নকশাকৃত প্রায় ৩২০ মিটার উঁচু আইফেল টাওয়ার তৈরি করা হয় ফ্রান্সের প্যারিস নগরীতে ১৮৮৯ সালে।"
+    },
+    {
+      "question_number": 87,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আন্তর্জাতিক আণবিক শক্তি কমিশনের সদর দপ্তর কোথায় অবস্থিত?",
+      "options": {
+        "A": "জেনেভায়",
+        "B": "ওয়াশিংটনে",
+        "C": "ভিয়েনায়",
+        "D": "ব্রাসেলসে"
+      },
+      "correct_answer": "C",
+      "explanation": "সুইজারল্যান্ডের জেনেভায় WTO, Red Cross, ILO, ITU, WIPO, UNCTAD, WHO, UNHCR প্রভৃতি সংস্থা ও সংগঠনের সদর দপ্তর, যুক্তরাষ্ট্রের ওয়াশিংটনে IMF, IBRD, IDA, MIGA, IFC ও ICSID এর সদর দপ্তর, অস্ট্রিয়ার ভিয়েনায় OPEC, IAEA ও UNIDO এর সদর দপ্তর এবং ফ্রান্সের প্যারিসে UNESCO সদর দপ্তর। Interpol এর সদর দপ্তর লিঁওতে।"
+    },
+    {
+      "question_number": 88,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "১৯৯৫ সালে বেইজিং-এ অনুষ্ঠিত চতুর্থ বিশ্ব নারী সম্মেলনের মূল শ্লোগান কি ছিল?",
+      "options": {
+        "A": "নারীর দৃষ্টিতে বিশ্বকে দেখ",
+        "B": "বিশ্বের নারীরা এক হও",
+        "C": "নারীর অধিকার মানবাধিকার",
+        "D": "নারী নির্যাতন বন্ধ কর"
+      },
+      "correct_answer": "A",
+      "explanation": "১৯৯৫ সালের সেপ্টেম্বর মাসে চীনের বেইজিংয়ে অনুষ্ঠিত চতুর্থ বিশ্ব নারী সম্মেলন গৃহীত হয় বেইজিং কর্মপরিকল্পনা।"
+    },
+    {
+      "question_number": 89,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ধরিত্রী সম্মেলন কোন শহরে অনুষ্ঠিত হয়?",
+      "options": {
+        "A": "জেনেভা",
+        "B": "মেক্সিকো সিটি",
+        "C": "নিউইয়র্ক",
+        "D": "রিওডি জেনেরিও"
+      },
+      "correct_answer": "D",
+      "explanation": "প্রথম ধরিত্রী সম্মেলন ১৯৯২ সালে ব্রাজিলের রিও ডি জেনেরিওতে অনুষ্ঠিত হয়। ২০০২ সালের ২৬ আগস্ট দক্ষিণ আফ্রিকার জোহানেসবার্গে অনুষ্ঠিত হয় দ্বিতীয় ধরিত্রী সম্মেলন।"
+    },
+    {
+      "question_number": 90,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোন দেশে নারীরা পুরুষের চেয়ে কম সময় বাঁচে?",
+      "options": {
+        "A": "বাংলাদেশে",
+        "B": "জাপানে",
+        "C": "সুইডেনে",
+        "D": "সিঙ্গাপুরে"
+      },
+      "correct_answer": "",
+      "explanation": "২১তম বিসিএস প্রিলিমিনারি পরীক্ষাটি অনুষ্ঠিত হয় ২০০০ সালে। ২০০১ সালের অর্থনৈতিক সমীক্ষা অনুযায়ী বাংলাদেশের প্রত্যাশিত গড় আয়ুষ্কাল ছিল ৬১.৮ বছর। এর মধ্যে পুরুষ ৬২.৯ ও নারী ৬১.২ বছর। কিন্তু ২০২২ সালের সমীক্ষার তথ্য মতে বাংলাদেশের প্রত্যাশিত গড় আয়ুষ্কাল ৭২.৮ বছর। এর মধ্যে পুরুষ ৭১.২ বছর এবং নারী ৭৪.৫। সুতরাং ২০০০ সালের প্রেক্ষাপটে সঠিক উত্তর বাংলাদেশ হলেও বর্তমানে বাংলাদেশেও নারীরা পুরুষের চেয়ে বেশি সময় বাঁচে।"
+    },
+    {
+      "question_number": 91,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বায়ুমণ্ডলের ওজোনস্তর অবক্ষয়ে কোন গ্যাসটির ভূমিকা সর্বোচ্চ?",
+      "options": {
+        "A": "কার্বন-ডাই-অক্সাইড",
+        "B": "জলীয় বাষ্প",
+        "C": "CFC বা ক্লোরোফ্লোরো কার্বন",
+        "D": "নাইট্রিক অক্সাইড"
+      },
+      "correct_answer": "C",
+      "explanation": "সিএফসি হলো ক্লোরোফ্লোরো কার্বনের সংক্ষিপ্ত রূপ। এটি বায়ুমন্ডলের ওজোনস্তরে পৌঁছে ওজোনের সঙ্গে বিক্রিয়া করে অক্সিজেন পরিণত করে \\((\\mathrm {CFC + O_3→ O_2} +......)\\) । এর ফলে ওজোনস্তর হালকা বা ফুটো হয়ে যায়। এই ফাটল দিয়ে মাহজাগতিক বিভিন্ন রশ্মি পৃথিবীতে এসে জীবজগতের ক্ষতিসাধন করে।"
+    },
+    {
+      "question_number": 92,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "‘ড্রাই আইস’ (dry ice) হলো-",
+      "options": {
+        "A": "কঠিন অবস্থায় কার্বন-ডাই অক্সাইড",
+        "B": "কঠিন অবস্থায় সালাফার ডাই অক্সাইড",
+        "C": "শূন্য ডিগ্রী সেলসিয়াস তাপমাত্রার নিচে বরফ",
+        "D": "হাইড্রোজেন পারঅক্সাইডের কঠিন অবস্থা"
+      },
+      "correct_answer": "A",
+      "explanation": "শুল্ক বরফ/ ড্রাই আইসঃ অনেক কম তাপমাত্রায় \\(\\mathrm{(-৭৮.৫^\\circ C)}\\) এবং কম চাপে (5.13 atm) গ্যাসীয় কার্বন-ডাই অক্সাইড তরলে পরিণত না হয়ে সরাসরি কঠিন পদার্থের আকার ধারণ করে। এই শুল্ক কার্বন-ডাই অক্সাইডের কঠিন রূপকেই ড্রাই আইস বলে।"
+    },
+    {
+      "question_number": 93,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোন জলজ জীবটি বাতাসে নিশ্বাস নেয়?",
+      "options": {
+        "A": "শুশুক",
+        "B": "তিমি",
+        "C": "ইলিশ",
+        "D": "হাঙ্গর"
+      },
+      "correct_answer": "A",
+      "explanation": "‘শুশুক’ বা ‘ডলফিন’ এবং তিমি পানিতে বাস করলেও মাছের মতো ফুলকার সাহায্যে পানি থেকে অক্সিজেন গ্রহণ করতে পারে না। এটি পানি থেকে ভেসে উঠে মাথার ওপর আড়াআড়িভাবে থাকা ছিদ্রের সাহায্যে বাতাস থেকে অক্সিজেন গ্রহণ করে।"
+    },
+    {
+      "question_number": 94,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ডায়বেটিস রোগ সম্পর্কে যে তথ্যটি সত্য নয় সেটি হলো–",
+      "options": {
+        "A": "চিনি জাতীয় খাবার বেশি খেলে এই রোগ হয়",
+        "B": "এই রোগ হলে রক্তে গ্লুকোজের পরিমাণ বৃদ্ধি পায়",
+        "C": "এই রোগ মানবদেহের কিডনি বিনষ্ট করে",
+        "D": "ইনসুলিন নামক একটি হরমোনের অভাবে এই রোগ হয়"
+      },
+      "correct_answer": "A",
+      "explanation": "আমাদের দেশের মানুষের ভ্রান্ত ধারণা রয়েছে যে চিনি জাতীয় খাবার বেশি খেলে ডায়াবেটিস হয় প্রকৃতপক্ষে অগ্ন্যাশয় থেকে নিঃসৃত ইনসুলিন হরমোনের অভাবে রক্তে গ্লুকোজের পরিমাণ বেড়ে গিয়ে ডায়াবেটিস রোগ দেখা দেয়। এর ফলে মানবদেহের কিডনি বিনিষ্ট হতে পারে।"
+    },
+    {
+      "question_number": 95,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কম্পিউটার ভাইরাস হলো–",
+      "options": {
+        "A": "এক ধরনের বিশেষ কম্পিউটার প্রোগ্রাম",
+        "B": "কম্পিউটারের যন্ত্রাংশে কোথাও শর্টসার্কিট",
+        "C": "কম্পিউটারের যন্ত্রাংশের মধ্যে জমে থাকা ধূলা",
+        "D": "কম্পিউটারের কোনো যন্ত্রাংশ সার্কিটে ঢিলা কানেকশন"
+      },
+      "correct_answer": "A",
+      "explanation": "কম্পিউটার ভাইরাস এক ধরনের প্রোগ্রাম যা ইন্টারনেট, ডিস্ক বা অন্য যে কোনো মাধ্যমে কম্পিউটারে প্রবেশ করে পুরো কম্পিউটার সফ্‌টওয়ারে বিভিন্ন সমস্যা সৃষ্টি করে কম্পিউটারকে বিকল করে দেয় কিংবা ডকুমেন্টস নষ্ট করে ফেলে। সর্বপ্রথম কম্পিউটার ভাইরাস সম্পর্কে অবহিত করেন → Fred Cohere, ১৯৮৩ সালে।"
+    },
+    {
+      "question_number": 96,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "এনজিও প্লাস্টি হচ্ছে–",
+      "options": {
+        "A": "হৃৎপিণ্ডের মৃত টিস্যু কেটে ফেলা দেয়া",
+        "B": "হৃৎপিণ্ডের বন্ধ শিরা বেলুনের সাহায্যে ফুলানো",
+        "C": "হৃৎপিণ্ডের টিস্যুতে নতুন টিস্যু সংযোজন",
+        "D": "হৃৎপিণ্ডে নতুন শিরা সংযোজন"
+      },
+      "correct_answer": "B",
+      "explanation": "● এনজিওপ্লাস্টি: করোনারি ধমনির গাত্রে চর্বি জমে বন্ধ হয়ে গেলে হৃৎপিণ্ডের রক্ত সরবরাহ বাধা পায়। একে হার্ট এটাক বলে। বেলুনের সাহায্যে এ ধমনি ফুলিয়ে পুনরায় রক্ত সরবরাহ স্বাভাবিক করার পদ্ধতিকে এনজিওপ্লাস্টি বলে। ● বাইপাস: হৃৎপিণ্ডে শিরা সংযোজন করলে তাকে বাইপাস সার্জারি বলা হয়।"
+    },
+    {
+      "question_number": 97,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "দূষিত বাতাসের কোন গ্যাসটি মানবদেহে রক্তের অক্সিজেন পরিবহন ক্ষমতা খর্ব করে?",
+      "options": {
+        "A": "কার্বন ডাইঅক্সাইড",
+        "B": "কার্বন মনোক্সাইড",
+        "C": "নাইট্রিক অক্সাইড",
+        "D": "সালফার ডাইঅক্সাইড"
+      },
+      "correct_answer": "B",
+      "explanation": "কার্বন ও অক্সিজেনের যৌগ কার্বন মনোক্সাইড (CO) একটি বর্ণ ও গন্ধহীন গ্যাস। শ্বাসবায়ুর সঙ্গে শরীরে গেলে তার মারাত্মক পরিণাম হতে পারে এ বিচারে কার্বন মনোক্সাইড তীব্র বিষ-গ্যাস, যা মানবদেহে রক্তের অক্সিজেন পরিবহন ক্ষমতা নষ্ট করে দেয়।"
+    },
+    {
+      "question_number": 98,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "স্বাভাবিক আদর্শ পরিবেশে পানির ঘনত্ব যে তাপমাত্রায় সর্বোচ্চ মান পরিগ্রহ করে তা হলো-",
+      "options": {
+        "A": "\\(\\mathrm{০^{\\circ}}\\) সেন্টিগ্রেড",
+        "B": "\\(\\mathrm{১০০^{\\circ}}\\) সেন্টিগ্রেড",
+        "C": "\\(\\mathrm{৪^{\\circ}}\\) সেন্টিগ্রেড",
+        "D": "\\(\\mathrm{২৩৬^{\\circ}}\\) সেন্টিগ্রেড"
+      },
+      "correct_answer": "C",
+      "explanation": "পানির ব্যতিক্রমী ধর্ম হচ্ছে \\(4^{\\circ} \\mathrm C\\) তাপমাত্রায় এর ঘনত্ব সবচেয়ে বৃদ্ধি পায় এবং এরপর তাপমাত্রা কমালে ঘনত্ব হ্রাস পায়। \\(0^{\\circ} \\mathrm C\\) তাপমাত্রায় পানি বরফ এবং \\(100^{\\circ} \\mathrm C\\) এ বাষ্পে পরিণত হয়।"
+    },
+    {
+      "question_number": 99,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "যেসব নিউক্লিয়াসের প্রোটন সংখ্যা সমান কিন্তু ভরসংখ্যা সমান নয়, তাদের বলা হয়–",
+      "options": {
+        "A": "আইসোবার",
+        "B": "আইসোটোপ",
+        "C": "আইসোটোন",
+        "D": "আইসোমার"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/99.jpg"
+    },
+    {
+      "question_number": 100,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "মাধ্যাকর্ষণজনিত ত্বরণ সর্বোচ্চ কোথায়?",
+      "options": {
+        "A": "ভূকেন্দ্রে",
+        "B": "ভূপৃষ্ঠে",
+        "C": "ভূপৃষ্ঠ থেকে ১০০০ ফুট নিচে",
+        "D": "ভূপৃষ্ঠ থেকে ১০০০ ফুট উঁচুতে"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/21th%20BCS/100.jpg"
+    }
+  ]
+}

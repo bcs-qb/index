@@ -1,0 +1,1306 @@
+{
+  "exam_name": "27th-bcs Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোনটি উপন্যাস?",
+      "options": {
+        "A": "নতুন চাঁদ",
+        "B": "কন্যাকুমারী",
+        "C": "গড্ডলিকা",
+        "D": "নেমেসিস"
+      },
+      "correct_answer": "B",
+      "explanation": "‘নতুন চাঁদ’ কাজী নজরুল ইসলাম রচিত কাব্যগ্রন্হ, ‘কন্যাকুমারী’ আবদুর রাজ্জাক কর্তৃক রচিত উপন্যাস, ‘গড্ডলিকা’ রাজশেখর বসুর গল্পগ্রন্হ এবং ‘নেমেসিস’ নুরুল মোমেনের বিখ্যাত নাটক।"
+    },
+    {
+      "question_number": 2,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "লৌকিক কাহিনির প্রথম রচয়িতা কে?",
+      "options": {
+        "A": "আলাওল",
+        "B": "কোরেশী মগন",
+        "C": "দৌলত কাজী",
+        "D": "সৈয়দ সুলতান"
+      },
+      "correct_answer": "C",
+      "explanation": "মুখে মুখে রচিত লোককাহিনি বা লৌকিক কাহিনির প্রথম রচয়িতা দৌলত কাজী। এর মূল ভিত্তি কল্পনা। স্বর্গ-মর্ত্য পাতাল পর্যন্ত গল্পের আখ্যানের সীমানা বিস্তৃত। দেব-দৈত্য, জীন-পরী, রাক্ষস- খোক্ষস, রাজা-প্রজা, মাধু-সন্নাসী, পীর ইত্যাদি বিষয় নিয়ে লৌকিক কাহিনি রচিত হয়। দৌলত কাজীর উল্লেখযোগ্য গ্রন্হের নাম ‘সতীময়না ও লোর চন্দ্রানী।’ ১৬ শতকের কবি দৌলত কাজী কাব্যটি রচনা শুরু করলেও তাঁর মৃত্যুর পর শেষ করেন আলাওল।"
+    },
+    {
+      "question_number": 3,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "সাপ্তাহিক ‘সুধাকর’-এর সম্পাদক কে?",
+      "options": {
+        "A": "মুন্সি মোহাম্মদ রিয়াজউদ্দিন আহমদ",
+        "B": "মুন্সি মোহাম্মদ মেহের উল্লাহ",
+        "C": "শেখ আব্দুর রহিম",
+        "D": "ইসমাইল হোসেন সিরাজী"
+      },
+      "correct_answer": "C",
+      "explanation": "সাপ্তাহিক ‘সুধাকর’ (১৮৯৪), মাসিক ‘মিহির’ (১৮৯২), মাসিক ‘হাফেজ’, ‘মোসলেম ভারত’ প্রভৃতি পত্রিকা সম্পাদনা করেন শেখ আবদুর রহিম। ‘মুসলমান’ (১৮৮৪), সাপ্তাহিক ‘নব সুধাকর’ (১৯৮৫), ‘ইসলাম’ (১৮৮৫) ইত্যাদি পত্রিকার সম্পাদক ছিলেন মুন্সী মোহাম্মদ রেয়াজুদ্দীন আহমদ। মাসিক ‘নূর’ (১৯১৯) ও সাপ্তাহিক ‘সুলতান’ (১৯২৩) পত্রিকা সম্পাদনা করেন ইসমাইল হোসেন সিরাজী এবং মুন্সী মেহেরুল্লাহ ছিলেন ধর্মপ্রচারক । তিনি কোনো পত্রিকা সম্পাদনা করেননি। তিনি ‘খ্রিষ্টান ধর্মের অসারতা’ নামে একটি প্রচার পুস্তিকা প্রকাশ করেন।"
+    },
+    {
+      "question_number": 4,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "মাসিক ‘মোহাম্মদী’ কোন সালে প্রকাশিত হয়?",
+      "options": {
+        "A": "১৯২৬",
+        "B": "১৯২৭",
+        "C": "১৯২৮",
+        "D": "১৯২৯"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/4.jpg"
+    },
+    {
+      "question_number": 5,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোন পত্রিকাটি ১৯২৩ সালে প্রকাশিত হয়?",
+      "options": {
+        "A": "কালি কলম",
+        "B": "প্রগতি",
+        "C": "কল্লোল",
+        "D": "সবুজপত্র"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/6.jpg"
+    },
+    {
+      "question_number": 6,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "ঢাকা থেকে প্রকাশিত হয় কোন পত্রিকাটি?",
+      "options": {
+        "A": "অরণি",
+        "B": "পরিচয়",
+        "C": "নবশক্তি",
+        "D": "ক্রান্তি"
+      },
+      "correct_answer": "D",
+      "explanation": "চল্লিশের দশকে কিরণ শঙ্কর সেনগুপ্তের সম্পাদনায় ‘ক্রান্তি’ পত্রিকাটি ঢাকা থেকে প্রকাশিত হয়। ‘পরিচয়’ পত্রিকার সম্পাদক বিষ্ণু দে।"
+    },
+    {
+      "question_number": 7,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "গ্রিক শব্দ কোনটি?",
+      "options": {
+        "A": "তুফান",
+        "B": "লুঙ্গী",
+        "C": "কুশন",
+        "D": "দাম"
+      },
+      "correct_answer": "D",
+      "explanation": "‘দাম’ হচ্ছে গ্রিক শব্দ। ‘তুফান’, ‘লুঙ্গী’ ও ‘কুশন’ যথাক্রমে আরবি, বর্মি ও ইংরেজি শব্দ।"
+    },
+    {
+      "question_number": 8,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "বাংলা ভাষায় কয়টি খাঁটি বাংলা উপসর্গ আছে?",
+      "options": {
+        "A": "উনিশ",
+        "B": "কুড়ি",
+        "C": "একুশ",
+        "D": "বাইশি"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলা ভাষায় খাঁটি বাংলা উপসর্গ রয়েছে ২১টি। এগুলো হচ্ছে- অ, অঘা, অজ, অনা, আ, আড়, আব, আন, ইতি, উন, কদ, কু, নি, পাতি, বি, ভর, রাম, স, সা, সু, হা। এবং সংস্কৃত উপসর্গের সংখ্যা ২০টি।"
+    },
+    {
+      "question_number": 9,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘শিশুরাজ্যে এই মেয়েটি একটি ছোটখাট বর্গির উপদ্রব বলিলেই হয়।’ রবীন্দ্রনাথ ঠাকুরের কোন গল্পের সংলাপ?",
+      "options": {
+        "A": "একরাত্রি",
+        "B": "শুভা",
+        "C": "সমাপ্তি",
+        "D": "পোস্টমাস্টার"
+      },
+      "correct_answer": "C",
+      "explanation": "সংলাপটি রবীন্দ্রনাথ ঠাকুরের 'সমাপ্তি' ছোটগল্পের নায়িকা 'মৃন্ময়ী' সম্পর্কে লেখকের উক্তি।"
+    },
+    {
+      "question_number": 10,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বাংলা সাহিত্যের প্রথম ইতিহাস গ্রন্থ কোনটি?",
+      "options": {
+        "A": "বাঙ্গালা সাহিত্যের ইতিহাস",
+        "B": "বঙ্গভাষা ও সাহিত্য",
+        "C": "বাংলা সাহিত্যের কথা",
+        "D": "বাংলা সাহিত্যের রূপরেখা"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/10.jpg"
+    },
+    {
+      "question_number": 11,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কত খ্রিস্টাব্দে শরৎচন্দ্র চট্টোপাধ্যায় কলকাতা বিশ্ববিদ্যালয়ের ‘জগত্তারিণী’ পদক লাভ করেন?",
+      "options": {
+        "A": "১৯১৬",
+        "B": "১৯২৩",
+        "C": "১৯৩৩",
+        "D": "১৯০৩"
+      },
+      "correct_answer": "B",
+      "explanation": "অপরাজেয় কথাসাহিত্যিক শরৎচন্দ্র চট্টোপাধ্যায় তার সামগ্রিক সাহিত্যকর্মের জন্য কলকাতা বিশ্ববিদ্যালয় থেকে ১৯২৩ সালে ‘জগত্তারিণী’ স্বর্ণপদক এবং ১৯৩৬ সালে ঢাকা বিশ্ববিদ্যালয় থেকে ‘ডি লিট’ উপাধি লাভ করেন।"
+    },
+    {
+      "question_number": 12,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "রাজা রামমোহন রচিত বাংলা ব্যাকরণের নাম কি?",
+      "options": {
+        "A": "মাগধীয় ব্যাকরণ",
+        "B": "গৌড়ীয় ব্যাকরণ",
+        "C": "মাতৃভাষা ব্যাকরণ",
+        "D": "ভাষা ও ব্যাকরণ"
+      },
+      "correct_answer": "B",
+      "explanation": "রাজা রামমোহন রায় প্রথম বাঙালি হিসেবে ‘গৌড়ীয় ব্যাকরণ’ (১৮৩৩) রচনা করেন। তার অন্যান্য রচনা হচ্ছে ‘বেদান্তসার’ (১৮১৫), ‘ভট্টাচার্যের সহিত বিচার’ (১৮১৭), ‘সহমরণ বিষয়ক প্রবর্তক ও নিবর্তকের সম্বাদ’ (১৮১৮) ইত্যাদি।"
+    },
+    {
+      "question_number": 13,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘মেছো’ শব্দের প্রকৃতি-প্রত্যয় কি?",
+      "options": {
+        "A": "মাছ + ও",
+        "B": "মেছ + ও",
+        "C": "মাছি + উয়া > ও",
+        "D": "মাছ + উয়া > ও"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/13.jpg"
+    },
+    {
+      "question_number": 14,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোন সন্ধিটি নিপাতনে সিদ্ধ?",
+      "options": {
+        "A": "বাক্‌ + দান = বাগদান",
+        "B": "উৎ + ছেদ = উচ্ছেদ",
+        "C": "পর + পর = পরস্পর",
+        "D": "সম + সার = সংসার"
+      },
+      "correct_answer": "C",
+      "explanation": "কোনো নিয়ম অনুসরণ না করে যখন সন্ধি সাধিত হয় তখন তাকে নিপাতনে সিদ্ধ বলে। উপরিউক্ত সন্ধিগুলোর মধ্যে 'পর + পর = পরস্পর' ছাড়া অন্য সন্ধিগুলো ব্যাকরণের সুনির্দিষ্ট নিয়ম মেনে সম্পন্ন হয়েছে।"
+    },
+    {
+      "question_number": 15,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বাংলা মৌলিক নাটকের যাত্রা শুরু হয় কোন নাট্যকারের হাতে?",
+      "options": {
+        "A": "মধুসূদন দত্ত",
+        "B": "দীনবন্ধু মিত্র",
+        "C": "জ্যোতিন্দ্রনাথ ঠাকুর",
+        "D": "রামনারায়ণ তর্করত্ন"
+      },
+      "correct_answer": "D",
+      "explanation": "উনিশ শতকের গোড়ার দিকে সংস্কৃত নাটকের অনুবাদ শুরু হলেও তারাচরণ শিকদারের 'ভদ্রার্জুন' (১৮৫২) ও রামনারায়ণ তর্করত্নের 'কুলীনকুল সর্বস্ব' (১৮৫৪) নাটক থেকে প্রকৃতপক্ষে বাংলা মৌলিক নাট্যসাহিত্যের সূত্রপাত হয়।"
+    },
+    {
+      "question_number": 16,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "প্রত্যক্ষ কোনো বস্তুর সাথে পরোক্ষ কোনো বস্তুর তুলনা করলে প্রত্যক্ষ বস্তুটিকে বলা হয়___।",
+      "options": {
+        "A": "উপমিত",
+        "B": "উপমান",
+        "C": "উপমেয়",
+        "D": "রূপক"
+      },
+      "correct_answer": "C",
+      "explanation": "'উপমান' শব্দের অর্থ 'তুলনীয় বস্তু'। অর্থাৎ প্রত্যক্ষ কোনো বস্তুর সাথে অন্য কোনো পরোক্ষ বস্তুর তুলনা করা হলে ঐ প্রত্যক্ষ বস্তুটিকে 'উপমেয়' বলা হয়। পক্ষান্তরে , যার সাথে উপমা দেয়া হয় বা তুলনা করা হয় তাকে 'উপমান' বলে। যেমন - 'পদ্মআঁখি' শব্দটিতে পদ্মের সাথে আঁখির উপমা দেয়া হয়েছে। সুতরাং 'পদ্ম' উপমান এবং আঁখি' উপমেয়। 'উপমান' ও 'উপমেয়' পদের সমাস হলে যদি উপমেয়ের অর্থ প্রধান রূপে প্রতীয়মান হয় তাকে উপমিত সমাস হলে। যেমন - পুরুষ সিংহের ন্যায় = পুরুষসিংহ এবং যে স্থলে উপমান ও উপমেয় সমাস হয়েছে এবং উভয়ের মধ্যে অভেদ কল্পনা করা হয়েছে তাকে রূপক সমাস বলে। যেমন- ফুল রূপ কুমারী = ফুলকুমারী।"
+    },
+    {
+      "question_number": 17,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘পাখি সব করে রব রাতি পোহাইল’ পঙ্‌ক্তির রচয়িতা কে?",
+      "options": {
+        "A": "রামনারায়ণ তর্করত্ন",
+        "B": "বিহারী লাল",
+        "C": "কৃষ্ণচন্দ্র মজুমদার",
+        "D": "মদনমোহন তর্কালঙ্কার"
+      },
+      "correct_answer": "D",
+      "explanation": "পঙক্তিটির রচয়িতা মদনমোহন তর্কালঙ্কার (১৮১৭-১৮৫৮)। 'শিশু শিক্ষা' (১ম ও ২য় ভাগ -১৮৪৯ এবং ৩য় ভাগ-১৮৫০) নামক শিশুতোষ গ্রন্থ রচনা করে বিশেষ খ্যাতি অর্জন করেন। 'পাখি সব করে রব, রাতি পোহাইল, পংক্তিটি এ গ্রন্হের প্রথমভাগের একটি সুপরিচিত ও জনপ্রিয় শিশুতোষ কবিতা।"
+    },
+    {
+      "question_number": 18,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘আমি কিংবদন্তীর কথা বলছি’-এর রচয়িতা কে?",
+      "options": {
+        "A": "সিকানদার আবু জাফর",
+        "B": "আবু জাফর ওবায়দুল্লাহ",
+        "C": "ফররুখ আহমদ",
+        "D": "আহসান হাবীব"
+      },
+      "correct_answer": "B",
+      "explanation": "'আমি কিংবদন্তীর কথা বলছি'- আবু জাফর ওবায়দুল্লাহ রচিত কাব্যগ্রন্থ, প্রকাশিত হয় ১৯৮১ সালে। এ লেখকের অন্যান্য কাব্যগ্রন্থ হচ্ছে 'সাতনরী হার', ‘কখনও রং কখনও সুর’, ‘কমলের চোখ’, ‘সহিষ্ণু প্রতিক্ষা’, ‘প্রেমের কবিতা’, ‘নির্বাচিত কবিতা’ ইত্যাদি।"
+    },
+    {
+      "question_number": 19,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘জীবনে জ্যাঠামি ও সাহিত্যে ন্যাকামি’ সহ্য করতে পারতেন না-",
+      "options": {
+        "A": "বঙ্কিমচন্দ্র",
+        "B": "সৈয়দ মুজতবা আলী",
+        "C": "প্রমথ চৌধুরী",
+        "D": "প্রমথনাথ বিশী"
+      },
+      "correct_answer": "C",
+      "explanation": "‘জ্যাঠামি’ শব্দের অর্থ বাচালতা, পাকামি, অকালপক্বতা ইত্যাদি আর ‘ন্যাকামি’ শব্দের অর্থ - সারল্য বা সাধুতার ভানকারী, অজ্ঞতার ভান ইত্যাদি। বাংলা সাহিত্যে চলিত ভাষার প্রবর্তক প্রমথ চৌধুরী ছিলেন মার্জিত রুচির নাগরিক, প্রখর বুদ্ধিদীপ্ত ও অপূর্ব বাক-চাতুর্যের অধিকারী। সাহিত্যের উদ্দেশ্য সম্পর্কে তার মত হলো- ‘সাহিত্যের উদ্দেশ্য হচ্ছে সকলকে আনন্দ দান করা, কারও মনোরঞ্জন নয়। সাহিত্য ছেলের হাতের খেলনাও নয়, গুরুর হাতের বেতও নয়।"
+    },
+    {
+      "question_number": 20,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘এ মাটি সোনার বাড়া’-এ উদ্ধৃতিতে ‘সোনা’ কোন অর্থে ব্যবহার করা হয়েছে?",
+      "options": {
+        "A": "বিশেষণের অতিশায়ন",
+        "B": "রূপবাচক বিশেষণ",
+        "C": "উপাদান বাচক বিশেষণ",
+        "D": "বিধেয় বিশেষণ"
+      },
+      "correct_answer": "A",
+      "explanation": "বিশেষণ পদ যখন দুই বা ততোধিক বিশেষ্য পদের মধ্যে গুণ, অবস্থা, পরিমাণ প্রভৃতি বিষয়ে তুলনায় একের উৎকর্ষ বা অপকর্ষ বুঝিয়ে থাকে তাকে 'বিশেষণের অতিশায়ন' বলে। ‘এ মাটি সোনার বাড়া’ শব্দটি খাঁটি বাংলা শব্দের অতিশায়ন। এখানে মাটিকে সোনার চেয়ে বড় বা মূল্যবান মনে করা হয়েছে।"
+    },
+    {
+      "question_number": 21,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What would have happened if ___?",
+      "options": {
+        "A": "The bridge is broken",
+        "B": "The bridge would break",
+        "C": "The bridge had broken",
+        "D": "The bridge had been broken"
+      },
+      "correct_answer": "C",
+      "explanation": "সাধারণত অতীতের কোনো action অথবা event যদি পরস্পর সম্পর্কিতভাবে ঘটে সেক্ষেত্রে model verb হিসেবে 'would have' ব্যবহৃত হয়। এক্ষেত্রে would have..... if ...... structure নিম্নরূপে- sub + would have + past participle form of verb + if + 2nd sub + had + past participle from of verb + .... যেমন --- What would have happend if I had seen the advertisement in time? প্রদত্ত sentence এ ‘What would have happened if the bridge had broken’ দ্বারা বোঝানো হয়েছে তারা ব্রিজটা সহজেই পেরিয়ে এসেছে। কিন্তু যদি ভেঙ্গে পড়ত তাহলে কি ঘটত? হয়তো তারা অনেকেই আহত হতো। কিন্তু কিছুই ঘটেনি।"
+    },
+    {
+      "question_number": 22,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Explain the meaning of ‘Bring to pass’.",
+      "options": {
+        "A": "Cause to destroy",
+        "B": "Cause to happen",
+        "C": "Cause to carry out",
+        "D": "Cause to convince"
+      },
+      "correct_answer": "B",
+      "explanation": "'Bring to pass' -অর্থ হচ্ছে কোনো কিছু ঘটা। ' cause to destroy ' দ্বারা 'ধ্বংস হওয়া 'cause to carry out' বলতে কোনো কিছু সম্পাদন করা এবং ‘cause to convince’ দ্বারা কোনো কিছু স্বমতে নিয়ে আসা এবং 'cause to happen' দ্বারা কোনো কিছু ঘটানোকে বোঝায়।"
+    },
+    {
+      "question_number": 23,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Which of the following sentences is the correct one?",
+      "options": {
+        "A": "Paper is made of wood",
+        "B": "Paper is made from wood",
+        "C": "Paper is made by wood",
+        "D": "Paper is made on wood"
+      },
+      "correct_answer": "B",
+      "explanation": "কোন কিছু থেকে directly তৈরী হওয়া বুঝাতে made of এবং কোন কিছু রূপান্তরিত তৈরি হওয়াকে বুঝাতে made from বসে।"
+    },
+    {
+      "question_number": 24,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "\\(\\mathrm{The \\ word \\ \\underline{bounty} \\ is \\ closest \\ in \\ meaning \\ to}\\)-",
+      "options": {
+        "A": "generosity",
+        "B": "familiar",
+        "C": "dividing line",
+        "D": "sympathy"
+      },
+      "correct_answer": "A",
+      "explanation": "bounty 'generous' word টির অর্থ হচ্ছে liberal, bountiful, nobel ইত্যাদি; 'familiar' word -টির অর্থ হচ্ছে well known, intimate, domestic, common ইত্যাদি এবং sympathy শব্দটির অর্থ হচ্ছে community of feeling, compassion, pity ইত্যাদি। সুতরাং সঠিক উত্তর হবে generosity."
+    },
+    {
+      "question_number": 25,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Give the correct passive form of ‘My teacher embodies all the good qualities’.",
+      "options": {
+        "A": "All the good qualities are embodied by my teacher.",
+        "B": "All the good qualities are embodied in my teacher.",
+        "C": "All the good qualities are embodied to my teacher.",
+        "D": "All the good qualities are embodied on my teacher."
+      },
+      "correct_answer": "B",
+      "explanation": "এ Sentence দ্বারা বুঝানো হয়েছে যে তার teacher সকল প্রকার ভালো গুণাবলী বাস্তব রূপদান করে বা নিজের মধ্যে ধারণ করে স্পষ্টভাবে প্রকাশ করে। তাই passive করার সময় 'embodied in ' ব্যবহার করা হয়েছে।"
+    },
+    {
+      "question_number": 26,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Choose the correct indirect speech- She asked me, ‘Are you happy in your new job?’",
+      "options": {
+        "A": "She asked me if I was happy in my new job",
+        "B": "She asked me if I have been happy in my new job",
+        "C": "She asked me whether I am happy in my new job",
+        "D": "She asked me if I had been happy in my new job"
+      },
+      "correct_answer": "A",
+      "explanation": "Direct Narration -এ Reported Speech যদি Interrogative sentence হয় তাহলে- Reporting verb -কে ask, demand , enquire wonder ইত্যাদিতে পরিবর্তন করে নিতে হয় ; -Question -এর উত্তর যদি 'yes' 'No' দিয়ে দেয়া সম্ভব হয় তাহলে Reported Speech -এর আগে conjunction if এবং ক্ষেত্র বিশেষে 'whether' বসে। - Reported Speech কে Indirect করার সময় Assertive করে নিতে হবে।"
+    },
+    {
+      "question_number": 27,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The meaning of the word ‘Obese’ is–",
+      "options": {
+        "A": "very fat",
+        "B": "ugly",
+        "C": "tardy",
+        "D": "obnoxious"
+      },
+      "correct_answer": "A",
+      "explanation": "'Obese' বলতে বোঝায় 'very fat' বা, ‘abnormally fat'; ‘ugly’ -শব্দটির অর্থ হচ্ছে – ‘unpleasant to look at’ or other senses, ill-natured ইত্যাদি। ‘trady’ এর অর্থ হচ্ছে ‘slow’, ‘sluggish’, ‘late’ ইত্যাদি। এবং 'obnoxious'-এর অর্থ হচ্ছে objectionable, offensive ইত্যাদি।"
+    },
+    {
+      "question_number": 28,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "A person who writes about his own life writes–",
+      "options": {
+        "A": "a diary",
+        "B": "a biography",
+        "C": "an autobiography",
+        "D": "a chronicle"
+      },
+      "correct_answer": "C",
+      "explanation": "'autobigraphy', বলতে বোঝায় the story of a person's life written by that person; ‘diary’ বলতে বোঝায় a book in which one writes about one's daily experiences, records one's private thoughts etc; 'biography' বলতে বোঝায় the story of a person's life written by somebody else; এবং 'chronicle' বলতে বোঝায় a record of historical events in the order in which they happended. সুতরাং উপরের ৪টি word -এর অর্থ বিশ্লেষণ করে দেখা যাচ্ছে, ‘biography’ এবং 'autobigraphy' দ্বারা জীবনকাহিনি লেখাকে বোঝায়। তবে 'biography' দ্বারা বোঝায় অন্য লোকের দ্বারা জীবনকাহিনি লেখানো এবং 'autobiography' দ্বারা নিজেই নিজের জীবনকাহিনি লেখাকে বোঝায়।"
+    },
+    {
+      "question_number": 29,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Which of the following sentences is correct?",
+      "options": {
+        "A": "Why have you done this?",
+        "B": "Why you had done this?",
+        "C": "Why you have done this?",
+        "D": "Why did you done this?"
+      },
+      "correct_answer": "A",
+      "explanation": "Sentence টি প্রশ্নবোধক না হলে হতো ‘You have done this’। এসব sentence কে why দ্বারা interrogative করতে হলে নিচের sentence অনুযায়ী করতে হবে। Why + auxiliary verb + subject + principle verb + objective or others. সুতরাং why have you done this sentence টি সঠিক।"
+    },
+    {
+      "question_number": 30,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What will be the correct preposition to complete the sentence? ‘I am not good ___ translation’",
+      "options": {
+        "A": "in",
+        "B": "about",
+        "C": "with",
+        "D": "at"
+      },
+      "correct_answer": "D",
+      "explanation": "'Good' -এর পরে সাধারণত 'at' preposition ব্যবহৃত হলে বোঝায় 'able to do something well'. with preposition বসলে বোঝায় capable when using dealing with etc. যেমন- She is very good with children. সুতরাং উপরিউক্ত sentence এর জন্য 'at' appropriate preposition."
+    },
+    {
+      "question_number": 31,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Which is the noun of the word ‘beautiful’.",
+      "options": {
+        "A": "Beauty",
+        "B": "Beautify",
+        "C": "Beauteous",
+        "D": "Beautifully"
+      },
+      "correct_answer": "A",
+      "explanation": "'Beauty' word টি noun; ‘Beautify’ word টি verb ; 'Beauteous ' হচ্ছে adjective এবং 'Beautifully ' হচ্ছে adverb."
+    },
+    {
+      "question_number": 32,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Fill in the blank with appropriate preposition. ‘Hurry up! we have to go ___ five minutes.’",
+      "options": {
+        "A": "in",
+        "B": "on",
+        "C": "by",
+        "D": "for"
+      },
+      "correct_answer": "C",
+      "explanation": "Sentence টিতে বলা হয়েছে ৫ মিনিট সময় আছে, এর মধ্যে বা ৫ মিনিটের পূর্বে অবশ্য পৌঁছতে হবে। এক্ষেত্রে 'in' appropriate হবে না, কেননা নির্দিষ্ট কোনো সময় বা কোনো সময়ের মধ্যে বোঝাতে সাধারণত 'in' হয়। যেমন - I will come in an hour. তারিখ বা সময় বোঝাতে 'on' ব্যবহৃত হয়। যেমন- Meet me on Monday. 'by' দ্বারা নির্দিষ্ট সময়ের পূর্বে বোঝায়, যেমন - I will come by 5 pm. এ Sentence দ্বারা বোঝাচ্ছে আমি বিকেল ৫টার আগেই আসব।"
+    },
+    {
+      "question_number": 33,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Identify the imperative sentence.",
+      "options": {
+        "A": "I shall go to college",
+        "B": "Matin is singing a song",
+        "C": "Stand up",
+        "D": "It has been raining since morning"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/33.jpg"
+    },
+    {
+      "question_number": 34,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Fill in the gap with the suitable word. To stay healthy, we must plan to have a balanced ___.",
+      "options": {
+        "A": "diet",
+        "B": "food",
+        "C": "drink",
+        "D": "environment"
+      },
+      "correct_answer": "A",
+      "explanation": "উপরিউক্ত Sentence -এ balanced adjective টির সাথে diet হওয়াই সম্ভব; কারণ স্বাস্থ্য ঠিক রাখার জন্য শুধু খাদ্য (food) , পানীয় (drink), বা পরিবেশ (environment) নয়, প্রয়োজন সুষম খাদ্যাভ্যাস বা ডায়েট।"
+    },
+    {
+      "question_number": 35,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Choose the correct alternative and mark its letter on your answer sheet. The rich should not look down ___ the poor.",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "towards",
+        "D": "upon"
+      },
+      "correct_answer": "D",
+      "explanation": "'look at' অর্থাৎ তাকানো, look towards অর্থ- মুখোমুখি অবস্থায় বা বিপরীতে অবস্থান করা। 'look down upon' অর্থ ঘৃণা করা।"
+    },
+    {
+      "question_number": 36,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "I took a map with me, as I didn’t want to ___ my way on the journey.",
+      "options": {
+        "A": "loose",
+        "B": "lose",
+        "C": "lost",
+        "D": "loss"
+      },
+      "correct_answer": "B",
+      "explanation": "উপরিউক্ত sentence টি infinitive হওয়ায় এর structure হবে to + base form of verb অর্থাৎ verb -এর present form -এর পূর্বে to infinitive গঠিত হয়। generally decide, refuse, plan hope, deserve, promise etc verb এর পর to + verb বা infinitive বসে।"
+    },
+    {
+      "question_number": 37,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Every driver must be held ___ his own actions.",
+      "options": {
+        "A": "responsible for",
+        "B": "responsible to",
+        "C": "liable to",
+        "D": "blamed for"
+      },
+      "correct_answer": "A",
+      "explanation": "অধস্তন ঊর্ধ্বতন কোনো কর্তৃপক্ষের নিকট কাজের জন্য দায়ী বা কোনো লোক অন্য কোনো লোকের কাছে কাজের জন্য দায়ী থাকলে সাধারণত 'responsible to' ব্যবহার করা হয়। যেমন- The Director is directly responsible to the president. অপরপক্ষে কোনো কাজের দায়ভার যখন যে কাজ করে তার ওপরই বর্তায়, তখন 'be held responsible for' ব্যবহৃত হয়। যেমন - Sumi is mentally ill and can't be held responsible for her actions. 'liable to' দ্বারা কোনো দায়-দায়িত্বকে বোঝায়।"
+    },
+    {
+      "question_number": 38,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Through thick and thin’ means–",
+      "options": {
+        "A": "under all conditions",
+        "B": "to make thick and thin",
+        "C": "not clear in understanding",
+        "D": "of great density"
+      },
+      "correct_answer": "A",
+      "explanation": "'Through thick and thin' - এর অর্থ in spite of all the difficulties বা যা কিছুই ঘটুক না কেন। এখানে Under all conditions বলতে ‘যে কোন অবস্থার মধ্যে বোঝায়’। সুতরাং এটাই সঠিক।"
+    },
+    {
+      "question_number": 39,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Prior to’ means–",
+      "options": {
+        "A": "after",
+        "B": "before",
+        "C": "immediately",
+        "D": "during the period of"
+      },
+      "correct_answer": "B",
+      "explanation": "'Prior to' -এর অর্থ হচ্ছে পূর্ববর্তী, পূর্বতন, পূর্বে, আগে ইত্যাদি।"
+    },
+    {
+      "question_number": 40,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Nobody knocked him down; it was an–",
+      "options": {
+        "A": "incident",
+        "B": "occurrence",
+        "C": "accident",
+        "D": "event"
+      },
+      "correct_answer": "C",
+      "explanation": "knock down→ আঘাতে কোন কিছুর বা কোন ব্যক্তি পড়ে যাওয়া। এখানে বাক্যটির অর্থ কেউ তাকে ফেলেনি। এটা একটা দুর্ঘটনা। সাধারণত ঘটনা বোঝাতে incident আর দুর্ঘটনা বা mishap বলতে accident ব্যবহৃত হয়।"
+    },
+    {
+      "question_number": 41,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm{১^২ + ২^২ + ৩^২ + .........+ ৫০^২}\\) = কত?",
+      "options": {
+        "A": "৩৫৭২৫",
+        "B": "৪২৯২৫",
+        "C": "৪৫৫০০",
+        "D": "৪৭২২৫"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/41.jpg"
+    },
+    {
+      "question_number": 42,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৪ টাকায় ৫টি করে কিনে ৫ টাকায় ৪টি করে বিক্রয় করলে শতকরা কত লাভ হবে?",
+      "options": {
+        "A": "৪৫%",
+        "B": "৪৮.৫০%",
+        "C": "৫২.৭৫%",
+        "D": "৫৬.২৫%"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/42.jpg"
+    },
+    {
+      "question_number": 43,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "এক ব্যবসায়ী একটি পন্যের মুল ২৫% বাড়ালো, অতঃপর বর্ধিত মুল্য থেকে ২৫% কমালো।সর্বশেষ মুল্য সর্বপ্রথম মুল্যের তুলনায়-",
+      "options": {
+        "A": "৪৫% কমানো হয়েছে",
+        "B": "৬.২৫% কমানো হয়েছে",
+        "C": "৬.২৫% বাড়ানো হয়েছে",
+        "D": "৫% বাড়ানো হয়েছে"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/43.jpg"
+    },
+    {
+      "question_number": 44,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "যদি একটি কাজ ৯ জন লোক ১২ দিনে করতে পারে, অতিরিক্ত ৩ জন লোক নিয়োগ করলে কাজটি কতদিনে শেষ হবে?",
+      "options": {
+        "A": "৭",
+        "B": "৯",
+        "C": "১০",
+        "D": "১২"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/44.jpg"
+    },
+    {
+      "question_number": 45,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "শিক্ষা সফরে যাওয়ার জন্য ২৪০০ টাকায় বাস ভাড়া করা হলো এবং প্রত্যেক ছাত্র/ছাত্রী সমান ভাড়া বহন করবে ঠিক হলো। অতিরিক্ত ১০ জন ছাত্র/ছাত্রী যাওয়ায় প্রতি জনের ভাড়া ৮ টাকা কমে গেল। বাসে কতজন ছাত্র/ছাত্রী গিয়েছিল?",
+      "options": {
+        "A": "৪০",
+        "B": "৪৮",
+        "C": "৫০",
+        "D": "৬০"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/45.jpg"
+    },
+    {
+      "question_number": 46,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "পিতা, মাতা ও পুত্রের বয়সের গড় ৩৭ বছর। আবার পিতা ও পুত্রের বয়সের গড় ৩৫ বছর। মাতার বয়স কত?",
+      "options": {
+        "A": "৩৮ বছর",
+        "B": "৪১ বছর",
+        "C": "৪৫ বছর",
+        "D": "৪৮ বছর"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/46.jpg"
+    },
+    {
+      "question_number": 47,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "যদি \\((\\mathrm {x-y})^2=14\\) এবং \\(\\mathrm {xy=2}\\) হয় তবে \\(\\mathrm {x^2+y^2}=\\) কত?",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "16",
+        "D": "18"
+      },
+      "correct_answer": "D",
+      "explanation": "\\(\\mathrm {x^2+y^2=(x-y)^2+2xy=14+2×2=18}\\)"
+    },
+    {
+      "question_number": 48,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "বৃত্তের ব্যাস তিনগুণ বৃদ্ধি করলে ক্ষেত্রফল কতগুণ বৃদ্ধি পাবে?",
+      "options": {
+        "A": "৪",
+        "B": "৯",
+        "C": "১২",
+        "D": "১৬"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/48.jpg"
+    },
+    {
+      "question_number": 49,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি সমদ্বিবাহু সমকোণী ত্রিভুজের অতিভুজের দৈর্ঘ্য 12 সেমি হলে ত্রিভুজটির ক্ষেত্রফল কত বর্গ সেমি?",
+      "options": {
+        "A": "৩৬",
+        "B": "৪৮",
+        "C": "৫৬",
+        "D": "৭২"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/49.jpg"
+    },
+    {
+      "question_number": 50,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৬০ থেকে ৮০ এর মধ্যবর্তী বৃহত্তম ও ক্ষুদ্রতম মৌলিক সংখ্যার অন্তর হবে-",
+      "options": {
+        "A": "৮",
+        "B": "১২",
+        "C": "১৮",
+        "D": "১৪০"
+      },
+      "correct_answer": "C",
+      "explanation": "৬০ ও ৮০ এর মধ্যে সর্বনিম্ন ও সর্বোচ্চ মৌলিক সংখ্যা হচ্ছে যথাক্রমে ৬১ ও ৭৯। ∴ এ দুটি সংখ্যার অন্তর হবে (৭৯ - ৬১) = ১৮।"
+    },
+    {
+      "question_number": 51,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "NIPORT কি?",
+      "options": {
+        "A": "জনসংখ্যা বিষয়ক গবেষণা প্রতিষ্ঠান",
+        "B": "পোলট্রি ফার্ম বিষয়ক গবেষণা প্রতিষ্ঠান",
+        "C": "নদীবন্দর বিষয়ক গবেষণা প্রতিষ্ঠান",
+        "D": "বন্দর বিষয়ক গবেষণা প্রতিষ্ঠান"
+      },
+      "correct_answer": "A",
+      "explanation": "NIPORT জনসংখ্যা বিষয়ক গবেষণা প্রতিষ্ঠান। ১৯৭৭ সালে মধ্যম পর্যায়ে প্রোগ্রাম ম্যানেজার বা কর্মসূচি ব্যবস্থাপকদের প্রশিক্ষণদানের জন্য ‘ন্যাশনাল ইনস্টিটিউট অব পপুলেশন ট্রেনিং’ (NIPOT) স্থাপন করা হয়। পরে এ সংস্থাটিকে আরও সম্প্রসারণ করা হয় এবং এর নতুন নাম করা হয় ‘National Institute of Population Rescarch and Training’ (NIPORT)। নদী বন্দর বিষয়ক গবেষণা প্রতিষ্ঠান ‘নদী গবেষণা ইনস্টিটিউট’ River Research Institute (RRI)."
+    },
+    {
+      "question_number": 52,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "সংবিধানের কোন অনুচ্ছেদে ‘রাষ্ট্র ও গণজীবনের সর্বস্তরে নারী পুরুষের সমান অধিকার লাভ করিবেন’ বলা আছে?",
+      "options": {
+        "A": "১০ নং অনুচ্ছেদে",
+        "B": "২১ (২) নং অনুচ্ছেদে",
+        "C": "২৭ নং অনুচ্ছেদে",
+        "D": "২৮ (২) নং অনুচ্ছেদে"
+      },
+      "correct_answer": "D",
+      "explanation": "গণপ্রজাতন্ত্রী বাংলাদেশ সংবিধানের দ্বিতীয় ভাগের ১০নং অনুচ্ছেদে ‘সমাজতন্ত্র ও শোষণমুক্তি’ ২১(২) নং অনুচ্ছেদে প্রজাতন্ত্রের কর্মে নিযুক্ত ব্যক্তির কর্তব্য সম্পর্কে বলা হয়েছে। তৃতীয় ভাগের ২৭নং অনুচ্ছেদে ‘আইনের দৃষ্টিতে সমতা’ এবং ২৮(২)নং অনুচ্ছেদে রাষ্ট্র ও গণজীবনের সর্বস্তরে নারীপুরুষের সমান অধিকার বিষয়ে বলা হয়েছে।"
+    },
+    {
+      "question_number": 53,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "UNDP রিপোর্ট সেপ্টেম্বর ২০০৫ সাল মোতাবেক বাংলাদেশের মাথাপিছু আয় কত?",
+      "options": {
+        "A": "৪৪৪ ডলার",
+        "B": "৭৭০ ডলার",
+        "C": "১০৭০ ডলার",
+        "D": "১৭৭০ ডলার"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 54,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "স্বাধীনতা যুদ্ধে অবদানের জন্যে ‘বীরপ্রতীক’ উপাধি লাভ করে কতজন?",
+      "options": {
+        "A": "৭ জন",
+        "B": "৬৮ জন",
+        "C": "১৭৫ জন",
+        "D": "৪২৬ জন"
+      },
+      "correct_answer": "",
+      "explanation": "বাংলাদেশের স্বাধীনতা যুদ্ধে অবদান রাখার জন্য মোট ৬৭৬ জনকে বীরত্বসূচক উপাধি প্রদান করা হয়। এর মধ্যে ৭ জনকে বীরশ্রেষ্ঠ, ৬৮ জনকে বীর উত্তম, ১৭৫ জনকে বীর বিক্রম এবং ৪২৬ জনকে বীর প্রতীক উপাধি প্রদান করা হয়। ৪২৬ জন বীরপ্রতীকের মধ্যে ক্যাপ্টেন সিতারা বেগম (সেনাবাহিনী, ২নং সেক্টর) এবং মোসাম্মৎ তারামন বেগম (গণবাহিনী, ১১ নং সেক্টর) এ দুজন হলেন নারী বীর প্রতীক। জুন, ২০২১ এ মুক্তিযুদ্ধ বিষয়ক মন্ত্রণালয় থেকে জারীকৃত প্রজ্ঞাপনে ১ জন বীর উত্তম, ১ জন বীর বিক্রম ও ২ জন বীর প্রতীক এর খেতাব বাতিল করা হয়েছে।"
+    },
+    {
+      "question_number": 55,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের ইক্ষু গবেষণা ইনস্টিটিউট কোথায় অবস্থিত?",
+      "options": {
+        "A": "দিনাজপুর",
+        "B": "গোপালপুর",
+        "C": "পাকশী",
+        "D": "ঈশ্বরদী"
+      },
+      "correct_answer": "D",
+      "explanation": "পাবনা জেলার ঈশ্বরদীতে 'বাংলাদেশ ইক্ষু গবেষণা ইনস্টিটিউট' অবস্থিত। ১৯৩১ সালে ঢাকায় প্রতিষ্ঠিত হয়েছিল 'ইক্ষু চারা পরীক্ষা কেন্দ্র' নামে একটি প্রতিষ্ঠান। এ প্রতিষ্ঠানটি বর্তমানে একটি জাতীয় স্বায়ত্তশাসিত প্রতিষ্ঠানে পরিণত হয়ে নাম ধারণ করেছে ‘বাংলাদেশ সুগারক্রপ রিসার্চ ইনস্টিটিউট’। যা বর্তমান নামে পরিবর্তন করা হয় ১ নভেম্বর, ২০১৫ সালে।"
+    },
+    {
+      "question_number": 56,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "মিলেনিয়াম ডেভেলপমেন্ট গোল অর্জন করার কথা কোন সময়ে?",
+      "options": {
+        "A": "২০১০ সালে",
+        "B": "২০১৫ সালে",
+        "C": "২০২০ সালে",
+        "D": "২০২৫ সালে"
+      },
+      "correct_answer": "B",
+      "explanation": "মিলেনিয়াম ডেভেলপমেন্ট গোল (MDG) ২০০০ সালে অনুষ্ঠিত সহস্রাব্দ উন্নয়ন সম্মেলনে গৃহীত ঐতিহাসিক 'সহস্রাব্দ উন্নয়ন ঘোষণা' । যাতে বিশ্ববাসীর জন্য ২০১৫ সালের মধ্যে অর্জনযোগ্য আটটি লক্ষ্য নির্ধারণ করা হয়। এ লক্ষ্যগুলো হলো ১. চরম দারিদ্র্য ও ক্ষুধা নির্মূলকরণ, ২. সর্বজনীন প্রাথমিক শিক্ষা- অর্জন, ৩. নারী -পুরুষ সমতা অর্জন ও নারীর ক্ষমতায়নে উৎসাহ দান, ৪. শিশু মৃত্যুর হার হ্রাসকরণ, ৫. মাতৃস্বাস্থ্যের উন্নয়ন, ৬. এইচআইভি/ এইডস, ম্যালেরিয়া ও অন্যান্য রোগ নির্মূল, ৭. পরিবেশগত স্থিতিশীলতা নিশ্চিতকরণ, ৮. সার্বিক উন্নয়নের জন্য বিশ্বব্যাপী অংশীদারিত্ব গড়ে তোলা।"
+    },
+    {
+      "question_number": 57,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "রাজারবাগ পুলিশ লাইনে ‘দুর্জয়’ ভাস্কর্যটির শিল্পী কে?",
+      "options": {
+        "A": "হামিদুর রহমান",
+        "B": "মৃণাল হক",
+        "C": "শামিম শিকদার",
+        "D": "নভেরা আহমেদ"
+      },
+      "correct_answer": "B",
+      "explanation": "'দুর্জয়' ভাস্কর্যটির শিল্পী মৃণাল হক। তার অন্যান্য গুরুত্বপূর্ণ শিল্পকর্ম হচ্ছে মতিঝিল বিমান অফিসের সামনের 'বলাকা' এবং রাজশাহী বিশ্ববিদ্যালয়ের 'গোল্ডেন জুবিলি টাওয়ার'।"
+    },
+    {
+      "question_number": 58,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "চট্টগ্রাম-কক্সবাজার সাবমেরিন কেবলস অপটিক্যাল ফাইবার স্থাপন করার জন্য বাংলাদেশ সরকারকে কত দূরত্বের ব্যয় বহন করতে হবে?",
+      "options": {
+        "A": "৭০০ কিমি",
+        "B": "৫৭০ কিমি",
+        "C": "৩০০ কিমি",
+        "D": "১৭০ কিমি"
+      },
+      "correct_answer": "D",
+      "explanation": "২৭ মার্চ ২০০৪ দুবাইয়ে বাংলাদেশ সরকার সাবমেরিন ক্যাবলের নির্মাণ ও রক্ষণাবেক্ষণ চুক্তিতে স্বাক্ষর করে। ১৪টি দেশের ১৬টি টেলিকম প্রতিষ্ঠানের সমন্বয়ে গঠিত কনসোর্টিয়াম দক্ষিণ-পূর্ব এশিয়া-মধ্যপ্রাচ্য পশ্চিম ইউরোপ -৪ (SEA-ME-WE-4) এর সাথে এ চুক্তির মাধ্যমে বাংলাদেশ প্রবেশ করে তথ্যপ্রযুক্তির সুপার হাইওয়েতে । ফ্রান্সের মার্সাই থেকে সিঙ্গাপুর পর্যন্ত ২২ হাজার কিলোমিটার দীর্ঘ এ সংযোগ লাইনে বাংলাদেশ অংশের দৈর্ঘ্য ১ হাজার ২৪০ কিলোমিটার। বাংলাদেশ কক্সবাজারে এ নেটওয়ার্কের সঙ্গে যুক্ত হয়। ঢাকা ও চট্টগ্রামের মধ্যে ফাইবার অপটিক ক্যাবল সংযোগ রয়েছে। তাই চট্টগ্রাম থেকে কক্সবাজার পর্যন্ত অপটিক্যাল ফাইবার স্থাপনের জন্য ১৭০ কিমি দূরত্বের ব্যয় সরকারকে বহন করতে হয়। ২১ মে ২০০৬ সাবমেরিন ক্যাবল উদ্বোধনের মাধ্যমে বাংলাদেশ তথ্যপ্রযুক্তির এ মহাসরকে যুক্ত হয়।"
+    },
+    {
+      "question_number": 59,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "রাজেন্দ্রপুর সেনানিবাসে অবস্থিত মুক্তিযুদ্ধের স্মৃতিস্তম্ভের নাম কি?",
+      "options": {
+        "A": "বিজয়স্তম্ভ",
+        "B": "বিজয়কেতন",
+        "C": "স্বাধীনতা সোপান",
+        "D": "রক্ত সোপান"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/59.jpg"
+    },
+    {
+      "question_number": 60,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের পোস্টাল একাডেমি কোথায় অবস্থিত?",
+      "options": {
+        "A": "রাজশাহী",
+        "B": "ঢাকা",
+        "C": "চট্টগ্রাম",
+        "D": "খুলনা"
+      },
+      "correct_answer": "A",
+      "explanation": "ডাক বিভাগের কর্মকর্তা-কর্মচারীদের প্রশিক্ষণ দানের লক্ষ্যে ১৯৮৬ সালে রাজশাহীতে একটি পোস্টাল একাডেমি স্থাপন করা হয়েছে। ডাক বিভাগের পুরনো ঐতিহ্য এবং নিদর্শনসমূহ সংরক্ষণের লক্ষ্যে ৯ সেপ্টেম্বর, ১৯৬৬ সালে ঢাকা জিপিওতে একটি পোস্টাল মিউজিয়াম চালু হয়, যা ১৯৮০ সালের ৩০ জানুয়ারি পূর্ণাঙ্গ পোস্টাল মিউজিয়াম হিসেবে আত্মপ্রকাশ করে।"
+    },
+    {
+      "question_number": 61,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "প্রস্তাবিত পদ্মা সেতুর দৈর্ঘ্য কত কিমি?",
+      "options": {
+        "A": "৫.০৩",
+        "B": "৬.০৩",
+        "C": "৪.৮",
+        "D": "৬.৮"
+      },
+      "correct_answer": "",
+      "explanation": "পদ্মা সেতুর দৈর্ঘ্য ৬.১৫ কিলোমিটার। এর আগে এ সেতুর দৈর্ঘ্য ছিল ৫.৮ কিলোমিটার। এখন দু'প্রান্তের সংযোগ সড়কসহ এ সেতুর দৈর্ঘ্য ১২.১৬ কিলোমিটার। পদ্মাসেতু দোতলা, এর উপরে চার লেনের সড়ক, নিচে রেল। সেতুর প্রস্থ ১৮.১০ মিটার (পূর্বে ছিল ২৫ মিটার)।"
+    },
+    {
+      "question_number": 62,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশে সর্বপ্রথম কোন মহিলা টেস্টটিউব শিশুর মা হন?",
+      "options": {
+        "A": "পারভীন ফাতেমা",
+        "B": "ফিরোজা বেগম",
+        "C": "রওশন জাহান",
+        "D": "কানিজ ফাতেমা"
+      },
+      "correct_answer": "B",
+      "explanation": "৩০ মে ২০০১ ধানমণ্ডির সেন্ট্রাল হসপিটালে জন্মলাভ করে হীরা, মণি ও মুক্তা নামে ৩টি টেস্ট টিউব শিশু। এদের বাবা-মা ছিলেন আবু হানিফ ও ফিরোজা বেগম এবং এ প্রকল্পের সার্বিক তত্ত্বাবধানে ছিলেন ডা. পারভীন ফাতেমা।"
+    },
+    {
+      "question_number": 63,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশ জাতিসংঘের কততম সদস্য?",
+      "options": {
+        "A": "১৩৬ তম",
+        "B": "১৩৭ তম",
+        "C": "১৩৮ তম",
+        "D": "১৩৯ তম"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলাদেশ জাতিসংঘের ১৩৬তম সদস্য। ১৭ সেপ্টেম্বর ১৯৭৪ জাতিসংঘের ২৯তম অধিবেশনে ৩টি দেশ সদস্যপদ লাভ করে। এগুলো হচ্ছে – ‘বাংলাদেশ’, ‘গ্রানাডা’ এবং ‘গিনি বিসাউ’। এর পূর্বে জাতিসংঘের সদস্য দেশ ছিল ১৩৫টি। ১৯৭৪ সালের সদস্যপদ লাভকারী দেশ ৩টি নিয়ে জাতিসংঘের সদস্য সংখ্যা দাড়ায় ১৩৮টিতে। তবে বর্ণক্রমানুসারে নাম আসায় বাংলাদেশ ১৩৬তম, গ্রানাডা ১৩৭ তম এবং গিনি বিসাউ ১৩৮তম সদস্যপদ লাভ করে।"
+    },
+    {
+      "question_number": 64,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "কেন্দ্রীয় শহিদ মিনারের স্থপতি কে?",
+      "options": {
+        "A": "তানভীর কবীর",
+        "B": "হামিদুর রহমান",
+        "C": "হামিদুজ্জামান",
+        "D": "অস্কার বাদল"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৫২ সালের ২১ ফেব্রুয়ারির ভাষা শহিদদের স্মরণে ১৯৫২ -এর ২৩ ফেব্রুয়ারি প্রথম শহিদ মিনার স্থাপিত হলেও এর স্থায়িত্ব ছিল কম। তারপর হামিদুর রহমানের নকশা ও পরিকল্পনায় ১৯৫৭ সালের নভেম্বর মাসে দ্বিতীয় বারের মতো শহিদ মিনারের নির্মাণ কাজ শুরু হয় এবং ১৯৫৮ সালের ২১ ফেব্রুয়ারি উদ্ধোধন করা হয়। এরপর বাংলাদেশ স্বাধীন হওয়ার পর পূর্বের নকশা অনুযায়ী শিল্পী হামিদুর রহমান স্থপতি এম এস জাফরের সঙ্গে মিলিতভাবে স্বাধীন বাংলাদেশে কেন্দ্রীয় শহিদ মিনার পুননির্মাণ করেন।"
+    },
+    {
+      "question_number": 65,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "জাতিসংঘ সাধারণ পরিষদের প্রথম বাংলাদেশী সভাপতি কে?",
+      "options": {
+        "A": "বি এ সিদ্দিকী",
+        "B": "খাজা ওয়াসিউদ্দিন",
+        "C": "হুমায়ুন রশীদ চৌধুরী",
+        "D": "শমসের মবিন চৌধুরী"
+      },
+      "correct_answer": "C",
+      "explanation": "হুমায়ুন রশীদ চৌধুরী জাতিসংঘের সাধারণ পরিষদের ৩৯তম অধিবেশনে বাংলাদেশ প্রতিনিধি দলের নেতৃত্ব দেন। এ সময় সাধারণ পরিষদের বেশ কটি অধিবেশনে তিনি ভাইস প্রেসিডেন্ট হিসেবে সভাপতিত্ব করেন। ১৯৮৬ সালের ১৬ ডিসেম্বর তিনি জাতিসংঘের সাধারণ পরিষদের ৪১তম অধিবেশনের সভাপতির দায়িত্ব লাভ করেন।"
+    },
+    {
+      "question_number": 66,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "স্বাধীনতা যুদ্ধে অবদান রাখার জন্য কতজন মহিলাকে বীরপ্রতীক উপাধিতে ভূষিত করা হয়?",
+      "options": {
+        "A": "৫ জন",
+        "B": "৭ জন",
+        "C": "২ জন",
+        "D": "৬ জন"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলাদেশের স্বাধীনতা যুদ্ধে বীরত্বসূচক অবদানের জন্য বাংলাদেশ সরকার দু'জন মহিলাকে বীর প্রতীক খেতাবে ভূষিত করে। তারা হচ্ছেন ক্যাপ্টেন সেতারা বেগম (সেনাবাহিনী, ২নং সেক্টর) এবং মোসাম্মৎ তারামন বেগম (গণবাহিনী, ১১নং সেক্টর)। ক্যাপ্টেন সেতারা বেগমকে ঐ সময় চিহ্নিত করা হলেও, তারামন বেগমকে দীর্ঘ ২৪ বছর পর ডিসেম্বর ১৯৯৫-এ চিহ্নিত করা হয়। ১৯ ডিসম্বের ১৯৯৫ তৎকালীন প্রধানমন্ত্রী খালেদা জিয়া আনুষ্ঠানিকভাবে তারামন বেগমকে বীর প্রতীক খেতাব প্রদান করেন।"
+    },
+    {
+      "question_number": 67,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "কর্মসংস্থান ব্যাংক প্রতিষ্ঠিত হয় কোন সনে?",
+      "options": {
+        "A": "১৯৯৫",
+        "B": "১৯৯৬",
+        "C": "১৯৯৮",
+        "D": "২০০১"
+      },
+      "correct_answer": "C",
+      "explanation": "শিক্ষিত বেকার যুবকদের কর্মসংস্থানের লক্ষ্যে ১৯৯৮ সালের ৩০ জুন প্রতিষ্ঠিত হয় কর্মসংস্থান ব্যাংক। এর সদর দপ্তর ঢাকার মতিঝিলে অবস্থিত। এটি রাষ্ট্র পরিচালিত একটি প্রতিষ্ঠান। এতে রয়েছে ১৫ সদস্যবিশিষ্ট একটি পরিচালনা পরিষদ। চেয়ারম্যান সরকার কর্তৃক নিয়ন্ত্রিত থাকবেন। শেয়ার মালিকরা ৫ জন পরিচালক নির্বাচন করতে পারবেন। ৪০০ কোটি টাকা মূলধন নিয়ে এ ব্যাংক যাত্রা শুরু করে।"
+    },
+    {
+      "question_number": 68,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "লোকসংখ্যার দিক থেকে বাংলাদেশ বিশ্বের কততম স্থানে?",
+      "options": {
+        "A": "৫ম",
+        "B": "৭ম",
+        "C": "৮ম",
+        "D": "১০ম"
+      },
+      "correct_answer": "C",
+      "explanation": "UNFPA-এর জনসংখ্যা বিষয়ক রিপোর্ট ২০০৪ অনুযায়ী বাংলাদেশ বিশ্বের ৭ম জনসংখ্যার দেশ এবং UNFPA- এর জনসংখ্যা রিপোর্ট ২০০৫- এ বাংলাদেশের অবস্থান দাঁড়ায় অষ্টমে। সর্বশেষ ২০২৩ সালের UNFPA রিপোর্ট মতে বাংলাদেশ বিশ্বের অষ্টম জনসংখ্যার দেশ।"
+    },
+    {
+      "question_number": 69,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "সেন্ট মার্টিন দ্বীপের আয়তন কত বর্গ কিলোমিটার?",
+      "options": {
+        "A": "৮",
+        "B": "১০",
+        "C": "১২",
+        "D": "১৪"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলাদেশের একমাত্র প্রবাল দ্বীপ সেন্ট মার্টিনের আয়তন ৮ বর্গকিলোমিটার। দ্বীপটির স্থানীয় নাম ‘নারিকেল জিঞ্জিরা’। এর অবস্থান-টেকনাফ, কক্সবাজার (নাফ নদীর মোহনায়)।"
+    },
+    {
+      "question_number": 70,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশে পরমাণু শক্তি কমিশন গঠিত হয় কোন সনে?",
+      "options": {
+        "A": "১৯৭২",
+        "B": "১৯৭৩",
+        "C": "১৯৭৫",
+        "D": "১৯৯৭"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশের একমাত্র পরমাণু শক্তি গবেষণা ও উন্নয়ন প্রতিষ্ঠান ১৯৭৩ সালের ২৭ ফেব্রুয়ারি প্রতিষ্ঠিত হয়।"
+    },
+    {
+      "question_number": 71,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোন ইঞ্জিনে কার্বুরেটর থাকে?",
+      "options": {
+        "A": "পেট্রোল ইঞ্জিনে",
+        "B": "ডিজেল ইঞ্জিনে",
+        "C": "রকেট ইঞ্জিনে",
+        "D": "বিমান ইঞ্জিনে"
+      },
+      "correct_answer": "A",
+      "explanation": "মোটর গাড়ির যে প্রকোষ্ঠে বায়ু ও পেট্রোল মিশ্রিত করা হয় তাই হলো কার্বুরেটর। বায়ু ও পেট্রোলের মিশ্রণ তৈরি হওয়ার পরে এটিকে দহন প্রকোষ্ঠে পাঠিয়ে দেয়া হয়। সব ইঞ্জিনে কার্বুরেটর থাকে না। শুধু পেট্রোল ইঞ্জিনে এটি থাকে।"
+    },
+    {
+      "question_number": 72,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সর্বাপেক্ষা ছোট তরঙ্গ দৈর্ঘ্যের বিকিরণ হচ্ছে–",
+      "options": {
+        "A": "আলফা রশ্মি",
+        "B": "বিটা রশ্মি",
+        "C": "গামা রশ্মি",
+        "D": "রঞ্জন রশ্মি"
+      },
+      "correct_answer": "C",
+      "explanation": "তরঙ্গের মধ্যে সমদশায় কম্পনশীল দুটি কণিকার ন্যূনতম দূরত্ব হলো তরঙ্গদৈর্ঘ্য। তেজস্ক্রিয় পদার্থ থেকে উচ্চভেদন ক্ষমতাসম্পন্ন আলফা, বিটা ও গামা রশ্মি বিকিরিত হয়। এদের মধ্যে আলফা ও বিটা রশ্মি হচ্ছে মূলত যথাক্রমে ধনাত্মক ও ঋণাত্মক চার্জযুক্ত কণা, কোনো তরঙ্গ নয়; ফলে এদের কোনো তরঙ্গ দৈর্ঘ্য নেই। গামা ও রঞ্জন রশ্মি হলো তড়িৎ চুম্বকীয় তরঙ্গ যেখানে গামা রশ্মির তরঙ্গ দৈর্ঘ্য 10^(-11) মি. এর কম এবং রঞ্জন রশ্মির তরঙ্গ দৈর্ঘ্য 10^11 থেকে 10^8 মি. এর মধ্যে। তাই এখানে সবচেয়ে ছোট তরঙ্গ দৈর্ঘ্যের বিকিরণ হচ্ছে গামা রশ্মি।"
+    },
+    {
+      "question_number": 73,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "মানুষের হৃৎপিণ্ডে কতটি প্রকোষ্ঠ থাকে?",
+      "options": {
+        "A": "দুটি",
+        "B": "চারটি",
+        "C": "ছয়টি",
+        "D": "আটটি"
+      },
+      "correct_answer": "B",
+      "explanation": "মানুষের হৃৎপিণ্ড সম্পূর্ণভাবে চারটি প্রকোষ্ঠে বিভক্ত। উপরের দুটি পাতলা প্রাচীরযুক্ত ডান ও বাম অলিন্দ এবং নিচের দুটি পুরু প্রাচীরযুক্ত ডান ও বাম নিলয়। অন্যদিকে ব্যাঙের হৃদপিণ্ডে প্রকোষ্ঠ থাকে-৩টি।"
+    },
+    {
+      "question_number": 74,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "প্রেসার কুকারে রান্না তাড়াতাড়ি হয়, কারণ–",
+      "options": {
+        "A": "রান্নার জন্য শুধু তাপ নয় চাপও কাজে লাগে",
+        "B": "বদ্ধ পাত্রে তাপ সংরক্ষিত হয়",
+        "C": "উচ্চচাপে তরলের স্ফুটনাংক বৃদ্ধি পায়",
+        "D": "সঞ্চিত বাষ্পের তাপ রান্নার সহায়ক"
+      },
+      "correct_answer": "C",
+      "explanation": "প্রেসার কুকারে রান্না তাড়াতাড়ি হওয়ার কারণ উচ্চচাপ প্রয়োগে তরলের স্ফুটনাংক বৃদ্ধি পায়। প্রেসার কুকারে বাষ্পের বহির্গমন নিয়ন্ত্রণ করার মাধ্যমে অভ্যন্তরীণ চাপ বৃদ্ধির ফলে পানির স্ফুটনাঙ্ক বৃদ্ধি পেয়ে ১৩০০ সেন্টিগ্রেড পর্যন্ত পৌঁছে । এ কারণে প্রেসার কুকারে রান্না তাড়াতাড়ি হয়।"
+    },
+    {
+      "question_number": 75,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বিলিরুবিন তৈরি হয়-",
+      "options": {
+        "A": "পিত্তথলিতে",
+        "B": "কিডনীতে",
+        "C": "প্লীহায়",
+        "D": "যকৃতে"
+      },
+      "correct_answer": "C",
+      "explanation": "বিলিরুবিন হচ্ছে পিত্তরসের কমলা রঙের প্রধান রঞ্জক পদার্থ। হিমোগ্লোবিনের প্রধান দুটি উপাদান- প্রোটিন অংশ গ্লোবিন ও লৌহযুক্ত অংশ হিম (heme)। হিম ভেঙে শেষ পর্যন্ত বিলিরুবিনের পরিণত হয়। পিত্তের বর্ণের জন্য দায়ী বিলিরুবিন। বিলিরুবিন তৈরি হয় প্লীহায়। রক্তে বিলিরুবিনের স্বাভাবিক মাত্রা ০.২-০.৮ মিগ্রাম/ডেসিলিটার। রক্তে বিলিরুবিনের মাত্রা বেড়ে যাওয়াকে জন্ডিস বা পাণ্ডুরোগ বলে।"
+    },
+    {
+      "question_number": 76,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "মানুষের গায়ের রং কোন উপাদানের উপর নির্ভর করে?",
+      "options": {
+        "A": "মেলানিন",
+        "B": "থায়ামিন",
+        "C": "ক্যারোটিন",
+        "D": "হিমোগ্লোবিন"
+      },
+      "correct_answer": "A",
+      "explanation": "মানুষের ত্বকে দুটি স্তর আছে। এর বাইরেরটি বহিঃত্বক বা 'এপিডারমিস' এবং ভেতরেরটিকে বলে অন্তঃত্বক বা 'ডারমিস'। বহিঃত্বককে আবার কয়েকটি স্তরে ভাগ করা যায়। এর মধ্যে সবচেয়ে ভেতরেরটির নাম 'স্ট্র্যাটাম বেসাল' (Stratum basale)। এই স্তরে কতগুলো বিশেষ ধরনের কোষ আছে- এদের বলে 'মেলানোসাইট' (Melanocyte)। মেলানোসাইটগুলোর মধ্যে আছে রঞ্জক কণা ‘মেলানিন’। গাঢ় রঙের এই কণাগুলোই ত্বকের কালো রঙের জন্য দায়ী। যাদের ত্বকে মেলানিনের পরিমাণ খুব বেশি তাদের গায়ের রঙ কালো। ত্বকে মেলানিনের পরিমাণ কম থাকলে গায়ের রঙ ফর্সা হয়। ভিটামিন B_1 এর অপর নাম থায়ামিন। ক্যারোটিন এর ধরনের আনস্যাচুরেটেড হাইড্রোকার্বন যা শুধু উদ্ভিত দেহে তৈরি হয়। হিমোগ্লোবিন এক ধরনের প্রোটিন যা প্রায় সকল মেরুদণ্ডী প্রাণির লোহিত রক্ত কণিকায় পাওয়া যায়।"
+    },
+    {
+      "question_number": 77,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বাদুড় অন্ধকারে চলাফেরা করে কিভাবে?",
+      "options": {
+        "A": "তীক্ষ্ম দৃষ্টিসম্পন্ন চোখের সাহায্যে",
+        "B": "ক্রমাগত শব্দ উৎপন্নের মাধ্যমে অবস্থান নির্ণয় করে",
+        "C": "সৃষ্ট শব্দের প্রতিধ্বনি শুনে",
+        "D": "অলৌকিকভাবে"
+      },
+      "correct_answer": "C",
+      "explanation": "উচ্চ কম্পাঙ্কের শব্দোত্তর তরঙ্গ সৃষ্টি করে তার প্রতিধ্বনির মাধ্যমে বাদুড় পথ চলে। বাদুড় চলার সময় ক্রমাগত উচ্চ কম্পাঙ্কের শব্দোত্তর তরঙ্গ সৃষ্টি করে এবং সেই শব্দ এটির সামনের বস্তু থেকে প্রতিফলিত হয়ে বাদুড়ের কানে ফিরে আসে। সৃষ্ট শব্দোত্তর তরঙ্গ ও প্রতিধ্বনি শোনার মধ্যবর্তী সময়ের ব্যবধান এবং প্রতিফলিত শব্দের প্রকৃতি থেকে বাদুড় সহজেই প্রতিবন্ধকের অবস্থান ও আকৃতি সম্বন্ধে ধারণা করতে পারে। ফলে পথ চলার সময় বাদুড় সেই প্রতিবন্ধকতা পরিহার করে।"
+    },
+    {
+      "question_number": 78,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "গাছের খাদ্য তালিকায় আছে?",
+      "options": {
+        "A": "N, P, K, S ও Zn",
+        "B": "Na, P, K, S ও Zn",
+        "C": "N, B, K, S ও Al",
+        "D": "N, P, K, S ও Al"
+      },
+      "correct_answer": "A",
+      "explanation": "উদ্ভিদের সার্বিক বৃদ্ধির প্রয়োজনে দশটি খনিজ উপাদান বিশেষ দরকারি। এগুলো হচ্ছে -কার্বন (C), হাইড্রোজেন (H), অক্সিজেন (O), নাইট্রোজেন (N), ফসফরাস (P), পটাশিয়াম (K), ক্যালসিয়াম (Ca), সালফার (S), ম্যাগনেসিয়াম (Mg) এবং লোহা (Fe)। উপরোক্ত প্রশ্নের (ক) তালিকায় সবগুলোই এই দশ প্রকার খনিজের মধ্যে রয়েছে। সুতরাং সঠিক উত্তর (ক)।"
+    },
+    {
+      "question_number": 79,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "নিচের কোনটি DNA এর নাইট্রোজেন বেস?",
+      "options": {
+        "A": "ইউরাসিল",
+        "B": "গোয়ানিন",
+        "C": "পিরিডক্সিন",
+        "D": "অ্যাসপারাজিন"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/27th%20BCS/79.jpg"
+    },
+    {
+      "question_number": 80,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "নিচের কোনটি পরমাণুর নিউক্লিয়াসে থাকে না?",
+      "options": {
+        "A": "meson",
+        "B": "neutron",
+        "C": "proton",
+        "D": "electron"
+      },
+      "correct_answer": "D",
+      "explanation": "পদার্থের পরমাণুর কেন্দ্রে রয়েছে নিউক্লিয়াস। নিউক্লিয়াস গঠিত হয় প্রোটন (proton) এবং নিউট্রনের (Netron) সমন্বয়ে। ইলেকট্রন, নিউট্রন ও প্রোটনকে কেন্দ্র করে ঘুরতে থাকে। প্রোটনের চার্জ পজেটিভ এবং ইলেকট্রনের চার্জ নেগেটিভ। একটি পরমাণুতে ইলেকট্রন ও প্রোটন সংখ্যা সমান থাকে এবং এজন্য পরমাণু চার্জ নিরপেক্ষ হয়। অপরপক্ষে মেসন (Meson) এক ধরনের অস্থিত মৌলিক কণিকা যা কসমিক রশ্মিতে এবং পরমাণু কেন্দ্রের বিভাজনে পাওয়া যায়।"
+    },
+    {
+      "question_number": 81,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "২০০৫ সালে যুক্তরাষ্ট্রের দক্ষিণ বা দক্ষিণ-পশ্চিম অঞ্চলে সর্বপ্রথম কোন হারিকেনটি আঘাত হানে?",
+      "options": {
+        "A": "ডেনিস",
+        "B": "ক্যাটরিনা",
+        "C": "আইভান",
+        "D": "রিটা"
+      },
+      "correct_answer": "B",
+      "explanation": "২০০৫ সালের ২৯ আগস্ট যুক্তরাষ্ট্রের সমুদ্র উপকূলবর্তী অঙ্গরাজ্য লুইজিয়ানার 'গ্র্যান্ড ইল' এলাকায় প্রথম আঘাত হানে ঘূর্ণিঝড় 'ক্যাটরিনা'।"
+    },
+    {
+      "question_number": 82,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোন দেশটি স্ক্যানডিনেভিয়ার অন্তর্ভুক্ত নয়?",
+      "options": {
+        "A": "ডেনমার্ক",
+        "B": "ফিনল্যান্ড",
+        "C": "নেদারল্যান্ডস",
+        "D": "যুক্তরাষ্ট্র"
+      },
+      "correct_answer": "C",
+      "explanation": "'স্ক্যান্ডিনেভিয়া' হচ্ছে ইউরোপ মহাদেশের উত্তরাঞ্চলের একটি এলাকার নাম। স্ক্যান্ডিনেভিয়া বলতে ৫ টি দেশ বুঝায়। এগুলো হচ্ছে: ডেনমার্ক, ফিনল্যান্ড, আইসল্যান্ড, নরওয়ে এবং সুইডেন।"
+    },
+    {
+      "question_number": 83,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "মুসলমান প্রধান না হয়েও কোন দেশটি ইসলামী সহযোগিতা সংস্থার সদস্য?",
+      "options": {
+        "A": "নাইজেরিয়া",
+        "B": "লেবানন",
+        "C": "নাইজার",
+        "D": "উগান্ডা"
+      },
+      "correct_answer": "D",
+      "explanation": "ওআইসি (Organisation of Islamic Cooperation) মূলত মুসলিম সংখ্যাগরিষ্ঠ দেশের সংগঠন। উপরিউক্ত দেশগুলোর মধ্যে মুসলমানদের সংখ্যা নাইজেরিয়ায় ৬৪%, লেবাননে ৫৭%, নাইজারে ৯৭% এবং উগান্ডায় ৩৬% ।"
+    },
+    {
+      "question_number": 84,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কিউবায় ক্ষেপণাস্ত্র সঙ্কটের সময় যুক্তরাষ্ট্রের প্রেসিডেন্ট কে ছিলেন?",
+      "options": {
+        "A": "রিচার্ড এম নিক্সন",
+        "B": "জন এফ কেনেডি",
+        "C": "লিন্ডন বেইনস জনসন",
+        "D": "হ্যারি এস ট্রুম্যান"
+      },
+      "correct_answer": "B",
+      "explanation": "জন এফ কেনেডি ডেমোক্র্যাট দল থেকে নির্বাচিত যুক্তরাষ্ট্রের ৩৫তম প্রেসিডেন্ট। তিনি আন্তর্জাতিক ক্ষেত্রে সবচেয়ে বড় সঙ্কট মোকাবিলা করেন ১৯৬২ সালের কিউবার ক্ষেপনাস্ত্র সংকট। কিউবায় সাবেক সোভিয়েত ইউনিয়ন ক্ষেপণাস্ত্র মোতায়েন করলে এই সঙ্কটের সৃষ্টি হয়।"
+    },
+    {
+      "question_number": 85,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "মার্কিন যুক্তরাষ্ট্রের কোন প্রেসিডেন্ট ১২ বছর ক্ষমতায় অধিষ্ঠিত ছিলেন?",
+      "options": {
+        "A": "হ্যারি এস ট্রুম্যান",
+        "B": "ফ্রাঙ্কলিন রুজভেল্ট",
+        "C": "জেমস মনরো",
+        "D": "তথ্যটি সঠিক নয়"
+      },
+      "correct_answer": "B",
+      "explanation": "যুক্তরাষ্ট্রে সবচেয়ে বেশি সময় ক্ষমতায় ছিলেন ডেমোক্র্যাট দল থেকে নির্বাচিত ৩২তম প্রেসিডেন্ট ফ্রাঙ্কলিন ডি রুজভেল্ট। তিনি তিন মেয়াদে ১৯৩৩ থেকে ১৯৪৫ পর্যন্ত ১২ বছর ক্ষমতায় ছিলেন। তার সময়েই শুরু হয় দ্বিতীয় বিশ্বযুদ্ধ। হ্যারি এস ট্রুম্যান ডেমোক্র্যাট দল থেকে নির্বাচিত যুক্তরাষ্ট্রের ৩৩তম প্রেসিডেন্ট। তিনি ক্ষমতায় ছিলেন ১৯৪৫ -১৯৫৩ সাল পর্যন্ত ২ মেয়াদে ৮ বছর। তার আদেশেই হিরোশিমা ও নাগাসাকিতে পারমাণবিক হামলা চালানো হয়।"
+    },
+    {
+      "question_number": 86,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ভারতীয় লোকসভার নির্বাচিত সদস্য সংখ্যা কত?",
+      "options": {
+        "A": "৫৪৩",
+        "B": "৫৪৫",
+        "C": "৪১৪",
+        "D": "৫৪০"
+      },
+      "correct_answer": "A",
+      "explanation": "দ্বি-কক্ষ বিশিষ্ট ভারতীয় কেন্দ্রীয় পার্লামেন্টের নিম্নকক্ষের নাম লোকসভা। ভারতের সংবিধান অনুযায়ী লোকসভার আসন সংখ্যা হতে পারবে সর্বোচ্চ ৫৫২। তবে বর্তমান লোকসভার সদস্য সংখ্যা ৫৪৫। এর মধ্যে নির্বাচিত সদস্য সংখ্যা ৫৪৩ এবং অ্যাংলো-ইন্ডিয়ানদের জন্য সংরক্ষিত ২টি আসনে রাষ্ট্রপতির মনোনীত অ্যাংলো-ইন্ডিয়ান প্রার্থী প্রতিনিধিত্ব করেন।"
+    },
+    {
+      "question_number": 87,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোন দেশের মহিলারা সর্বপ্রথম ভোটাধিকার লাভ করে?",
+      "options": {
+        "A": "মার্কিন যুক্তরাষ্ট্র",
+        "B": "নিউজিল্যান্ড",
+        "C": "বাহামা",
+        "D": "সুইজারল্যান্ড"
+      },
+      "correct_answer": "B",
+      "explanation": "বিশ্বের প্রথম দেশ হিসেবে ১৮৯৩ সালে নিউজিল্যান্ডে নারীর ভোটাধিকার স্বীকৃত হয়। ভোটাধিকার প্রাপ্তির শতবর্ষ উদযাপন উপলক্ষে এ দেশে ১৯৯৩ সালে রাজনৈতিক দলে নেতৃত্বের আনুপাতিক আইন পাস হয়। এই আইনে নিউজিল্যান্ডে পার্লামেন্টে নারীর ৩০ ভাগ আসন নিশ্চিত করা হয়। যুক্তরাষ্ট্রে মহিলারা ভোটাধিকার লাভ করে ১৯২০ সালে।"
+    },
+    {
+      "question_number": 88,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "রাসায়নিক অস্ত্র চুক্তি (Chemical Weapons Convention) কোন সালে স্বাক্ষরিত হয়?",
+      "options": {
+        "A": "১৯৯০",
+        "B": "১৯৯৩",
+        "C": "১৯৯৬",
+        "D": "১৯৯৯"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৯৩ সালে রাসায়নিক অস্ত্র কনভেনশন (Chemical Weapons Convention) স্বাক্ষরিত হয়। এ চুক্তিতে রাসায়নিক অস্ত্রের উন্নয়ন, উৎপাদন, মজুদ ও ব্যবহার নিষিদ্ধ করা ও এসব ধ্বংস করার ব্যবস্থা রয়েছে। এই চুক্তি ১৯৯৭ সালে থেকে কার্যকর করা হয়েছে।"
+    },
+    {
+      "question_number": 89,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোন পরিষদের সুপারিশক্রমে জাতিসংঘে নতুন সদস্য গ্রহণ করা হয়?",
+      "options": {
+        "A": "অছি পরিষদ",
+        "B": "সাধারণ পরিষদ",
+        "C": "নিরাপত্তা পরিষদ",
+        "D": "অর্থনৈতিক ও সামাজিক পরিষদ"
+      },
+      "correct_answer": "C",
+      "explanation": "জাতিসংঘের নতুন সদস্য গ্রহণ করা হয় সাধারণ পরিষদের সদস্যদের ভোটের মাধ্যমে। তবে চূড়ান্তভাবে সদস্য গ্রহণের পূর্বে জাতিসংঘের নিরাপত্তা পরিষদের সুপারিশের প্রয়োজন হয়।"
+    },
+    {
+      "question_number": 90,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোন মুসলিম মনীষী সর্বপ্রথম নোবেল পুরস্কার পান?",
+      "options": {
+        "A": "ইয়াসির আরাফাত",
+        "B": "নাগীব মাহফুজ",
+        "C": "আনোয়ার সাদাত",
+        "D": "প্রফেসর আব্দুস সালাম"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৭৮ সালে মিশরের প্রেসিডেন্ট আনোয়ার সাদাত প্রথম মুসলিম হিসেবে শান্তিতে নোবেল পুরস্কার লাভ করেন। পাকিস্তানের প্রফেসর আবদুস সালাম পদার্থবিজ্ঞানে নোবেল পুরস্কার পান ১৯৭৯ সালে। মিসরের নাগীব মাহফুজ সাহিত্যে ১৯৮৮ সালে এবং ফিলিস্তিনের প্রেসিডেন্ট ইয়াসির আরাফাত ১৯৯৪ সালে শান্তিতে এই পুরস্কার লাভ করেন।"
+    },
+    {
+      "question_number": 91,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বাদশা ফাহাদের পর সৌদি বাদশা কে হন?",
+      "options": {
+        "A": "খালেদ",
+        "B": "ফয়সাল",
+        "C": "আব্দুল আজিজ",
+        "D": "আবদুল্লাহ"
+      },
+      "correct_answer": "D",
+      "explanation": "১ আগস্ট, ২০০৫ বাদশা ফাহাদ বিন আবদুল আজিজের মৃত্যুর পর নতুন বাদশা হন তার বৈমাত্রেয় ভাই যুবরাজ আবদুল্লাহ বিন আবদুল আজিজ এবং নতুন ক্রাউন প্রিন্স মনোনীত হন প্রয়াত বাদশার আপন ভাই ও প্রতিরক্ষা মন্ত্রী সুলতান বিন আবদুল আজিজ। উল্লেখ্য, বাদশাহ আবদুল্লাহ (২৩ জানুয়ারি, ২০১৫ ) মারা যাওয়ার পর নতুন বাদশাহ হিসেবে সিংহাসনে বসেন সালমান বিন আবদুল আজিজ।"
+    },
+    {
+      "question_number": 92,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "অক্সফাম (Oxfam) এর সদর দপ্তর কোথায়?",
+      "options": {
+        "A": "নিউইয়র্ক",
+        "B": "ক্যামেনিক্স",
+        "C": "লন্ডন",
+        "D": "হেগ"
+      },
+      "correct_answer": "C",
+      "explanation": "অক্সফাম (Oxfam) ব্রিটেনের বিখ্যাত আন্তর্জাতিক স্বেচ্ছাসেবী দাতব্য সংস্থা। ১৯৪২ সালে প্রতিষ্ঠিত সংস্থাটির সদর দপ্তর লন্ডনে অবস্থিত। বর্তমানে এর সদর দপ্তর কেনিয়ার নাইরোবিতে অবস্থিত।"
+    },
+    {
+      "question_number": 93,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোনটি বিংশ শতাব্দীর শেষভাগে উপনিবেশবাদের নিগড় থেকে মুক্ত হয়?",
+      "options": {
+        "A": "হংকং",
+        "B": "শ্রীলংকা",
+        "C": "ম্যাকাউ",
+        "D": "বাংলাদেশ"
+      },
+      "correct_answer": "C",
+      "explanation": "ব্যাখ্যাঃ বিংশ শতাব্দীর শেষভাগে পর্তুগাল তাঁর উপনিবেশ 'ম্যাকাউ' ১৯৯৯ সালের ১৯ ডিসেম্বর মধ্য রাতে চীনের কাছে হস্তান্তর করে এবং ২০ ডিসেম্বর থেকে ম্যাকাউর ওপর চীনের পূর্ণ কর্তৃত্ব প্রতিষ্ঠিত হয়। ব্রিটিশ উপনিবেশ হংকং চীনের কাছে হস্তান্তর করা হয় ১৯৯৭ সালের ৩০ জুন মধ্যরাতে।"
+    },
+    {
+      "question_number": 94,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "নিচের কোন চুক্তিটি যুক্তরাষ্ট্রের সিনেটে অনুমোদিত হয়নি?",
+      "options": {
+        "A": "এবিএম চুক্তি (ABM)",
+        "B": "সল্ট-১ চুক্তি (SALT-1)",
+        "C": "সল্ট-২ চুক্তি (SALT-2)",
+        "D": "স্টার্ট-২ চুক্তি (START-2)"
+      },
+      "correct_answer": "C",
+      "explanation": "ABM Treaty (Anti Ballistic Missile) ১৯৭২ সালের ৩ আগস্ট মার্কিন সিনেটে অনুমোদিত হয়। SALT-1 (Strategic Arms Limitation Talks) ৩০ সেপ্টেম্বর, ১৯৭২ মার্কিন সিনেটে অনুমোদন লাভ করে। ১৮ জুন, ১৯৭৯ মার্কিন প্রেসিডেন্ট জিমি কার্টার ও সোভিয়েত প্রেসিডেন্ট লিওনিদ ব্রেজনভের মধ্যে স্বাক্ষরিত SALT-2 চুক্তিটি মার্কিন সিনেটে অনুমোদন লাভ করেনি। START-2 (Strategic Arms Reduction Treaty) চুক্তি মার্কিন সিনেটে অনুমোদিত হয় ২৬ সেপ্টেম্বর, ১৯৯৭।"
+    },
+    {
+      "question_number": 95,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "Amnesty International কত সালে নোবেল শান্তি পুরস্কার পেয়েছিল?",
+      "options": {
+        "A": "১৯৭৭",
+        "B": "১৯৭৮",
+        "C": "১৯৭৯",
+        "D": "১৯৮১"
+      },
+      "correct_answer": "A",
+      "explanation": "আন্তর্জাতিক সেবাধর্মী স্বেচ্ছাসেবী সংগঠন 'অ্যামনেস্টি ইন্টারন্যাশনাল' ২৮ মে, ১৯৬১ সালে ব্রিটিশ আইনজ্ঞ পিটার বেনেনসন প্রতিষ্ঠা করেন। এর সদর দপ্তর যুক্তরাজ্যের লন্ডনে। এ সংস্থা সেবাধর্মী কার্যক্রমের জন্য ১৯৭৭ সালে শান্তিতে নোবেল পুরস্কার লাভ করে। বর্তমানে এই সংস্থার মহাসচিব ফ্রান্সের Agnes Callamard."
+    },
+    {
+      "question_number": 96,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "START-2 কি?",
+      "options": {
+        "A": "টিভিতে সম্প্রচারিত একটি সিরিয়াল",
+        "B": "বাণিজ্য সংক্রান্ত একটি চুক্তি",
+        "C": "কৌশলগত অস্ত্র হ্রাস সংক্রান্ত চুক্তি",
+        "D": "এর কোনোটিই নয়"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৯৩ সালের ৩ জানুয়ারি মার্কিন যুক্তরাষ্ট্র রাশিয়ার মধ্যে পারমাণবিক অস্ত্র বিশেষত দূর পাল্লার পারমাণবিক ক্ষেপণাস্ত্র আগামী ১০ বছরের মধ্যে (১৯৯৩-২০০২) দুই-তৃতীয়াংশ হ্রাস করার লক্ষ্যে এই চুক্তি স্বাক্ষরিত হয়। রাশিয়ার মস্কোতে এ চুক্তিতে যুক্তরাষ্ট্রের পক্ষে স্বাক্ষর করেন যুক্তরাষ্ট্রের তৎকালীন প্রেসিডেন্ট জর্জ বুশ (সিনিয়র) এবং রাশিয়ার পক্ষে স্বাক্ষর করেন সে দেশের তৎকালীন প্রেসিডেন্ট বরিস ইয়েলেৎসিন।"
+    },
+    {
+      "question_number": 97,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আসিয়ান রিজিওনাল ফোরাম (ARF) এর সদস্য সংখ্যা কত?",
+      "options": {
+        "A": "২১",
+        "B": "২২",
+        "C": "২৩",
+        "D": "২৬"
+      },
+      "correct_answer": "",
+      "explanation": "ARF-এর বর্তমান সদস্য সংখ্যা ২৭। সর্বশেষ সদস্য পদ লাভ করে শ্রীলংকা ২০০৭ সালের ১ আগস্ট। আসিয়ান রিজিওয়ান ফোরামের (এআরএফ) ২৬তম সদস্য দেশ বাংলাদেশ। ২০০৬ সালের ২৮ জুলাই বাংলাদেশ সদস্যপদ লাভ করে। ARF প্রতিষ্ঠিত হয় ১৯৯৪ সালের ২৫ জুলাই। এর সদর দপ্তর ইন্দোনেশিয়ার জাকার্তায় ।"
+    },
+    {
+      "question_number": 98,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "মালয়েশিয়ার সাবেক প্রধানমন্ত্রী ড. মাহাথির মোহাম্মদ কত বছর ক্ষমতায় ছিলেন?",
+      "options": {
+        "A": "২১ বছর",
+        "B": "২২ বছর",
+        "C": "২৪ বছর",
+        "D": "২৫ বছর"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৮১ থেকে ২০০৩ সাল পর্যন্ত দীর্ঘ ২২ বছর ক্ষমতায় থাকার পর স্বেচ্ছায় পদত্যাগের পর বিশ্বে তিনি মহান নেতা হিসেবে সম্মানিত হচ্ছেন । তিনি তার মেধা, প্রজ্ঞাকে কাজে লাগিয়ে ৭০ দশকের কৃষিপ্রধান দরিদ্র মালয়েশিয়াকে শিল্পভিত্তিক মধ্য আয়ের দেশে পরিণত করে বিশ্বে ঈর্ষণীয় সাফল্য দেখিয়েছেন। উল্লেখ্য, ১০ মে, ২০১৮ তিনি পুনরায় দেশটির প্রধানমন্ত্রী নির্বাচিত হন। ২৫ ফেব্রুয়ারি, ২০২০ সালে তিনি পদত্যাগ করেন। অর্থাৎ মোট ২৪ বছর ক্ষমতায়।"
+    },
+    {
+      "question_number": 99,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বাংলাদেশ কত সালে ইসলামী সম্মেলন সংস্থার সদস্যপদ লাভ করে?",
+      "options": {
+        "A": "১৯৭২ সালে",
+        "B": "১৯৭৩ সালে",
+        "C": "১৯৭৪ সালে",
+        "D": "১৯৭৫ সালে"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৭৪ সালের ২৩ ফেব্রুয়ারি পাকিস্তানের লাহোরে অনুষ্ঠিত ওআইসির দ্বিতীয় শীর্ষ সম্মেলনে বাংলাদেশ সদস্যপদ লাভ করে। কমনওয়েলথ, NAM, আইএমএফ, আইএলও, ইউনেস্কো প্রভৃতি সংস্থার সদস্যপদ বাংলাদেশ লাভ করে ১৯৭২ সালে। ১৯৭৩ সালে বাংলাদেশ FAO, WMO, UPU -এর সদস্যপদ লাভ করে। উল্লেখ্য, ২৮ জুন, ২০১১ ইসলামী সম্মেলন সংস্থার নাম পরিবর্তন করে ইসলামী সহযোগিতা সংস্থা রাখা হয়।"
+    },
+    {
+      "question_number": 100,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ইরাকের বর্তমান প্রেসিডেন্ট জালাল তালাবানি কোন সম্প্রদায়ের?",
+      "options": {
+        "A": "সুন্নি",
+        "B": "শিয়া",
+        "C": "কুর্দি",
+        "D": "খ্রিস্টান"
+      },
+      "correct_answer": "",
+      "explanation": "ইরাকের বর্তমান প্রেসিডেন্ট আবুদল লতিফ রশিদ এবং প্রধানমন্ত্রী মোহাম্মদ শিয়া সাব্বার আল সুদানি।"
+    }
+  ]
+}

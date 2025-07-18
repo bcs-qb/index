@@ -1,0 +1,1306 @@
+{
+  "exam_name": "11st-bcs Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘বৈরাগ্য সাধনে– সে আমার নয়।’ শূন্যস্থান পূরণ করুন।",
+      "options": {
+        "A": "আনন্দ",
+        "B": "মুক্তি",
+        "C": "বিশ্বাস",
+        "D": "আশ্বাস"
+      },
+      "correct_answer": "B",
+      "explanation": "রবীন্দ্রনাথ ঠাকুরের ‘নৈবেদ্য’ কাব্যগ্রন্হের ৩০ তম কবিতার প্রথম লাইন হলো “বৈরাগ্য সাধনে মুক্তি সে আমার নয়”।"
+    },
+    {
+      "question_number": 2,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "সমাস ভাষাকে-",
+      "options": {
+        "A": "সংক্ষেপ করে",
+        "B": "বিস্তৃত করে",
+        "C": "ভাষারূপ ক্ষুণ্ন করে",
+        "D": "অর্থবোধক করে"
+      },
+      "correct_answer": "A",
+      "explanation": "সমাস মানে সংক্ষেপ, মিলন, একাধিক পদের একপদীকরণ। অর্থসম্বন্ধ আছে এমন একাধিক শব্দের এক সঙ্গে মিলিত হয়ে একটি নতুন শব্দ গঠনের প্রক্রিয়াকে সমাস বলে।"
+    },
+    {
+      "question_number": 3,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘সূর্য’-এর প্রতিশব্দ-",
+      "options": {
+        "A": "সুধাংশু",
+        "B": "শশাঙ্ক",
+        "C": "বিধু",
+        "D": "আদিত্য"
+      },
+      "correct_answer": "D",
+      "explanation": "সূর্য-এর প্রতিশব্দ হলো রবি, ভানু, আফতাব, ভাস্কর, আদিত্য, দিবাকর, তপন, দিনমণি, মার্তণ্ড, অর্ঘমা, অর্ক, পুষা, সবিতা, প্রভাকর, মিহির, অরুণ, দিনেশ, বিভাকর, বালার্ক ইত্যাদি। চন্দ্র এর প্রতিশব্দ হলো চাঁদ, সুধাংশু, সুধাকর, শশাঙ্ক, শশধর, শশী, হিমাংশু, বিধু, নিশাকর, সোম, শীতাংশু, ইন্দু, নিশাপতি, মৃগাঙ্ক ইত্যাদি।"
+    },
+    {
+      "question_number": 4,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘অর্ধচন্দ্র’-এর অর্থ-",
+      "options": {
+        "A": "গলাধাক্কা দেয়া",
+        "B": "অমাবস্যা",
+        "C": "দ্বিতীয়ত",
+        "D": "কাস্তে"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 5,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোনটি শুদ্ধ?",
+      "options": {
+        "A": "সৌজন্নতা",
+        "B": "সৌজন্যতা",
+        "C": "সৌজনতা",
+        "D": "সৌজন্য"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 6,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বেগম রোকেয়ার রচনা কোনটি?",
+      "options": {
+        "A": "ভাষা ও সাহিত্য",
+        "B": "আয়না",
+        "C": "লালসালু",
+        "D": "অবরোধবাসিনী"
+      },
+      "correct_answer": "D",
+      "explanation": "বেগম রোকেয়া সাখাওয়াত হোসেন রচিত প্রবন্ধ। এ প্রবন্ধে নারীর দুঃখ দুর্দশার চিত্র ফুটিয়ে তোলা হয়েছে। ‘মতিচূর’ ও ‘পদ্মরাগ’।"
+    },
+    {
+      "question_number": 7,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বাংলা গীতি কবিতায় ভোরের পাখি কে?",
+      "options": {
+        "A": "বিহারীলাল চক্রবর্তী",
+        "B": "প্যারীচাঁদ মিত্র",
+        "C": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "D": "শরৎচন্দ্র চট্রোপাধ্যায়"
+      },
+      "correct_answer": "A",
+      "explanation": "বিহারীলাল চক্রবর্তী বাংলা গীতিকবিতার জনক। বাংলা সাহিত্যের আধুনিক যুগের প্রথম দিকে সফল গীতিকবিতা রচনার জন্য বিশ্বকবি রবীন্দ্রনাথ ঠাকুর বিহারীলাল চক্রবর্তীকে ‘ভোরের পাখি’ উপাধি দেন। তার প্রকাশিত কাব্যগ্রন্হ হলো- স্বপ্নদর্শন, সঙ্গীত শতক (১৮৬২), বঙ্গসুন্দরী (১৮৭০), নিসর্গ সন্দর্শন (১৮৭০), বন্ধুবিয়োগ (১৮৭০), প্রেম প্রবাহিনী ও সারদামঙ্গল।"
+    },
+    {
+      "question_number": 8,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোনটি শুদ্ধ বাক্য?",
+      "options": {
+        "A": "একটা গোপনীয় কথা বলি",
+        "B": "একটি গোপন কথা বলি",
+        "C": "একটি গোপন কথা বলি",
+        "D": "একটি গুপ্ত কথা বলি"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 9,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘শিষ্টাচার’-এর সমার্থক শব্দ কোনটি?",
+      "options": {
+        "A": "নিষ্ঠা",
+        "B": "সদাচার",
+        "C": "সততা",
+        "D": "সংযম"
+      },
+      "correct_answer": "B",
+      "explanation": "‘নিষ্ঠা’ অর্থ একাগ্রতা, অনন্যচিত্ততা। ‘সততা’ অর্থ সত্যপরায়ণতা, সত্যনিষ্ঠা। ‘সংযম’ অর্থ নিয়ন্ত্রণ, দমন। ‘শিষ্টাচার’ অর্থ ভদ্রতা, সৌজন্য, সদাচার।"
+    },
+    {
+      "question_number": 10,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘সংশয়’-এর বিপরীতার্থক শব্দ কোনটি?",
+      "options": {
+        "A": "নির্ভয়",
+        "B": "বিস্ময়",
+        "C": "প্রত্যয়",
+        "D": "দ্বিধা"
+      },
+      "correct_answer": "C",
+      "explanation": "ভয়-নির্ভয়; প্রত্যয়-সংশয়; দ্বিধা-নির্দ্বিধা; বিস্ময়-প্রত্যয়।"
+    },
+    {
+      "question_number": 11,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘ক্ষমার যোগ্য’-এর বাক্য সংকোচন-",
+      "options": {
+        "A": "ক্ষমার্হ",
+        "B": "ক্ষমাপ্রার্থী",
+        "C": "ক্ষমা",
+        "D": "ক্ষমাপ্রদ"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 12,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "_____ সেপ্টেম্বর বিশ্ব নিরক্ষরতা দিবস।’ শূন্যস্থান পূরণ করুন।",
+      "options": {
+        "A": "৮",
+        "B": "৬",
+        "C": "১০",
+        "D": "৫"
+      },
+      "correct_answer": "A",
+      "explanation": "[Note: প্রশ্ন ‘নিরক্ষরতা’র স্থলে ‘সাক্ষরতা’ হবে]"
+    },
+    {
+      "question_number": 13,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘মোস্তফা চরিত’ গ্রন্থের রচয়িতা-",
+      "options": {
+        "A": "মুহম্মদ আব্দুল হাই",
+        "B": "মোঃ বরকতুল্লাহ",
+        "C": "ড. মুহম্মদ শহীদুল্লাহ",
+        "D": "মওলানা আকরম খাঁ"
+      },
+      "correct_answer": "D",
+      "explanation": "মওলানা আকরম খাঁর (১৮৬৮-১৯৬৮) শ্রেষ্ঠ রচনা ‘মোস্তফা চরিত’ (১৯২৩)। এটি হযরত মুহম্মদ (স)-এর জীবনীমূলক রচনা। তার উল্লেখযোগ্য গ্রন্থ ‘তফসিরুল কুরআন’ (পবিত্র কুরআনের বঙ্গানুবাদ), ‘সমাজ ও সমাধান’, ‘মোসলেম বাংলার সামাজিক ইতিহাস’, ‘মুক্তি ও ইসলাম’।"
+    },
+    {
+      "question_number": 14,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘আমার দেখা রাজনীতির পঞ্চাশ বছর’ গ্রন্থটির রচয়িতা-",
+      "options": {
+        "A": "মুহম্মদ আব্দুল হাই",
+        "B": "ড. মুহম্মদ শহীদুল্লাহ",
+        "C": "আবুল মনসুর আহমেদ",
+        "D": "আতাউর রহমান"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/14.jpg"
+    },
+    {
+      "question_number": 15,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "পুঁথি সাহিত্যের প্রাচীনতম লেখক-",
+      "options": {
+        "A": "ভারতচন্দ্র রায়",
+        "B": "দৌলত কাজী",
+        "C": "সৈয়দ হামজা",
+        "D": "আব্দুল হাকিম"
+      },
+      "correct_answer": "C",
+      "explanation": "উপরিউক্ত কবিদের মধ্যে শুধু সৈয়দ হামজা পুঁথি সাহিত্য রচনা করেন। তবে তিনি প্রথম আদি রচয়িতা নন। পুঁথি সাহিত্যের প্রথম সার্থক ও জনপ্রিয় লেখক ফকির গরীবুল্লাহ।"
+    },
+    {
+      "question_number": 16,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘চাচা কাহিনীর’ লেখক –",
+      "options": {
+        "A": "সৈয়দ শামসুল হক",
+        "B": "সৈয়দ মুজতবা আলী",
+        "C": "শওকত ওসমান",
+        "D": "ফররুখ আহমেদ"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/16.jpg"
+    },
+    {
+      "question_number": 17,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "বিভক্তিযুক্ত শব্দ ও ধাতুকে বলে–",
+      "options": {
+        "A": "শব্দ",
+        "B": "কারক",
+        "C": "পদ",
+        "D": "ক্রিয়াপদ"
+      },
+      "correct_answer": "C",
+      "explanation": "বিভক্তিযুক্ত শব্দ ও ধাতুকে পদ বলে। বাক্যের অন্তর্গত প্রত্যেকটি শব্দকেও পদ বলে। বাক্যস্থিত ক্রিয়াপদের সাথে নাম পদের যে সম্পর্ক তাকে কারক বলে। যে পদ দ্বারা কোনো কার্য সম্পাদন করা বোঝায় তাকে ক্রিয়াপদ বলে।"
+    },
+    {
+      "question_number": 18,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘রাজলক্ষ্মী’ চরিত্রের স্রষ্টা ঔপন্যাসিক-",
+      "options": {
+        "A": "বঙ্কিমচন্দ্র",
+        "B": "শরৎচন্দ্র",
+        "C": "তারাশংকর",
+        "D": "নজরুল ইসলাম"
+      },
+      "correct_answer": "B",
+      "explanation": "শরৎচন্দ্র চট্টোপাধ্যায়ের আত্মজীবনীমূলক উপন্যাস ‘শ্রীকান্ত’ ৪ খণ্ডে প্রকাশিত হয়। প্রথম ৩ খণ্ড মাসিক ‘ভারতবর্ষ’ পত্রিকায় এবং ৪র্থ খণ্ডটি ‘বিচিত্রা’ পত্রিকায় প্রকাশিত হয়। এর বিখ্যাত চরিত্রসমূহ হলো- শ্রীকান্ত, ইন্দ্রনাথ, অন্নদাদিদি, অভয়া, রাজলক্ষ্মী।"
+    },
+    {
+      "question_number": 19,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What is the synonym of ‘Incite’?",
+      "options": {
+        "A": "Instigate",
+        "B": "Permit",
+        "C": "Urge",
+        "D": "Deceive"
+      },
+      "correct_answer": "A",
+      "explanation": "Incite- খেপানো, উত্তেজিত করা, উসকানি দেওয়া, উদ্দীপ্ত করা। Instigate –প্ররোচিত করা, উসকানি দেওয়া। Permit- অনুমোদন করা, অনুমতি দেয়া। Urge- তাড়া দেওয়া, গুরুত্বারোপ করা। Deceive- প্রতারণা করা, ঠকানো। কাজেই Incite-এর synonym হচ্ছে Instigate।"
+    },
+    {
+      "question_number": 20,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What is the antonym of ‘Honorary’?",
+      "options": {
+        "A": "Offical",
+        "B": "Honorable",
+        "C": "Salaried",
+        "D": "Literary"
+      },
+      "correct_answer": "C",
+      "explanation": "Honorary- অবৈতনিক, বেতন-বিহীন, সম্মানসূচক। Official- আনুষ্ঠানিক, অফিসিয়াল। Honourable – মাননীয়, মান্য, শ্রদ্ধাভাজন। Salaried- বেতনভুক্ত, বেতন গ্রহণ করে এমন। Literary- সাহিত্য বিষয়ক, লেখক সংক্রান্ত। কাজেই Honorary শব্দের সঠিক বিপরীত শব্দ Salaried."
+    },
+    {
+      "question_number": 21,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What is the verb of the word ‘Ability’?",
+      "options": {
+        "A": "Ableness",
+        "B": "Able",
+        "C": "Ably",
+        "D": "Enable"
+      },
+      "correct_answer": "D",
+      "explanation": "Ability সামর্থ্য। সুতরাং এর verb form হচ্ছে সমর্থ করে তোলে বা সক্ষম করা। তে প্রদত্ত enable- সক্ষম করা, ক্ষমতা দান করা, অন্য ৩টি choice-এর কোনোটিতেই verb form নেই।"
+    },
+    {
+      "question_number": 22,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Who is the poet of the ‘Victorian Age’?",
+      "options": {
+        "A": "Helen Keller",
+        "B": "Mathew arnold",
+        "C": "Shakespeare",
+        "D": "Robert Browning"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/22.jpg"
+    },
+    {
+      "question_number": 23,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Who is the author of ‘For Whom the Bell Tolls’?",
+      "options": {
+        "A": "Charles Dickens",
+        "B": "Homer",
+        "C": "Lord Tennison",
+        "D": "Ernest Hemingway"
+      },
+      "correct_answer": "D",
+      "explanation": "Ernest Hemingway একজন বিখ্যাত আমেরিকান ঔপন্যাসিক। ১৯৫৪ সালে তিনি নোবেল পুরস্কার লাভ করেন। তাঁর বিখ্যাত উপন্যাসগুলো হচ্ছে- The Sun Also Rises, The Old Man and the Sea, For Whom the bell Tolls A Farewell to arms, A Movable Feast."
+    },
+    {
+      "question_number": 24,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Fill in blank ‘ He has assured me ____ safety’",
+      "options": {
+        "A": "With",
+        "B": "At",
+        "C": "For",
+        "D": "of"
+      },
+      "correct_answer": "D",
+      "explanation": "Assure of –আশ্বস্ত করা, নিশ্চয়তা দেয়া। কিন্তু Assure শব্দটি উত্তর হিসেবে প্রদেয় অন্য কোন Preposition গ্রহণ করে না।"
+    },
+    {
+      "question_number": 25,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘May Allah help you’ What kind of sentence is this?",
+      "options": {
+        "A": "Optative",
+        "B": "Imperative",
+        "C": "Assertive",
+        "D": "Exclamatory"
+      },
+      "correct_answer": "A",
+      "explanation": "যে sentence দ্বারা মনের ইচ্ছা বা প্রার্থনা করা বুঝায় তাকে optative sentence বলে।"
+    },
+    {
+      "question_number": 26,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "A rolling stone gathers no moss. What ‘rolling’ is?",
+      "options": {
+        "A": "Gerund",
+        "B": "Verbal noun",
+        "C": "Participle",
+        "D": "Adjective"
+      },
+      "correct_answer": "C",
+      "explanation": "(Verb+ing) adjective-এর কাজ করলে তাকে Participle বলে।"
+    },
+    {
+      "question_number": 27,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘He has been ill ____ Friday last’ Fill in the blank.",
+      "options": {
+        "A": "Since",
+        "B": "In",
+        "C": "From",
+        "D": "On"
+      },
+      "correct_answer": "A",
+      "explanation": "Point of time (কোনো কাজ শুরুর সময়) এর পূর্বে Since বসে। যেহেতু সে গত শুক্রবার থেকে অসুস্থ, সুতরাং শুক্রবার এর পূর্বে Since ব্যবহার করাই শ্রেয়।"
+    },
+    {
+      "question_number": 28,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Which is the noun of the word ‘beautiful’?",
+      "options": {
+        "A": "Beautious",
+        "B": "Beauty",
+        "C": "Beautifully",
+        "D": "Beautify"
+      },
+      "correct_answer": "B",
+      "explanation": "Beautiful অর্থ সুন্দর। এটি একটি adjective যার noun হচ্ছে Beauty."
+    },
+    {
+      "question_number": 29,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Hold water’ means-",
+      "options": {
+        "A": "Keep water",
+        "B": "Drink water",
+        "C": "Bear examination",
+        "D": "Store water"
+      },
+      "correct_answer": "C",
+      "explanation": "Hold water –টিকে থাকা, চালিয়ে যাওয়া, ধারণ করা, অর্থাৎ বাদ না পড়া। Keep water –(Phrase/ idiom নয়) পানি সংরক্ষণ করা। Drink water –(Phrase/idiom নয়) পানি পান করা। Bear examination – পরীক্ষায় টিকে থাকা (পরীক্ষা হতে বাদ না পড়া)। Store water – (Phrase/idiom নয়) পানি জমিয়ে রাখা।"
+    },
+    {
+      "question_number": 30,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Out and Out’ means–",
+      "options": {
+        "A": "Not at all",
+        "B": "Thoroughly",
+        "C": "To be last",
+        "D": "Man of outside"
+      },
+      "correct_answer": "B",
+      "explanation": "Out and out – সম্পূর্ণরূপে, পুরোদস্তুর, তন্নতন্ন করে, শুরু থেকে শেষ পর্যন্ত। choice, not at all- আদৌ নয়। Thoroughly – তন্নতন্ন করে, আদি থেকে অন্ত পর্যন্ত। To be last –এ শব্দগুচ্ছটি কোনো বোধগম্য অর্থ দেয় না। Man of outside – লেফাফা দুরস্ত, বাহ্যদৃষ্টিতে ফিটফাট ব্যক্তি।"
+    },
+    {
+      "question_number": 31,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Choose the correct sentence–",
+      "options": {
+        "A": "Rice is not always happy",
+        "B": "The rich is not always happy",
+        "C": "The rich is not happy always",
+        "D": "The rich are not always happy"
+      },
+      "correct_answer": "D",
+      "explanation": "The rich- ধনীগণ। The rice বলতে ধনী জাতি বা সকল ধনীকে বোঝায় বলে এটা Plural verb (are) গ্রহণ করে।"
+    },
+    {
+      "question_number": 32,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Choose the correct sentence–",
+      "options": {
+        "A": "He had been hunged for murder",
+        "B": "He has been hunged for murder",
+        "C": "He was hanged for murder",
+        "D": "He was hunged of murder"
+      },
+      "correct_answer": "C",
+      "explanation": "এখানে, ফাঁসি দেয়া- hang যার past হচ্ছে hanged এবং past participle – hanged কিন্তু ঝুলানো অর্থে hang এর past – hung এবং past participle-hung (hunged নয়)। ফাঁসিতে ঝুলিয়ে মৃত্যুর ক্ষেত্রে hanged for murder ব্যবহৃত হয়।"
+    },
+    {
+      "question_number": 33,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Syntax’ means–",
+      "options": {
+        "A": "Manner of speech",
+        "B": "Sentence building",
+        "C": "Supplementary tax",
+        "D": "Synchrounizing act"
+      },
+      "correct_answer": "B",
+      "explanation": "‘Syntax’ হলো grammar-এর একটি অংশ, যা sentence-এর গঠন নিয়ে আলোচনা করে।"
+    },
+    {
+      "question_number": 34,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "‘Justice delayed is justice denied’ was stated by-",
+      "options": {
+        "A": "Disraeli",
+        "B": "Emerson",
+        "C": "Gladstone",
+        "D": "Shakespeare"
+      },
+      "correct_answer": "C",
+      "explanation": "বৃটিশ নেতা William E. Gladstone বলেছেন- “ বিচারকার্য যত দেরি হয় তত এটি সুবিচার পায় না”/ Justice delayed is justice denied”. এছাড়া তাঁর আরেকটি বিখ্যাত উক্তি- “Justice hurried is justice barried”/ “বিচার দ্রুত সম্পন্ন মানে বিচারককে কবর দেওয়া”।"
+    },
+    {
+      "question_number": 35,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের জাতীয় পতাকার মাপের অনুপাত কত?",
+      "options": {
+        "A": "৯ : ৫",
+        "B": "৯ : ৫",
+        "C": "১০ : ৬",
+        "D": "৮ : ৬"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলাদেশের বর্তমান জাতীয় পতাকার রূপকার প্রখ্যাত চিত্রশিল্পী কামরুল হাসান। জাতীয় পতাকার প্রথম নকশা করেছিলেন শিব নারায়ণ দাস এবং ইউসুফ সালাউদ্দিনকে নিয়ে হাসানুল হক ইনু; প্রকৌশল বিশ্ববিদ্যালয়ের শেরে বাংলা হলের ৪০১ নং কক্ষে। বাংলাদেশের জাতীয় পতাকা প্রথম উত্তোলন হয় ঢাকা বিশ্ববিদ্যালয়ের বটতলায় এক ছাত্রসভায় ২ মার্চ ১৯৭১। বাংলাদেশের জাতীয় পতাকার মাপের অনুপাত ১০ : ৬।"
+    },
+    {
+      "question_number": 36,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের বৃহত্তম নদী কোনটি?",
+      "options": {
+        "A": "মেঘনা",
+        "B": "পদ্মা",
+        "C": "ব্রহ্মপুত্র",
+        "D": "যমুনা"
+      },
+      "correct_answer": "A",
+      "explanation": "দৈর্ঘ্য, প্রস্থ ও গভীরতায় দেশের বৃহত্তম নদী মেঘনা।"
+    },
+    {
+      "question_number": 37,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "কোন জেলা তুলা চাষের জন্য সবচেয়ে বেশি উপযোগী?",
+      "options": {
+        "A": "রাজশাহী",
+        "B": "ফরিদপুর",
+        "C": "রংপুর",
+        "D": "যশোর"
+      },
+      "correct_answer": "",
+      "explanation": "কৃষি পরিসংখ্যান বর্ষগ্রন্থ ২০১৯ অনুসারে বর্তমানে তুলা উৎপাদনে শীর্ষ জেলা ঝিনাইদহ। পাট উৎপাদনে শীর্ষ জেলা ফরিদপুর। আম উৎপাদনে শীর্ষ জেলা রাজশাহী। তামাক উৎপাদনে শীর্ষ জেলা কুষ্টিয়া।"
+    },
+    {
+      "question_number": 38,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "ইউরিয়া সারের কাঁচামাল-",
+      "options": {
+        "A": "অপরিশোধিত তেল",
+        "B": "ক্লিংকার",
+        "C": "অ্যামোনিয়া",
+        "D": "মিথেন গ্যাস"
+      },
+      "correct_answer": "D",
+      "explanation": "ইউরিয়া সারের কাঁচামাল মিথেন গ্যাস। মিথেন গ্যাস থেকে \\(\\mathrm{H_2}\\) ও \\(\\mathrm{CO_2}\\) তৈরি করা হয়। পরবর্তীতে \\(\\mathrm{CO_2}\\) ও \\(\\mathrm{NH_3}\\) থেকে ইউরিয়া সার প্রস্তুত করা হয়।"
+    },
+    {
+      "question_number": 39,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাসস একটি–",
+      "options": {
+        "A": "সংবাদ সংস্থার নাম",
+        "B": "একটি প্রেস ক্লাবের নাম",
+        "C": "একটি খবরের কাগজের নাম",
+        "D": "একটি বিদেশী কোম্পানির নাম"
+      },
+      "correct_answer": "A",
+      "explanation": "‘বাংলাদেশ সংবাদ সংস্থা’ (বাসস) বাংলাদেশের প্রধান সংবাদ সংস্থা। এটি ঢাকার পল্টনে অবস্থিত।"
+    },
+    {
+      "question_number": 40,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশে শহীদ বুদ্ধিজীবী দিবস পালিত হয়-",
+      "options": {
+        "A": "২৬ মার্চ",
+        "B": "১৬ ডিসেম্বর",
+        "C": "২১ ফেব্রুয়ারি",
+        "D": "১৪ ডিসেম্বরর"
+      },
+      "correct_answer": "D",
+      "explanation": "বাংলাদেশের মুক্তিযুদ্ধে বাঙালিদের বিজয় নিশ্চিত দেখে পাকবাহিনী ১৯৭১ সালের ১৪ ডিসেম্বর নির্বিচারে বহু বুদ্ধিজীবী হত্যা করে। তাই তাদের স্মরণে ১৪ ডিসেম্বরকে ‘শহীদ বুদ্ধিজীবী দিবস’ হিসেবে পালন করা হয়।"
+    },
+    {
+      "question_number": 41,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের কোন বনভূমি শালবৃক্ষের জন্য বিখ্যাত?",
+      "options": {
+        "A": "সিলেটের বনভূমি",
+        "B": "পার্বত্য চট্টগ্রামের বনভূমি",
+        "C": "ভাওয়াল ও মধুপুরের বনভূমি",
+        "D": "খুলনা, বরিশাল ও পটুয়াখালীর বনভূমি"
+      },
+      "correct_answer": "C",
+      "explanation": "ভাওয়াল ও মধুপুরের বনভূমি গাজীপুর, টাঙ্গাইল ও ময়মনসিংহ জেলায় অবস্থিত। এ বনে প্রচুর শালগাছ রয়েছে। উল্লেখ্য, অঞ্চল হিসেবে বাংলাদেশের বৃহত্তম বনভূমি চট্টগ্রাম-রাঙামাটি বনভূমি এবং একক হিসেবে বৃহত্তম সুন্দরবন।"
+    },
+    {
+      "question_number": 42,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "চীন-বাংলাদেশ মৈত্রী সেতু-১ নির্মাণের প্রধান উদ্দেশ্য–",
+      "options": {
+        "A": "ঢাকা শহরকে নদীর ওপারে বিস্তৃত করা",
+        "B": "বাংলাদেশ ও চীনের মধ্যে সুসম্পর্কের স্থায়ী বন্ধন সৃষ্টি করা",
+        "C": "ঢাকা-আরিচা রোড যানবাহন চলাচলের চাপ কমানো",
+        "D": "দেশের দক্ষিণ অঞ্চলের সাথে ঢাকার পরিবহন ব্যবস্থা উন্নত করা"
+      },
+      "correct_answer": "D",
+      "explanation": "এটি বুড়িগঙ্গা নদীর উপর ঢাকার পোস্তগোলা নামক স্থানে নির্মিত হয়েছে। এটিই প্রথম বুড়িগঙ্গা সেতু। সেতুর দৈর্ঘ্য ৭৮০ মিটার। তবে দ্বিতীয় বুড়িগঙ্গা সেতু নির্মিত হয় ঢাকার বাবুবাজারে এবং এ সেতুর মাধ্যমে কেরানীগঞ্জের সাথে সড়ক যোগাযোগ প্রতিষ্ঠিত হয়েছে। এ সেতুর দৈর্ঘ্য ৭২৫ মিটার।"
+    },
+    {
+      "question_number": 43,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "হরিপুরে তেল আবিষ্কৃত হয়–",
+      "options": {
+        "A": "১৯৪৭ সালে",
+        "B": "১৯৮৬ সালে",
+        "C": "১৯৮৫ সালে",
+        "D": "১৯৮৪ সালে"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশের পূর্বাঞ্চলের সিলেট শহর থেকে ২৪ কিলোমিটার দূরে গোয়াইনঘাট উপজেলার হরিপুরে বাংলাদেশের প্রধান তেলক্ষেত্রটি অবস্থিত। ১৯৮৬ সালের ২২ ডিসেম্বর হরিপুর গ্যাসক্ষেত্রে খননকৃত সপ্তম কূপে তেল পাওয়া যায়। উল্লেখ্য, হরিপুরে বাংলাদেশের প্রথম গ্যাসক্ষেত্র আবিষ্কৃত হয় ১৯৫৫ সালে।"
+    },
+    {
+      "question_number": 44,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "মিশুকের স্থপতি কে?",
+      "options": {
+        "A": "মুস্তফা মনোয়ার",
+        "B": "হামিদুর রহমান",
+        "C": "শামীম শিকদার",
+        "D": "হামিদুজ্জামান খান"
+      },
+      "correct_answer": "A",
+      "explanation": "এটি ঢাকার শাহবাগে শিশু পার্কের সামনে অবস্থিত। সাফ গেমসের মাসকট হিসেবে শিল্পী মুস্তফা মনোয়ার মিশুক তৈরি করেন। এটি মূলত হরিণ শাবকের ভাস্কর্য।"
+    },
+    {
+      "question_number": 45,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের কোন জেলায় সবচেয়ে বেশি পাট উৎপন্ন হয়?",
+      "options": {
+        "A": "রংপুর",
+        "B": "ময়মনসিংহ",
+        "C": "টাঙ্গাইল",
+        "D": "ফরিদপুর"
+      },
+      "correct_answer": "D",
+      "explanation": "বর্তমানে পাট উৎপাদনে শীর্ষ জেলা ফরিদপুর। ধান, কাঁঠাল ও মাছ উৎপাদনে শীর্ষ জেলা ময়মনসিংহ।"
+    },
+    {
+      "question_number": 46,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের মোট আবাদয্যেগ্য জমির পরিমাণ প্রায় কত?",
+      "options": {
+        "A": "২ কোটি ৪০ লক্ষ একর",
+        "B": "২ কোটি ৫০ লক্ষ একর",
+        "C": "২ কোটি একর",
+        "D": "২ কোটি ২৫ লক্ষ একর"
+      },
+      "correct_answer": "",
+      "explanation": "কৃষি পরিসংখ্যানের ধান গবেষণা ইনস্টিটিউটের সর্বশেষ তথ্য অনুযায়ী বাংলাদেশের মোট আবাদযোগ্য জমির পরিমাণ ৮৮.২৯ লক্ষ হেক্টর।"
+    },
+    {
+      "question_number": 47,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "উপকূল হতে বাংলাদেশের অর্থনৈতিক সমুদ্রসীমা কত?",
+      "options": {
+        "A": "২৫০ নটিক্যাল মাইল",
+        "B": "২০০ নটিক্যাল মাইল",
+        "C": "২২৫ নটিক্যাল মাইল",
+        "D": "১০ নটিক্যাল মাইল"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশের মোট সীমান্ত দৈর্ঘ্য ৫১৩৮ কি.মি.। এর মধ্যে ভারত সংলগ্ন স্থল ও নৌ সীমান্ত এলাকার দৈর্ঘ্য ৪১৫৬ কিলোমিটার এবং মিয়ানমারের সাথে রয়েছে ২৭১ কিলোমিটার দীর্ঘ সীমান্ত। অন্যদিকে মোট জলসীমার পরিমাণ ৭১১ কিলোমিটার। সেই সাথে বঙ্গোপসাগর তীরবর্তী দেশ হওয়ায় এ দেশের ভূখণ্ডগত (রাজনৈতিক) সমুদ্রসীমা ১২ নটিক্যাল মাইল (২২.২২ কি.মি.) এবং অর্থনৈতিক সমুদ্রসীমা উপকূল থেকে ২০০ নটিক্যাল মাইল (৩৭০.৪০ কি.মি.) পর্যন্ত বিস্তৃত।"
+    },
+    {
+      "question_number": 48,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "মহাস্থানগড় কোন নদীর তীরে অবস্থিত?",
+      "options": {
+        "A": "করতোয়া",
+        "B": "গঙ্গা",
+        "C": "ব্রহ্মপুত্র",
+        "D": "মহানন্দা"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলার প্রাচীনতম জনপদ হলো বগুড়া জেলায় অবস্থিত মহাস্থানগড়, যা একসময় মৌর্য ও গুপ্ত বংশের রাজাদের রাজধানী ছিল। তখন এর নাম ছিল পুণ্ড্রনগর।"
+    },
+    {
+      "question_number": 49,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "ঔষধ নীতির প্রধান উদ্দেশ্য হলো–",
+      "options": {
+        "A": "অপ্রয়োজনীয় এবং ক্ষতিকর ঔষধ প্রস্তুত বন্ধ করা",
+        "B": "ঔষধ শিল্পে দেশীয় কাঁচামালের ব্যবহার নিশ্চত করা",
+        "C": "ঔষধ শিল্পে দেশীয় শিল্পপতিদের অগ্রাধিকার দেয়া",
+        "D": "বিদেশী শিল্পপতিদের দেশীয় কাঁচামাল ব্যবহারে বাধ্য করা"
+      },
+      "correct_answer": "A",
+      "explanation": "১৯৮২ সালে প্রথমবারের মতো জাতীয় ঔষুধ নীতি প্রণয়ন করা হয়। কারণ এর আগে ঔষুধ উৎপাদন ও ব্যবহারের বিষয়ে কোনো ধরনের নীতিমালা ছিলো না। এর ২০০৫ সালে এই নীতি নবায়ন করা হয় এবং ২০১৬ সালে আবার এই জাতীয় ঔষুধ জন সাধারণের কাছে পৌঁছে দেওয়া জাতীয় ঔষুধ নীতির লক্ষ্য।"
+    },
+    {
+      "question_number": 50,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বিকেএসপি হলো–",
+      "options": {
+        "A": "একটি ক্রীড়া শিক্ষা সংস্থার নাম",
+        "B": "একটি সংবাদ সংস্থার নাম",
+        "C": "একটি কিশোর ফুটবল টিমের নাম",
+        "D": "একটি সঙ্গীত শিক্ষা প্রতিষ্ঠানের নাম"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলাদেশ ক্রীড়া শিক্ষা প্রতিষ্ঠান (বিকেএসপি) ঢাকা শহর থেকে ৪০ কিলোমিটার দূরে সাভারের জিরানীতে অবস্থিত। ১৯৮৬ সালের ১৪ এপ্রিল আনুষ্ঠানিকভাবে এর উদ্বোধন করা হয় ও নাম পরিবর্তন করে ‘বাংলাদেশ ক্রীড়া শিক্ষা প্রতিষ্ঠান’ রাখা হয়।"
+    },
+    {
+      "question_number": 51,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "মা ও মনি হলো–",
+      "options": {
+        "A": "একটি উপন্যাসের নাম",
+        "B": "একটি প্রসাধনী শিল্পের নাম",
+        "C": "একটি ক্রীড়া প্রতিযোগিতার নাম",
+        "D": "একটি গরিব মা ও মেয়ের গল্প কাহিনী"
+      },
+      "correct_answer": "C",
+      "explanation": "মা ও মনি গোল্ডকাপ (১৪ বছরের নিচে) টুর্নামেন্ট ১৯৯২ সালের ২৬ আগস্ট থেকে ৩ সেপ্টেম্বর পর্যন্ত ঢাকার জাতীয় স্টেডিয়ামে অনুষ্ঠিত হয়। জেলাভিত্তিক এ ফুটবল টুর্নামেন্টে ফাইনালে খেলে টাঙ্গাইল জেলা দল ২-১ গোলে ফেনী জেলা দলকে হারায়।"
+    },
+    {
+      "question_number": 52,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "প্রাচীন ‘চন্দ্রদ্বীপ’- এর বর্তমান নাম–",
+      "options": {
+        "A": "মালদ্বীপ",
+        "B": "সন্দ্বীপ",
+        "C": "বরিশাল",
+        "D": "হাতিয়া"
+      },
+      "correct_answer": "C",
+      "explanation": "রামপাল তাম্রশাসনে ত্রৈলোক্য চন্দ্রের শাসনাধীন ভূখণ্ড রূপে চন্দ্রদ্বীপের উল্লেখ রয়েছে। মধ্যযুগে চন্দ্রদ্বীপ ছিল বর্তমান বরিশাল জেলার অংশবিশেষের মাঝে সীমাবদ্ধ একটি উল্লেখযোগ্য স্থান। প্রাচীনকালে বরিশাল চন্দ্রদ্বীপ ও বাকলা ছাড়াও ইসমাইলপুর এবং পোর্টগ্রান্ডে নামেও পরিচিত ছিল।"
+    },
+    {
+      "question_number": 53,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আন্তর্জাতিক আণবিক শক্তি সংস্থা (IAEA) এর সদর দপ্তর–",
+      "options": {
+        "A": "ভিয়েনা",
+        "B": "বন",
+        "C": "জেনেভা",
+        "D": "রোত"
+      },
+      "correct_answer": "A",
+      "explanation": "আন্তর্জাতিক আণবিক শক্তি সংস্থা প্রতিষ্ঠিত হয় ২৯ জুলাই, ১৯৫৭। এটি জাতিসংঘের অন্তর্ভুক্ত হয় ১৪ নভেম্বর ১৯৫৭। এর সদর দপ্তর অস্ট্রিয়ার রাজধানী ভিয়েনায়।"
+    },
+    {
+      "question_number": 54,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "জাপানের পার্লামেন্টের নাম–",
+      "options": {
+        "A": "ডায়েট",
+        "B": "পিনসাস",
+        "C": "নেসেট",
+        "D": "শুরা"
+      },
+      "correct_answer": "A",
+      "explanation": "জাপানের পার্লামেন্টের নাম ডায়েট, নেসেট ইসরাইলের পার্লামেন্টের নাম। সৌদি কনসালটেটিভ অ্যাসেম্বলি (মজলিস আল শুরা আল সৌদ) হলো সৌদি আরবের এবং কনসালটেটিভ অ্যাসেম্বলি (মজলিশ-আল শুরা) কাতারের পার্লামেন্টের নাম।"
+    },
+    {
+      "question_number": 55,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আমেরিকাকে এশিয়া থেকে পৃথক করেছে কোন প্রণালী?",
+      "options": {
+        "A": "ফ্লোরিডা",
+        "B": "পক",
+        "C": "জিব্রাল্টার",
+        "D": "বেরিং"
+      },
+      "correct_answer": "D",
+      "explanation": "বেরিং প্রণালী পৃথক করেছে আমেরিকা ও এশিয়া মহাদেশকে এবং সংযুক্ত করেছে উত্তর সাগর ও বেরিং সাগর তথা প্রশান্ত মহাসাগরকে। ফ্লোরিডা প্রণালী কিউবাকে ফ্লোরিডা থেকে পৃথক করেছে। পক প্রণালী শ্রীলংকাকে ভারত থেকে পৃথক করেছে। জিব্রাল্টার প্রণালী স্পেনকে (ইউরোপ) মরক্কো (আফ্রিকা) থেকে পৃথক করেছে।"
+    },
+    {
+      "question_number": 56,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "সাউথ কমিশনের চেয়ারম্যান–",
+      "options": {
+        "A": "জেনারেল সুহার্তো",
+        "B": "রবার্ট মুগাবে",
+        "C": "জুলিয়াস নায়ারে",
+        "D": "ফিডেল ক্যাস্ট্রো"
+      },
+      "correct_answer": "C",
+      "explanation": "বিশ্বের দক্ষিণের ২৮টি দেশ তাদের স্বার্থ সংশ্লিষ্ট বিষয়ে সমন্বয় সাধনের জন্য ১৯৮৬ সালে জিম্বাবুয়ের রাজধানী হারারেতে বৈঠক করে, যা ১৯৮৭ সালে ‘সাউথ কমিশন’ নামে সাংগঠনিক রূপ লাভ করে। তাঞ্জানিয়ার সাবেক প্রেসিডেন্ট জুলিয়াস কে নায়ারে এ কমিশনের প্রতিষ্ঠাতা সভাপতি ছিলেন। বর্তমানে সাউথ কমিশনের পরিবর্তিত রূপ হলো সাইথ সেন্টার, যা আফ্রিকা, এশিয়া, ল্যাটিন আমেরিকা ও ক্যারিবিয়ান অঞ্চলের ৫৪টি উন্নয়নশীল রাষ্ট্র নিয়ে গঠিত। এ সংগঠনের বর্তমান চেয়ারপার্সন থাবো মভায়েলা এমবেকি (দ. আফ্রিকা) ও নির্বাহী পরিচালক কার্লোস এম. কোরেয়া।"
+    },
+    {
+      "question_number": 57,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আন্তর্জাতিক পরিবেশ দিবস পালিত হয়–",
+      "options": {
+        "A": "৭ জুলাই",
+        "B": "৯ মার্চ",
+        "C": "৫ জুন",
+        "D": "২১ মে"
+      },
+      "correct_answer": "C",
+      "explanation": "৫ জুন বিশ্ব পরিবেশ দিবস। ১৯৭২ সালের জুনে সুইডেনের স্টকহোমে অনুষ্ঠিত মানব পরিবেশের ওপর প্রথম জাতিসংঘ সম্মেলনে পরিবেশ বিষয়ে ব্যাপক আলোচনার সূত্রপাত ঘটে। এর প্রেক্ষিতে বিশ্বব্যাপী জনসচেতনতা সৃষ্টির লক্ষ্যে জাতিসংঘের সাধারণ পরিষদের ২৭তম অধিবেশনে প্রতি বছর ৫ জুন ‘বিশ্ব পরিবেশ দিবস’ পালনের সিদ্ধান্ত গৃহীত হয়। ১৯৯০ সাল থেকে প্রতি বছর ৫ জুন জাতিসংঘভুক্ত দেশগুলোতে দিবসটি পালিত হয়ে আসছে।"
+    },
+    {
+      "question_number": 58,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "জাতিসংঘ দিবস পালিত হয়–",
+      "options": {
+        "A": "২৪ অক্টোবর",
+        "B": "২৪ আগস্ট",
+        "C": "২৪ ডিসেম্বর",
+        "D": "২৪ নভেম্বর"
+      },
+      "correct_answer": "A",
+      "explanation": "১৯৪১ থেকে ১৯৪৫ সাল পর্যন্ত সময়কাল জাতিসংঘ প্রতিষ্ঠার লক্ষ্যে নানা পদক্ষেপ গৃহীত হয় এবং ১৫ অক্টোবর, ১৯৪৫ সনদ স্বাক্ষরিত হয়। ২৪ অক্টোবর ১৯৪৫ আনুষ্ঠানিকভাবে জাতিসংঘ যাত্রা শুরু করে এবং প্রতি বছর এ দিনটিকে জাতিসংঘ দিবস হিসেবে পালন করা হয়।"
+    },
+    {
+      "question_number": 59,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "নামিবিয়ার রাজধানী–",
+      "options": {
+        "A": "কারাভু",
+        "B": "উইন্ডহুক",
+        "C": "প্রিটোরিয়া",
+        "D": "কোটাভি"
+      },
+      "correct_answer": "B",
+      "explanation": "প্রিটোরিয়া দক্ষিণ আফ্রিকার (প্রশাসনিক) রাজধানী। নামিবিয়ার রাজধানী উইন্ডহুক। কারাভু ও কোটাভি নামে বিশ্বে কোনো রাজধানী নেই।"
+    },
+    {
+      "question_number": 60,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ইসলামী উন্নয়ন ব্যাংক ঋণ প্রদান করে–",
+      "options": {
+        "A": "স্বাভাবিক সুদে",
+        "B": "বিনা সুদে",
+        "C": "অল্প সুদে",
+        "D": "অতি সামান্য সুদে"
+      },
+      "correct_answer": "B",
+      "explanation": "ইসলামী ব্যাংক পরিচালনার কয়েকটি মূলনীতি হলো বিনা সুদে ঋণ প্রদান, মুনাফায় অংশগ্রহণ কর্মসূচি, অংশীদারী বিনিয়োগ, ইক্যুইটি লাইন প্রভৃতি। এটি ইসলামী শরীয়াহ্ মোতাবেক পরিচালিত। ২০ অক্টোবর, ১৯৭৫ IsDB -এর কার্যক্রম শুরু হলেও এর লেনদেন শুরু হয় ১৯৭৬ সালের জানুয়ারি মাসে।"
+    },
+    {
+      "question_number": 61,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ওডারনীস নদী–",
+      "options": {
+        "A": "পূর্ব জার্মানি ও পোল্যান্ডেরর মধ্যে সীমা নির্ধারক",
+        "B": "পশ্চিম জার্মানি ও চেক প্রজাতন্ত্রের মধ্যে সীমা নির্ধারক",
+        "C": "পশ্চিম জার্মানি ও পোল্যান্ডের মধ্যে সীমা নির্ধারক",
+        "D": "সংযুক্ত জার্মান ও ফ্রান্সের মধ্যে সীমা নির্ধারক"
+      },
+      "correct_answer": "A",
+      "explanation": "ওডারনীস লাইন দ্বিতীয় বিশ্বযুদ্ধের পর পূর্ব জার্মানি ও পোল্যান্ডের মধ্যে নিরূপিত সীমারেখা। জার্মানি কর্তৃক জার্মানি-ফ্রান্স সীমান্তে সুরক্ষিত সীমারেখা সিগফ্রিড লাইন এবং ফ্রান্স কর্তৃক জার্মানি-ফ্রান্স সীমান্তে নির্মিত সুরক্ষিত সীমারেখা ম্যাজিনো লাইন।"
+    },
+    {
+      "question_number": 62,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "‘হারারে’ এর পুরাতন নাম–",
+      "options": {
+        "A": "সলসবেরি",
+        "B": "ফরমোজা",
+        "C": "পেট্রোগ্রাড",
+        "D": "রোডেসিয়া"
+      },
+      "correct_answer": "A",
+      "explanation": "ফরমোজা হলো তাইওয়ানের পুরাতন নাম। উত্তর রোডেসিয়া জাম্বিয়ার এবং দক্ষিণ রোডিসিয়া জিম্বাবুয়ের পুরাতন নাম। পেট্রোগ্রাড লেনিনগ্রাদের পুরাতন নাম।"
+    },
+    {
+      "question_number": 63,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "পবিত্রভূমি কোনটিকে বলা হয়?",
+      "options": {
+        "A": "প্যালেস্টাইন",
+        "B": "জেরুজালেম",
+        "C": "জেদ্দা",
+        "D": "তায়েফ"
+      },
+      "correct_answer": "B",
+      "explanation": "প্যালেস্টাইন, জেরুজালেম, জেদ্দা, তায়েফ সবগুলোই মুসলমানদের পবিত্র স্থান। প্যালেস্টাইন ও জেরুজালেম এ দুটো স্থান মুসলমান ও খ্রিস্টানদের জন্য পবিত্র স্থান। কিন্তু মুসলামান, ইহুদি ও খ্রিস্টান-এ তিন জাতির নিকট জেরুজালেম পবিত্র।"
+    },
+    {
+      "question_number": 64,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "এডেন কোন দেশের সমুদ্রবন্দর?",
+      "options": {
+        "A": "ইয়েমেন",
+        "B": "কাতার",
+        "C": "ওমান",
+        "D": "ইরাক"
+      },
+      "correct_answer": "A",
+      "explanation": "এডেন উপসাগরের তীরে অবস্থিত এটি দক্ষিণ ইয়েমেনের একটি পোতাশ্রয়, নৌ ও বিমানঘাঁটি। এটি একটি গুরুত্বপূর্ণ বন্দরও বটে।"
+    },
+    {
+      "question_number": 65,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "মালদ্বীপের মুদ্রার নাম কি?",
+      "options": {
+        "A": "রুপী",
+        "B": "ডলার",
+        "C": "পাউন্ড",
+        "D": "রুপাইয়া"
+      },
+      "correct_answer": "D",
+      "explanation": "ভারত, পাকিস্থান ও নেপালের মুদ্রার নাম রুপী। মালদ্বীপ ও ইন্দোনেশিয়ার মুদ্রার নাম রুপাইয়া। মার্কিন যুক্তরাষ্ট্র, সিঙ্গাপুর, অষ্ট্রেলিয়া, জিম্বাবুয়ে, কানাডার মুদ্রার নাম ডলার। যুক্তরাজ্য, লেবানন, সিরিয়া, সুদানের মুদ্রার নাম পাউন্ড।"
+    },
+    {
+      "question_number": 66,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "১৯৯২ সালে বিশ্ব অলিম্পিক অনুষ্ঠিত হয় কোথায়?",
+      "options": {
+        "A": "বার্সালোনা",
+        "B": "জুরিখ",
+        "C": "বার্লিন",
+        "D": "ব্রাসেলস"
+      },
+      "correct_answer": "A",
+      "explanation": "বার্সিলোনা অলিম্পিক অনুষ্ঠিত হয় ১৯৯২ সালে। বার্লিনে অনুষ্ঠিত হয় ১৯৩৬ সালে। জুরিখ ও ব্রাসেলসে কখনও অলিম্পিক অনুষ্ঠিত হয়নি। ২০১৬ সালে অলিম্পিক গেমস অনুষ্ঠিত হয় ব্রাজিলের রিও ডি জেনেরিও’তে এবং ২০২০ সালে অনুষ্ঠিত হবে জাপানের টোকিও’তে।"
+    },
+    {
+      "question_number": 67,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আফটা \\({\\mathrm{(AFTA)}}\\) বলতে কি বোঝায়–",
+      "options": {
+        "A": "একটি বাণিজ্যিক গোষ্ঠী",
+        "B": "পূর্ব আফ্রিকার একটি সংবাদ সংস্থা",
+        "C": "একটি বিমান সংস্থা",
+        "D": "একটি সামরিক চুক্তি"
+      },
+      "correct_answer": "A",
+      "explanation": "আফটা (AFTA)-এর পূর্ণরূপ হলো ASEAN Free Trade Area। ১৯৯২ সালে ২৮ জানুয়ারি সিঙ্গাপুরে এটি স্বাক্ষরিত হয়। মালয়েশিয়া, থাইলান্ড, ফিলিপাইন, সিঙ্গাপুর, ইন্দোনেশিয়া, ব্রুনাই, ভিয়েতনাম, লাওস, মিয়ানমার ও কম্বোডিয়া এ দশটি দেশ AFTA –এর সদস্য।"
+    },
+    {
+      "question_number": 68,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আন্তর্জাতিক রোটারি সংস্থার প্রতিষ্ঠাতা–",
+      "options": {
+        "A": "\\({\\mathrm{W. Wilson}}\\)",
+        "B": "\\({\\mathrm{Paul\\ Harris}}\\)",
+        "C": "\\({\\mathrm{Baden\\ Powel}}\\)",
+        "D": "\\({\\mathrm{H. Wilson}}\\)"
+      },
+      "correct_answer": "B",
+      "explanation": "২৩ ফেব্রুয়ারি, ১৯০৫ যুক্টরাষ্ট্রের শিকাগোতে রোটারি ইন্টারন্যাশনাল প্রতিষ্ঠিত হয়। এর প্রতিষ্ঠাতা মার্কিন আইনজীবী পল.পি. হ্যারিস।"
+    },
+    {
+      "question_number": 69,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "চালের মূল্য ১২% কমে যাওয়ায় ৬,০০০ টাকায় পূর্বাপেক্ষা ১ কুইন্টাল চাল বেশি পাওয়া যায়। ১ কুইন্টাল চালের বর্তমান মূল্য কত?",
+      "options": {
+        "A": "৭৫০ টাকা",
+        "B": "৭০০ টাকা",
+        "C": "৭২০ টাকা",
+        "D": "৭৫ টাকা"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/69.jpg"
+    },
+    {
+      "question_number": 70,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি আয়তাকার ক্ষেত্রের দৈর্ঘ্য বিস্তারের ৩ গুণ। দৈর্ঘ্য ৪৮ মিটার হলে, ক্ষেত্রটির পরিসীমা কত?",
+      "options": {
+        "A": "১২৮ মিটার",
+        "B": "১৪৪ মিটার",
+        "C": "৬৪ মিটার",
+        "D": "৯৬ মিটার"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/70.png"
+    },
+    {
+      "question_number": 71,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "ক ঘন্টায় ১০ কি.মি. এবং খ ঘন্টায় ১৫ কি.মি. বেগে একই সময় একই স্থান থেকে রাজশাহীর পথে রওয়ানা হলো। ক ১০.১০ মিনিটের সময় এবং খ ৯.৪০ মিনিটের সময় রাজশাহী পৌঁছল। রওয়ানা হওয়ার স্থান থেকে রাজশাহীর দূরত্ব কত কি.মি.?",
+      "options": {
+        "A": "২০ কি.মি.",
+        "B": "২৫ কি.মি.",
+        "C": "১৫ কি.মি.",
+        "D": "২৮ কি.মি."
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/71.png"
+    },
+    {
+      "question_number": 72,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "১৯, ৩৩, ৫১, ৭৩, –––। পরবর্তী সংখ্যাটি কত?",
+      "options": {
+        "A": "৮৫",
+        "B": "১২১",
+        "C": "৯৯",
+        "D": "৯৮"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯ + ১৪ = ৩৩, ৩৩ + ১৮ = ৫১, ৫১ + ২২ = ৭৩, ৭৩ + ২৬ = ৯৯।"
+    },
+    {
+      "question_number": 73,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি ক্রিকেট দলে যতজন স্ট্যাম্প আউট হলো তার দেড়গুণ কট আউট হলো এবং মোট উইকেটের অর্ধেক বোল্ড আউট হলো। এই দলের কতজন কট আউট হলো?",
+      "options": {
+        "A": "৪ জন",
+        "B": "৩ জন",
+        "C": "২ জন",
+        "D": "৫ জন"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/73.png"
+    },
+    {
+      "question_number": 74,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি বন্দুকের গুলি প্রতি সেকেন্ডে ১৫৪০ ফুট গতিবেগে লক্ষ্যভেদ করে। এক ব্যক্তি বন্দুক ছুঁড়বার ৩ সেকেন্ড পরে লক্ষ্যভেদের শব্দ শুনতে পায়। শব্দের গতি প্রতি সেকেন্ড ১১০০ ফুট। লক্ষ্য বস্তুর দূরত্ব কত?",
+      "options": {
+        "A": "২০২৫ ফুট",
+        "B": "১৯২৫ ফুট",
+        "C": "১৯৭৫ ফুট",
+        "D": "১৮৭৫ ফুট"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/74.png"
+    },
+    {
+      "question_number": 75,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি বৃত্তের ব্যাসার্ধকে যদি \\({\\mathrm{r}}\\) থেকে বৃদ্ধি করে \\({\\mathrm{r + n}}\\) করা হয়, তবে তার ক্ষেত্রফল দ্বিগুণ হয়। \\({\\mathrm{r}}\\)-এর মান কত?",
+      "options": {
+        "A": "\\({\\mathrm{n\\over \\sqrt2-1}}\\)",
+        "B": "\\({\\mathrm{n + \\sqrt2}}\\)",
+        "C": "\\({\\mathrm{\\sqrt{2n}}}\\)",
+        "D": "\\({\\sqrt {2\\mathrm{(n + 1)}}}\\)"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/75.png"
+    },
+    {
+      "question_number": 76,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\({\\mathrm{a-{\\{a-(a+1) = }}}\\) কত?",
+      "options": {
+        "A": "‍\\(\\mathrm {a-1}\\)",
+        "B": "‍\\(\\mathrm {1}\\)",
+        "C": "‍\\(\\mathrm {a}\\)",
+        "D": "‍\\(\\mathrm {a+1}\\)"
+      },
+      "correct_answer": "D",
+      "explanation": "\\(\\mathrm {a-{\\{a-(a+1)\\}} = a-(a-a-1) = a-(-1) = a+1}\\)"
+    },
+    {
+      "question_number": 77,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি পাত্রে দুধ ও পানির অনুপাত ৫ : ২। যদি পানি অপেক্ষা দুধের পরিমাণ ৬ লিটার বেশি হয় পানির পরিমাণ-",
+      "options": {
+        "A": "১৪ লিটার",
+        "B": "৬ লিটার",
+        "C": "১০ লিটার",
+        "D": "৪ লিটার"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/77.png"
+    },
+    {
+      "question_number": 78,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/11th%20BCS/78.jpg)",
+      "options": {
+        "A": "\\({0}\\)",
+        "B": "\\({1}\\)",
+        "C": "\\({225}\\)",
+        "D": "\\({1}\\over{225}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "\\[{15 ÷ 15 × 15}\\over{15 ÷ 15 এর 15}\\] \\[\\] \\[{= {{1\\times15}\\over{15÷225}}}=15\\times {225\\over15}=225\\]"
+    },
+    {
+      "question_number": 79,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "ক-এর বেতন খ-এর বেতন অপেক্ষা শতকরা ৩৫ টাকা বেশি হলে খ-এর বেতন ক-এর বেতন অপেক্ষা কত টাকা কম?",
+      "options": {
+        "A": "২৭ টাকা",
+        "B": "২৫.৯৩ টাকা",
+        "C": "৪০ টাকা",
+        "D": "২৫.৫০ টাকা"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/79.png"
+    },
+    {
+      "question_number": 80,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "১০টি সংখ্যার যোগফল ৪৬২। এদের প্রথম ৪টির গড় ৫২ এবং শেষের ৫টির গড় ৩৮। পঞ্চাম সংখ্যাটি কত?",
+      "options": {
+        "A": "৬০",
+        "B": "৬৪",
+        "C": "৬২",
+        "D": "৫০"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/80.png"
+    },
+    {
+      "question_number": 81,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "পাশাপাশি দুটি বর্গক্ষেত্রের প্রত্যেক বাহু \\({২০}\\) ফুট। \\({\\mathrm{BC=৬, CF = 5}}\\) ফুট, \\({\\mathrm{DE =}}\\) কত?",
+      "options": {
+        "A": "১৫ ফুট",
+        "B": "১২ ফুট",
+        "C": "২০ ফুট",
+        "D": "১৮ ফুট"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 82,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "যদি \\({\\mathrm{a^3-b^3=513}}\\) এবং \\({\\mathrm{a - b = 3}}\\) হয় তবে \\({\\mathrm{ab}}\\) -এর মান কত?",
+      "options": {
+        "A": "54",
+        "B": "35",
+        "C": "45",
+        "D": "55"
+      },
+      "correct_answer": "A",
+      "explanation": "\\[{\\mathrm{a^3-b^3= (a-b)^3+3ab(a-b)}}\\] \\[\\] \\[{\\mathrm{⇒ 513=27+9ab}}\\] \\[\\] \\[{\\mathrm{⇒ 9ab=486}}\\] \\[\\] \\[{\\mathrm{∴ ab=54}}\\]"
+    },
+    {
+      "question_number": 83,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\({\\mathrm{(x+3)(x-3)}}\\) কে \\({\\mathrm{x^2-6}}\\) দিয়ে ভাগ করলে ভাগশেষ কত হবে?",
+      "options": {
+        "A": "\\({-6}\\)",
+        "B": "\\({3}\\)",
+        "C": "\\({6}\\)",
+        "D": "\\({-3}\\)"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/83.png"
+    },
+    {
+      "question_number": 84,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "২টা ১৫ মিনিটের সময় ঘণ্টার কাঁটা ও মিনিটের কাঁটার মধ্যে কত ডিগ্রি কোণ উৎপন্ন হয়?",
+      "options": {
+        "A": "\\(\\mathrm{{২৩}^{\\circ}}\\)",
+        "B": "\\(\\mathrm{{২২}{{১}^{\\circ}\\over{২}}}\\)",
+        "C": "\\(\\mathrm{{২০}^{\\circ}}\\)",
+        "D": "\\(\\mathrm{{২৩}{{১}^{\\circ}\\over{২}}}\\)"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/11th%20BCS/84.png"
+    },
+    {
+      "question_number": 85,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "এক মিটার সমান কত ইঞ্চি?",
+      "options": {
+        "A": "৩৭.৩৯ ইঞ্চি",
+        "B": "৩৯.৩৭ ইঞ্চি",
+        "C": "৩৯.৪৭ ইঞ্চি",
+        "D": "৩৮.৫৫ ইঞ্চি"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 86,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ধানের ফুলে পরাগ সংযোগ ঘটে–",
+      "options": {
+        "A": "বাতাসের সাহায্যে ঝরে পড়ে",
+        "B": "পাতা দ্বারা স্থানান্তরিত হয়ে",
+        "C": "কীটপতঙ্গের সাহায্যে",
+        "D": "ফুলে ফুলে সংস্পর্শে"
+      },
+      "correct_answer": "A",
+      "explanation": "ধান বায়ুপরাগী উদ্ভীদ। দিনের প্রথম ভাগে ধানের স্পাইকলেট উন্মুক্ত হয়। এ অবস্থায় পরাগরেণু গর্ভমুণ্ডের উপর ঝরে পড়ে এবং প্রকৃতিগতভাবেই পরাগায়ন ঘটে।"
+    },
+    {
+      "question_number": 87,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সমুদ্রপৃষ্ঠে বায়ুর চাপ প্রতি বর্গ সেন্টিমিটারে–",
+      "options": {
+        "A": "১০ কি. মি.",
+        "B": "১০ নিউটন",
+        "C": "২৭ কি. মি.",
+        "D": "৫ কি. মি."
+      },
+      "correct_answer": "B",
+      "explanation": "যে কোনো পদার্থের মত বায়ুর নিজস্ব ওজন আছে। বায়ুর এই ওজনজনিত কারণে যে চাপের সৃষ্টি হয় তাই বায়ুর চাপ। সমুদ্রপৃষ্ঠে বায়ুর চাপ প্রতি বর্গ সেন্টিমিটারে ১০ নিউটন।"
+    },
+    {
+      "question_number": 88,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সর্বপ্রথমে যে উফশি ধান এ দেশে চালু হয়ে এখনো বর্তমান রয়েছে তা হলো–",
+      "options": {
+        "A": "ইরি-৮",
+        "B": "ইরি-১",
+        "C": "ইরি-২০",
+        "D": "ইরি-৩"
+      },
+      "correct_answer": "A",
+      "explanation": "ইরি-৮ নামক ‘উফশি’ অর্থাৎ উচ্চ ফলনশীল ধান বাংলাদেশে প্রথম চালু হয়।"
+    },
+    {
+      "question_number": 89,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ইস্পাত সাধারণ লোহা থেকে ভিন্ন। কারণ এতে–",
+      "options": {
+        "A": "বিশেষ ধরনের আকরিক ব্যবহার করা হয়েছে",
+        "B": "সুনিয়ন্ত্রিত পরিমাণ কার্বন রয়েছে",
+        "C": "সুনিয়ন্ত্রিত পরিমাণ কার্বন রয়েছে",
+        "D": "সব বিজাতীয় দ্রব্য বের করে দেয়া হয়েছে"
+      },
+      "correct_answer": "B",
+      "explanation": "লোহার সঙ্গে সুনিয়ন্ত্রিত মাত্রার কার্বন মিশিয়ে ইস্পাত তৈরি হয়। এত ০.১৫%-১.৫% কার্বন থাকে। ফলে এর স্থিতিস্থাপকতা বৃদ্ধি পায়।"
+    },
+    {
+      "question_number": 90,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "প্রাকৃতিক গ্যাসের প্রধান উপাদান হলো–",
+      "options": {
+        "A": "নাইট্রোজেন গ্যাস",
+        "B": "মিথেন",
+        "C": "হাইড্রোজেন গ্যাস",
+        "D": "কার্বন মনোক্সাইড"
+      },
+      "correct_answer": "B",
+      "explanation": "প্রাকৃতিক গ্যাসের উপাদান হলো: মিথেন ৮০% –৯০%, ইথেন ১৩%, প্রোপেন ৩%। এছাড়া বিউটেন, ইথিলিন ও নাইট্রোজেন কিছু পরিমাণ থাকে।"
+    },
+    {
+      "question_number": 91,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "মৌলিক পদার্থের ক্ষুদ্রতম কণা যা রাসায়নিক প্রক্রিয়ায় অংশগ্রহণ করে তাকে বলা হয়–",
+      "options": {
+        "A": "পরমাণু",
+        "B": "ইলেকট্রন",
+        "C": "অণু",
+        "D": "প্রোটন"
+      },
+      "correct_answer": "A",
+      "explanation": "মৌলিক পদার্থের ক্ষুদ্রতম কণা যা রাসায়নিক বিক্রিয়ায় অংশগ্রহণ করে তাকে পরমাণু বলে। পরমাণুকে ভাঙ্গলে ইলেকট্রন, প্রোট্রন ও নিউট্রন পাওয়া যায়। ‘অণু’ রাসায়নিক প্রক্রিয়ায় অংশগ্রহণ করে না। অণুকে ভাঙ্গলে পরমাণু পাওয়া যায়।"
+    },
+    {
+      "question_number": 92,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সমুদ্র স্রোতের অন্যতম কারণ–",
+      "options": {
+        "A": "বায়ু প্রবাহের প্রভাব",
+        "B": "সমুদ্রের পানিতে তাপ পরিচালনা",
+        "C": "সমু্দ্রের পানিতে ঘনত্বের তারতম্য",
+        "D": "সমুদ্রের ঘূর্ণিঝড়"
+      },
+      "correct_answer": "A",
+      "explanation": "সমুদ্র স্রোতের কারণগুলো হচ্ছে বায়ু প্রবাহ, উষ্ণতার তারতম্য, লবণাক্ততার তারতম্য, বাষ্পীভবনের তারতম্য, ঘভীরতার তারতম্য, পৃথিবীর আবর্তন এবং মূলভাগের অবস্থান।"
+    },
+    {
+      "question_number": 93,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কাজ করার সামর্থ্যকে বলে–",
+      "options": {
+        "A": "ক্ষমতা",
+        "B": "কাজ",
+        "C": "শক্তি",
+        "D": "বল"
+      },
+      "correct_answer": "C",
+      "explanation": "শক্তির এস.আই. একক জুল। কাজ করার হারকে ক্ষমতা বলে। এর এস. আই. একক ওয়াট। কোন বস্তুর উপর প্রযুক্ত বল ও তার অভিমুখে সরণের গুণফলকে কাজ বলে। এর এস. আই. একক জুল। যা কোনো স্থির বস্তুর উপর ক্রিয়া করে তাকে গতিশীল করে বা করতে চায় কিংবা গতিশীল বস্তুর উপর ক্রিয়া করে তার গতির পরিবর্তন করে বা করতে চায় তাকে বল বলে। এর এস. আই. একক নিউটন।"
+    },
+    {
+      "question_number": 94,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "রংধনু সৃষ্টির বেলায় পানির কণাগুলো–",
+      "options": {
+        "A": "দর্পণের কাজ করে",
+        "B": "আতষীকাচের কাজ করে",
+        "C": "লেন্সের কাজ করে",
+        "D": "প্রিজমের কাজ করে"
+      },
+      "correct_answer": "D",
+      "explanation": "সাদা রশ্মি প্রিজমের ভেতর দিয়ে বেরিয়ে আসার সময় বিভিন্ন বর্ণের রশ্মিতে ভেঙে যায় ও বর্ণালি সৃষ্টি হয়। পানির কণাগুলো রংধনু সৃষ্টির সময় প্রিজমের কাজ করে।"
+    },
+    {
+      "question_number": 95,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কাচ তৈরির প্রধান কাঁচামাল হলো–",
+      "options": {
+        "A": "জিপসাম",
+        "B": "বালি",
+        "C": "সাজি মাটি",
+        "D": "চুনাপাথর"
+      },
+      "correct_answer": "B",
+      "explanation": "সাধারণ কাচ বালি, সোডিয়াম কার্বনেট, চুনাপাথর প্রভৃতি গলিয়ে কাচ তৈরি করা হয়। বিশেষ গুণসম্পন্ন কাচে সোডিয়ামের পরিবর্তে থাকে সিসা, পটাসিয়াম, বেরিয়াম, কিংবা অন্য ধাতু। তবে কাচ তৈরির প্রধান উপাদান বালি।"
+    },
+    {
+      "question_number": 96,
+      "subject": "COMPUTER-AND-INFORMATION-TECHNOLOGY",
+      "question_text": "কম্পিউটারের সফটওয়্যার বলতে বুঝানো হয়–",
+      "options": {
+        "A": "এর প্রোগ্রাম বা কর্ম পরিকল্পনার কৌশল",
+        "B": "তথ্য দেয়া ও তথ্য নেয়ার অংশ বিশেষ",
+        "C": "যেসব অংশ মুদ্রায়িত অবস্থায় থাকে",
+        "D": "কম্পিউটার তৈরির নকশা"
+      },
+      "correct_answer": "A",
+      "explanation": "কম্পিউটারের ‘সফ্টওয়্যার’ বলতে বুঝায় এর প্রোগ্রাম ও কর্ম-পরিচালনার কৌশল এবং ‘হার্ডওয়্যার’ বলতে কম্পিউটারের যান্ত্রিক বিষয়াদি বুঝায়।"
+    },
+    {
+      "question_number": 97,
+      "subject": "COMPUTER-AND-INFORMATION-TECHNOLOGY",
+      "question_text": "মাইক্রোওয়েভের মাধ্যমে যে টেলিযোগাযোগ ব্যবস্থা আমাদের দেশে প্রচলিত তাতে মাইক্রোওয়েভ অধিকাংশ দূরত্ব অতিক্রম করে–",
+      "options": {
+        "A": "ওয়েভ গাইডের মধ্য দিয়ে",
+        "B": "ভূমি ও আয়নোস্ফিয়ারের মধ্যে প্রতিফলন হতে হবে",
+        "C": "বিশেষ ধরনের ক্যাবলের মধ্য দিয়ে",
+        "D": "খোলামেলা জায়গার মধ্য দিয়ে সরল রেখায়"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 98,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "মানুষের ক্রোমোজোমের সংখ্যা কত?",
+      "options": {
+        "A": "২৪ জোড়া",
+        "B": "২৬ জোড়া",
+        "C": "২৩ জোড়া",
+        "D": "২৫ জোড়া"
+      },
+      "correct_answer": "C",
+      "explanation": "মানুষের ক্রোমোজোম ২৩ জোড়া। এর মধ্যে ২২ জোড়া অটোজোম এবং ১ জোড়া সেক্স ক্রোমোজোম (পুরুষের ক্ষেত্রে XY এবং মহিলাদের ক্ষেত্রে XX)."
+    },
+    {
+      "question_number": 99,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সৌরকোষের বিদ্যুৎ রাতেও ব্যবহার করা সম্ভব যদি এর সঙ্গে থাকে–",
+      "options": {
+        "A": "ট্রান্সফরমার",
+        "B": "জেনারেটর",
+        "C": "ষ্টোরেজ ব্যাটারি",
+        "D": "ক্যাপামিটার"
+      },
+      "correct_answer": "C",
+      "explanation": "স্টোরেজ ব্যাটারির সাহায্যে দিনের সৌরশক্তিকে সঞ্চিত করে রাতে ব্যবহার করা যায়।"
+    },
+    {
+      "question_number": 100,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ–",
+      "options": {
+        "A": "একই হয়",
+        "B": "বেশি হয়",
+        "C": "কম হয়",
+        "D": "খুব কম হয়"
+      },
+      "correct_answer": "A",
+      "explanation": "রেগুলেটরের মাধ্যমে বৈদুতিক পাখার বিদ্যুৎ সরবরাহ নিয়ন্ত্রণ করা হয়। যখন বৈদ্যুতিক পাখা ধীরে ঘুরানোর জন্য বিদ্যুৎ প্রবাহ কমানো হয় তখন অতিরিক্ত বিদ্যুৎ রেগুলেটরে তাপ সৃষ্টি করে। যার ফলে বৈদ্যুতিক পাখা ঘুরলেও বিদ্যুৎ খরচ একই হয় কারণ সবসময় বিদ্যুৎ প্রবাহ একই থাকে।"
+    }
+  ]
+}

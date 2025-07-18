@@ -1,0 +1,1306 @@
+{
+  "exam_name": "30th-bcs Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বাংলা ভাষার আদি নিদর্শন চর্যাপদ আবিষ্কৃত হয় কত সালে?",
+      "options": {
+        "A": "২০০৭ সালে",
+        "B": "১৯০৭ সালে",
+        "C": "১৯০৯ সালে",
+        "D": "১৯১৬ সালে"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলা ভাষার প্রাচীন যুগের একমাত্র নির্ভরযোগ্য নিদর্শন চর্যাপদ মহামহোপাধ্যায় হরপ্রসাদ শাস্ত্রী কর্তৃক ১৯০৭ সালে নেপালের রাজগ্রন্থাগার থেকে আবিষ্কৃত হয়। বৌদ্ধ সহজিয়াগণের রচিত চর্যাপদ ১৯১৬ সালে কলকাতার বঙ্গীয় সাহিত্য পরিষদ থেকে আধুনিক লিপিতে প্রকাশিত হয়। এর সম্পাদনা করেন হরপ্রসাদ শাস্ত্রী। চর্যার প্রাপ্ত পুঁথিতে ৫১টি গান ছিল; যার সাড়ে ৪৬টি পাওয়া গেছে।"
+    },
+    {
+      "question_number": 2,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "নিচের কোনটি শরৎচন্দ্র চট্টোপাধ্যায়ের ছন্দনাম?",
+      "options": {
+        "A": "বীরবল",
+        "B": "ভিমরুল",
+        "C": "অনিলা দেবী",
+        "D": "যাযাবর"
+      },
+      "correct_answer": "C",
+      "explanation": "কথাশিল্পী শরৎচন্দ্র চট্টোপাধ্যায়ের বড়দিদির নাম অনিলা দেবী। নারীর সামাজিক অধিকার ও সমাজে নারীর স্থান সম্পর্কিত ক্ষুদ্র পুস্তিকা ‘নারীর মূল্য’ অনিলা দেবী ছদ্মনামে শরৎচন্দ্র চট্টোপাধ্যায় লেখেন। ● প্রমথ চৌধুরীর ছদ্মনাম → বীরবল। ● বিনয়কৃষ্ণ মুখোপাধ্যায় এর ছদ্মনাম → যাযাবর।"
+    },
+    {
+      "question_number": 3,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘আধ্যাত্মিকা’ উপন্যাসের লেখক কে?",
+      "options": {
+        "A": "প্যারীচাঁদ মিত্র",
+        "B": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "C": "দামোদর বন্দ্যোপাধ্যায়",
+        "D": "শরৎচন্দ্র চট্টোপাধ্যায়"
+      },
+      "correct_answer": "A",
+      "explanation": "প্যারীচাঁদ মিত্রের উল্লেখযোগ্য গ্রন্থ হলো ‘আলালের ঘরের দুলাল’, ‘মদ খাওয়া বড় দায়, জাত থাকার কি উপায়’, ‘রামারঞ্জিকা’, ‘গীতাঙ্কুর’, যৎকিঞ্চিৎ’, ‘অভেদী’, ‘ডেভিড হেয়ারের জীবনচরিত’, ‘এতদ্দেশীয় স্ত্রীলোকদিগের পূর্বাবস্থা’, ‘আধ্যাত্মিকা’, ‘বামাতোষিণী’।"
+    },
+    {
+      "question_number": 4,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘অনীক’ শব্দের অর্থ–",
+      "options": {
+        "A": "সূর্য",
+        "B": "সমুদ্র",
+        "C": "যুদ্ধক্ষেত্র",
+        "D": "সৈনিক"
+      },
+      "correct_answer": "D",
+      "explanation": "‘অনীক’ শব্দের অর্থ হলো: সৈনিক, সৈন্যদল, সেনানী প্রভৃতি। ‘সূর্য’ শব্দের অর্থ হলো: দিবাকর, রবি, ভানু, আফতাব, তপন, প্রভাকর, দিনমণি, সবিতা, ভাস্কর, আদিত্য, মার্তণ্ড, অর্ক, মিহির ইত্যাদি। ‘সমুদ্র’ শব্দের অর্থ হলো: সাগর, বারীশ, সিন্ধু, বারিধি, উদধি, অর্ণব, জলধি, রত্নাকর, নীরধি প্রভৃতি।"
+    },
+    {
+      "question_number": 5,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "জ্যোৎস্নারাত কোন সমাসের দৃষ্টান্ত?",
+      "options": {
+        "A": "মধ্যপদলোপী কর্মধারয়",
+        "B": "ষষ্ঠী তৎপুরুষ",
+        "C": "পঞ্চমী তৎপুরুষ",
+        "D": "উপমান কর্মধারয়"
+      },
+      "correct_answer": "A",
+      "explanation": "‘জ্যোৎস্নারাত’ এর ব্যাসবাক্য হলো ‘জ্যোৎস্না শোভিত রাত’। এটি মধ্যপদলোপী কর্মধারয় সমাসের উদাহরণ। সংজ্ঞানুযায়ী মধ্যপদলোপী কর্মধারয় সমাসে ব্যাসবাক্যের মধ্যপদের লোপ হয়। এরূপ কয়েকটি মধ্যপদলোপী কর্মধারয় সমাস হলো: সিংহ চিহ্নিত আসন = সিংহাসন, সাহিত্যবিষয়ক সভা = সাহিত্যসভা, স্মৃতি রক্ষার্থে সৌধ = স্মৃতিসৌধ, তৈল রঙে আঁকা চিত্র = তৈলচিত্র, দুধে মাখানো ভাত = দুধভাত, ডাক ফেলার বাক্স = ডাকবাক্স, চালে জন্মায় যে কুমড়া = চালকুমড়া, ছায়াপ্রধান তরু = ছায়াতরু প্রভৃতি।"
+    },
+    {
+      "question_number": 6,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "Anatomy শব্দের অর্থ",
+      "options": {
+        "A": "সাদৃশ্য",
+        "B": "স্নায়ুতন্ত্র",
+        "C": "শারীরবিদ্যা",
+        "D": "অঙ্গ-সঞ্চালন"
+      },
+      "correct_answer": "C",
+      "explanation": "Anatomy শব্দের অর্থ শারীরবিদ্যা বা অঙ্গ ব্যবচ্ছেদবিদ্যা [উচ্চ মাধ্যমিক বাংলা সংকলন ‘একুশের গল্প’]। Bangla Academy English-Bengali Dictionary-তে Anatomy শব্দের অর্থ দেয়া হয়েছে জীবদেহের গঠন সংক্রান্ত বিজ্ঞান, অঙ্গ ব্যবচ্ছেদ দ্বারা জীবদেহের গঠন সম্পর্কে অর্জিত জ্ঞান বা অঙ্গ ব্যবচ্ছেদবিদ্যা।"
+    },
+    {
+      "question_number": 7,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোন কবি নিজেকে বাঙালি বলে পরিচয় দিয়েছেন?",
+      "options": {
+        "A": "গোবিন্দ দাস",
+        "B": "কায়কোবাদ",
+        "C": "কাহ্ন পা",
+        "D": "ভুসুকু পা"
+      },
+      "correct_answer": "D",
+      "explanation": "‘আজি ভুসুকু বঙ্গালী ভইলী/নিঅ ঘরিণী চণ্ডালেঁ লেলী।’ ভুসুকু পার এ উক্তিকে প্রমাণস্বরূপ হিসেবে তাকে বাঙালি মনে করা হয়। তার রচিত ৮টি পদ চর্যাপদ গ্রন্থে সংগৃহীত হয়েছে, যা চর্যাগীতি রচনায় সংখ্যাধিক্যে দ্বিতীয়। ভুসুকু নামটিকে ছদ্মনাম বলে মনে করা হয়। তার প্রকৃত নাম শান্তিদেব।"
+    },
+    {
+      "question_number": 8,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘আফতাব’ শব্দের সমার্থক শব্দ কোনটি?",
+      "options": {
+        "A": "অর্ণব",
+        "B": "রাতুল",
+        "C": "অর্ক",
+        "D": "জলধি"
+      },
+      "correct_answer": "C",
+      "explanation": "‘আফতাব’ শব্দের সমার্থক শব্দগুলো হলো: অর্ক, সূর্য, দিবাকর, রবি, ভানু, তপন, সবিতা, ভাস্কর, আদিত্য, মার্তণ্ড, প্রভাকর, মিহির প্রভৃতি। ‘রাতুল’ এর সমার্থক শব্দ হলো: লাল, রক্তবর্ণ। ‘অর্ণব’ ও ‘জলধি’র সমার্থক শব্দগুলো হলো: সমুদ্র, জলনিধি, পারাবার, রত্নাকর, সাগর, সিন্ধু, বারিধি, উদধি, বারীশ প্রভৃতি।"
+    },
+    {
+      "question_number": 9,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "বাগাড়ম্বর শব্দের সন্ধি-বিচ্ছেদ–",
+      "options": {
+        "A": "বাগ + অম্বর",
+        "B": "বাগ + আড়ম্বর",
+        "C": "বাক্ + অম্বর",
+        "D": "বাক্ + আড়ম্বর"
+      },
+      "correct_answer": "D",
+      "explanation": "ব্যঞ্জন সন্ধির অন্যতম একটি ভাগ ব্যঞ্জনে-স্বরে সন্ধির অন্তর্গত ‘বাগাড়ম্বর’। সন্ধির নিয়ম অনুযায়ী পূর্বপদের শেষে বর্গের প্রথম ব্যঞ্জনধ্বনি (ক/চ/ট/ত/প) থাকলে এবং পর পদের প্রথমে স্বরধ্বনি হলে ব্যঞ্জনধ্বনিটি ঐ বর্গের তৃতীয় ধ্বনিতে পরিণত হয়। এরূপ ব্যঞ্জন সন্ধির উদাহরণ হলো: দিগন্ত, ষড়যন্ত্র, সদ্ভাব, উদ্যোগ প্রভৃতি।"
+    },
+    {
+      "question_number": 10,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘সকালে উঠিয়া আমি মনে মনে বলি, সারাদিন আমি যেন ভাল হয়ে চলি’ এই চরণদ্বয়ের লেখক-",
+      "options": {
+        "A": "রবীন্দ্রনাথ ঠাকুর",
+        "B": "কুসুমকুমারী দাস",
+        "C": "মদনমোহন তর্কালঙ্কার",
+        "D": "কৃষ্ণচন্দ্র মজুমদার"
+      },
+      "correct_answer": "C",
+      "explanation": "প্রশ্নে প্রদত্ত চরণদ্বয়ের লেখক মদনমোহন তর্কালঙ্কার। তার একটি সুপরিচিত ও জনপ্রিয় শিশুতোষ কবিতা হলো ‘পাখি সব করে রব, রাতি পোহাইল’।"
+    },
+    {
+      "question_number": 11,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘ঠাকুরমার ঝুলি’ কী জাতীয় রচনার সংকলন?",
+      "options": {
+        "A": "রূপকথা",
+        "B": "ছোটগল্প",
+        "C": "গ্রাম্যগীতিকা",
+        "D": "রূপকথা-উপকথা"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলা শিশুসাহিত্যের অত্যন্ত জনপ্রিয় রূপকথার সংকলন ‘ঠাকুরমার ঝুলি’ ১৯০৬ সালে প্রকাশিত হয়। দক্ষিণারঞ্জন মিত্র মজুমদার এই গ্রন্থের সংকলন করেন। তিনি এগুলো সংগ্রহ করেছিলেন তৎকালীন বৃহত্তর ময়মনসিংহ জেলার বিভিন্ন গ্রাম থেকে এ সংকলনটি চারটি খণ্ডে প্রকাশিত হয়। যথা: ঠাকুরমার ঝুলি, ঠাকুরদাদার ঝুলি, ঠানদিদির থলে, দাদামশায়ের থলে। এ গ্রন্থের প্রথম প্রকাশক ছিলেন কলকাতার ‘ভট্টাচার্য অ্যান্ড সন্স’। এ গ্রন্থের ভূমিকা লিখে দেন রবীন্দ্রনাথ ঠাকুর। গ্রন্থটি জার্মান ভাষায় অনূদিত হয়। এ নামে ইংরেজিতে অনুবাদ করেন মাইকেল মধুসূদন দত্ত।"
+    },
+    {
+      "question_number": 12,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বাংলা ভাষায় ছন্দ প্রধানত কত প্রকার?",
+      "options": {
+        "A": "২",
+        "B": "৪",
+        "C": "৩",
+        "D": "৫"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলা ভাষায় ছন্দকে মাত্রাবৃত্ত, স্বরবৃত্ত ও অক্ষরবৃত্ত এই তিন শ্রেণিতে ভাগ করা হয়। মাত্রাবৃত্ত ছন্দে যুগ্মধ্বনি সব সময় দুই মাত্রা হিসেবে উচ্চারিত হয়। পঙ্‌ক্তিতে পর্বগুলো সমান সংখ্যক মাত্রার হয়ে থাকে। স্বরবৃত্ত ছন্দে যুগ্মধ্বনি সব সময় একমাত্রার। অক্ষরবৃত্ত ছন্দে যুগ্মধ্বনি শব্দপ্রান্তিক হলে দু’মাত্রার শব্দের মাঝে বা প্রথমাংশে থাকলে সাধারণত এক মাত্রার ধরা হয়।"
+    },
+    {
+      "question_number": 13,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘কাঁঠালপাড়া’য় জন্মগ্রহণ করেন কোন লেখক?",
+      "options": {
+        "A": "শরৎচন্দ্র চট্টোপাধ্যায়",
+        "B": "সুভাষ মুখোপাধ্যায়",
+        "C": "কাজী ইমদাদুল হক",
+        "D": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+      },
+      "correct_answer": "D",
+      "explanation": "২৬ জুন, ১৮৩৮ সালে পশ্চিমবঙ্গের চব্বিশ পরগনার কাঁঠালপাড়া গ্রামে বাংলা উপন্যাস সাহিত্যের স্থপতি বঙ্কিমচন্দ্র চট্টোপাধ্যায় জন্মগ্রহণ করেন। খ্যাতনামা কথাসাহিত্যিক শরৎচন্দ্র চট্টোপাধ্যায় ১৫ সেপ্টেম্বর, ১৮৭৬ সালে হুগলী জেলার দেবানন্দপুর গ্রামে জন্মগ্রহণ করেন। কাজী ইমদাদুল হক ৪ নভেম্বর ১৮৮২ সালে খুলনার গদাইপুর গ্রামে জন্মগ্রহণ করেন। সুভাষ মুখোপাধ্যায় ১২ ফেব্রুয়ারি, ১৯১৯ ভারতের পশ্চিমবঙ্গে জন্মগ্রহণ করেন।"
+    },
+    {
+      "question_number": 14,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "নিচের কোনটি অঘোষ অল্পপ্রাণ ধ্বনি?",
+      "options": {
+        "A": "ভ",
+        "B": "ঠ",
+        "C": "ফ",
+        "D": "চ"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/1.jpg"
+    },
+    {
+      "question_number": 15,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘অপ’ কী ধরনের উপসর্গ?",
+      "options": {
+        "A": "সংস্কৃত",
+        "B": "বাংলা",
+        "C": "বিদেশি",
+        "D": "মিশ্র"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলা ভাষায় তিন প্রকার উপসর্গ আছে। বাংলা, তৎসম বা সংস্কৃত এবং বিদেশী উপসর্গ। এর মধ্যে বাংলা উপসর্গ মোট ২১টি এবং তৎসম বা সংস্কৃত উপসর্গ ২০টি। সংস্কৃত উপসর্গগুলো হলো: প্র, পরা অপ, সম্, নি, অনু, অব, নির, দুর, বি, অধি, সু, উৎ, পরি, প্রতি, অতি, অপি, অভি, উপ, আ।"
+    },
+    {
+      "question_number": 16,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "নিচের কোনটি মীর মশাররফ হোসেনের জন্ম-মৃত্যু সাল?",
+      "options": {
+        "A": "১৮৪৭-১৯১১",
+        "B": "১৮৫২-১৯১২",
+        "C": "১৮৫৭-১৯১১",
+        "D": "১৮৪৭-১৯১২"
+      },
+      "correct_answer": "A",
+      "explanation": "ঔপন্যাসিক, নাট্যকার ও প্রাবন্ধিক মীর মশাররফ হোসেন ১৩ নভেম্বর ১৮৪৭ সালে কুষ্টিয়ার লাহিনীপাড়ায় জন্মগ্রহণ করেন। পিতা মীর মোয়াজ্জেম হোসেন। মুসলিম রচিত আধুনিক বাংলা সাহিত্যের সমন্বয়ধর্মী ধারার প্রতীক হিসেবে খ্যাত মীর মশাররফ হোসেন ১৯১১ সালের ১৯ ডিসেম্বর মৃত্যুবরণ করেন এবং পদমদীতে সমাহিত হন।"
+    },
+    {
+      "question_number": 17,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "রবীন্দ্রনাথের ‘সোনার তরী’ কবিতা কোন ছন্দে রচিত?",
+      "options": {
+        "A": "স্বরবৃত্ত",
+        "B": "অক্ষরবৃত্ত",
+        "C": "মন্দাক্রান্তা",
+        "D": "মাত্রাবৃত্ত"
+      },
+      "correct_answer": "D",
+      "explanation": "বাংলা সাহিত্যের সর্বশ্রেষ্ঠ প্রতিভা বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত ‘সোনার তরী’ কবিতাটি ১৮৯৪ সালে প্রকাশিত ‘সোনার তরী’ কাব্যগ্রন্থের অন্তর্গত এ কবিতাটি মাত্রাবৃত্ত ছন্দে রচিত (৮ মাত্রার মাত্রাবৃত্ত ছন্দে) পূর্ণ পর্ব ৮ মাত্রার, অপূর্ণ পর্ব ৫ মাত্রার।"
+    },
+    {
+      "question_number": 18,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘সাহচর্য’ শব্দের শুদ্ধ গঠন কোনটি?",
+      "options": {
+        "A": "সহ + চর + র্য",
+        "B": "সহচর + ৎ ফলা",
+        "C": "সহচর + য",
+        "D": "কোনটিই নয়"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলা ব্যাকরণের নিয়ম অনুসারে ‘য’ প্রত্যয় যুক্ত হলে প্রাতিপদিকের অন্তে স্থিত অ, আ, ই এবং ঈ এর লোপ হয়। সে অনুসারে সহচর + য = সাহচর্য শুদ্ধ। এ নিয়মের অন্তর্ভুক্ত হলো সাম্য, কাব্য, মাধুর্য, প্রাচ্য প্রভৃতি।"
+    },
+    {
+      "question_number": 19,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘পাহাড়তলী’ গ্রামে জন্মগ্রহণ করেন-",
+      "options": {
+        "A": "মুকুন্দরাম চক্রবর্তী",
+        "B": "সৈয়দ শামসুল হক",
+        "C": "শামসুর রাহমান",
+        "D": "সেলিম আলদীন"
+      },
+      "correct_answer": "",
+      "explanation": "কবিকঙ্কণ মুকুন্দরাম চক্রবর্তীর জন্ম বর্ধমান জেলার দামুন্যা গ্রামে আনুমানিক ১৫৪০ সালে। সৈয়দ শামসুল হক ১৯৩৬ সালের ২৭ ডিসেম্বর কুড়িগ্রামে জন্মগ্রহণ করেন। শামসুর রাহমানের জন্ম ১৯২৯ সালের ২৪ অক্টোবর মাতুলালয় পুরনো ঢাকার মাহুতটুলিতে। তার পৈতৃক নিবাস নরসিংদী জেলার রায়পুরার পাড়াতলী গ্রামে। নাট্যকার সেলিম আলদীন জন্মগ্রহণ করেন ১৮ নভেম্বর, ১৯৪৮ সালে ফেনী জেলার সেনেরখীল গ্রামে।"
+    },
+    {
+      "question_number": 20,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘পূর্বাশা’ পত্রিকার সম্পাদক ছিলেন–",
+      "options": {
+        "A": "মুন্সী মেহেরুল্লা",
+        "B": "সঞ্জয় ভট্টাচার্য",
+        "C": "কামিনী রায়",
+        "D": "মোজাম্মেল হক"
+      },
+      "correct_answer": "B",
+      "explanation": "কবি-ঔপন্যাসিক-সম্পাদক-সংগঠক সঞ্চয় ভট্টাচার্য বর্তমান কুমিল্লার শ্যামগ্রামে জন্মগ্রহণ করেন। ‘পূর্বাশা’ নামক মাসিক সাহিত্য পত্রিকা সম্পাদনা ও প্রকাশ তার শ্রেষ্ঠ কীর্তি। মোজাম্মেল হকের সম্পাদনায় ‘লহরী’ ও ‘মোসলেম ভারত’ নামক মাসিক সাহিত্য পত্রিকা প্রকাশিত হয়।"
+    },
+    {
+      "question_number": 21,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "In each of the following questions, out of the given alternatives, choose the one that best expresses the meaning of the given word:– IMPROVEMENT",
+      "options": {
+        "A": "Promotion",
+        "B": "Advancement",
+        "C": "Betterment",
+        "D": "Preference"
+      },
+      "correct_answer": "C",
+      "explanation": "Improvement- উৎকর্ষ বা উৎকর্ষ সাধন; Promotion- পদোন্নতি; Advancement- পদোন্নতি, উন্নতি, Better-ment- উৎকর্ষ বা উৎকর্ষ সাধন; Preference- অগ্রাধিকার।"
+    },
+    {
+      "question_number": 22,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "AMICABLE",
+      "options": {
+        "A": "Interesting",
+        "B": "Loving",
+        "C": "Affectionate",
+        "D": "Friendly"
+      },
+      "correct_answer": "D",
+      "explanation": "Amicable- শান্তিপ্রবণ, বন্ধুত্বপূর্ণ, Interesting- আকর্ষণীয়, চিত্তাকর্ষক; Loving- প্রীতিপূর্ণ, স্নেহশীল; Affectionate- স্নেহময়, মমতাময়; Friendly- বন্ধুত্বপূর্ণ, বন্ধুসুলভ।"
+    },
+    {
+      "question_number": 23,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "\\[\\mathrm {In \\ each \\ of \\ the \\ following \\ questions,}\\] \\[ \\mathrm {choose \\ the \\ word \\ opposite \\ in \\ meaning \\ to \\ the \\ given \\ word :}–\\] \\[\\mathrm {LIABILITY}\\]",
+      "options": {
+        "A": "Treasure",
+        "B": "Debt",
+        "C": "Assets",
+        "D": "Property"
+      },
+      "correct_answer": "C",
+      "explanation": "Liability- দায়; Treasure- অত্যন্ত মূল্যবান সম্পদ; Debt- ঋণ, দেনা; Assets- সম্পদ, Property- সম্পত্তি, বিত্ত। এখানে Liability এর opposite বা বিপরীত হচ্ছে Assets।"
+    },
+    {
+      "question_number": 24,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "HATE",
+      "options": {
+        "A": "Admire",
+        "B": "Abhor",
+        "C": "Concern",
+        "D": "Loathe"
+      },
+      "correct_answer": "A",
+      "explanation": "Hate- ঘৃণা করা; Admire- প্রশংসা করা; Abhor - ঘৃণা করা, Concern- উদ্বেগ; Loathe- অপছন্দ করা। এখানে স্পষ্টতই Hate এর Opposite বা বিপরীত হলো Admire।"
+    },
+    {
+      "question_number": 25,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "\\[\\mathrm {In \\ each \\ of \\ the \\ following \\ questions, \\ out \\ of \\ the \\ four \\ alternatives,}\\] \\[\\mathrm {choose \\ the \\ one \\ which \\ can \\ be \\ substituted \\ for \\ the \\ given \\ words/sentence:-}\\] \\[\\mathrm {A \\ song \\ embodying \\ religious \\ and \\ sacred \\ emotions}–\\]",
+      "options": {
+        "A": "Lyric",
+        "B": "Ode",
+        "C": "Hymn",
+        "D": "Ballad"
+      },
+      "correct_answer": "C",
+      "explanation": "Lyric হচ্ছে গীতিকবিতা, অর্থাৎ a short poem of songlike quality। Ode হচ্ছে গাঁথা-কবিতা অর্থাৎ a poem written to a person or thing। যেমন: John Keats রচিত Ode to a Nightingale। Hymn হচ্ছে ঈশ্বর বন্দনা, অর্থাৎ a song of praise or thanksgiving to God or a deity। অন্যদিকে Ballad is a kind of short narrative poem. অর্থানুযায়ী Hymn Correct answer."
+    },
+    {
+      "question_number": 26,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Time after twilight and before night–",
+      "options": {
+        "A": "Evening",
+        "B": "Dawn",
+        "C": "Dusk",
+        "D": "Eclipse"
+      },
+      "correct_answer": "C",
+      "explanation": "Twilight (গোধূলি) এর পরবর্তী কিন্তু night (রাত্রি) এর পূর্ববর্তী সময় বা time কে Dusk বা সন্ধ্যার প্রাক্কাল বলে। Dawn- প্রভাত কাল Eclipse- গ্রহণ বা রাহু গ্রাস।"
+    },
+    {
+      "question_number": 27,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "\\[\\mathrm {Fill \\ in \\ the \\ blanks \\ in \\ the \\ following \\ sentences \\ by \\ selecting \\ the}\\] \\[\\mathrm {most \\ appropriate \\ alternative \\ from \\ among \\ the \\ four \\ choices \\ given} :–\\] \\[\\mathrm {Parliamentary \\ democracy \\ demands \\ discipline \\ and\\ –– \\ to \\ the \\ rules.}\\]",
+      "options": {
+        "A": "adherence",
+        "B": "respectful",
+        "C": "knowledge",
+        "D": "awareness"
+      },
+      "correct_answer": "A",
+      "explanation": "Adherence- আনুগত্য; respectful- শ্রদ্ধাশীল; knowledge- জ্ঞান; awareness- সচেতনতা। knowledge এবং aware-ness এর পর preposition ‘of’ বসে। কিন্তু শূন্যস্থানের পরে আছে to। প্রশ্নে and এর পূর্বে আছে discipline, যা noun। respectful হচ্ছে adjective। তাই এটি উত্তর হবে না। ad-herence সঙ্গতিপূর্ণ বিধায়। তাই adherence সঠিক উত্তর।"
+    },
+    {
+      "question_number": 28,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Reason is the highest faculty ____ on human by their creator.",
+      "options": {
+        "A": "entrusted",
+        "B": "endowed",
+        "C": "bestowed",
+        "D": "conferred"
+      },
+      "correct_answer": "C",
+      "explanation": "Entrust- বিশ্বাস স্থাপন করা; endow- টাকা বা সম্পত্তি দান করা; bestow - প্রদান করা; confer- খেতাব বা উপাধি প্রদান করা।"
+    },
+    {
+      "question_number": 29,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Rishan walks as if he _____ lame.",
+      "options": {
+        "A": "is",
+        "B": "had been",
+        "C": "has",
+        "D": "were"
+      },
+      "correct_answer": "D",
+      "explanation": "As if বা though এর পরের clauseটি সর্বদা past tense এ হয়, as if এর পূর্বে present indefinite tense থাকলে past indefinite বসবে এবং সর্বদাই এর plural form- এ বসবে।"
+    },
+    {
+      "question_number": 30,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "\\[\\mathrm {One \\ of \\ the \\ four \\ sentences \\ given \\ in \\ each \\ question \\ is \\ grammatically \\ wrong.}\\] \\[\\mathrm {That \\ alternative \\ is \\ your \\ answer} :–\\]",
+      "options": {
+        "A": "Neither you nor I am in a sound position.",
+        "B": "Laziness is detrimental for success.",
+        "C": "He begged the favour of my granting him leave.",
+        "D": "Your action is not in conformity with the law."
+      },
+      "correct_answer": "B",
+      "explanation": "Detrimental এরপর preposition ‘to’ হয়। বাক্যটির সঠিক রূপ হবে Laziness is detrimental to success."
+    },
+    {
+      "question_number": 31,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Which sentence is incorrect?",
+      "options": {
+        "A": "He has no desire for fame.",
+        "B": "I intend going to Rajshahi.",
+        "C": "He is too miserly to part with his money.",
+        "D": "He has invited me for dinner."
+      },
+      "correct_answer": "B",
+      "explanation": "Intend এরপর gerund (verb + ing) দেওয়া আছে। অথচ intend এরপর infinitive অর্থাৎ to + verb এর base বসে। বাক্যটির correct form হবে I intend to go to Rajshahi."
+    },
+    {
+      "question_number": 32,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/30th-bcs/32.jpg)",
+      "options": {
+        "A": "to save oneself",
+        "B": "to be self respectful",
+        "C": "to keep calm",
+        "D": "None of these"
+      },
+      "correct_answer": "C",
+      "explanation": "Keep one’s head- মাথা ঠাণ্ডা রাখা অর্থাৎ keep calm."
+    },
+    {
+      "question_number": 33,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "To put the cart before the horse –",
+      "options": {
+        "A": "to offer a person what he cannot eat",
+        "B": "to force a person to do something",
+        "C": "to raise obstacle",
+        "D": "to reverse the natural order of things"
+      },
+      "correct_answer": "D",
+      "explanation": "Put the cart before the horse– কোনো জিনিসের স্বাভাবিক ক্রমকে পাল্টে দেয়া (reverse the natural order of things)."
+    },
+    {
+      "question_number": 34,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "To read between the lines–",
+      "options": {
+        "A": "to concentrate",
+        "B": "to suspect",
+        "C": "to read carefully",
+        "D": "to grasp the hidden meaning"
+      },
+      "correct_answer": "D",
+      "explanation": "To read between the lines- অব্যক্ত অর্থ আবিষ্কার করা [to grasp (উপলব্ধি করা) the hidden meaning.]"
+    },
+    {
+      "question_number": 35,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/30th-bcs/35.jpg)",
+      "options": {
+        "A": "He is known by me.",
+        "B": "He was known to me.",
+        "C": "He has been known by me.",
+        "D": "He is known to me."
+      },
+      "correct_answer": "D",
+      "explanation": "Know এর পরে to বসে।"
+    },
+    {
+      "question_number": 36,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "A lion may be helped even by a little mouse.",
+      "options": {
+        "A": "A little mouse may even help a lion.",
+        "B": "Even a little mouse may help a lion.",
+        "C": "A little mouse can even help a lion.",
+        "D": "Even a little mouse ought to help a lion."
+      },
+      "correct_answer": "B",
+      "explanation": "প্রদত্ত বাক্যটি passive voice এ আছে। Passive বাক্যে may be + V3 থাকে, active বাক্যে may + V1 বসে। pas-sive বাক্যে ‘even’ a little mouse এর পাশে বসায় Active বাক্যেও ‘even’ শব্দটি ‘a little mouse’ এর পাশে বসবে।"
+    },
+    {
+      "question_number": 37,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Choose the correctly spelt word :-",
+      "options": {
+        "A": "Liesure",
+        "B": "Leisure",
+        "C": "Leasure",
+        "D": "Lesiure"
+      },
+      "correct_answer": "B",
+      "explanation": "Correct spelling হবে Leisure."
+    },
+    {
+      "question_number": 38,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Choose the correctly spelt word :-",
+      "options": {
+        "A": "Superceed",
+        "B": "Superseed",
+        "C": "Supercede",
+        "D": "Supersede"
+      },
+      "correct_answer": "D",
+      "explanation": "এখানে correct spelling হচ্ছে supersede (স্থান অধিকার করা)।"
+    },
+    {
+      "question_number": 39,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/30th-bcs/39.jpg)",
+      "options": {
+        "A": "wits",
+        "B": "seats",
+        "C": "lives",
+        "D": "funds"
+      },
+      "correct_answer": "A",
+      "explanation": "Out of one's wits একটি idiom, যার অর্থ অত্যন্ত বিচলিত।"
+    },
+    {
+      "question_number": 40,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The people who carry a coffin at a funeral are called –",
+      "options": {
+        "A": "undertakers",
+        "B": "supporters",
+        "C": "pallbearers",
+        "D": "mourners"
+      },
+      "correct_answer": "C",
+      "explanation": "যারা coffin বা শবাধার বহন (carry) করে তাদেরকে বলা হয় pallbearers. অর্থাৎ The people who carry a coffin at a funeral are called pallbearers।"
+    },
+    {
+      "question_number": 41,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বখতিয়ার খিলজি বাংলা জয় করেন কোন সালে?",
+      "options": {
+        "A": "১২১২",
+        "B": "১২০০",
+        "C": "১২০৪",
+        "D": "১২১১"
+      },
+      "correct_answer": "C",
+      "explanation": "১২০৪ সালে বখতিয়ার খিলজি অশ্ব বিক্রেতার বেশে অতর্কিতে লক্ষ্মণ সেনের রাজধানী নদীয়া আক্রমণ করলে লক্ষ্মণ সেন পলায়ন করে এবং বখতিয়ার খিলজি বাংলায় মুসলিম শাসনের সূত্রপাত ঘটান।"
+    },
+    {
+      "question_number": 42,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "প্রাচীন চন্দ্রদ্বীপের বর্তমান নাম কি?",
+      "options": {
+        "A": "মালদ্বীপ",
+        "B": "সন্দ্বীপ",
+        "C": "হাতিয়া",
+        "D": "বরিশাল"
+      },
+      "correct_answer": "D",
+      "explanation": "সুপ্রাচীনকালে বর্তমান বৃহত্তর বরিশাল অঞ্চল ‘চন্দ্রদ্বীপ’ নামে পরিচিত ছিল। বিভিন্ন ইতিহাসবিদ তাদের রচিত গ্রন্থে চন্দ্রদ্বীপ নামকরণ সম্পর্কে ভিন্ন ভিন্ন অভিমত ব্যক্ত করেন। যেমন প্রাকৃতিক কারণে এ অঞ্চল চন্দ্রকলার মতো হ্রাস-বৃদ্ধি ঘটত অথবা চাঁদের মতো আকৃতির ছিল বলে নাম হয় চন্দ্রদ্বীপ।"
+    },
+    {
+      "question_number": 43,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "গণপ্রজাতন্ত্রী বাংলাদেশের মনোগ্রামে কতটি তারকা চিহ্ন রয়েছে?",
+      "options": {
+        "A": "৪টি",
+        "B": "৫টি",
+        "C": "৬টি",
+        "D": "২টি"
+      },
+      "correct_answer": "A",
+      "explanation": "গণপ্রজাতন্ত্রী বাংলাদেশের মনোগ্রামে ৪টি তারকা রয়েছে। এ মনোগ্রামে রয়েছে লাল রঙের মাঝে হলুদ রঙের বাংলাদেশের মানচিত্র। বৃত্তের উপর দিকে লেখা ‘গণপ্রজাতন্ত্রী বাংলাদেশ’, নিচে লেখা ‘সরকার’। লেখার দুপাশে দুটি করে মোট ৪টি তারকাচিহ্ন রয়েছে।"
+    },
+    {
+      "question_number": 44,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের নদী গবেষণা ইনস্টিটিউট কোথায়?",
+      "options": {
+        "A": "ফরিদপুর",
+        "B": "চাঁদপুর",
+        "C": "চট্টগ্রাম",
+        "D": "নারায়ণগঞ্জ"
+      },
+      "correct_answer": "A",
+      "explanation": "পানিসম্পদ মন্ত্রণালয়ের অধীনে স্বায়ত্তশাসিত প্রতিষ্ঠান হিসেবে নদী গবেষণা ইনস্টিটিউট প্রথম ঢাকায় প্রতিষ্ঠিত হয়। পরবর্তীতে ফরিদপুরের হারুকান্দিতে এটি স্থানান্তর করা হয়।"
+    },
+    {
+      "question_number": 45,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "সাগরকন্যা কোন এলাকার ভৌগোলিক নাম?",
+      "options": {
+        "A": "টেকনাফ",
+        "B": "কক্সবাজার",
+        "C": "পটুয়াখালী",
+        "D": "খুলনা"
+      },
+      "correct_answer": "C",
+      "explanation": "কুয়াকাটা বাংলাদেশের একমাত্র সমুদ্র সৈকত, যেখান থেকে সূর্যোদয় ও সূর্যাস্ত গভীরভাবে অবলোকন করা যায়। সমুদ্র সৈকতটি পটুয়াখালী জেলার কলাপাড়া উপজেলার লতাচাপলি ইউনিয়নের অন্তর্গত। কুয়াকাটা স্থানীয়ভাবে ‘সাগরকন্যা’ নামে পরিচিত।"
+    },
+    {
+      "question_number": 46,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের নির্বাহী বিভাগ থেকে বিচার বিভাগ কবে পৃথক করা হয়?",
+      "options": {
+        "A": "৩১-১০-০৭",
+        "B": "১-১১-০৭",
+        "C": "৩-১১-০৭",
+        "D": "১-১০-০৭"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৯৫ সালের ১৯ নভেম্বর বিসিএস (বিচার) অ্যাসোসিয়েশনের সাবেক মহাসচিব ও সাবজজ মোহাম্মদ মাজদার হোসেন ও ৪৪০ জন বিচারক বাংলাদেশ সরকারকে বিবাদী করে একটি রিট মামলা করলে নির্বাহী বিভাগ থেকে বিচার বিভাগ পৃথক করার দাবি নতুন মাত্রা পায়। ১৯৯৭ সালের ৭ মে হাইকোর্ট দরখাস্তকারীর পক্ষে রায় দেয়। পরবর্তীতে ১৯৯৯ সালে আপিল বিভাগ হাইকোর্টের রায় বহাল রেখে সরকারকে ১২ দফা দিকনির্দেশনা দেয়। এ দিক-নির্দেশনা কার্যকরের জন্য সরকার বার বার সময় নেয় আদালতের কাছ থেকে। পরবর্তীতে ১ নভেম্বর, ২০০৭ বিচার বিভাগকে নির্বাহী বিভাগ থেকে পৃথক করা হয়।"
+    },
+    {
+      "question_number": 47,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "৬-দফা দাবি কোথায় উত্থাপিত হয়?",
+      "options": {
+        "A": "ঢাকা",
+        "B": "লাহোর",
+        "C": "দিল্লি",
+        "D": "চট্টগ্রাম"
+      },
+      "correct_answer": "B",
+      "explanation": "ভারত-পাকিস্তান যুদ্ধ (৬-২৭ সেপ্টেম্বর, ১৯৬৫) সমাপ্তির পর উভয় দেশের মধ্যে ‘তাসখন্দ চুক্তি’ (১০ জানুয়ারি, ১৯৬৬) স্বাক্ষরের পটভূমিকায় ১৯৬৬ সালের ৫-৬ ফেব্রুয়ারি, লাহোরে অনুষ্ঠিত বিরোধী দলের এক সম্মেলনে বঙ্গবন্ধু শেখ মুজিবুর রহমান ৬ দফা দাবি উত্থাপন করেন।"
+    },
+    {
+      "question_number": 48,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "দেশের প্রথম ঔষধ পার্ক কোথায় স্থাপিত হচ্ছে?",
+      "options": {
+        "A": "গজারিয়া",
+        "B": "গাজীপুর",
+        "C": "সাভার",
+        "D": "ভালুকা"
+      },
+      "correct_answer": "A",
+      "explanation": "মুন্সিগঞ্জের গজারিয়া উপজেলার বাউসিয়া এলাকায় ২০০ একর জমিতে ঔষধ শিল্পপার্ক স্থাপিত হচ্ছে।"
+    },
+    {
+      "question_number": 49,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "ক্রিকেটে বাংলাদেশ কোন সালে টেস্ট মর্যাদা পায়?",
+      "options": {
+        "A": "১৯৯৮",
+        "B": "১৯৯৯",
+        "C": "২০০০",
+        "D": "২০০১"
+      },
+      "correct_answer": "C",
+      "explanation": "২০০০ সালের ২৬ জুন দশম টেস্ট খেলুড়ে দেশ হিসেবে বাংলাদেশ টেস্ট মর্যাদা লাভ করে।"
+    },
+    {
+      "question_number": 50,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের জাতীয় ফল কোনটি?",
+      "options": {
+        "A": "আম",
+        "B": "কাঁঠাল",
+        "C": "কলা",
+        "D": "পেঁপে"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশের জাতীয় ফল কাঁঠালের আদি নিবাস ভারতের পশ্চিমঘাট পর্বতমালা। সারা বাংলাদেশে জন্মালেও নওগাঁ, দিনাজপুর, সাভার, মধুপুর ও সিলেট কাঁঠালের প্রধান এলাকা। আর আমগাছ হলো বাংলাদেশের জাতীয় বৃক্ষ।"
+    },
+    {
+      "question_number": 51,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ষোড়শ সার্ক সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+      "options": {
+        "A": "ঢাকা",
+        "B": "কাঠমাণ্ডু",
+        "C": "থিম্পু",
+        "D": "মালে"
+      },
+      "correct_answer": "C",
+      "explanation": "ষোড়শ সার্ক সম্মেলন ২৮-২৯ এপ্রিল, ২০১০ ভুটানের রাজধানী থিম্পুতে অনুষ্ঠিত হয়। সার্ক প্রতিষ্ঠার পর ২০১০ সালেই প্রথম ভুটানে সার্ক সম্মেলন অনুষ্ঠিত হয়। সম্মেলনের মূল প্রতিপাদ্য ছিল: ‘সবুজ ও সুখী দক্ষিণ এশিয়ার পথে’। ১৯তম সার্ক শীর্ষ সম্মেলন ২০১৬ সালে পাকিস্তানে অনুষ্ঠিত হওয়ার কথা থাকলেও ভারতসহ সার্কের অন্য রাষ্ট্রগুলো পাকিস্তানে সার্ক সম্মেলন বর্জনের ঘোষণা দেয়ায় সেটি স্থগিত রয়েছে। ২৩তম সার্ক সম্মেলন পাকিস্তানে হওয়ার কথা থাকলেও ভারতের অসম্মতিতে অনুষ্ঠিত হয়নি।"
+    },
+    {
+      "question_number": 52,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বিশ্বের সবচেয়ে বড় অর্থনৈতিক জোট কোনটি?",
+      "options": {
+        "A": "EU",
+        "B": "WTO",
+        "C": "NATO",
+        "D": "FIFA"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/2.jpg"
+    },
+    {
+      "question_number": 53,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আলফ্রেড নোবেল কি আবিষ্কার করেন?",
+      "options": {
+        "A": "ডিনামাইট",
+        "B": "বিদ্যুৎ",
+        "C": "পোলিও টিকা",
+        "D": "কয়লা"
+      },
+      "correct_answer": "A",
+      "explanation": "আলফ্রেড বার্নার্ড নোবেল ১৮৩৩ সালে ২১ অক্টোবর সুইডেনের স্টকহোমে জন্মগ্রহণ করেন। ১৮৬৬ সালে তিনি কিজেলগুর নামে বিশেষ এক ধরনের শৈবালযুক্ত মাটির জৈব মোড়ক আবিষ্কার করতে সক্ষম হন। ১৮৬৭ সালে তার এ উদ্ভাবন ডিনামাইট নামে পেটেন্ট হয়।"
+    },
+    {
+      "question_number": 54,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "নিম্নের কোন দেশটি G-8 এর সদস্য নয়?",
+      "options": {
+        "A": "জাপান",
+        "B": "যুক্তরাজ্য",
+        "C": "ফ্রান্স",
+        "D": "সুইডেন"
+      },
+      "correct_answer": "D",
+      "explanation": "বিশ্বের শিল্পোন্নত দেশসমূহের সংগঠন G-8 (Group Eight) ১৫ নভেম্বর, ১৯৭৫ সালে প্রতিষ্ঠিত হয়। এর লক্ষ্য ও উদ্দেশ্য হলো সদস্য দেশগুলোর পারস্পরিক অর্থনৈতিক সহযোগিতা বৃদ্ধি করা। উল্লেখ্য, ইউক্রেন ইস্যুতে রাশিয়ার সদস্যপদ স্থগিত করায় G-8 বর্তমানে G-7। এর বর্তমান সদস্য রাষ্ট্রসমূহ হলো: মার্কিন যুক্তরাষ্ট্র, যুক্তরাজ্য, ফ্রান্স, জার্মানি, ইতালি, জাপান ও কানাডা।"
+    },
+    {
+      "question_number": 55,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "হাজার হ্রদের দেশ কোনটি?",
+      "options": {
+        "A": "নরওয়ে",
+        "B": "ফিনল্যান্ড",
+        "C": "ইন্দোনেশিয়া",
+        "D": "জাপান"
+      },
+      "correct_answer": "B",
+      "explanation": "নরওয়ের ভৌগোলিক উপনাম নিশীথ সূর্যের দেশ। জাপানের ভৌগোলিক উপনাম সূর্যোদয়ের দেশ ও ভূমিকম্পের দেশ। ফিনল্যান্ডের ভৌগোলিক উপনাম হাজার হ্রদের দেশ।"
+    },
+    {
+      "question_number": 56,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কোথায় সেনাবাহিনী নেই?",
+      "options": {
+        "A": "সুদান",
+        "B": "সাইপ্রাস",
+        "C": "মালদ্বীপ",
+        "D": "ভুটান"
+      },
+      "correct_answer": "C",
+      "explanation": "এই পরীক্ষা অনুষ্ঠিত হবার সময় মালদ্বীপে সেনাবাহিনী ছিলো না। বর্তমানে কোস্ট গার্ড, মেরিন কোর ও বিশেষ বাহিনীর সমন্বয়ে গঠিত মালদ্বীপস্ ন্যাশনাল ডিফেন্স ফোর্স (Maldives National Defence Force) রয়েছে। এ বাহিনী মালদ্বীপের নিরাপত্তা, সার্বভৌমত্ব, শান্তি-শৃঙ্খলা ও অর্থনৈতিক জোন রক্ষায় নিয়োজিত। তবে মালদ্বীপের কোনো স্থলবাহিনী নেই।"
+    },
+    {
+      "question_number": 57,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কবে রেডক্রস প্রতিষ্ঠিত হয়?",
+      "options": {
+        "A": "১৮৬৪ সালে",
+        "B": "১৮৬৮ সালে",
+        "C": "১৮৬৬ সালে",
+        "D": "১৮৬১ সালে"
+      },
+      "correct_answer": "",
+      "explanation": "বিশ্বের দুস্থ মানবতার সেবায় নিয়োজিত আন্তর্জাতিক সেবা প্রতিষ্ঠান রেডক্রস ৯ ফেব্রুয়ারি, ১৮৬৩ সালে সুইজারল্যান্ডের নাগরিক হেনরি ডুনান্ট এর সহযোগিতায় প্রতিষ্ঠিত হয়। মুসলিম বিশ্বে এটি রেড ক্রিসেন্ট, খ্রিষ্টানদের কাছে রেডক্রস এবং ইসরাইলের নিকট রেড ক্রিস্টাল নামে পরিচিত।"
+    },
+    {
+      "question_number": 58,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বিশ্ব মানবাধিকার দিবস কবে পালিত হয়?",
+      "options": {
+        "A": "২৬ জুন",
+        "B": "১ আগস্ট",
+        "C": "১ মে",
+        "D": "১০ ডিসেম্বর"
+      },
+      "correct_answer": "D",
+      "explanation": "১৯৪৮ সালের ১০ ডিসেম্বর জাতিসংঘের সাধারণ পরিষদে তৃতীয় অধিবেশনে ‘মানবাধিকার সম্পর্কে সর্বজনীন ঘোষণা’ অনুমোদিত হয়। সেই থেকে প্রতিবছর ১০ ডিসেম্বর সর্বজনীন মানবাধিকার দিবস হিসেবে পালিত হচ্ছে।"
+    },
+    {
+      "question_number": 59,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "FIFA প্রতিষ্ঠিত হয় কবে?",
+      "options": {
+        "A": "১৯০৪",
+        "B": "১৯২৪",
+        "C": "১৯১৪",
+        "D": "১৯০৫"
+      },
+      "correct_answer": "A",
+      "explanation": "FIFA বা Federation of International Football Asso-ciation গঠিত হয় ১৯০৪ সালের ২১ মে ফ্রান্সের রাজধানী প্যারিসে। FIFA এর সদর দপ্তর সুইজারল্যান্ডের জুরিখে অবস্থিত। বর্তমানে সভাপতি সুইজারল্যান্ডের জিয়ান্নি ইনফান্তিনো (২৬ ফেব্রুয়ারি, ২০১৬ - বর্তমান)। এর সদস্য সংখ্যা ২১১টি।"
+    },
+    {
+      "question_number": 60,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "কিরগিজস্তানের রাজধানী কোথায়?",
+      "options": {
+        "A": "বিশকেক",
+        "B": "আলমাআতা",
+        "C": "আশখাবাদ",
+        "D": "উলানবাটো"
+      },
+      "correct_answer": "A",
+      "explanation": "মধ্য এশিয়ার দেশ কিরগিজস্তানের রাজধানী বিশকেক। তুর্কমেনিস্তানের রাজধানী আশখাবাদ, কাজাখস্তানের বর্তমান রাজধানী নুর সুলতান, পূর্বে ছিল আলমাআতা। মঙ্গোলিয়ার রাজধানী উলানবাটোর।"
+    },
+    {
+      "question_number": 61,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "রাসায়নিক অগ্নিনির্বাপক কাজ করে অগ্নিতে-",
+      "options": {
+        "A": "হাইড্রোজেন সরবরাহ করে",
+        "B": "নাইট্রোজেন সরবরাহ করে",
+        "C": "অক্সিজেন সরবরাহ করে",
+        "D": "অক্সিজেন সরবরাহে প্রতিবন্ধকতা সৃষ্টি করে"
+      },
+      "correct_answer": "D",
+      "explanation": "রাসায়নিক অগ্নিনির্বাপক জ্বলন্ত অগ্নিতে প্রচুর পরিমাণ কার্বন ডাই অক্সাইড এর সংমিশ্রণ ঘটিয়ে অক্সিজেন সরবরাহের সৃষ্টির মাধ্যমে আগুনকে নিয়ন্ত্রণে আনে।"
+    },
+    {
+      "question_number": 62,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "গ্রিনহাউস ইফেক্টের পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর ক্ষতি কী হবে?",
+      "options": {
+        "A": "বৃষ্টিপাত কমে যাবে",
+        "B": "নিম্নভূমি নিমজ্জিত হবে",
+        "C": "উত্তাল অনেক বেড়ে যাবে",
+        "D": "সাইক্লোনের প্রবণতা বাড়বে"
+      },
+      "correct_answer": "B",
+      "explanation": "গ্রিনহাউজ ইফেক্টের পরিণতিতে পৃথিবীর তাপমাত্রা বৃদ্ধির প্রভাবে মেরু অঞ্চলের বরফ গলে যাবে এবং সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি পেয়ে বাংলাদেশের সমুদ্র উপকূলবর্তী অঞ্চলের অধিকাংশ নিমজ্জিত হবে।"
+    },
+    {
+      "question_number": 63,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সংকর ধাতু পিতলের উপাদান-",
+      "options": {
+        "A": "তামা ও টিন",
+        "B": "তামা ও দস্তা",
+        "C": "তামা ও নিকেল",
+        "D": "তামা ও সিসা"
+      },
+      "correct_answer": "B",
+      "explanation": "তামা ও টিন মেশালে ব্রোঞ্জ হয় এবং তামার সাথে দস্তা মেশালে পিতল হয়।"
+    },
+    {
+      "question_number": 64,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বৈদ্যুতিক পাখা ধীরে ধীরে ঘুরলে বিদ্যুৎ খরচ–",
+      "options": {
+        "A": "কম হয়",
+        "B": "খুব কম হয়",
+        "C": "একই হয়",
+        "D": "বেশি হয়"
+      },
+      "correct_answer": "C",
+      "explanation": "রেগুলেটরের মাধ্যমে বৈদ্যুতিক পাখায় বিদ্যুৎ সরবরাহ নিয়ন্ত্রণ করা হয়। যার ফলে বৈদ্যুতিক পাখা ধীরে ঘুরলেও বিদ্যুৎ খরচ একই হয়, কারণ সবসময় বিদ্যুৎ ক্ষমতা একই খরচ হয়।"
+    },
+    {
+      "question_number": 65,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "রঙিন টেলিভিশন থেকে ক্ষতিকর রশ্মি বের হয়-",
+      "options": {
+        "A": "গামা রশ্মি",
+        "B": "বিটা রশ্মি",
+        "C": "কসমিক রশ্মি",
+        "D": "রঞ্জন রশ্মি"
+      },
+      "correct_answer": "D",
+      "explanation": "দ্রুতগামী ইলেকট্রন ধাতুতে আঘাত করলে রঞ্জন রশ্মি উৎপন্ন হয়। কসমিক রশ্মি মহাশূন্য হতে আসে। বিটা রশ্মি ও গামা রশ্মি তেজস্ক্রিয় বিকিরণে পাওয়া যায়। ক্যাথোড রে টিউব থাকার কারণে রঙিন টেলিভিশন থেকে মৃদু রঞ্জন রশ্মি নির্গত হয়। আধুনিক LED ও LCD রঙিন টেলিভিশন থেকে রঞ্জন রশ্মি (X-ray) বের হয় না।"
+    },
+    {
+      "question_number": 66,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ডায়াবেটিস রোগ সম্পর্কে যে তথ্যটি সত্য নয় তা হলো-",
+      "options": {
+        "A": "এ রোগ মানবদেহের কিডনী নষ্ট করে।",
+        "B": "চিনি জাতীয় খাবার বেশি খেলে এ রোগ হয়।",
+        "C": "এ রোগ হলে রক্তে গ্লুকোজের মাত্রা বৃদ্ধি পায়",
+        "D": "ইনসুলিনের অভাবে এ রোগ হয়।"
+      },
+      "correct_answer": "B",
+      "explanation": "অগ্ন্যাশয় থেকে নিঃসৃত ইনসুলিন হরমোনের অভাবে রক্তে গ্লুকোজের পরিমাণ বেড়ে গিয়ে ডায়াবেটিস রোগ দেখা দেয়। চিনি বেশি খেলে এ রোগ হবে এমন তথ্যের সত্যতা নেই।"
+    },
+    {
+      "question_number": 67,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "এনজিওপ্লাস্টি হচ্ছে-",
+      "options": {
+        "A": "হৃৎপিণ্ডের বন্ধ শিরা বেলুনের সাহায্যে ফুলানো",
+        "B": "হৃৎপিণ্ডের নতুন শিরা সংযোজন",
+        "C": "হৃৎপিণ্ডের মৃত টিস্যু কেটে ফেলে দেয়া",
+        "D": "হৃৎপিণ্ডের টিস্যুতে নতুন টিস্যু সংযোজন"
+      },
+      "correct_answer": "A",
+      "explanation": "ধমনী বা শিরায় রক্ত চলাচল বাধাপ্রাপ্ত হলে বিশেষ ধরনের যন্ত্রের মাধ্যমে সমস্যাযুক্ত ধমনী বা শিরার সংকুচিত স্থান বিশেষ ধরনের বেলুন দ্বারা প্রসারিত করা হয়, যাকে এনজিওপ্লাস্টি বলে। অন্যদিকে হৃদপিণ্ডে নতুন শিরা সংযোজন করলে তাকে বাইপাস সার্জারি বলা হয়।"
+    },
+    {
+      "question_number": 68,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "অ্যালুমিনিয়াম সালফেটকে চলতি বাংলায় কী বলে?",
+      "options": {
+        "A": "ফিটকিরি",
+        "B": "চুন",
+        "C": "সেভিং সোপ",
+        "D": "কস্টিক সোডা"
+      },
+      "correct_answer": "A",
+      "explanation": "পটাসিয়াম অ্যালুমিনিয়াম সালফেটের কেলাসকে পটাশ এলাম বলা হয়। বাংলা ভাষায় এর নাম ফিটকিরি এবং রাসায়নিক সংকেত হচ্ছে \\(\\mathrm {Al_2 (SO_4 )_3.K_2 SO_4.24H_2 O.}\\)"
+    },
+    {
+      "question_number": 69,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ডেঙ্গু জ্বরের বাহক কোন মশা?",
+      "options": {
+        "A": "কিউলেক্স",
+        "B": "এডিস",
+        "C": "অ্যানোফিলিস",
+        "D": "সব ধরনের মশা"
+      },
+      "correct_answer": "B",
+      "explanation": "অ্যানোফিলিস মশা ম্যালেরিয়া, কিউলেক্স মশা ফাইলেরিয়া এবং এডিস মশা ডেঙ্গু জ্বরের জীবাণু বহন করে।"
+    },
+    {
+      "question_number": 70,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "সুনামির (Tsunami) কারণ হলো-",
+      "options": {
+        "A": "আগ্নেয়গিরির অগ্নুৎপাত",
+        "B": "ঘূর্ণিঝড়",
+        "C": "চন্দ্র ও সূর্যের আকর্ষণ",
+        "D": "সমুদ্র তলদেশের ভূমিকম্প"
+      },
+      "correct_answer": "D",
+      "explanation": "সমুদ্রের তলদেশে প্রবল ভূমিকম্প সংঘটিত হলে সমুদ্রপৃষ্ঠে প্রচণ্ড ও ধ্বংসাত্মক বিশাল ঢেউয়ের সৃষ্টি হয়। এরূপ বিশাল সামুদ্রিক ঢেউগুলোকে সুনামি বলা হয়।"
+    },
+    {
+      "question_number": 71,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কত বছর পর পর হ্যালির ধূমকেতু দেখা যায়?",
+      "options": {
+        "A": "৭০ বছর",
+        "B": "৬৫ বছর",
+        "C": "৭৬ বছর",
+        "D": "৮০ বছর"
+      },
+      "correct_answer": "C",
+      "explanation": "ব্রিটিশ জ্যোতির্বিদ অ্যাডমন্ড হ্যালি ১৬৮২ সালে হ্যালির ধূমকেতু আবিষ্কার করেন। হ্যালির ধূমকেতু ৭৬ বছর পর পর দেখা যায়। ১৭৫৯, ১৮৩৫, ১৯১০ ও ১৯৮৬ সালে হ্যালির ধূমকেতু দেখা গেছে। পরবর্তীতে আবার ২০৬২ সালে দেখা যাবে।"
+    },
+    {
+      "question_number": 72,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "জমির লবণাক্ততা নিয়ন্ত্রণ করে কোনটি?",
+      "options": {
+        "A": "কৃত্রিম সার প্রয়োগ",
+        "B": "পানি সেচ",
+        "C": "জমিতে নাইট্রোজেন ধরে রাখা",
+        "D": "প্রাকৃতিক সার প্রয়োগ"
+      },
+      "correct_answer": "B",
+      "explanation": "পানি সেচ জমির লবণাক্ততা নিয়ন্ত্রণ করে। কৃত্রিম সার প্রয়োগ জমির লবণাক্ততা কিছুটা বৃদ্ধি করে। জমির লবণাক্ততা নিয়ন্ত্রণে প্রাকৃতিক সারের কোনো প্রত্যক্ষ ভূমিকা নেই। জমিতে নাইট্রোজেন ধরে রাখার সাথেও জমির লবণাক্ততা নিয়ন্ত্রণের কোনো সম্পর্ক নেই।"
+    },
+    {
+      "question_number": 73,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কিসের অভাবে ফসলের পরিপক্বতা বিলম্বিত হয়?",
+      "options": {
+        "A": "দস্তা",
+        "B": "সালফার",
+        "C": "নাইট্রোজেন",
+        "D": "পটাশিয়াম"
+      },
+      "correct_answer": "B",
+      "explanation": "সালফারের অভাবে গাছ খর্বাকৃতির হয় এবং ফসলের পরিপক্বতা বিলম্বিত হয়। দস্তার অভাবে গাছের পাতার বৃদ্ধি ব্যাহত হয়। নাইট্রোজেনের অভাবে ক্লোরোফিল সৃষ্টিতে বিঘ্ন ঘটে এবং অভাব বেশি হলে গাছের পাতা হলুদ হয়ে যায়। পটাশিয়ামের অভাব হলে সালোকসংশ্লেষণের হার হ্রাস পায় এবং পাতার শীর্ষ ও কিনারা হলুদ হয়।"
+    },
+    {
+      "question_number": 74,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "নবায়নযোগ্য জ্বালানি কোনটি?",
+      "options": {
+        "A": "পরমাণু শক্তি",
+        "B": "কয়লা",
+        "C": "পেট্রোল",
+        "D": "প্রাকৃতিক গ্যাস"
+      },
+      "correct_answer": "A",
+      "explanation": "যেসব জ্বালানির মজুদ ভবিষ্যতে কখনো শেষ হবে না তাদেরকে নবায়নযোগ্য জ্বালানি বলে। উদাহরণস্বরূপ: সূর্যশক্তি, বায়ুশক্তি, সমুদ্রস্রোত, পারমাণবিক শক্তি।"
+    },
+    {
+      "question_number": 75,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বিশ্ব পরিবেশ দিবস কোনটি?",
+      "options": {
+        "A": "৫ মে",
+        "B": "১৫ মে",
+        "C": "৫ জুন",
+        "D": "১৫ জুন"
+      },
+      "correct_answer": "C",
+      "explanation": "৫ মে আন্তর্জাতিক ধাত্রী দিবস, ১৫ মে আন্তর্জাতিক পরিবার দিবস এবং ৫ জুন বিশ্ব পরিবেশ দিবস।"
+    },
+    {
+      "question_number": 76,
+      "subject": "COMPUTER-AND-INFORMATION-TECHNOLOGY",
+      "question_text": "কম্পিউটার থেকে কম্পিউটারে তথ্য আদান-প্রদানের প্রযুক্তিকে বলা হয়-",
+      "options": {
+        "A": "ই-মেইল",
+        "B": "ইন্টারকম",
+        "C": "ইন্টারনেট",
+        "D": "টেলিগ্রাম"
+      },
+      "correct_answer": "C",
+      "explanation": "আধুনিক যোগাযোগ ব্যবস্থা ব্যবহার করে সারাবিশ্বে ছড়িয়ে থাকা অসংখ্য কম্পিউটার নেটওয়ার্ককে পরস্পর সম্পর্কযুক্ত করে তাদের মধ্যে যে আন্তঃসম্পর্ক বা যোগাযোগ ব্যবস্থা গড়ে তোলা হয় তাকে ইন্টারনেট বলে।"
+    },
+    {
+      "question_number": 77,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোন মাধ্যমে শব্দের গতি সর্বাপেক্ষা কম?",
+      "options": {
+        "A": "শূন্যতায়",
+        "B": "কঠিন পদার্থে",
+        "C": "তরল পদার্থে",
+        "D": "বায়বীয় পদার্থে"
+      },
+      "correct_answer": "D",
+      "explanation": "কঠিন মাধ্যমে শব্দ সবচেয়ে দ্রুত চলে, তরল মাধ্যমে তার চেয়ে ধীরে চলে। বায়বীয় মাধ্যমে শব্দের দ্রুতি (গতি) সবচেয়ে কম আর ভ্যাকিউয়ামে বা শূন্যে শব্দের দ্রুতি (গতি) শূন্য। বায়বীয় মাধ্যমে শব্দের বেগ ৩৩২ মিটার/ সেকেন্ড, কঠিন পদার্থে শব্দের বেগ ৫২২১ মিটার/সেকেন্ড, তরল পদার্থে শব্দের বেগ ১৪৫০ মিটার/সেকেন্ড এবং শূন্য মাধ্যমে শব্দের বেগ শূন্য।"
+    },
+    {
+      "question_number": 78,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোন জারক রস পাকস্থলীতে দুগ্ধ জমাট বাঁধায়?",
+      "options": {
+        "A": "পেপসিন",
+        "B": "এমাইলেজ",
+        "C": "রেনিন",
+        "D": "ট্রিপসিন"
+      },
+      "correct_answer": "C",
+      "explanation": "পাকস্থলীতে দুগ্ধ জমাট বাঁধতে রেনিন নামক জারক রস প্রয়োজন হয়। অপরপক্ষে ‘ট্রিপসিন’ এবং ‘পেপসিন’ নামক এনজাইম প্রোটিন পরিপাকে এবং ‘এমাইলেজ’ কার্বোহাইড্রেড পরিপাকে সহায়তা করে।"
+    },
+    {
+      "question_number": 79,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "স্টিফেন হকিং বিশ্বের একজন অতিশয় বিখ্যাত-",
+      "options": {
+        "A": "দার্শনিক",
+        "B": "পদার্থবিদ",
+        "C": "কবি",
+        "D": "রসায়নবিদ"
+      },
+      "correct_answer": "B",
+      "explanation": "ব্রিটিশ তাত্ত্বিক পদার্থবিজ্ঞানী ও গণিতজ্ঞ স্টিফেন হকিং ১৯৪২ সালে ৮ জানুয়ারি অক্সফোর্ডে জন্মগ্রহণ করেন। মটর নিউরন ডিজিজে আক্রান্ত এ বিজ্ঞানীর লেখা ‘এ ব্রিফ হিস্ট্রি অফ টাইম’ একটি আলোচিত গ্রন্থ। ১৪ মার্চ, ২০১৮ তিনি মৃত্যুবরণ করেন।"
+    },
+    {
+      "question_number": 80,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ফল পাকানোর জন্য দায়ী কী?",
+      "options": {
+        "A": "ইথিলিন",
+        "B": "প্রপিন",
+        "C": "লাইকোপেন",
+        "D": "মিথিলিন"
+      },
+      "correct_answer": "A",
+      "explanation": "ফল পাকানোর জন্য দায়ী ফাইটোহরমোনের নাম ইথিলিন (Ethylene)। লাইকোপেনের কারণে ফলের রং লাল হয়।"
+    },
+    {
+      "question_number": 81,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "কোন লঘিষ্ঠ সংখ্যার সাথে ২ যোগ করলে যোগফল ১২, ১৮ এবং ২৪ দ্বারা বিভাজ্য হবে?",
+      "options": {
+        "A": "৮৯",
+        "B": "৭০",
+        "C": "১৭০",
+        "D": "১৪২"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/3.jpg"
+    },
+    {
+      "question_number": 82,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "নিচের কোনটি মৌলিক সংখ্যা?",
+      "options": {
+        "A": "৯১",
+        "B": "৮৭",
+        "C": "৬৩",
+        "D": "৫৯"
+      },
+      "correct_answer": "D",
+      "explanation": "আমরা জানি, যে সংখ্যাকে ১ এবং ঐ সংখ্যা ভিন্ন অন্য কোনো সংখ্যা দ্বারা নিঃশেষে ভাগ করা যায় না, তাকে মৌলিক সংখ্যা বলে। এখানে, উপরিউক্ত সংখ্যাগুলোর মধ্যে ৫৯ সংখ্যাটি মৌলিক সংখ্যা।"
+    },
+    {
+      "question_number": 83,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "নিচের কোনটি ক্ষুদ্রতম সংখ্যা?",
+      "options": {
+        "A": "০.৩",
+        "B": "\\(\\mathrm{\\sqrt{০.৩}}\\)",
+        "C": "\\(\\mathrm{১\\over ৩}\\)",
+        "D": "\\(\\mathrm{২\\over ৫}\\)"
+      },
+      "correct_answer": "A",
+      "explanation": "\\(\\mathrm{\\sqrt {০.৩}=০.৫৪৭; {১\\over৩}=০.৩৩৩; {২\\over৫}=০.৪০}\\)"
+    },
+    {
+      "question_number": 84,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি সংখ্যা ৩০১ হতে যত বড় ৩৮১ হতে তত ছোট। সংখ্যাটি কত?",
+      "options": {
+        "A": "৩৪০",
+        "B": "৩৪১",
+        "C": "৩৪২",
+        "D": "৩৪৪"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/4.jpg"
+    },
+    {
+      "question_number": 85,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "ক ও খ একত্রে একটি কাজ ১২ দিনে করতে পারে। ক একা কাজটি ২০ দিনে করতে পারে। খ একা কাজটি কতদিনে করতে পারবে?",
+      "options": {
+        "A": "২৫ দিনে",
+        "B": "৩০ দিনে",
+        "C": "৩৫ দিনে",
+        "D": "৪০ দিনে"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/5.jpg"
+    },
+    {
+      "question_number": 86,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {f(x)=x^3+kx^2-6x-9;k}\\) এর মান কত হলে \\(\\mathrm {f(3)=0}\\) হবে।",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "2",
+        "D": "0"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/6.jpg"
+    },
+    {
+      "question_number": 87,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {x>y}\\) এবং \\(\\mathrm {z<0}\\) হলে নিচের কোনটি সঠিক?",
+      "options": {
+        "A": "\\(\\mathrm {xz>yz}\\)",
+        "B": "\\({\\mathrm {x\\over z}} > {\\mathrm {y\\over z}}\\)",
+        "C": "\\({\\mathrm {z\\over x}} < {\\mathrm {z\\over y}}\\)",
+        "D": "\\(\\mathrm {xz < yz}\\)"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/7.jpg"
+    },
+    {
+      "question_number": 88,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি আয়তক্ষেত্রের দৈর্ঘ্য প্রস্থের দ্বিগুণ। আয়তক্ষেত্রটির ক্ষেত্রফল 1250 বর্গমিটার হলে দৈর্ঘ্য কত?",
+      "options": {
+        "A": "30 মিটার",
+        "B": "40 মিটার",
+        "C": "50 মিটার",
+        "D": "60 মিটার"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/8.jpg"
+    },
+    {
+      "question_number": 89,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "নিচের কোনটি বৃত্তের সমীকরণ?",
+      "options": {
+        "A": "\\(\\mathrm {ax^2+bx+c=0}\\)",
+        "B": "\\(\\mathrm {y^2=ax}\\)",
+        "C": "\\(\\mathrm {x^2+y^2=16}\\)",
+        "D": "\\(\\mathrm {y^2=2x+7}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/9.jpg"
+    },
+    {
+      "question_number": 90,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {a-{1\\over a}=3}\\) হলে \\(\\mathrm {a^3+{1\\over a^3}}\\) এর মান কত?",
+      "options": {
+        "A": "9",
+        "B": "18",
+        "C": "27",
+        "D": "36"
+      },
+      "correct_answer": "",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/10.jpg"
+    },
+    {
+      "question_number": 91,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {log_a}⁡ \\Big({\\mathrm m\\over \\mathrm n}\\Big)=\\) কত?",
+      "options": {
+        "A": "\\(\\mathrm {log_a⁡ m-log_a⁡n} \\)",
+        "B": "\\(\\mathrm {log_a⁡ m+log_a⁡n }\\)",
+        "C": "\\(\\mathrm {log_a ⁡m×log_a ⁡n}\\)",
+        "D": "কোনোটিই নয়"
+      },
+      "correct_answer": "A",
+      "explanation": "লগারিদমের সূত্রানুযায়ী, \\(\\mathrm {log_a⁡ \\Big({m\\over n}\\Big)= log_a⁡ m-log_a⁡n }\\)"
+    },
+    {
+      "question_number": 92,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {a+b=7}\\) এবং \\(\\mathrm {a^2+b^2=25}\\) হলে নিচের কোনটি \\(\\mathrm {ab}\\) এর মান হবে?",
+      "options": {
+        "A": "12",
+        "B": "10",
+        "C": "6",
+        "D": "কোনটিই নয়"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/11.png"
+    },
+    {
+      "question_number": 93,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "দুটি সন্নিহিত কোণের সমষ্টি দুই সমকোণ হলে একটিকে অপরটির কি বলে?",
+      "options": {
+        "A": "সন্নিহিত কোণ",
+        "B": "সরলকোণ",
+        "C": "পূরককোণ",
+        "D": "সম্পূরক কোণ"
+      },
+      "correct_answer": "D",
+      "explanation": "সম্পূরক কোণের সংজ্ঞা অনুযায়ী, দুটি সন্নিহিত কোণের সমষ্টি দুই সমকোণ বা এক সরলকোণ হলে কোণ দুটির একটিকে অপরটির সম্পূরক কোণ বলে।"
+    },
+    {
+      "question_number": 94,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "বৃত্তের কেন্দ্র ছেদকারী জ্যাকে কি বলা হয়?",
+      "options": {
+        "A": "ব্যাস",
+        "B": "ব্যাসার্ধ",
+        "C": "বৃত্তচাপ",
+        "D": "পরিধি"
+      },
+      "correct_answer": "A",
+      "explanation": "বৃত্তের কেন্দ্র ছেদকারী অর্থাৎ বৃত্তের কেন্দ্র দিয়ে গমনকারী জ্যাকে বলা হয় বৃত্তের ব্যাস।"
+    },
+    {
+      "question_number": 95,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "দুটি ত্রিভুজ পরস্পর সর্বসম হওয়ার জন্য নিচের কোন শর্তটি যথেষ্ট নয়?",
+      "options": {
+        "A": "একটির তিন বাহু অপরটির তিন বাহুর সমান",
+        "B": "একটির তিন কোণ অপরটির তিন কোণের সমান",
+        "C": "একটির দুই কোণ ও এক বাহু অপরটির দুই বাহু ও অনুরূপ বাহুর সমান",
+        "D": "একটির দুই বাহু ও অন্তর্ভুক্ত কোণ অপরটির দুই বাহু ও অন্তর্ভুক্ত কোণের সমান"
+      },
+      "correct_answer": "B",
+      "explanation": "অপশন (ক), (গ) ও (ঘ) এর বিদ্যমান শর্তগুলো দুটি ত্রিভুজ পরস্পর সর্বসম হওয়ার জন্য যথেষ্ট। কিন্তু অপশন (খ)-এ বিদ্যমান শর্তটি দুটি ত্রিভুজ পরস্পর সর্বসম হওয়ার জন্য যথেষ্ট নয়। ৩ কোণ সমান হলেও ২টি ত্রিভুজ সর্বসম নাও হতে পারে।"
+    },
+    {
+      "question_number": 96,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "কোন ত্রিভুজের বাহুগুলোর অনুপাত নিচের কোনটি হলে একটি সমকোণী ত্রিভুজ অঙ্কন সম্ভব হবে?",
+      "options": {
+        "A": "৬ : ৫ : ৪",
+        "B": "৩ : ৪ : ৫",
+        "C": "১২ : ৮ : ৪",
+        "D": "৬ : ৪ : ৩"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/12.jpg"
+    },
+    {
+      "question_number": 97,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি মিনারের পাদদেশ হতে 20 মিটার দূরের একটি স্থান হতে মিনারটির শীর্ষবিন্দুর উন্নতি কোণ 30° হলে মিনারটির উচ্চতা কত?",
+      "options": {
+        "A": "\\(20\\sqrt 3\\) মিটার",
+        "B": "\\({20\\over \\sqrt3}\\) মিটার",
+        "C": "20 মিটার",
+        "D": "\\(10\\sqrt3\\) মিটার"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/13.png"
+    },
+    {
+      "question_number": 98,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm{১৩\\frac{৩}{৪}}\\)% এর সমান-",
+      "options": {
+        "A": "\\(\\mathrm{১১\\over ৮০}\\)",
+        "B": "\\(\\mathrm{১১\\over ২০}\\)",
+        "C": "\\(\\mathrm{৯\\over ১}\\)",
+        "D": "\\(\\mathrm{১\\over ৮}\\)"
+      },
+      "correct_answer": "A",
+      "explanation": "\\(\\mathrm{১৩\\frac৩৪\\%=\\frac{৫৫}৪\\%=\\frac{\\frac{৫৫}৪}{১০০}=\\frac{৫৫}৪×\\frac{১}{১০০}=\\frac{১১}{৮০}}\\)"
+    },
+    {
+      "question_number": 99,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৩, ৯ ও ৪ এর চতুর্থ সমানুপাতিক কত?",
+      "options": {
+        "A": "৪",
+        "B": "১৪",
+        "C": "১৬",
+        "D": "১২"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/14.png"
+    },
+    {
+      "question_number": 100,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {3x^3+2x^2-21x-20}\\) রাশিটির একটি উৎপাদক হচ্ছে-",
+      "options": {
+        "A": "\\(\\mathrm {x+2}\\)",
+        "B": "\\(\\mathrm {x-2}\\)",
+        "C": "\\(\\mathrm {x+1}\\)",
+        "D": "\\(\\mathrm {x-1}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/30th-bcs/15.jpg"
+    }
+  ]
+}

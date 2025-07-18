@@ -1,0 +1,1306 @@
+{
+  "exam_name": "15th-bcs Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘সুন্দর হে, দাও দাও সুন্দর জীবন। হউক দূর অকল্যাণ সকল অশোভন।’ - চরণ দুটি কার লেখা?",
+      "options": {
+        "A": "কাজী নজরুল ইসলাম",
+        "B": "রবীন্দ্রনাথ ঠাকুর",
+        "C": "গোলাম মোস্তফা",
+        "D": "শেখ ফজলল করিম"
+      },
+      "correct_answer": "D",
+      "explanation": "হিন্দু-মুসলমানের সম্প্রীতিতে বিশ্বাসী লেখক হিসেবে পরিচিত শেখ ফজলল করিমের (১৮৮২-১৯৩৬) ‘পরিত্রাণ কাব্য’ কবিতার চরণ এটি।"
+    },
+    {
+      "question_number": 2,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আকাবা কোন দেশের সমুদ্র বন্দর?",
+      "options": {
+        "A": "মিয়ানমার",
+        "B": "জর্ডান",
+        "C": "ইরাক",
+        "D": "ইসরাইল"
+      },
+      "correct_answer": "B",
+      "explanation": "জর্ডানের একমাত্র সমুদ্রবন্দর আকাবা। মিয়ানমারের সমুদ্রবন্দর সিটওয়ে, ইরাকের সমুদ্রবন্দর বসরা, ইসরাইলের সমুদ্রবন্দর হাইফা।"
+    },
+    {
+      "question_number": 3,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "‘ক্রুজিরো’ কোন দেশের মুদ্রার নাম?",
+      "options": {
+        "A": "লুক্সেমবার্গ",
+        "B": "ব্রাজিল",
+        "C": "কম্বোডিয়া",
+        "D": "মঙ্গোলিয়া"
+      },
+      "correct_answer": "B",
+      "explanation": "লুক্সেমবার্গের মুদ্রা ইউরো, ব্রাজিলের সাবেক মুদ্রা ক্রুজিরো, তবে বর্তমান মুদ্রা রিয়াল, কম্বোডিয়ার মুদ্রা রিয়াল, মঙ্গোলিয়ার মুদ্রা তুগরিক।"
+    },
+    {
+      "question_number": 4,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "The World Economic Forum কর্তৃক নির্ধারিত International Competitiveness Ranking –এ ১৯৯৩ সালে কোন দেশ সর্বোচ্চ স্থান অধিকার করেছে?",
+      "options": {
+        "A": "যুক্তরাষ্ট্র",
+        "B": "জাপান",
+        "C": "জার্মানি",
+        "D": "দক্ষিণ কোরিয়া"
+      },
+      "correct_answer": "",
+      "explanation": "২০২০ সালের ১৬ ডিসেম্বর প্রকাশিত World Economic Forum (WEF) –এর বৈশ্বিক প্রতিযোগিতার সক্ষমতা প্রতিবেদন অনুযায়ী শীর্ষ দেশ সিঙ্গাপুর ও সর্বনিম্ন দেশ ভেনেজুয়েলা।"
+    },
+    {
+      "question_number": 5,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "পৃথিবীর বিভিন্ন দেশের মধ্যে জনসংখ্যার দিক থেকে বাংলাদেশের স্থান কততম?",
+      "options": {
+        "A": "অষ্টম",
+        "B": "নবম",
+        "C": "দ্বাদশ",
+        "D": "চতুর্দশ"
+      },
+      "correct_answer": "A",
+      "explanation": "UNFPA -এর বিশ্ব জনসংখ্যা রিপোর্ট ২০২২ অনুযায়ী বাংলাদেশ বিশ্বের ৮ম জনসংখ্যার দেশ। জনসংখ্যা ১৬ কোটি ৭৯ লাখ।"
+    },
+    {
+      "question_number": 6,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "বাংলাদেশের ভূ-উপগ্রহ কেন্দ্রের সংখ্যা কয়টি?",
+      "options": {
+        "A": "এক",
+        "B": "দুই",
+        "C": "তিন",
+        "D": "চার"
+      },
+      "correct_answer": "D",
+      "explanation": "ভূ-উপগ্রহ হলো আন্তর্জাতিক টেলিযোগাযোগ মাধ্যম। ১৯৭৫ সালে রাঙ্গামাটির বেতবুনিয়াতে অবস্থিত ভূ-উপগ্রহ কেন্দ্রটি হলো দেশের প্রথম ভূ-উপগ্রহ কেন্দ্র। দেশের অন্যান্য ভূ-উপগ্রহ কেন্দ্রগুলো হলো- গাজীপুরের তালিবাবাদ (স্থাপিত ১৯৮২ সালে), মহাখালী ভূ-উপগ্রহ কেন্দ্র (স্থাপিত ১৯৯৫ সালে) এবং সিলেট ভূ-উপগ্রহ কেন্দ্র (স্থাপিত ১৯৯৭ সালে)।"
+    },
+    {
+      "question_number": 7,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "গঙ্গা-ব্রহ্মপুত্র –মেঘনার সম্মিলিত নদী অববাহিকার কত শতাংশ বাংলাদেশের অন্তর্ভুক্ত?",
+      "options": {
+        "A": "৪",
+        "B": "১৪",
+        "C": "৭",
+        "D": "৩৩"
+      },
+      "correct_answer": "D",
+      "explanation": "ভারতের আসামের দুটি প্রধান স্রোতধারা দিবাং ও লোহিত ‘ব্রহ্মপুত্র’ নামে ৭২৫ কি.মি. ভেতর দিয়ে পশ্চিম দিকে প্রবাহিত হয়ে কুড়িগ্রামের মাজহিয়ালীতে বাংলাদেশে প্রবেশ করেছে ও আরো অগ্রসর হয়ে যমুনা নামে গোয়ালন্দের নিকট পদ্মা (গঙ্গা) নদীর সাথে মিশেছে। তবে ব্রহ্মপুত্রের মূল স্রোতধারাটি দেওয়ানগঞ্জের কাছে দিক পরিবর্তন করে ভৈরববাজারের নিকট মেঘনা নদীর সাথে মিশেছে। ব্রহ্মপুত্র-মেঘনা এ সম্মিলিত নদী অববাহিকার প্রায় ৩৩ শতাংশ বাংলাদেশে অবস্থিত।"
+    },
+    {
+      "question_number": 8,
+      "subject": "GEOGRAPHY-ENVIRONMENT-AND-DIGESTER-MANAGEMENT",
+      "question_text": "গ্রিনিচ মান সময় অপেক্ষা বাংলাদেশ সময় কত ঘণ্টা আগে?",
+      "options": {
+        "A": "৬ ঘণ্টা",
+        "B": "সাড়ে ৫ ঘণ্টা",
+        "C": "সাড়ে ৬ ঘণ্টা",
+        "D": "৫ ঘণ্টা"
+      },
+      "correct_answer": "A",
+      "explanation": "গ্রিনিচ মানমন্দির লন্ডনে অবস্থিত শহর। বাংলাদেশের অবস্থান ৮৮°১' - ৯২°৪১' দ্রাঘিমায় হওয়ায় এর স্থানীয় সময় গ্রিনিচ সময় থেকে ৪ × ৯০ = ৩৬০ মিনিট বা ৬ ঘণ্টা আগে।"
+    },
+    {
+      "question_number": 9,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The speaker failed to make the audience__ to him patiently. - Which of the following is the correct verb form in the blank above?",
+      "options": {
+        "A": "to listen",
+        "B": "listening",
+        "C": "listened",
+        "D": "listen"
+      },
+      "correct_answer": "D",
+      "explanation": "make শব্দটির পর ব্যক্তি/বস্তু বসলে এর পর verb-এর মূলরূপটি ব্যবহৃত হয়। সুতরাং make the audience listen হবে।"
+    },
+    {
+      "question_number": 10,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "Which of the following ages in literary history is the latest?",
+      "options": {
+        "A": "The Augustan Age",
+        "B": "The Victorian Age",
+        "C": "The Georgian Age",
+        "D": "The Restoration Age"
+      },
+      "correct_answer": "C",
+      "explanation": "Literary age-গুলো সাজালে বুঝা যায়, Georgian age হলো প্রদত্ত age গুলোর মধ্যে সর্বশেষ।Augustan age হলো ১৭০০ থেকে ১৭৯৮ পর্যন্ত, Victorian age হলো ১৮৩২ থেকে ১৯০০ পর্যন্ত, Georgian age হলো ১৯১০ থেকে ১৯৩৬ পর্যন্ত এবং Restoration Age হলো ১৬৬০ থেকে ১৭০০ পর্যন্ত। প্রদত্ত age গুলোর মধ্যে Georgian হলো latest। সঠিক উত্তর ‘গ’।"
+    },
+    {
+      "question_number": 11,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "Wisdom শব্দের বাংলা অর্থ-",
+      "options": {
+        "A": "জ্ঞান",
+        "B": "বুদ্ধি",
+        "C": "মেধা",
+        "D": "প্রজ্ঞা"
+      },
+      "correct_answer": "D",
+      "explanation": "Wisdom শব্দটির অর্থ প্রজ্ঞা।"
+    },
+    {
+      "question_number": 12,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "The first English dictionary was completed by-",
+      "options": {
+        "A": "Iazak Walton",
+        "B": "Samuel Johnson",
+        "C": "Samuel Butler",
+        "D": "Sir Thomas Browne"
+      },
+      "correct_answer": "B",
+      "explanation": "Samuel Johnson কে ‘Father of the English Dictionary’ বলা হয়। তিনি শেক্সপিয়রের একজন সমালোচক ছিলেন। শেক্সপিয়রকে নিয়ে লেখা তার সমালোচনা গ্রন্হের নাম ‘Preface to Shakespeare’."
+    },
+    {
+      "question_number": 13,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "স্বাধীনতা যুদ্ধকালে বাংলাদেশকে কয়টি সেক্টরে ভাগ করা হয়েছিল?",
+      "options": {
+        "A": "৯টি",
+        "B": "১০টি",
+        "C": "১১টি",
+        "D": "১২টি"
+      },
+      "correct_answer": "C",
+      "explanation": "মুক্তিযুদ্ধ চলাকালীন ৪ এপ্রিল সিলেটে মুক্তিফৌজ গঠিত হয় এবং ৯ এপ্রিল এর নামকরণ করা হয় মুক্তিবাহিনী। পরবর্তীতে ১১ এপ্রিল যুদ্ধ পরিচালনার সুবিধার্থে সমগ্র বাংলাদেশকে ১১টি সেক্টরে বিভক্ত করা হয়।"
+    },
+    {
+      "question_number": 14,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "নিম্নের কোন আন্তর্জাতিক সংস্থার সদর দপ্তর বাংলাদেশে অবস্থিত?",
+      "options": {
+        "A": "IJO",
+        "B": "APEC",
+        "C": "SAARC",
+        "D": "ADB"
+      },
+      "correct_answer": "",
+      "explanation": "IJO–এর সদর দপ্তর বাংলাদেশে অবস্থিত ছিল। বর্তমানে এ সংস্থাটি বিলুপ্ত। এর পরিবর্তে আইজেএসজি (IJSG- International Jute Study Group) নামক সংস্থা প্রতিষ্ঠিত হয়েছে (২৭ এপ্রিল ২০২০) এবং এর সদর দপ্তর ঢাকায়। উল্লেখ্য, সিরডাপ (CIRDAP) –এর সদর দপ্তরও বাংলাদেশে অবস্থিত। (APEC) –এর সদর দপ্তর সিঙ্গাপুরের আলেকজান্দ্রা পয়েন্টে, (SAARC)-এর সদর দপ্তর নেপালের কাঠ কাঠমান্ডুতে অবস্থিত। আর ADB –এর সদর দপ্তর ফিলিপাইনের ম্যানিলায়।"
+    },
+    {
+      "question_number": 15,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ওয়াল স্ট্রিট কোথায় অবস্থিত?",
+      "options": {
+        "A": "ডালাস",
+        "B": "লন্ডন",
+        "C": "নিউইয়র্ক",
+        "D": "হংকং"
+      },
+      "correct_answer": "C",
+      "explanation": "‘ওয়াল স্ট্রিট’ যুক্তরাষ্ট্রের বৃহত্তম শহর নিউইয়র্কে অবস্থিত। পৃথিবীর সবচেয়ে বড় শেয়ার-বাজার ওয়াল স্ট্রিটে অবস্থিত।"
+    },
+    {
+      "question_number": 16,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "আকাশ নীল দেখায় কেন?",
+      "options": {
+        "A": "নীল আলোর তরঙ্গ দৈর্ঘ্য বেশি বলে",
+        "B": "নীল সমুদ্রের প্রতিফলনের ফলে",
+        "C": "নীল আলোর বিক্ষেপণ অপেক্ষাকৃত বেশি বলে",
+        "D": "নীল আলোর প্রতিফলন বেশি বলে"
+      },
+      "correct_answer": "C",
+      "explanation": "যে আলোর তরঙ্গ দৈর্ঘ্য যতো কম সে আলোর বিক্ষেপণ ততো বেশি। নীল আলোর তরঙ্গ দৈর্ঘ্য কম বলে এর বিক্ষেপণ বেশি। যার ফলে বায়ুমণ্ডলের ধূলিকণায় বিক্ষিপ্ত নীল আলো ছড়ায় বলে আকাশ নীল দেখায়।"
+    },
+    {
+      "question_number": 17,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "১ বর্গইঞ্চি কত বর্গ সেন্টিমিটারের সমান?",
+      "options": {
+        "A": "০.০৯২৯",
+        "B": "৭.৩২",
+        "C": "৬.৪৫",
+        "D": "৬৪.৫০"
+      },
+      "correct_answer": "C",
+      "explanation": "১ ইঞ্চি = ২.৫৪ সে.মি. ∴ ১ বর্গ ইঞ্চি = (২.৫৪ × ২,৫৪) বর্গ সে.মি. = ৬.৪৫ বর্গ সে.মি."
+    },
+    {
+      "question_number": 18,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "যে ভূমিতে ফসল জন্মায় না-",
+      "options": {
+        "A": "পতিত",
+        "B": "অনুর্বর",
+        "C": "ঊষর",
+        "D": "বন্ধ্যা"
+      },
+      "correct_answer": "C",
+      "explanation": "পতিত – যা ফেলে রাখা হয়েছে। অনুর্বর- যে জমির উর্বরতা শক্তি নেই। ঊষর – যে জমিতে ফসল হয় না। বন্ধ্যা – যে নারীর সন্তান হয় না।"
+    },
+    {
+      "question_number": 19,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘অপমান’ শব্দের ‘অপ’ উপসর্গটি কোন অর্থে ব্যবহৃত?",
+      "options": {
+        "A": "বিপরীত",
+        "B": "নিকৃষ্ট",
+        "C": "বিকৃত",
+        "D": "অভাব"
+      },
+      "correct_answer": "A",
+      "explanation": "একটি উপসর্গ বিভিন্ন অর্থে ব্যবহৃত হতে পারে। যেমন: অপ উপসর্গ বিপরীত অর্থে: অপমান, অপচয়, অপকার। স্থানান্তর অর্থে: অপহরণ, অপসারণ। নিকৃষ্ট অর্থে: অপসংস্কৃতি, অপকর্ম। বিকৃত অর্থে: অপমৃত্যু।"
+    },
+    {
+      "question_number": 20,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘সোনালী কাবিন’ এর রচয়িতা কে?",
+      "options": {
+        "A": "হাসান হাফিজুর রহমান",
+        "B": "আল-মাহমুদ",
+        "C": "হুমায়ুন আজাদ",
+        "D": "শক্তি চট্টোপাধ্যায়"
+      },
+      "correct_answer": "B",
+      "explanation": "সোনালী কাবিন আল-মাহমুদ রচিত সনেট জাতীয় কাব্য যা ১৯৭৩ সালে প্রকাশিত হয়।"
+    },
+    {
+      "question_number": 21,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "My uncle has three sons, ___ work in the same office. Which of the following is the best form of pronoun in the above sentence?",
+      "options": {
+        "A": "All of them",
+        "B": "Who all",
+        "C": "They all",
+        "D": "All of whom"
+      },
+      "correct_answer": "D",
+      "explanation": "‘My uncle has three sons অংশটি একটি clause. আবার, work in the same office আরেকটি clause, যা কমা (,) দ্বারা যুক্ত হয়েছে। তাই উভয়ের মধ্যে একটি clause maker (conjunction বা relative pronoun) দরকার। (ক) ও (গ)-তে relative pronoun নেই বলে এগুলো গ্রহণযোগ্য নয়। এখন (খ) ও (ঘ) থেকে সহজেই (ঘ) –কে নেওয়া যায় কারণ। all of whom অর্থ যাদের সকলেই। কিন্তু who all ব্যবহার করা নিয়ম সিদ্ধ নয়। কারণ বাক্যের মধ্যে who (relative pronoun) হিসেবে বসলে এর পর সরাসরি verb ব্যবহার করতে হয়। তাই Who all ভুল।"
+    },
+    {
+      "question_number": 22,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "People always remember patriots. Which of the following is the best passive form of the above sentence?",
+      "options": {
+        "A": "The patriots will always be remembered by people",
+        "B": "The patriots are always being remembered",
+        "C": "People are always remembered by the patriots",
+        "D": "The patriots are always remembered"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/1.jpg"
+    },
+    {
+      "question_number": 23,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "রবীন্দ্রনাথ ঠাকুর তাঁর রচিত কোন নাটকটি কাজী নজরুল ইসলামকে উৎসর্গ করেছিলেন?",
+      "options": {
+        "A": "বিসর্জন",
+        "B": "ডাকঘর",
+        "C": "বসন্ত",
+        "D": "অচলায়তন"
+      },
+      "correct_answer": "C",
+      "explanation": "রবীন্দ্রনাথ ঠাকুর তার ‘বসন্ত’ নাটকটি কাজী নজরুল ইসলামকে উৎসর্গ করেন। তেমনি কাজী নজরুল ইসলামও তার ‘সঞ্চিতা’ কাব্যগ্রন্থটি রবীন্দ্রনাথ ঠাকুরকে উৎসর্গ করেন।"
+    },
+    {
+      "question_number": 24,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বাংলা একাডেমি থেকে প্রকাশিত ত্রৈমাসিক সাহিত্য পত্রিকার নাম–",
+      "options": {
+        "A": "সুন্দরম",
+        "B": "লোকায়ত",
+        "C": "উত্তরাধিকার",
+        "D": "কিছুধ্বনি"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলা একাডেমি থেকে যে ৬টি পত্রিকা প্রকাশিত হয়, তার মধ্যে ‘উত্তরাধিকার’ একটি। প্রথমে মাসিক পত্রিকা হিসেবে প্রকাশিত হলেও ১৯৮৩ সালে তা ত্রৈমাসিক করা হয়। বর্তমানে আবারও মাসিক প্রত্রিকা হিসেবে প্রকাশিত হচ্ছে।"
+    },
+    {
+      "question_number": 25,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘ঢাকা মুসলিম সাহিত্য সমাজ’ এর প্রধান লেখক ছিলেন–",
+      "options": {
+        "A": "কাজী আবদুল ওদুদ, আবুল হুসেন প্রমুখ",
+        "B": "মোহাম্মদ বরকত উল্লাহ, আবুল কালাম শামসুদ্দীন প্রমুখ",
+        "C": "মোহম্মদ আকরাম খাঁ, মুহম্মদ শহীদুল্লাহ প্রমুখ",
+        "D": "কাজী ইমদাদুল হক, মোহাম্মদ ওয়াজেদ আলী প্রমুখ"
+      },
+      "correct_answer": "A",
+      "explanation": "বাঙালি মুসলমান সমাজে আড়ষ্ট বুদ্ধিকে মুক্ত করে জ্ঞানপিপাসা জাগিয়ে তোলার অভিপ্রায়ে বিশ্ববিদ্যালয়ের কয়েকজন শিক্ষক ও প্রবীণ ছাত্র ১৯২৬ সালের ১৭ জানুয়ারি এটি প্রতিষ্ঠা করেন। সাহিত্য সমাজের মূল ভাবযোগী ছিলেন ঢাকা ইন্টারমিডিয়েট কলেজের শিক্ষক কাজী আবদুল ওদুদ ও কর্মযোগী আবুল হুসেন। ঢাকা মুসলিম সাহিত্য সমাজের বার্ষিক মুখপত্র ‘শিখা’র আপ্তবাক্য ছিল ‘জ্ঞান যেখানে সীমাবদ্ধ, বুদ্ধি যেখানে আড়ষ্ট, মুক্তি সেখানে অসম্ভব’।"
+    },
+    {
+      "question_number": 26,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "পরস্পরকে স্পর্শ করে আছে এমন তিনটি বৃত্তের কেন্দ্র \\({\\mathrm{P,Q,R}}\\) এবং \\({\\mathrm{PQ=a,QR=b,RP=c}}\\) হলে \\(\\mathrm{P}\\) কেন্দ্রিক বৃত্তের ব্যাস হবে-",
+      "options": {
+        "A": "\\({\\mathrm{a + b + c}}\\)",
+        "B": "\\({\\mathrm{b+c-a}}\\)",
+        "C": "\\({\\mathrm{c+a-b}}\\)",
+        "D": "\\({\\mathrm{a-b+c}}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "\\({\\therefore}\\) P কেন্দ্রিক বৃত্তের ব্যাস হবে। \\(\\mathrm{=PQ+RP-QR=a+c-b=c+a-b}\\)"
+    },
+    {
+      "question_number": 27,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\({\\mathrm{x+y-1=0,x-y+1=0}}\\) এবং \\({\\mathrm {y+3=0}}\\) সরল রেখা তিনটি দ্বারা গঠিত ত্রিভুজটি-",
+      "options": {
+        "A": "সমবাহু",
+        "B": "বিষমবাহু",
+        "C": "সমকোণী",
+        "D": "সমদ্বিবাহু"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/2.jpg"
+    },
+    {
+      "question_number": 28,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "১ থেকে ৯৯ পর্যন্ত সংখ্যার যোগফল-",
+      "options": {
+        "A": "৪৮৫০",
+        "B": "৪৯৫০",
+        "C": "৫৭৫০",
+        "D": "৫৯৫০"
+      },
+      "correct_answer": "B",
+      "explanation": "প্রথম পদ \\({=১}\\), শেষ পদ \\({= ৯৯}\\), পদ সংখ্যা \\({= ৯৯}\\) \\({\\therefore}\\) সমষ্টি \\(={{(১+৯৯)×৯৯} \\over{২}}\\) \\({= ৪৯৫০}\\)"
+    },
+    {
+      "question_number": 29,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\({\\mathrm{a=1,b=-1,c=2,d=-2}}\\) হলে, \\({\\mathrm {a-(-b)-(-c)-(-d)}}\\) এর মান কত?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "A",
+      "explanation": "\\[\\mathrm{a-(-b)-(-c)-(-d)}\\] \\[\\] \\[\\Rightarrow {\\mathrm {a+b+c+d}}\\] \\[\\] \\[\\Rightarrow {\\mathrm {1-1+2-2}}\\] \\[\\] \\[\\Rightarrow {0}\\]"
+    },
+    {
+      "question_number": 30,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "ইসলামিক উন্নয়ন ব্যাংককে (IDB) দেয়া বাংলাদেশের চাঁদার হার কত?",
+      "options": {
+        "A": "২৫.০ মিলিয়ন ইসলামিক দিনার",
+        "B": "১৫.৫ মিলিয়ন ইসলামিক দিনার",
+        "C": "১০.০ মিলিয়ন ইসলামিক দিনার",
+        "D": "কোনো চাঁদা দিতে হয় না"
+      },
+      "correct_answer": "C",
+      "explanation": "IDB কার্যক্রম শুরু ২০ অক্টোবর ১৯৭৫। বর্তমান সদস্য ৫৭। এর সদর দপ্তর- জেদ্দা, সৌদি আরব। IDB কে দেয়া বাংলাদেশের চাঁদার হার ১০ মিলিয়ন ইসলামিক দিনার।"
+    },
+    {
+      "question_number": 31,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘ঠক চাচা’ চরিত্রটি কোন উপন্যাসে পাওয়া যায়?",
+      "options": {
+        "A": "আলালের ঘরের দুলাল",
+        "B": "জোহরা",
+        "C": "মৃত্যুক্ষুধা",
+        "D": "হাজার বছর ধরে"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলা সাহিত্যের প্রথম উপন্যাস ‘আলালের ঘরের দুলাল’ এর রচয়িতা প্যারীচাঁদ মিত্র। এই উপন্যাসের বিখ্যাত চরিত্র- ঠকচাচা, মতিলাল। জহির রায়হান রচিত ‘হাজার বছর ধরে’ উপন্যাসের চরিত্র – টুনি, মন্তু, মকবুল বুড়ো, রশিদ, ফকিরের মা প্রভৃতি। রুবি, আনসার, মোয়াজ্জেম হলো কাজী নজরুল ইসলামের ‘মৃত্যুক্ষুধা’ উপন্যাসের চরিত্র। মোহাম্মদ মোজাম্মেল হক রচিত ‘জোহরা’ উপন্যাসের উল্লেখযোগ্য চরিত্র- জোহরা, কাশেম।"
+    },
+    {
+      "question_number": 32,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘বঙ্গদর্শন’ পত্রিকা কোন সালে প্রথম প্রকাশিত হয়?",
+      "options": {
+        "A": "১৮৬৫",
+        "B": "১৮৭২",
+        "C": "১৮৭৫",
+        "D": "১৮৮১"
+      },
+      "correct_answer": "B",
+      "explanation": "বঙ্কিমচন্দ্র চট্টোপাধ্যায় রচিত বিখ্যাত সাহিত্য পত্রিকা ‘বঙ্গদর্শন’। এটি ১৮৭২ সালে প্রকাশিত হয়।"
+    },
+    {
+      "question_number": 33,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What is the meaning of the word ‘intrepid’?",
+      "options": {
+        "A": "arrogant",
+        "B": "belligerent",
+        "C": "questioning",
+        "D": "fearless"
+      },
+      "correct_answer": "D",
+      "explanation": "Intrepid- সাহসী, নির্ভীক, ভয়হীন। arrogant- উদ্ধত, বেয়াদব। belligerent – যুদ্ধরত, যুদ্ধমান। questioning- জিজ্ঞাসু। fearless- ভয়হীন, নির্ভীক।"
+    },
+    {
+      "question_number": 34,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What is the meaning of the expression ‘bottom line’?",
+      "options": {
+        "A": "The final step",
+        "B": "The end of a road",
+        "C": "The last line of a book",
+        "D": "The essential point"
+      },
+      "correct_answer": "D",
+      "explanation": "Bottom line –এর অর্থ নির্দিষ্ট পরিমাণ অর্থ যা ব্যবসায়ে লাভ বা ক্ষতি হয়েছে। বা কোনো গুরুত্বপূর্ণ বিষয়/ঘটনা, অথবা সর্বনিম্ন পরিমাণ অর্থ যা ক্রেতা পণ্যের জন্য দিতে কিংবা বিক্রেতা নিতে রাজি থাকে। the final step –চূড়ান্ত পদক্ষেপ; the end of a road –রাস্তার শেষ প্রান্ত; the last line of a book –কোনো বইয়ের শেষ লাইন; the essential point- গুরুত্বপূর্ণ প্রসঙ্গ বা বিষয়।"
+    },
+    {
+      "question_number": 35,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The word ‘plurality’ means-",
+      "options": {
+        "A": "The letter ‘S’",
+        "B": "Men and women",
+        "C": "Chaos and confusion",
+        "D": "The holding of more than one office at a time"
+      },
+      "correct_answer": "D",
+      "explanation": "Plurality- বহুত্ব, একের অধিক। বাণিজ্যিক পরিভাষায় একের অধিক ব্যবসায়/অফিস।"
+    },
+    {
+      "question_number": 36,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Paediatric’ relates to the treatment of-",
+      "options": {
+        "A": "Adults",
+        "B": "Children",
+        "C": "Old people",
+        "D": "Women"
+      },
+      "correct_answer": "B",
+      "explanation": "Paediatric অর্থ শিশু বিষয়ক চিকিৎসা বিজ্ঞান।"
+    },
+    {
+      "question_number": 37,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Boot leg’ means to-",
+      "options": {
+        "A": "distribute",
+        "B": "export",
+        "C": "import",
+        "D": "smuggle"
+      },
+      "correct_answer": "D",
+      "explanation": "Boot leg- চোরা কারবার করা, বেআইনিভাবে পণ্য পরিবহন। (ক) distribute- বিতরণ করা; (খ) export- আমদানি করা; (গ) import – রপ্তানি করা; (ঘ) smuggle- চোরা কারবার করা।"
+    },
+    {
+      "question_number": 38,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশে সারা বছর নাব্য নদীপথের দৈর্ঘ্য কত?",
+      "options": {
+        "A": "৮,০০০ কিমি.",
+        "B": "৫,২০০ কিমি.",
+        "C": "১১,০০০ কিমি.",
+        "D": "৮,৫০০ কিমি."
+      },
+      "correct_answer": "B",
+      "explanation": "বর্ষাকালে বাংলাদেশের নদীপথের দৈর্ঘ্য ৬,০০০ কিমি.। তবে দেশের নদীগুলোতে পলি পড়ে যাওয়ায় শুকনো মৌসুমে নদীপথ কমে আসছে। উল্লেখ্য, উপনদী ও শাখানদীসহ বাংলাদেশে নদীর মোট দৈর্ঘ্য ২৪,১৪০ কি.মি.। নাব্য নদীপথের দৈর্ঘ্য ৫,২০০ কি.মি.।"
+    },
+    {
+      "question_number": 39,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের GDP –তে কৃষিখাতের অবদান কত শতাংশ?",
+      "options": {
+        "A": "৮০",
+        "B": "৭৫",
+        "C": "৩২",
+        "D": "১০"
+      },
+      "correct_answer": "",
+      "explanation": "বাংলাদেশ অর্থনৈতিক সমীক্ষা ২০২২ অনুসারে, বাংলাদেশের GDP- তে কৃষিখাতের অবদান ১১.৫০%।"
+    },
+    {
+      "question_number": 40,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশ ও মিয়ানমার কোন নদী দ্বারা বিভক্ত?",
+      "options": {
+        "A": "নাফ",
+        "B": "কর্ণফুলী",
+        "C": "নবগঙ্গা",
+        "D": "ভাগীরথী"
+      },
+      "correct_answer": "A",
+      "explanation": "এটি বাংলাদেশ ও মিয়ানমারের মধ্যে ৫৬ কিলোমিটার সীমানা নির্ধারণ করছে। ভাগীরথী ভারতের নদী, কর্ণফুলী পার্বত্য চট্টগ্রামের ওপর আসামের লুসাই পাহাড় থেকে উৎপত্তির পর রাঙামাটির উজানে বরকলের কিছু উত্তরে পার্বত্য চট্টগ্রামে প্রবেশ করে পরবর্তীতে পাবর্ত্য চট্টগ্রাম ও চট্টগ্রাম জেলার ভেতর দিয়ে বঙ্গোপসাগরে পড়েছে এবং নবগঙ্গা কুষ্টিয়া ও ঝিনাইদহ জেলার ওপর দিয়ে প্রবাহিত হয়েছে।"
+    },
+    {
+      "question_number": 41,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বিশ্বব্যাংক-এর কোন অঙ্গ সংগঠনটি ‘Soft loan Window’ নামে পরিচিত?",
+      "options": {
+        "A": "IBRD",
+        "B": "IDA",
+        "C": "IFC",
+        "D": "EDI"
+      },
+      "correct_answer": "B",
+      "explanation": "IDA –এর পূর্ণ রূপ International Development Agency. ১৯৬০ সালের সেপ্টেম্বরে এটি প্রতিষ্ঠিত হয়। বিশ্বব্যাংকের ঋণ যতটা সম্ভব সহজ শর্তে দারিদ্র দেশসমূহকে প্রদানের লক্ষ্যে এ সংস্থাটি গঠিত হয়।"
+    },
+    {
+      "question_number": 42,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "আফ্রিকা মহাদেশের মানচিত্রে Horns of Africa – তে কোন দেশটি অবস্থিত?",
+      "options": {
+        "A": "ইথিওপিয়া",
+        "B": "নাইজেরিয়া",
+        "C": "কেনিয়া",
+        "D": "সুদান"
+      },
+      "correct_answer": "A",
+      "explanation": "Horns of Africa মূলত একটি অঞ্চল, যাকে মানচিত্র দেখতে Horn বা শিং- এর মতো মনে হয়। এ অঞ্চলে সোমালিয়া, ইথিওপিয়া ও জিবুতি- তিনটি দেশ অবস্থিত। তবে Horn –এর শীর্ষে অবস্থিত সোমালিয়া।"
+    },
+    {
+      "question_number": 43,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "১৯৯৬ সালের অলিম্পিক গেমস কোথায় অনুষ্ঠিত হয়েছিল?",
+      "options": {
+        "A": "লসএঞ্জেলস",
+        "B": "আটলান্টা",
+        "C": "টোকিও",
+        "D": "নয়াদিল্লি"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৯৬ সালের অলিম্পিক গেমস আটলান্টা জর্জিয়া অনুষ্ঠিত হয় এবং ৩২তম অলিম্পিক ২০২১ সালে জাপানের টোকিওতে অনুষ্ঠিত হবে।"
+    },
+    {
+      "question_number": 44,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "১৯৯২ সালের Wimbledon টেনিস প্রতিযোগিতায় men’s singles –এ কে চ্যাম্পিয়ন হন?",
+      "options": {
+        "A": "Boris Becker",
+        "B": "Mechael Stich",
+        "C": "Andre Agassi",
+        "D": "Stefan Edberg"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৯২ সালের Wimbledon টেনিস প্রতিযোগিতায় men’s singles –এ চ্যাম্পিয়ন হন আন্দ্রে আগাসি। উল্লেখ্য, ২০২২ সালে পুরুষ এককে (men’s single) চ্যাম্পিয়ন হন নোভাক জোকোভিচ (সার্বিয়া)।"
+    },
+    {
+      "question_number": 45,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "কোন নেতা ফরায়েজী আন্দোলনের নেতৃত্ব দেন?",
+      "options": {
+        "A": "তিতুমীর",
+        "B": "সৈয়দ আহমদ বেরেলভি",
+        "C": "দুদু মিয়া",
+        "D": "হাজী শরীয়তউল্লাহ"
+      },
+      "correct_answer": "D",
+      "explanation": "হাজী শরীয়তউল্লাহর নেতৃত্বে মুসলমানদের ফরজ কাজসমূহ পালনে উদ্বুদ্ধ করার আন্দোলন হলো ফরায়েজি আন্দোলন। তার মৃত্যুর পর ফরায়েজি আন্দোলনের নেতৃত্ব দেন তার একমাত্র পুত্র দুদু মিয়া। দুদু মিয়ার বিখ্যাত উক্তি হলো “জমি থেকে খাজনা আদায় আল্লাহর আইনের পরিপন্থী”।"
+    },
+    {
+      "question_number": 46,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "তেঁতুলিয়া কোন জেলায় অবস্থিত?",
+      "options": {
+        "A": "দিনাজপুর",
+        "B": "পঞ্চগড়",
+        "C": "জয়পুরহাট",
+        "D": "লালমনিরহাট"
+      },
+      "correct_answer": "B",
+      "explanation": "পঞ্চগড় জেলায় অবস্থিত তেঁতুলিয়া বাংলাদেশের সর্বউত্তরের উপজেলা। বাংলাদেশের সর্বউত্তরের ইউনিয়ন বাংলাবান্ধা ও স্থান জায়গীরজোত।"
+    },
+    {
+      "question_number": 47,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "কে বাংলার রাজধানী ঢাকা থেকে মুর্শিদাবাদে স্থানান্তরিত করেন?",
+      "options": {
+        "A": "নবাব সিরাজউদ্দৌলা",
+        "B": "নবাব মুর্শিদকুলি খাঁ",
+        "C": "সুবাদার ইসলাম খান",
+        "D": "নবাব শায়েস্তা খান"
+      },
+      "correct_answer": "B",
+      "explanation": "আওরঙ্গজেব দিল্লির সম্রাট হওয়ার পর ১৭০০ খ্রিষ্টাব্দে মুর্শিদকুলী খাঁকে ঢাকার দেওয়ান করে পাঠান। ১৭০১ সালে মুর্শিদকুলী খাঁ তার দপ্তর ঢাকা থেকে পশ্চিমবঙ্গের মকসুদাবাদে স্থানান্তর করেন। কর্মদ্ক্ষতার গুণে তিনি নায়েব সুবেদার এবং পরে ১৭১৭ সালে বাংলা, বিহার, উড়িষ্যার সুবাদার পদে উন্নীত হন। তার নাম অনুসারে মকসুদাবাদের নাম হয় মুর্শিদাবাদ।"
+    },
+    {
+      "question_number": 48,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "১৯০৫ সালে নবগঠিত প্রদেশের প্রথম লেফটেন্যান্ট গভর্নর ছিলেন-",
+      "options": {
+        "A": "ব্যামফিল্ড ফুলার",
+        "B": "লর্ড মিন্টো",
+        "C": "লর্ড কার্জন",
+        "D": "ওয়ারেন হেস্টিংস"
+      },
+      "correct_answer": "A",
+      "explanation": "ওয়ারেন হেস্টিংস ১৭৭২ সালে শেষ গভর্নর এবং ১৭৭৪ সালে প্রথম গভর্নর জেনারেল হিসেবে নিযুক্ত হন। লর্ড মিন্টো ১৮০৭ সালে গভর্নর জেনারেল নিযুক্ত হন। লর্ড কার্জন ১৮৯৯ সালে ভাইসরয় নিযুক্ত হন। তিনি ১৯০৫ সালে বেঙ্গল প্রেসিডেন্সিকে বিভক্ত করলে নবগঠিত পূর্ববাংলা ও আসাম প্রদেশের প্রথম লেফটেন্যান্ট গভর্নর নিযুক্ত হন মি. ব্রামফিল্ড ফুলার।"
+    },
+    {
+      "question_number": 49,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "হিমছড়ি কোন শহরের নিকট অবস্থিত?",
+      "options": {
+        "A": "চট্টগ্রাম",
+        "B": "খুলনা",
+        "C": "কক্সবাজার",
+        "D": "রাজশাহী"
+      },
+      "correct_answer": "C",
+      "explanation": "কক্সবাজার জেলায় অবস্থিত হিমছড়ি হচ্ছে বাংলাদেশের নৈসর্গিক সৌন্দর্যের অন্যতম লীলাভূমি। হিমছড়ি পর্যটকদের জন্য একটি আকর্ষণীয় স্থান হিসেবে পরিচিত।"
+    },
+    {
+      "question_number": 50,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Are you doing anything special ___ the weekend? -Fill in the gap with appropriate preposition.",
+      "options": {
+        "A": "in",
+        "B": "for",
+        "C": "on",
+        "D": "at"
+      },
+      "correct_answer": "D",
+      "explanation": "The weekend-সাপ্তাহিক ছুটি এর পূর্বে at বসে। কারণ the weekend অর্থ at the end of the week. End এর পূর্বে at বসে বলেই Weekend এর পূর্বেও at বসে।"
+    },
+    {
+      "question_number": 51,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের কোন অঞ্চলকে ‘৩৬০ আউলিয়ার দেশ’ বলা হয়?",
+      "options": {
+        "A": "চট্টগ্রাম",
+        "B": "সিলেট",
+        "C": "ঢাকা",
+        "D": "রাজশাহী"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশের সিলেট অঞ্চলকে ৩৬০ আউলিয়ার দেশ বলা হয়। শাহজালাল ও তার সফরসঙ্গী ৩৬০ জন আউলিয়ার সিলেট আগমন ইতিহাসের একটি উল্লেখযোগ্য ঘটনা। তাদের কারণেই সিলেটকে ৩৬০ আউলিয়ার দেশ বলা হয়। চট্টগ্রামকে বলা হয় ১২ আউলিয়ার দেশ। চট্টগ্রামকে বাংলাদেশের প্রবেশদ্বারও বলা হয়। ঢাকাকে বলা হয় মসজিদের শহর এবং রিকশার নগরী।"
+    },
+    {
+      "question_number": 52,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের পানি সম্পদের চাহিদা সবচেয়ে বেশি কোন খাতে?",
+      "options": {
+        "A": "আবাসিক",
+        "B": "কৃষি",
+        "C": "পরিবহন",
+        "D": "শিল্প"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশ কৃষিপ্রধান দেশ। আর কৃষিকার্যের জন্য পানির ব্যবহার অপরিহার্য। তাই বাংলাদেশের পানি সম্পদের চাহিদা সবচেয়ে বেশি কৃষিখাতে।"
+    },
+    {
+      "question_number": 53,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "নিচের কোন তারিখে পিএলও- ইসরাইল পারস্পরিক স্বীকৃতি দলিলে স্বাক্ষর করে?",
+      "options": {
+        "A": "১০ সেপ্টেম্বর, ১৯৯৩",
+        "B": "১১ সেপ্টেম্বর, ১৯৯৩",
+        "C": "১৩ সেপ্টেম্বর, ১৯৯৩",
+        "D": "২০ সেপ্টেম্বর, ১৯৯৩"
+      },
+      "correct_answer": "C",
+      "explanation": "পিএলও এবং ইসরাইল পারস্পরিক চুক্তি স্বাক্ষর করে ১৩ সেপ্টেম্বর, ১৯৯৩। চুক্তির স্থান ওয়াশিংটন ডিসি, যুক্তরাষ্ট্র। পক্ষসমূহ ইসরাইল ও ফিলিস্তিন মু্ক্তির সংস্থা। এ চুক্তির মাধ্যমে ইসরাইল ও ফিলিস্তিন পরস্পরকে স্বীকৃতি দান করে।"
+    },
+    {
+      "question_number": 54,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "রিওডি জেনিরিওতে অনষ্ঠিত ‘ধরিত্রী সম্মেলন’ –এ কত দেশের প্রতিনিধি অংশগ্রহণ করেছিল?",
+      "options": {
+        "A": "১৫০",
+        "B": "১৫৬",
+        "C": "১৭৮",
+        "D": "১৭৯"
+      },
+      "correct_answer": "D",
+      "explanation": "ব্রাজিলের সাবেক রাজধানী রিও ডি জেনেরিও গুয়ানাবার উপসাগরের তীরে অবস্থিত। ১৯৯২ সালের বিশ্বের ১৭৯ দেশের অংশগ্রহণে ধরিত্রী সম্মেলন অনুষ্ঠিত হয়।"
+    },
+    {
+      "question_number": 55,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "‘Club of Vienna’ কি?",
+      "options": {
+        "A": "অস্ট্রিয়ার একটি বিখ্যাত পান্থশালা",
+        "B": "পশ্চিম ইউরোপের প্রধান বাণিজ্যিক ব্যাংকগুলোর বাৎসরিক সভা",
+        "C": "একটি বিশ্ব উন্নয়ন সংক্রান্ত গবেষণা প্রতিষ্ঠান",
+        "D": "পশ্চিম ইউরোপের চিত্রশিল্পীদের একটি সংগঠন"
+      },
+      "correct_answer": "D",
+      "explanation": "Club of Vienna পশ্চিম ইউরোপের চিত্রশিল্পীদের একটি সংগঠন যা ২৪ সদস্য এবং সামাজিক বৈজ্ঞানিক, অর্থনৈতিক এবং পরিবেশগত বিষয়ে আগ্রহী।"
+    },
+    {
+      "question_number": 56,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "জাতিসংঘ ‘আদিবাসী বর্ষ’ হিসেবে কোন সালকে ঘোষণা করেছে?",
+      "options": {
+        "A": "১৯৯১ সাল",
+        "B": "১৯৯২ সাল",
+        "C": "১৯৯৩ সাল",
+        "D": "১৯৯৪ সাল"
+      },
+      "correct_answer": "C",
+      "explanation": "জাতিসংঘ ১৯৯৩ সালকে ‘আদিবাসী বর্ষ’এবং প্রতিবছর ৯ আগস্টকে আন্তর্জাতিক আদিবাসী দিবস ঘোষণা করে। জাতিসংঘ ১৯৯২ সালকে আন্তর্জাতিক মহাশূন্য বর্ষ এবং ১৯৯৪ সালকে আন্তর্জাতিক পরিবার বর্ষ ঘোষণা করে।"
+    },
+    {
+      "question_number": 57,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "১৯৯৩ সালে জাতিসংঘের তত্ত্বাবধানে কম্বোডিয়ায় অনুষ্ঠিত নির্বাচনে কোন দল বিজয়ী হয়েছে?",
+      "options": {
+        "A": "ফুনসিনপেক",
+        "B": "সিপিপি",
+        "C": "খেমাররুজ",
+        "D": "কেপিএলএনএফ"
+      },
+      "correct_answer": "A",
+      "explanation": "১৯৯৩ সালে কম্বোডিয়ায় জাতিসংঘ মিশন UNAMIC (UN Advance Mission in Combodia) –এর তত্ত্ববধানে নির্বাচনে নরোদম সিহানুকের FUNCINPEC দল জয়লাভ করে এবং সিপিপি –এর সাথে অ্যালায়েন্স করে সরকার গঠন করে। পরবর্তীতে ১৯৯৮ সালের নির্বাচনে সিপিপি জয়লাভ করে এবং নিকটবর্তী ফুনসিনপেকের সাথে অ্যালায়েন্সে সরকার গঠন করে।"
+    },
+    {
+      "question_number": 58,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "‘স্ট্রোক’ আকস্মিক অজ্ঞান বা মৃত্যুর কারণ হতে পারে- এটি কি ?",
+      "options": {
+        "A": "হৃৎপিণ্ডের সজোরে সংকোচন বা বন্ধ হয়ে যাওয়া",
+        "B": "মস্তিষ্কে রক্তক্ষরণ এবং রক্ত প্রবাহে বাধা",
+        "C": "হৃৎপিণ্ডের অংশবিশেষের অসাড়তা",
+        "D": "ফুসফুস হঠাৎ বিকল হয়ে যাওয়া"
+      },
+      "correct_answer": "B",
+      "explanation": "কোনো কারণে মস্তিষ্কের কোথাও রক্ত সরবরাহ বন্ধ হলে বা মস্তিষ্কের কোনো শিরা বা ধমনী ছিঁড়ে গেলে সে অবস্থাকে স্ট্রোক বলে। স্ট্রোকের ফলে মস্তিষ্কে রক্তক্ষরণ দ্রুত সংঘটিত হয় ও সঙ্গে সঙ্গে রোগী জ্ঞান হারিয়ে ফেলে।"
+    },
+    {
+      "question_number": 59,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোনটি রক্তের কাজ নয়?",
+      "options": {
+        "A": "কলা (Tissue) হতে ফুসফুসে বর্জ্য পদার্থ বহন করা",
+        "B": "ক্ষুদ্রান্ত্র হতে কলাতে খাদ্যের সারবস্তু বহন করা",
+        "C": "হরমোন বিতরণ করা",
+        "D": "জারক রস (enzyme) বিতরণ করা"
+      },
+      "correct_answer": "D",
+      "explanation": "রক্তের সাধারণ কার্যাবলির মধ্যে উল্লেখযোগ্য হচ্ছে কলা হতে বর্জ্য পদার্থ ফুসফুসে বাহিত করা, খাদ্য সারবস্তু বিভিন্ন কলা ও অঙ্গে বাহিত করা, হরমোন, উৎসেচক, লিপিড প্রভৃতি বিভিন্ন অঙ্গে বাহিত করা, কার্বনডাই-অক্সাইড পরিবহন, দৈহিক উষ্ণতা নিয়ন্ত্রণ প্রভৃতি কিন্তু জারক রস বিতরণ করা রক্তের কাজ নয়।"
+    },
+    {
+      "question_number": 60,
+      "subject": "COMPUTER-AND-INFORMATION-TECHNOLOGY",
+      "question_text": "ডিজিটাল ঘড়ি বা ক্যালকুলেটরে কালচে অনুজ্জ্বল যে লেখা ফুটে ওঠে তা কিসের ভিত্তিতে তৈরি?",
+      "options": {
+        "A": "এলইডি",
+        "B": "সিলিকন চিপ",
+        "C": "এলসিডি",
+        "D": "আইসি"
+      },
+      "correct_answer": "B",
+      "explanation": "চিপ হলো সিলিকনের তৈরি সলিডস্টেট সেমিকন্ডাক্টর ডিভাইস, যার মধ্যে একটি IC –এর বিভিন্ন ধরনের পার্টস (ডায়োড, ট্রানজিস্টর, রেজিস্টর, কাপাসিটর) থাকে। এই সিলিকন চিপের ভিত্তিতেই ডিজিটাল ঘড়ি বা ক্যালকুলেটরে কালচে অনুজ্জ্বল লেখা ফুটে ওঠে।"
+    },
+    {
+      "question_number": 61,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Whcih of the following is a correct sentence?",
+      "options": {
+        "A": "He was too clever not to miss the point",
+        "B": "He was so clever to miss the point",
+        "C": "He was too clever to miss the point",
+        "D": "He was too clever to grasp the point"
+      },
+      "correct_answer": "C",
+      "explanation": "আমরা জানি, So + adjective + that clause. আর, too + adjective + to + verb word. কিন্তু (খ) তে so থাকলেও that নেই। আবার, too clever to miss the point অর্থ এত চতুর যে বিষয়টি বাদ দেবে না। অর্থাৎ too + adj + to যুক্ত বাক্যে একটি hidden বা উহ্য no/not থাকে। ফলে not ব্যবহারের প্রয়োজন হয় না। তাই (ক) সঠিক নয়। আবার, চতুর হলে বিষয়টি বাদ দেওয়ার কথা নয়। এজন্য (গ) কে নেয়া যায়। কিন্তু grasp – আঁকড়ে ধরা। অর্থাৎ too clever to grasp the point অর্থ এত চতুর যে বিষয়টি আঁকড়ে ধরতে পারে না। কিন্তু চতুর হলে বরং বিষয়টি আঁকড়ে ধরার কথা। অর্থাৎ বাদ না দেওয়াটাই স্বাভাবিক তাই সঠিক উত্তর (গ)"
+    },
+    {
+      "question_number": 62,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "The ‘Poet Laureate’ is -",
+      "options": {
+        "A": "the best poet of the country",
+        "B": "a winner of the Noble Prize in poetry",
+        "C": "the Court Poet England",
+        "D": "a classicla poet"
+      },
+      "correct_answer": "C",
+      "explanation": "ইংল্যান্ডের রাজ কবিকে poet laureate বলা হয়। এর অন্যনাম court poet. কয়েকজন Poet Laureate- 1. John Dryden, 2. Robert Southey, 3. William Wordsworth, 4. Alfred Lord Tennyson."
+    },
+    {
+      "question_number": 63,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "Which of the following school of literary writings is connected with a medical theory?",
+      "options": {
+        "A": "Comedy of Manners",
+        "B": "Theater of the Absurd",
+        "C": "Heroic Tragedy",
+        "D": "Comedy of Humours"
+      },
+      "correct_answer": "D",
+      "explanation": "Comedy of Humours এক ধরনের বিশেষ নাট্যরূপ যেখানে মানুষের আচার আচরণের ব্যাপারে আলোকপাত করা হয়, তাই এটি Medical theory এর সাথে সম্পর্কযুক্ত।"
+    },
+    {
+      "question_number": 64,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "Who of the following was both a poet and painter?",
+      "options": {
+        "A": "Keats",
+        "B": "Donne",
+        "C": "Blake",
+        "D": "Spenser"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/3.png"
+    },
+    {
+      "question_number": 65,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "ট্রাজেডি, কমেডি ও ফার্সের মূল পার্থক্য-",
+      "options": {
+        "A": "জীবনানুভূতির গভীরতায়",
+        "B": "দৃষ্টিভঙ্গির সূক্ষ্মতায়",
+        "C": "কাহিনীর সরলতা ও জটিলতায়",
+        "D": "ভাষার প্রকারভেদে"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 66,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "সাধু ভাষা ও চলিত ভাষার পার্থক্য-",
+      "options": {
+        "A": "তৎসম ও অতৎসম শব্দের ব্যবহারে",
+        "B": "ক্রিয়াপদ ও সর্বনাম পদের রূপে",
+        "C": "শব্দের কথা ও লেখ্য রূপে",
+        "D": "বাক্যের সরলতা ও জটিলতায়"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/4.png"
+    },
+    {
+      "question_number": 67,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘সমকাল’ পত্রিকার সম্পাদক ছিলেন-",
+      "options": {
+        "A": "বিনয় ঘোষ",
+        "B": "সিকান্দার আবু জাফর",
+        "C": "মোহাম্মদ আকরম খাঁ",
+        "D": "তফাজ্জল হোসেন"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/5.jpg"
+    },
+    {
+      "question_number": 68,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘প্রভাত চিন্তা’ ‘নিভৃত চিন্তা,’ ‘নিশীথ চিন্তা’ প্রভৃতি গ্রন্থের রচয়িতা-",
+      "options": {
+        "A": "কালীপ্রসন্ন সিংহ",
+        "B": "কালীপ্রসন্ন ঘোষ",
+        "C": "কৃষ্ণচন্দ্র মজুমদার",
+        "D": "এস ওয়াজেদ আলী"
+      },
+      "correct_answer": "B",
+      "explanation": "‘প্রভাত চিন্তা’ ‘নিভৃত চিন্তা’, ‘নিশীথ চিন্তা’ প্রভৃতি প্রবন্ধের রচয়িতা কালীপ্রসন্ন ঘোষ। কৃষ্ণচন্দ্র মজুমদার ও কালীপ্রসন্ন সিংহের বিখ্যাত রচনা যথাক্রমে ‘সদ্ভাব শতক’ ও ‘হুতোম প্যাঁচার নকশা’। এস ওয়াজেদ আলীর রচনার মধ্যে গল্পগ্রন্হ- ‘গুলদাস্তা’ ও ‘মাশুকের দরবার’, প্রবন্ধগ্রন্হ- ‘প্রাচ্য ও প্রতীচ্য’ ও ‘ভবিষ্যতের বাঙালী’, উপন্যাস- ‘গ্রানাডার শেষ বীর’ এবং ভ্রমণকাহিনী- ‘মোটর যোগে রাঁচী সফর’ উল্লেখযোগ্য।"
+    },
+    {
+      "question_number": 69,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘সুশিক্ষিত লোক মাত্রই স্বশিক্ষিত’ এই উক্তিটি কার?",
+      "options": {
+        "A": "রবীন্দ্রনাথ ঠাকুর",
+        "B": "কাজী আবদুল ওদুদ",
+        "C": "মোহম্মদ লুৎফর রহমান",
+        "D": "প্রমথ চৌধুরী"
+      },
+      "correct_answer": "D",
+      "explanation": "বাংলা গদ্যে চলিত রীতির প্রবর্তক প্রমথ চৌধুরী। বীরবল ছদ্মনামে তিনি লিখেছেন ‘বীরবলের হালখাতা’। চলিত রীতিকে বাংলা গদ্যে প্রতিষ্ঠা করার জন্য তিনি সম্পাদনা করেন বিখ্যাত পত্রিকা ‘সবুজপত্র’ (১৯১৪)। বাংলা কাব্যসাহিত্যে তিনি ইতালীয় সনেটের প্রবর্তন করেন। তার রচিত বিখ্যাত প্রবন্ধগ্রন্হ- তেল নুন লাকড়ি, বীরবলের হালখাতা ও রায়তের কথা; গল্পগ্রন্হ- চার ইয়ারী কথা ও আহুতি; কাব্যগ্রন্হ- সনেট পঞ্চাশৎ। তার আরো কয়েকটি গুরুত্বপূর্ণ উক্তি হলো “ভাষা মানুষের মুখ থেকে কলমের মুখে আসে, উল্টোটা করতে গেলে মুখে শুধু কালি পড়ে”, “সাহিত্য ছেলের হাতের খেলনাও নয়, গুরুর হাতের বেতও নয়”, “সাহিত্য জাতির দর্পণ স্বরূপ”, “বাংলা ভাষা আহত হয়েছে সিলেটে আর নিহত হয়েছে চট্টগ্রামে”, “সাহিত্যের উদ্দেশ্য সকলকে আনন্দ দেওয়া, কারও মনোরঞ্জন করা নয়”।"
+    },
+    {
+      "question_number": 70,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বাতাসের নাইট্রোজেন কিভাবে মাটির উর্বরতা বৃদ্ধি করে?",
+      "options": {
+        "A": "সরাসটি মাটিতে মিশ্রিত হয়ে জৈব বস্তু প্রস্তুত করে",
+        "B": "ব্যাকটেরিয়ার সাহায্যে উদ্ভিদের গ্রহণ ও উপযোগী বস্তু প্রস্তুত করে",
+        "C": "পানিতে মিশে মাটিতে শোষিত হওয়ার ফলে",
+        "D": "মাটির অজৈব লবণকে পরিবর্তিত করে"
+      },
+      "correct_answer": "C",
+      "explanation": "উদ্ভিদ বাতাসের নাইট্রোজেন সরাসরি গ্রহণ করতে পারে না। বাতাসের নাইট্রোজেন বজ্রবৃষ্টির সময় বৃষ্টির পানির সাথে মিশে নাইট্রিক এসিড রূপে ভূ- পৃষ্ঠে পতিত হয়। পরবর্তীতে তা নাইট্রেট রূপে বিশ্লেষিত হয়ে উদ্ভিদের গ্রহণোপযোগী হয়। তবে শীম জাতীয় উদ্ভিদের মূলে Rahizobium নামক ব্যাকটেরিয়া নাইট্রোজেনকে নাইট্রেটে পরিণত করতে পারে।"
+    },
+    {
+      "question_number": 71,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "‘গ্রিনহাউজ ইফেক্টের’ পরিণতিতে বাংলাদেশের সবচেয়ে গুরুতর প্রত্যক্ষ ক্ষতি কি হবে?",
+      "options": {
+        "A": "উত্তাপ অনেক বেড়ে যাবে",
+        "B": "নিম্নভূমি নিমজ্জিত হবে",
+        "C": "সাইক্লোনের প্রবণতা বাড়বে",
+        "D": "বৃষ্টিপাত কমে যাবে"
+      },
+      "correct_answer": "B",
+      "explanation": "গ্রিন হাউজে ইফেক্টের কারনে পৃথিবী পৃষ্ঠের তাপমাত্রা বৃদ্ধি পায়, ফলে পৃথিবীর মেরুতে বিদ্যমান বরফ গলে নিম্নভূমি স্থায়ীভাবে পানিতে নিমজ্জিত হচ্ছে। এর প্রভাবে বাংলাদেশেরও নিম্নভূমি নিমজ্জিত হবে।"
+    },
+    {
+      "question_number": 72,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "নিত্য ব্যবহার্য বহু ‘এরোসোলের’ কৌটায় এখন লেখা থাকে ‘সিএফসি’ বিহীন। সিএফসি গ্যাস কেন ক্ষতিকারক?",
+      "options": {
+        "A": "ফুসফুসে রোগ সৃষ্টি করে",
+        "B": "গ্রিন হাউজ ইফেক্টে অবদান রাখে",
+        "C": "ওজোনস্তরে ফুটো সৃষ্টি করে",
+        "D": "দাহ্য বলে অগ্নিকাণ্ডের সম্ভাবনা ঘটায়"
+      },
+      "correct_answer": "C",
+      "explanation": "সিএফসি হচ্ছে ক্লোরোফ্লোরো কার্বন (Chloro Flore Carbon) । এ গ্যাস বায়ুমণ্ডলের ওজোনস্তরকে ফুটো করে দেয়। ফলে সূর্যের অতিবেগুনি রশ্মি পৃথিবীতে এসে পৌঁছে। এতে মানুষের চর্ম ক্যান্সার ও অন্যান্য মারাত্মক রোগ দেখা দেয়।"
+    },
+    {
+      "question_number": 73,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৬৪ কিলোগ্রাম বালি ও পাথরের টুকরোর মিশ্রণে বালির পরিমাণ ২৫%। কত কিলোগ্রাম বালি মিশালে নতুন মিশ্রণে পাথর টুকরোর পরিমাণ ৪০% হবে?",
+      "options": {
+        "A": "৯.৬",
+        "B": "১১.০",
+        "C": "৪৮.০",
+        "D": "৫৬.০"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/6.png"
+    },
+    {
+      "question_number": 74,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "কোন সংখ্যার \\(\\mathrm{২ \\over ৭}\\) অংশ ৬৪- এর সমান?",
+      "options": {
+        "A": "\\(\\mathrm{১৮ \\frac{২}{৭}}\\)",
+        "B": "২৪৮",
+        "C": "২১৭",
+        "D": "২২৪"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/7.png"
+    },
+    {
+      "question_number": 75,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি ৫০ মিটার লম্বা মই একটি খাড়া দেওয়ালের সাথে হেলান দিয়ে রাখা হয়েছে। মইয়ের এক প্রান্ত মাটি হতে ৪০ মিটার উচ্চে দেয়ালকে স্পর্শ করে। মই-এর অপর প্রান্ত হতে দেওয়ালের দূরত্ব (মিটারে)-",
+      "options": {
+        "A": "১০",
+        "B": "৩০",
+        "C": "২০",
+        "D": "২৫"
+      },
+      "correct_answer": "B",
+      "explanation": "\\[{\\mathrm{BC}}={\\sqrt{\\mathrm{AC^2-AB^2}}}\\] \\[\\] \\[{\\Rightarrow\\sqrt{(৫০)^২-{(৪০)}^২}}\\] \\[\\] \\({\\Rightarrow{৩০}}\\) মি.।"
+    },
+    {
+      "question_number": 76,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\({\\mathrm{{(2+x)}+{3=3}{(x+2)}}}\\) হলে \\({\\mathrm{x}}\\) এর মান কত?",
+      "options": {
+        "A": "\\(-{{1}\\over{2}}\\)",
+        "B": "\\({{1}\\over{2}}\\)",
+        "C": "\\({{1}\\over{3}}\\)",
+        "D": "\\({{2}\\over{3}}\\)"
+      },
+      "correct_answer": "A",
+      "explanation": "\\[{\\mathrm{{(2+x)}+3=3{(x+2)}}}\\] \\[\\] \\[{\\Rightarrow{\\mathrm{2+x+3=3x+6}}}\\] \\[\\] \\[{\\Rightarrow\\mathrm{2x=-1}}\\] \\[\\] \\[{\\therefore \\mathrm{x= -{1\\over2}}}\\]"
+    },
+    {
+      "question_number": 77,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "কোন সংখ্যাটি বৃহত্তম?",
+      "options": {
+        "A": "০.৩",
+        "B": "\\(\\mathrm{\\sqrt{০.৩}}\\)",
+        "C": "\\(\\mathrm{২\\over৫}\\)",
+        "D": "\\(\\mathrm{১\\over৩}\\)"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/15th-bcs/8.png"
+    },
+    {
+      "question_number": 78,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "শুদ্ধ বানানটি নির্দেশ করুন-",
+      "options": {
+        "A": "মুহুর্মুহু",
+        "B": "মূহুর্মুহু",
+        "C": "মুর্হমূহু",
+        "D": "মুর্হুর্মূহু"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 79,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘দ্যুলোক’ শব্দের যথার্থ সন্ধি –বিচ্ছেদ কোনটি?",
+      "options": {
+        "A": "দুঃ + লোক",
+        "B": "দিব্ + লোক",
+        "C": "দ্বি + লোক",
+        "D": "দ্বিঃ + লোক"
+      },
+      "correct_answer": "B",
+      "explanation": "দ্যুলোক= দিব্‌ + লোক; এটি একটি নিপাতনে সিদ্ধ ব্যঞ্জনসন্ধি। নিপাতনে সিদ্ধ আরও কয়েকটি ব্যঞ্জনসন্ধি হলো- আশ্চর্য=আ+চর্য; ষোড়শ= ষট্‌+দশ; পতঞ্জলি= পতৎ+অঞ্জলি; একাদশ= এক+দশ; বৃহস্পতি=বৃহৎ+পতি; গোষ্পদ= গো+পদ; বনস্পতি=বন+পতি; পরস্পর=পর+পর; তষ্কর= তৎ+কর; মনীষা= মনস্‌+ঈষা।"
+    },
+    {
+      "question_number": 80,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘তাপ’ শব্দের বিপরীতার্থক শব্দ-",
+      "options": {
+        "A": "শৈত্য",
+        "B": "শীতল",
+        "C": "উত্তাপ",
+        "D": "হিম"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 81,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "আলট্রাসনোগ্রাফি কি?",
+      "options": {
+        "A": "নতুন ধরনের এক্সরে",
+        "B": "ছোট তরঙ্গদৈর্ঘ্যের শব্দের দ্বারা ইমেজিং",
+        "C": "শরীরের অভ্যন্তরের শব্দ বিশ্লেষণ",
+        "D": "শক্তিশালী শব্দ দিয়ে পিত্তপাথর বিচূর্ণীকরণ"
+      },
+      "correct_answer": "B",
+      "explanation": "স্বাভাবিকভাবে মানুষের কানে শ্রুতিগোচর হয় না এমন শব্দকে আলট্রা সাউন্ড বা অতিশব্দ বলে। অতিশাব্দিক ক্ষুদ্র তরঙ্গের সাহায্যে কোনো বস্তুকে স্ক্যান করে যে সংকেত পাওয়া যায় তা ব্যবহার করে ফটো তোলার প্রক্রিয়ার সাধারণ নাম আলট্রাসনোগ্রাফি। রোগ নির্ণয়, ধাতব বস্তুর ভেতরে কোনো ত্রুটি থাকলে তা ধরা ইত্যাদি নানা কাজে আলট্রাসনোগ্রাফি ব্যবহৃত হয়।"
+    },
+    {
+      "question_number": 82,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বাংলাদেশে তড়িৎ-এর কম্পাঙ্ক (frequency) প্রতি সেকেন্ডে ৫০ সাইকেল –এর তাৎপর্য কি?",
+      "options": {
+        "A": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার বন্ধ হয়",
+        "B": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ একক দৈর্ঘ্য অতিক্রম করে",
+        "C": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার দিক বদলায়",
+        "D": "প্রতি সেকেন্ডে বিদ্যুৎ প্রবাহ ৫০ বার উঠানামা করে"
+      },
+      "correct_answer": "C",
+      "explanation": "তরঙ্গ হিসেবে নির্দিষ্ট কোনো রাশি যেমন- শব্দচাপ, বৈদ্যুতিক তীব্রতা তরঙ্গ নির্দেশ করার জন্য অন্যান্য রাশি, সুস্থিত মান থেকে একটি সম্পূর্ণ চক্রে প্রতি একক সময়ে যতবার উঠানামা করে তাই হলো কম্পাঙ্ক (Frequency) । এর সাধারণ একক হলো ‘হার্জ’ (Hertz)।"
+    },
+    {
+      "question_number": 83,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "নদীর একপাশ থেকে গুন টেনে নৌকাকে মাঝ নদীতে রেখেই সামনের দিকে নেয়া সম্ভব হয় কিভাবে?",
+      "options": {
+        "A": "যথাযথভাবে হাল ঘুরিয়ে",
+        "B": "নদী স্রোতের সুকৌশল ব্যবহার",
+        "C": "গুন টানার সময় টানটি সামনের দিকে রেখে",
+        "D": "পাল ব্যবহার করে"
+      },
+      "correct_answer": "A",
+      "explanation": "রশি দ্বারা যখন নৌকার গুন টানা হয়, তখন নৌকার ওপর প্রযুক্ত বল দুটি উপাংশে ক্রিয়া করে। বলের এক অংশ নৌকাকে সম্মুখ দিকে চালিত করে। অপর অংশ নৌকাকে পাড়ের দিকে চালিত করে। এ অবস্থায় নৌকাটি কিছুদূর এগিয়ে পাড়ে ঠাঁই নেয়ার কথা। কিন্তু গুন টানার সময় নৌকার মাঝি নৌকার হাল যথাযথভাবে ঘুরিয়ে পাড়ে দিকের বলের অংশকে প্রশমিত করে। ফলে সম্মুখ দিকের বলের ক্রিয়ায় নৌকা সামনের দিকে মাঝ নদী বরাবর চলে।"
+    },
+    {
+      "question_number": 84,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "নিচের কোন দেশটি Group of Seven (G-7) এর সদস্য নয়?",
+      "options": {
+        "A": "কানাডা",
+        "B": "ইতালি",
+        "C": "সুইডেন",
+        "D": "জাপান"
+      },
+      "correct_answer": "C",
+      "explanation": "Group of Seven (G-7) হলো আন্তর্জাতিক মুদ্রা তহবিল স্বীকৃত বিশ্বের প্রধান সাতটি উন্নত অর্থনীতির দেশ নিয়ে গঠিত একটি অর্থনৈতিক সংস্থা। ১৯৯৮ সালে এর সদস্য সংখ্যা হয় ৮ এবং এটি জি-৮ নামে পরিচিতি লাভ করে। ২০১৪ সালে রাশিয়া ক্রিমিয়া অধিকার করলে রাশিয়াকে জি-৮ থেকে বহিষ্কার করা হয় এবং এর নাম হয় জি-৭। বর্তমানে এর সদস্য দেশগুলো হলো যুক্তরাষ্ট্র, ফ্রান্স, ইতালি, জার্মানি, ব্রিটেন, জাপান ও কানাডা। জাপান জি-৭ এর অন্তর্ভুক্ত একমাত্র এশীয় দেশ।"
+    },
+    {
+      "question_number": 85,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "বিশ্বের কোন শহর ‘নিষিদ্ধ শহর’ নামে পরিচিত?",
+      "options": {
+        "A": "লাসা",
+        "B": "উলানবাটোর",
+        "C": "পিয়ংইয়ং",
+        "D": "কাবুল"
+      },
+      "correct_answer": "A",
+      "explanation": "তিব্বতের রাজধানী লাসা ঊনবিংশ শতাব্দীতেই বিদেশিদের জন্য নিষিদ্ধ হয়। উলানবাটোর, পিয়ংইয়ং ও কাবুল যথাক্রমে মঙ্গোলিয়া, দক্ষিণ কোরিয়া এবং আফগানিস্তানের রাজধানী।"
+    },
+    {
+      "question_number": 86,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "‘League of Arab States’-এর বর্তমান সদর দপ্তর কোথায় অবস্থিত?",
+      "options": {
+        "A": "তিউনেসিয়া",
+        "B": "কায়রো",
+        "C": "রাবাত",
+        "D": "জেদ্দা"
+      },
+      "correct_answer": "B",
+      "explanation": "১৯৪৫ সালের ২২ মার্চ আরব লীগ প্রতিষ্ঠিত হয়। এর প্রতিষ্ঠাকালীন সদর দপ্তর স্থাপিত হয় মিশরের রাজধানী কায়রোতে। মিশর ও ইসরাইলের মধ্যকার ক্যাম্প ডেভিড চুক্তি সাক্ষরের পর ১৯৭৯ সালের ২৬ মার্চ মিশরকে আরব লীগ থেকে বহিষ্কার করা হয় এবং সদর দপ্তর তিউনিসিয়ায় স্থানান্তরিত হয়। ১৯৮৯ সালের ২৩ মে মিশর পুনরায় আরব লীগে যোগ দেয় এবং সদর দপ্তর পুনরায় কায়রোতে স্থানান্তরিত হয়। আরব লীগের বর্তমান সদস্য রাষ্ট্র ২২।"
+    },
+    {
+      "question_number": 87,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশ নিচে উল্লিখিত কোন সময়ের জন্য জাতিসংঘ নিরাপত্তা পরিষদে অস্থায়ী সদস্য নির্বাচিত হয়েছিল?",
+      "options": {
+        "A": "১৯৭৮ – ৭৯",
+        "B": "১৯৭৯ – ৮০",
+        "C": "১৯৮০ – ৮১",
+        "D": "১৯৮২ – ৮৩"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশ এ পর্যন্ত দুবার জাতিসংঘ নিরাপত্তা পরিষদের অস্থায়ী সদস্য নির্বাচিত হয়। প্রথমবার নির্বাচিত হয় ১০ নভেম্বর, ১৯৭৮ (মেয়াদকাল ১৯৭৯-৮০) এবং দ্বিতীয়বার নির্বাচিত হয় ১৪ অক্টোবর, ১৯৯৯ (মেয়াদকাল ২০০০-২০০১)।"
+    },
+    {
+      "question_number": 88,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "The United Nations University কোন শহরে অবস্থিত?",
+      "options": {
+        "A": "লন্ডন",
+        "B": "ব্রাসেলস",
+        "C": "নিউইয়র্ক",
+        "D": "টোকিও"
+      },
+      "correct_answer": "D",
+      "explanation": "জাতিসংঘ বিশ্ববিদ্যালয় জাপানের রাজধানী টোকিও-এর শিবুইয়ায় অবস্থিত। ১৯৭৩ সালে সাধারণ পরিষদের সিদ্ধান্তে এ বিশ্ববিদ্যালয় স্থাপিত হয়।"
+    },
+    {
+      "question_number": 89,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের মোট রপ্তানি আয়ে রেডিমেড গার্মেন্টস-এর অংশ কত?",
+      "options": {
+        "A": "৭৫%",
+        "B": "৫৬%",
+        "C": "৩৫%",
+        "D": "৬০%"
+      },
+      "correct_answer": "",
+      "explanation": "ইপিবি এর বার্ষিক প্রতিবেদন ২০২২-২৩ অনুসারে, তৈরি পোশাক খাতে বৈদেশিক মুদ্রা আয়ের পরিমাণ ৪৬,৯৯১.৬১ মিলিয়ন মার্কিন ডলার, যা মোট রপ্তানির ৮৪.৫৭%।"
+    },
+    {
+      "question_number": 90,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশ জাতীয় সংসদের নির্ধারিত আসনে মহিলা সদস্যের সংখ্যা কত?",
+      "options": {
+        "A": "৩০",
+        "B": "৩২",
+        "C": "৩৫",
+        "D": "৪০"
+      },
+      "correct_answer": "",
+      "explanation": "বাংলাদেশের প্রথম জাতীয় সংসদ থেকেই মহিলাদের জন্য আসন সংরক্ষণ করে রাখা হয়। সে সময় সংরক্ষিত আসন ছিল ১৫ টি। সংবিধানের দশম সংশোধনীর মাধ্যমে ৩০। চতুদর্শ সংশোধনীর মাধ্যমে ৪৫ এবং পঞ্চদশ সংশোধনীর মাধ্যমে বর্তমানে নারীদের সংরক্ষিত আসন সংখ্যা ৫০ করা হয়েছে। সপ্তদশ সংশোধনীর মাধ্যমে সংরক্ষিত আসন আরও ২৫ বছরের জন্য সংরক্ষণ করা হয়।"
+    },
+    {
+      "question_number": 91,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘ইচ্ছা’ বিশেষ্যের বিশেষণ নির্দেশ করুন।",
+      "options": {
+        "A": "ইচ্ছাময়",
+        "B": "ঐচ্ছিক",
+        "C": "ইচ্ছুক",
+        "D": "অনিচ্ছা"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 92,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোন বাক্যটিতে সমধাতুজ কর্ম আছে?",
+      "options": {
+        "A": "সে বই পড়ছে",
+        "B": "সে গভীর চিন্তায় মগ্ন",
+        "C": "সে ঘুমিয়ে আছে",
+        "D": "সে যে চাল চেলেছে তাতে তাকে ষড়যন্ত্রকারী ছাড়া আর কিছু বলা যায় না"
+      },
+      "correct_answer": "D",
+      "explanation": "বাক্যের ক্রিয়া ও কর্ম যদি একই ধাতু থেকে উৎপন্ন হয় তবে সেই বাক্যের কর্মকে সমধাতুজ কর্ম বলে। এই বাক্যে ‘চাল’ কর্ম এবং চেলেছে ‘ক্রিয়াপদ’ একই ধাতু থেকে উৎপন্ন হয়েছে।"
+    },
+    {
+      "question_number": 93,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What is the synonym of ‘incredible’?",
+      "options": {
+        "A": "Unbelievable",
+        "B": "Unthinkable",
+        "C": "Unlikely",
+        "D": "Unthinking"
+      },
+      "correct_answer": "A",
+      "explanation": "Incredible –অবিশ্বাস্য, বিষ্ময়কর, উদ্ভট। এর synonym – Unbelievable, Astonishing, Fantastic, তাছাড়া Unthinkable- অচিন্তনীয়। Unlikely- অসম্ভব। Unthinking –অচিন্ত্যপূর্ব।"
+    },
+    {
+      "question_number": 94,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "What is the antonym of ‘famous’?",
+      "options": {
+        "A": "Opaque",
+        "B": "Illiterate",
+        "C": "Obscure",
+        "D": "Immature"
+      },
+      "correct_answer": "C",
+      "explanation": "Famous – বিখ্যাত, সুবিদিত, সুপরিচিত। এর antonyms হচ্ছে Infamous, Obscure, Unknown প্রভৃতি। Obscure –অস্পষ্ট, গুপ্ত, অখ্যাত, অপরিচিত, অজ্ঞাত। কিন্তু Opaque –আলো নিরোধক, অনচ্ছ। Illiterate – নিরক্ষর, অশিক্ষিত, মূর্খ। Immature – অপ্রাপ্তবয়স্ক।"
+    },
+    {
+      "question_number": 95,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Plebiscite’ is a term related to ____?",
+      "options": {
+        "A": "Medicine",
+        "B": "Technlogy",
+        "C": "Law",
+        "D": "Politics"
+      },
+      "correct_answer": "D",
+      "explanation": "Plebiscite অর্থ-গণভোট।"
+    },
+    {
+      "question_number": 96,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "Who wrote ‘beauty is truth, truth is beauty’?",
+      "options": {
+        "A": "Shakespeare",
+        "B": "Wordsworth",
+        "C": "Keats",
+        "D": "Eliot"
+      },
+      "correct_answer": "C",
+      "explanation": "‘Poet of beauty’ নামে খ্যাত John keats তার ‘Ode on a Grecian Urn’ নামক কবিতায় এই উক্তিটি করেছেন।"
+    },
+    {
+      "question_number": 97,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Many islands make up ____.",
+      "options": {
+        "A": "an isles",
+        "B": "an archipelago",
+        "C": "a peninsula",
+        "D": "a continent"
+      },
+      "correct_answer": "B",
+      "explanation": "Island-দ্বীপ, Peninsula- উপদ্বীপ, Isles- উপদ্বীপ, Continent- মহাদেশ Archipelago- দ্বীপপুঞ্জ। অনেকগুলো দ্বীপ মিলে একটি দ্বীপপুঞ্জ গঠিত হয়।"
+    },
+    {
+      "question_number": 98,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের সরকারি মেডিকেল কলেজের সংখ্যা কত?",
+      "options": {
+        "A": "৮",
+        "B": "১০",
+        "C": "১২",
+        "D": "১৩"
+      },
+      "correct_answer": "",
+      "explanation": "দেশে সরকারি মেডিকেল কলেজের সংখ্যা ৩৮টি। এর মধ্যে সাধারণ এমবিবিএস মেডিকেল কলেজ ৩৬টি, ইউনানী অ্যান্ড আয়ুর্বেদিক মেডিকেল কলেজ ১টি ও হোমিওপ্যাথিক মেডিকেল কলেজ ১টি রয়েছে।"
+    },
+    {
+      "question_number": 99,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "সেন্টমার্টিন দ্বীপ-এর অপর নাম কি?",
+      "options": {
+        "A": "নারিকেল জিঞ্জিরা",
+        "B": "সোনাদিয়া",
+        "C": "কুতুবদিয়া",
+        "D": "নিঝুম দ্বীপ"
+      },
+      "correct_answer": "A",
+      "explanation": "আরবি ‘জাজিরা’ থেকে ‘জিঞ্জিরা’ শব্দটি উদ্ভূত যার অর্থ উপদ্বীপ। নারিকেল গাছের প্রতুলতার জন্য সেন্টমার্টিন দ্বীপটির নাম হয়েছে নারিকেল জিঞ্জিরা। কক্সবাজার জেলার টেকনাফ থানার অন্তর্গত বঙ্গোপসাগরের বুকে অবস্থিত সেন্টমার্টিন বাংলাদেশের সর্ব-দক্ষিণের ইউনিয়ন। এটি বাংলাদেশের একমাত্র প্রবাল দ্বীপ এবং এর আয়তন ৮ বর্গকিলোমিটার।"
+    },
+    {
+      "question_number": 100,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "২০০০ সাল নাগাল বাংলাদেশের জনসংখ্যা দাঁড়াবে-",
+      "options": {
+        "A": "২০০ মিলিয়ন",
+        "B": "১২০ মিলিয়ন",
+        "C": "১০০ মিলিয়ন",
+        "D": "২৩০ মিলিয়ন"
+      },
+      "correct_answer": "",
+      "explanation": "স্বাধীন বাংলাদেশের প্রথম আদমশুমারির অনুষ্ঠিত হয় ১৯৭৪ সালে। সর্বশেষ ষষ্ঠ জনশুমারি ও গৃহগণনা ২০২২ অনুযায়ী দেশে মোট জনসংখ্যা ১৬ কোটি ৫১ লাখের উপরে।"
+    }
+  ]
+}

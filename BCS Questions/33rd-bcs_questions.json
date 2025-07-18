@@ -1,0 +1,1306 @@
+{
+  "exam_name": "33rd-bcs Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "চর্যাপদ কোন ছন্দে লেখা?",
+      "options": {
+        "A": "অক্ষরবৃত্ত",
+        "B": "মাত্রাবৃত্ত",
+        "C": "স্বরবৃত্ত",
+        "D": "অমিত্রাক্ষর ছন্দ"
+      },
+      "correct_answer": "B",
+      "explanation": "চর্যাপদের ভাষা মূলত প্রাচীন বাংলা। এর পদগুলো প্রাচীন কোন ছন্দে রচিত তা সুনির্দিষ্টভাবে বলা সম্ভব নয়। কারও মতে, চর্যাপদ চার মাত্রার চালভিত্তিক ষোল মাত্রার পাদাকুলক ছন্দ, কারও মতে, পজঝটিকা ছন্দ, কারও মতে, অপভ্রংশ-অবহট্‌ঠ রচনায় ব্যবহৃত ছন্দের অনুকরণ। তবে আধুনিক ছন্দের বিচারে চর্যাপদের পদগুলো মাত্রাবৃত্ত ছন্দে লেখা। মাত্রাবৃত্ত ছন্দঃ যে ছন্দে যুগ্মধ্বনি দু’মাত্রা ও অযুগ্ম ধ্বনি এক মাত্রা বিবেচিত হয় তাকে মাত্রাবৃত্ত ছন্দ বলে। মাত্রাবৃত্ত রীতিতে গঠিত হলেও মাত্রাবৃত্তের বর্তমান সুনির্দিষ্ট গণনা পদ্ধতি এতে মানা হয়নি।"
+    },
+    {
+      "question_number": 2,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কবিওয়ালা ও শায়েরের উদ্ভব ঘটে কখন?",
+      "options": {
+        "A": "আঠারো শতকের শেষার্ধে ও উনিশ শতকের প্রথমার্ধে",
+        "B": "ষোড়শ শতকের শেষার্ধে ও সপ্তদশ শতকের প্রথমার্ধে",
+        "C": "সপ্তদশ শতকের শেষার্ধে ও আঠারো শতকের প্রথমার্ধে",
+        "D": "উনিশ শতকের শেষার্ধে ও বিংশ শতকের প্রথমার্ধে"
+      },
+      "correct_answer": "A",
+      "explanation": "আঠারো শতকের শেষার্ধে ও উনিশ শতকের প্রথমার্ধে সামাজিক ও সাংস্কৃতিক বিপর্যয়ের মুখে কলকাতার হিন্দু সমাজে কবিওয়ালা ও মুসলিম সমাজে শায়েরদের উদ্ভব ঘটে। কবিওয়ালারা তৎকালীন বিশৃঙ্খল সমাজব্যবস্থায় যথেষ্ট খ্যাতি লাভ করেছিলেন। কবিওয়ালাদের মধ্যে উল্লেখযোগ্য হলেন: গোঁজলা গুই, হরু ঠাকুর, ভবানী বেনে, নিতাই বৈরাগী।"
+    },
+    {
+      "question_number": 3,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কবি গানের প্রথম কবি কে?",
+      "options": {
+        "A": "গোঁজলা পুট [গুই]",
+        "B": "হরু ঠাকুর",
+        "C": "ভবানী ঘোষ",
+        "D": "নিতাই বৈরাগী"
+      },
+      "correct_answer": "A",
+      "explanation": "আঠার শতকের শেষার্ধে ও উনিশ শতকের প্রথমার্ধে সমাজে কবি গানের প্রচলন ছিল, যাদের হিন্দু সমাজে কবিওয়ালা ও মুসলিম সমাজে শায়ের বলা হতো। কবিওয়ালাদের মধ্যে যিনি সর্ব প্রাচীন তার নাম গোঁজলা গুই। এছাড়া কয়েকজন বিখ্যাত কবিওয়ালার নাম রামবসু, অ্যান্টনি ফিরিঙ্গি, হরু ঠাকুর, নিধুবাবু, কেষ্টা মুচি, ভবানী।"
+    },
+    {
+      "question_number": 4,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘কেন পান্থ ক্ষান্ত হও হেরি দীর্ঘ পথ?’ – কার লেখা?",
+      "options": {
+        "A": "কৃষ্ণচন্দ্র মজুমদার",
+        "B": "ঈশ্বরচন্দ্র গুপ্ত",
+        "C": "কামিনী রায়",
+        "D": "যতীন্দ্রমোহন বাগচী"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/1.jpg"
+    },
+    {
+      "question_number": 5,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোন চরণটি সঠিক?",
+      "options": {
+        "A": "ধন ধান্য পুষ্পে ভরা",
+        "B": "ধন্য ধান্যে পুষ্পে ভরা",
+        "C": "ধণ্যে ধান্যে পুষ্প ভরা",
+        "D": "ধন্যে ধান্য পুষ্পে ভরা"
+      },
+      "correct_answer": "A",
+      "explanation": "উল্লিখিত চরণটি দ্বিজেন্দ্রলাল রায় রচিত ‘ধনধান্য পুষ্পভরা’ গানের অংশ। এ গানটি মোঘল সম্রাট শাহজাহানের জীবনচরিত অবলম্বনে রচিত ‘সাজাহান’ (১৯০৯) নাটকের অন্তর্গত। তার রচিত উল্লেখযোগ্য নাটক হলো: প্রতাপসিংহ (১৯০৫), দুর্গাদাস (১৯০৬), মেবার-পতন (১৩১৫), নূরজাহান (১৯০৮), চন্দ্রগুপ্ত (১৯১১), সিংহল বিজয় (১৯১৬)।"
+    },
+    {
+      "question_number": 6,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোন বানানটি শুদ্ধ নয়?",
+      "options": {
+        "A": "দরিদ্রতা",
+        "B": "উপযোগিতা",
+        "C": "শ্রদ্ধাঞ্জলি",
+        "D": "উর্দ্ধ"
+      },
+      "correct_answer": "D",
+      "explanation": "‘উর্দ্ধ’ এর সঠিক বানান ‘ঊর্ধ্ব’।"
+    },
+    {
+      "question_number": 7,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘গৃহী’ শব্দের বিপরীতার্থক শব্দ-",
+      "options": {
+        "A": "সংসারী",
+        "B": "সঞ্চয়ী",
+        "C": "সংস্থিতি",
+        "D": "সন্ন্যাসী"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/2.jpg"
+    },
+    {
+      "question_number": 8,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "Excise duty – র পরিভাষা কোনটি?",
+      "options": {
+        "A": "অতিরিক্ত কর",
+        "B": "আবগারি শুল্ক",
+        "C": "অর্পিত দায়িত্ব",
+        "D": "অতিরিক্ত কর্তব্য"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/3.jpg"
+    },
+    {
+      "question_number": 9,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোন বাক্যটি শুদ্ধ?",
+      "options": {
+        "A": "তোমার গোপন কথা শোনা আমার পক্ষে সম্ভব নয়।",
+        "B": "দরিদ্রতা আমাদের প্রধান সমস্যা।",
+        "C": "সলজ্জিত হাসি হেসে মেয়েটি উত্তর দিল।",
+        "D": "সর্ব বিষয়ে বাহুল্যতা বর্জন করা উচিত।"
+      },
+      "correct_answer": "B",
+      "explanation": "প্রদত্ত অপশনগুলোর মধ্যে একমাত্র (খ) তে প্রদত্ত বাক্যটিই নির্ভুল। পক্ষান্তরে, (ক) গোপন এর স্থলে গোপনীয়, (গ) সলজ্জিত এর স্থলে ‘সলজ্জ’ এবং (ঘ) বাহুল্যতা এর স্থলে ‘বাহুল্য’ হবে।"
+    },
+    {
+      "question_number": 10,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘তুমি আসবে বলে হে স্বাধীনতা সখিনা বিবির কপাল ভাঙল। ’ –এটি কোন বাক্য?",
+      "options": {
+        "A": "সরল",
+        "B": "মিশ্র বা জটিল",
+        "C": "যৌগিক",
+        "D": "সংযুক্ত"
+      },
+      "correct_answer": "B",
+      "explanation": "একটি প্রধান বাক্যের সঙ্গে অঙ্গীভূত এক বা একাধিক খণ্ডবাক্য সাধারণভাবে বা কোনো অনুগামী সমুচ্চয়ী অব্যয় বা সাপেক্ষ সর্বনাম দিয়ে যুক্ত হয়ে পরস্পর সাপেক্ষভাবে ব্যবহৃত হলে তাকে মিশ্র বা জটিল বাক্য বলে। যেমন: ‘তুমি আসবে বলে হে স্বাধীনতা সখিনা বিবির কপাল ভাঙল’ এটি একটি মিশ্র বা জটিল বাক্য।"
+    },
+    {
+      "question_number": 11,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোনটি ‘অগ্নি’-র সমার্থক শব্দ নয়?",
+      "options": {
+        "A": "পাবক",
+        "B": "বৈশ্বানর",
+        "C": "সর্বশুচি",
+        "D": "প্রজ্বলিত"
+      },
+      "correct_answer": "D",
+      "explanation": "‘অগ্নি’র সমার্থক শব্দ নয় ‘প্রজ্বলিত’। প্রজ্বলিত শব্দের সমার্থক শব্দ- উজ্জ্বল, আলোকিত, উদ্ভাসিত, ঝলমলে, দীপ্ত, দীপ্তিমান, প্রদীপ্ত, চকচকে, শোভামান। পক্ষান্তরে, ‘অগ্নি’র সমার্থক শব্দ- অনল, বহ্নি, হুতাশন, পাবক, বৈশ্বানর, আগুন, দহন, সর্বভূক, সর্বশুচি, বিভাবসু।"
+    },
+    {
+      "question_number": 12,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোনটি সঠিক বানান?",
+      "options": {
+        "A": "নিশিথিনী",
+        "B": "নীশিথিনী",
+        "C": "নিশীথিনী",
+        "D": "নিশিথিনি"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 13,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোনটি ‘কোলন’?",
+      "options": {
+        "A": ";",
+        "B": ":",
+        "C": "=",
+        "D": "“ ”"
+      },
+      "correct_answer": "B",
+      "explanation": "(;) সেমিকোলন, (:) কোলন, (=) সমান এবং (“ ”) উদ্ধরণ চিহ্ন।"
+    },
+    {
+      "question_number": 14,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বাংলা সাহিত্যের অন্যতম বিশিষ্ট পত্রিকা ‘কল্লোল’ কত সালে প্রথম প্রকাশিত হয়?",
+      "options": {
+        "A": "১৯২৩ সালে",
+        "B": "১৯২৪ সালে",
+        "C": "১৯২৫ সালে",
+        "D": "১৯২৭ সালে"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলা সাহিত্যের অন্যতম বিশিষ্ট পত্রিকা ‘কল্লোল’ ১৯২৩ সালে প্রথম প্রকাশিত হয়। ‘কল্লোল’ পত্রিকার সম্পাদক ছিলেন দীনেশরঞ্জন দাশ। পত্রিকাটি সাত বছর (১৯২৩-১৯৩০) চলমান থাকার পর বন্ধ হয়ে যায়।"
+    },
+    {
+      "question_number": 15,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "কোন গ্রন্থটি সুকান্ত ভট্টাচার্য কর্তৃক রচিত?",
+      "options": {
+        "A": "হরতাল",
+        "B": "পালাবদল",
+        "C": "উত্তীর্ণ পঞ্চাশে",
+        "D": "অন্বিষ্ট স্বদেশ"
+      },
+      "correct_answer": "A",
+      "explanation": "‘হরতাল’ গ্রন্থটি সুকান্ত ভট্টাচার্য কর্তৃক রচিত। তার বিখ্যাত কাব্যগ্রন্থ হলো ছাড়পত্র (১৩৫৪), ঘুম নেই (১৩৫৭), পূর্বাভাস (১৩৫৭), অভিযান (১৩৬০)।"
+    },
+    {
+      "question_number": 16,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "‘ঢাকের কাঠি’ বাগধারার অর্থ কি?",
+      "options": {
+        "A": "কপট ব্যক্তি",
+        "B": "ঘনিষ্ঠ সস্পর্ক",
+        "C": "হতভাগ্য",
+        "D": "মোসাহেব"
+      },
+      "correct_answer": "D",
+      "explanation": "‘ঢাকের কাঠি’ বাগধারার অর্থ: মোসাহেব, তোষামুদে। ‘দহরম-মহরম’ বাগধারার অর্থ: ঘনিষ্ঠ সম্পর্ক; ইঁদুর কপালে/আট কপালে বাগধারার অর্থ হতভাগ্য। খয়ের খাঁ বাগধারাটির অর্থ তোষামোদকারী।"
+    },
+    {
+      "question_number": 17,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের ‘বিষবৃক্ষ’ উপন্যাসের চরিত্র কোনটি?",
+      "options": {
+        "A": "কুন্দনন্দিনী",
+        "B": "শ্যামাসুন্দরী",
+        "C": "বিমলা",
+        "D": "রোহিনি"
+      },
+      "correct_answer": "A",
+      "explanation": "বিষবৃক্ষ উপন্যাসের প্রধান চরিত্র কুন্দনন্দিনী, নগেন্দ্রনাথ, হীরা, সূর্যমুখী। অন্যদিকে ‘বিমলা’ রবীন্দ্রনাথ ঠাকুরের ‘ঘরে বাইরে’ উপন্যাসের এবং ‘রোহিণী’ বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের কৃষ্ণকান্তের উইল উপন্যাসের অন্যতম চরিত্র।"
+    },
+    {
+      "question_number": 18,
+      "subject": "BANGLA-LANGUAGE",
+      "question_text": "কোন বানানটি শুদ্ধ?",
+      "options": {
+        "A": "পিপিলিকা",
+        "B": "পিপীলিকা",
+        "C": "পীপিলিকা",
+        "D": "রোহিনী"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 19,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "গীতাঞ্জলির ইংরেজি অনুবাদ সম্পাদনা করেছেন-",
+      "options": {
+        "A": "এজরা পাউন্ড",
+        "B": "টি.এস. এলিয়ট",
+        "C": "ডবলিউ.বি. ইয়েটস",
+        "D": "কীটস"
+      },
+      "correct_answer": "C",
+      "explanation": "‘গীতাঞ্জলি’ রবীন্দ্রনাথ ঠাকুরের একটি অন্যতম কাব্যগ্রন্থ। গীতাঞ্জলি কাব্যগ্রন্থ ১৯১০ সালে প্রকাশিত হয়। গীতাঞ্জলি কাব্যগ্রন্থে মোট ১৫৭ টি কবিতা ও গান আছে। গীতাঞ্জলির ইংরেজি অনুবাদ সম্পাদনা করেছেন ডবলিউ.বি. ইয়েটস। ‘গীতাঞ্জলি’র ইংরেজী অনুবাদের নাম Song offerings."
+    },
+    {
+      "question_number": 20,
+      "subject": "BANGLA-LITERATURE",
+      "question_text": "‘The Origin and Development of Bengali Language’ গ্রন্থটি রচনা করেছেন-",
+      "options": {
+        "A": "ড.মুহাম্মদ শহীদুল্লাহ",
+        "B": "ড. সুনীতিকুমার চট্টোপাধ্যায়",
+        "C": "হরপ্রসাদ শাস্ত্রী",
+        "D": "স্যার জর্জ গ্রিয়ারসন"
+      },
+      "correct_answer": "B",
+      "explanation": "ড.সুনীতিকুমার চট্টোপাধ্যায়ের বিখ্যাত গ্রন্থ ‘বাঙলা ভাষার উৎপত্তি ও বিকাশ’ ‘The Origin and Development of the Bengali Language’। এ গ্রন্থে তিনি ধ্বনিতত্ত্ব, ব্যাকরণ ও ছন্দ বিচার করে সিদ্ধান্ত গ্রহণ করেন যে, চর্যাপদ আদি বাংলা ভাষায় রচিত।"
+    },
+    {
+      "question_number": 21,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Noureen will discuss the issue with Nasir __ phone.",
+      "options": {
+        "A": "in",
+        "B": "over",
+        "C": "by",
+        "D": "on"
+      },
+      "correct_answer": "B",
+      "explanation": "মাধ্যম হিসেবে phone আলাপ এর ক্ষেত্রে মাধ্যমের পূর্বে by/over বসে কিন্তু over বহুল প্রচলিত। In বড় স্থান এবং সময় এর পূর্বে বসে, on time এর ক্ষেত্রে বসে।"
+    },
+    {
+      "question_number": 22,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Put appropriate preposition for the sentence below: Some writers sink __ oblivion in course of time.",
+      "options": {
+        "A": "on",
+        "B": "from",
+        "C": "under",
+        "D": "into"
+      },
+      "correct_answer": "D",
+      "explanation": "Sink into oblivion একটি phrase, যার অর্থ চিরন্তন বিলীন হয়ে যাওয়া। লেখক যেহেতু বিস্মৃতিতে বা চিন্তার জগতে বিলীন হয়ে যায় তাই শূন্যস্থানে into হবে।"
+    },
+    {
+      "question_number": 23,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Call to mind’ means–.",
+      "options": {
+        "A": "fantasize",
+        "B": "attend",
+        "C": "remember",
+        "D": "request"
+      },
+      "correct_answer": "C",
+      "explanation": "Call to mind একটি phrasse যার অর্থ হল remember বা স্মরণ করা, স্মরণ রাখা, fantasize- বিস্মিত করা, attend- গমন করা।"
+    },
+    {
+      "question_number": 24,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Pass away’ means–",
+      "options": {
+        "A": "disappear",
+        "B": "die",
+        "C": "erase",
+        "D": "fall"
+      },
+      "correct_answer": "B",
+      "explanation": "‘Pass away’ phrase টির অর্থ মারা যাওয়া, অক্কা পাওয়া। Disappear- আদৃশ্য হওয়া, fall পতিত হওয়া erase- মুছে ফেলা।"
+    },
+    {
+      "question_number": 25,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Pick the word that is synonymous with ‘authoritarian’.",
+      "options": {
+        "A": "autocratic",
+        "B": "senior",
+        "C": "elderly",
+        "D": "potential"
+      },
+      "correct_answer": "A",
+      "explanation": "Authoritarian অর্থ কঠোর শাসক; Autocratic –স্বৈরাচারী/স্বৈরশাসক; যা authoritarian এর সমার্থক। অন্যদিকে; senior অর্থ বয়োজ্যেষ্ঠ, potential- সম্ভাবনাময়, elderly- বয়সে বড়।"
+    },
+    {
+      "question_number": 26,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The word ‘permissive’ implies –",
+      "options": {
+        "A": "humble",
+        "B": "law-abiding",
+        "C": "liberal",
+        "D": "submissive"
+      },
+      "correct_answer": "C",
+      "explanation": "Permissive অর্থ অনুমোদনকারী। humble – সরল; law-abiding – আইন মান্যকারী; liberal – উদারপন্থী; submissive – অনুগত।"
+    },
+    {
+      "question_number": 27,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/33rd-bcs/27.jpg)",
+      "options": {
+        "A": "their",
+        "B": "her",
+        "C": "whose",
+        "D": "his"
+      },
+      "correct_answer": "D",
+      "explanation": "‘Each of the sons’ এর এক বচন each তাই এর পরিবর্তে his/ her ব্যবহার করা যায়। যেহেতু son পুরুষবাচক তাই his হবে।"
+    },
+    {
+      "question_number": 28,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘Subject-Verb Agreement’ refers to –",
+      "options": {
+        "A": "person only",
+        "B": "number, person and gender",
+        "C": "number and person",
+        "D": "number only"
+      },
+      "correct_answer": "C",
+      "explanation": "Subject-Verb Agreement হচ্ছে subject এর number ও person অনুযায়ী verb এর পরির্ব্তন। যেমন: Subject 3rd person singular number হলে Present Indefinite Tense এ Verb এর সাথে s/es যুক্ত হয়।"
+    },
+    {
+      "question_number": 29,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The only error in the sentence “One of the recommendation made by the committee was accepted by the authorities” is–",
+      "options": {
+        "A": "recommendation",
+        "B": "was",
+        "C": "accepted by",
+        "D": "committee"
+      },
+      "correct_answer": "A",
+      "explanation": "আমরা জানি One of the এর পর সব সময় plural noun বা Pronoun ব্যবহৃত হয়।"
+    },
+    {
+      "question_number": 30,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "‘The French’ refers to–",
+      "options": {
+        "A": "the French people",
+        "B": "the French language",
+        "C": "the French manners",
+        "D": "the French society"
+      },
+      "correct_answer": "A",
+      "explanation": "ভাষার নামের পূর্বে কখনো Article ‘the’ বসে না। জাতি বোঝাতে তার পূর্বে the বসে। যেমন: The English (ইংরেজ জাতি), The French (ফরাসি জাতি) ইত্যাদি।"
+    },
+    {
+      "question_number": 31,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "If a person cannot stop taking drugs, he or she is–",
+      "options": {
+        "A": "attached to them",
+        "B": "committed to them",
+        "C": "addicted to them",
+        "D": "devoted to them"
+      },
+      "correct_answer": "C",
+      "explanation": "প্রদত্ত বাক্যের ভাবার্থ হল যে ‘যদি কোনো ব্যক্তি ড্রাগ বা নেশা জাতীয় দ্রব্য গ্রহণ বন্ধ করতে না পারে তাহলে সে নেশাগ্রস্ত।’ আর নেশাগ্রস্ত বোঝাতে addicted শব্দটি ব্যবহৃত হয়।"
+    },
+    {
+      "question_number": 32,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The word ‘officialese’ means–",
+      "options": {
+        "A": "plural number of official",
+        "B": "language used in offices",
+        "C": "plural number of office",
+        "D": "vague expressions"
+      },
+      "correct_answer": "B",
+      "explanation": "Officialese শব্দটির অর্থ আমলাদের লেখায় ব্যবহৃত ভাষা। অর্থাৎ অফিসসমূহে ব্যবহৃত ভাষাই হচ্ছে Officialese."
+    },
+    {
+      "question_number": 33,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The verb ‘succumb’ means–",
+      "options": {
+        "A": "achieve",
+        "B": "submit",
+        "C": "win",
+        "D": "conquer"
+      },
+      "correct_answer": "B",
+      "explanation": "Succumb- সমর্পণ করা; option গুলোর মধ্যে একমাত্রা submit অর্থ নিবেদন করা, achieve- অর্জন করা, conquer- জয় করা, win- জয় করা।"
+    },
+    {
+      "question_number": 34,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/33rd-bcs/34.jpg)",
+      "options": {
+        "A": "to receiving",
+        "B": "to receive",
+        "C": "in receiving",
+        "D": "for receiving"
+      },
+      "correct_answer": "A",
+      "explanation": "Look forward to, with a view to, be used to, get used to ইত্যাদির পর কোনো verb আসলে উক্ত verb এর সাথে ing যুক্ত হয়। সুতরাং সঠিক উত্তর হবে ‘to receiving’."
+    },
+    {
+      "question_number": 35,
+      "subject": "ENGLISH-LITERATURE",
+      "question_text": "If a part of a speech or writing breaks the theme, it is called ___",
+      "options": {
+        "A": "pomposity",
+        "B": "digression",
+        "C": "exaggeration",
+        "D": "anti-climax"
+      },
+      "correct_answer": "B",
+      "explanation": "‘যদি কোনো বক্তব্য বা লেখা মূলভাব থেকে বিচ্যুত হয়ে পড়ে তখন তাকে digression (মূল প্রসঙ্গ থেকে বিচ্যুতি) বলা হয়।’ সুতরাং সঠিক উত্তর হবে ‘to digression. Pomposity- আড়ম্ভর, exaggeratin- অতিরঞ্জন, anti-climax- ঘটনার চূড়ান্ত পর্যায়।"
+    },
+    {
+      "question_number": 36,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The expression ‘take into account’ means–",
+      "options": {
+        "A": "count numbers",
+        "B": "consider",
+        "C": "think seriously",
+        "D": "asses"
+      },
+      "correct_answer": "B",
+      "explanation": "প্রদত্ত phrase ‘Take into account’ এর অর্থ হলো বিবেচনা করা।"
+    },
+    {
+      "question_number": 37,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "Choose the best translation of ‘কর্তৃপক্ষ তাকে তিরস্কার করলো’ from the alternatives below–",
+      "options": {
+        "A": "The authorities criticised him.",
+        "B": "The authorities took him to book.",
+        "C": "The authorities gave reins to him.",
+        "D": "The authorities took him to task."
+      },
+      "correct_answer": "D",
+      "explanation": "‘Take to task’ অর্থ হলো তিরস্কার করা। সুতরাং ‘কর্তৃপক্ষ তাকে তিরস্কার করল’ বাক্যটির সঠিক অনুবাদ হলো (ঘ) The authorities took him to task."
+    },
+    {
+      "question_number": 38,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "“Such claim needs to be tested empirically” suggest that–",
+      "options": {
+        "A": "The test should be based on assumption.",
+        "B": "The test should be based on idea.",
+        "C": "The test should be based on experience.",
+        "D": "The test should be based on calculation."
+      },
+      "correct_answer": "C",
+      "explanation": "বলা হচ্ছে যে ‘এ ধরনের অভিযোগ অভিজ্ঞতার সাথে যাচাই করা প্রয়োজন। ঠিক এ কথাটিই option (গ) তে বলা হয়েছে।"
+    },
+    {
+      "question_number": 39,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "The idiom “put up with” means –",
+      "options": {
+        "A": "stay together",
+        "B": "tolerate",
+        "C": "keep trust",
+        "D": "protect"
+      },
+      "correct_answer": "B",
+      "explanation": "‘Put up with’ phrase টি দ্বারা সহ্য করা বোঝায়।"
+    },
+    {
+      "question_number": 40,
+      "subject": "ENGLISH-LANGUAGE",
+      "question_text": "In many ways, riding a bicycle is similar to-",
+      "options": {
+        "A": "driving a car",
+        "B": "when one drives a car",
+        "C": "the driving of a car",
+        "D": "when we drive a car"
+      },
+      "correct_answer": "A",
+      "explanation": "প্রশ্নে বলা হচ্ছে যে, সাইকেল চালনা অনেক ক্ষেত্রেই গাড়ি চালনার অনুরূপ। এখানে সাইকেল চালনা ও গাড়ি চালনা একই হওয়ায় এদের phrasal গঠনও একই হবে। অর্থাৎ riding a bicycle থাকায় driving a car হবে।"
+    },
+    {
+      "question_number": 41,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের সংবিধানে এখন পর্যন্ত কতটি সংশোধনী আনা হয়েছে?",
+      "options": {
+        "A": "১৭",
+        "B": "১৫",
+        "C": "২০",
+        "D": "১৯"
+      },
+      "correct_answer": "A",
+      "explanation": "বাংলাদেশের সংবিধানে এখন পর্যন্ত ১৭টি সংশোধনী আনা হয়েছে। ২০১৮ সালের ৮ জুলাই সংবিধান (সপ্তদশ সংশোধন) বিল ২০১৮ জাতীয় সংসদে পাস হয়। এর ফলে একাদশ জাতীয় সংসদে প্রথম বৈঠকের তারিখ হতে শুরু করে ২৫ বছর সময় অতিবাহিত হওয়ার অব্যবহিত পরবর্তী সময়ে সংসদ ভেঙে না যাওয়া পর্যন্ত ৫০টি আসন নারীদের জন্য সংরক্ষিত থাকবে।"
+    },
+    {
+      "question_number": 42,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "পূর্বাশা দ্বীপের অপর নাম কি?",
+      "options": {
+        "A": "নিঝুম দ্বীপ",
+        "B": "সন্দ্বীপ",
+        "C": "দক্ষিণ তালপট্টি",
+        "D": "কুতুবদিয়া"
+      },
+      "correct_answer": "C",
+      "explanation": "দক্ষিণ তালপট্টি দ্বীপ সাতক্ষীরা জেলার শ্যামনগর উপজেলার অন্তর্গত বঙ্গোপসাগরের অগভীর সামুদ্রিক মহীসোপান এলাকায় জেগে ওঠা একটি উপকূলবর্তী দ্বীপ। ভারতে দ্বীপটিকে ‘নিউমুর দ্বীপ’ আবার কখনও ‘পূর্বাশা’ নামে অভিহিত করা হয়। তবে বর্তমানে দ্বীপটির কোনো অস্তিত্ব নেই।"
+    },
+    {
+      "question_number": 43,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "মুজিবনগর কোন জেলায় অবস্থিত?",
+      "options": {
+        "A": "যশোর",
+        "B": "কুষ্টিয়া",
+        "C": "মেহেরপুর",
+        "D": "চুয়াডাঙ্গা"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৭১ সালের ১০ এপ্রিল মেহেরপুর জেলার মুজিবনগর থেকে জারিকৃত স্বাধীনতার ঘোষণাপত্রের মাধ্যমে বাংলাদেশের প্রথম সরকার গঠন করা হয়। ১৯৭১ সালের ১৭ এপ্রিল মেহেরপুর জেলার বৈদ্যনাথতলার (বর্তমান মুজিবনগর) আমবাগানে এ সরকারের আনুষ্ঠানিক শপথ গ্রহণ অনুষ্ঠিত হয়। মুজিবনগর উপজেলার কার্যক্রম শুরু হয় ২০০০ সালের ২৪ ফেব্রুয়ারি।"
+    },
+    {
+      "question_number": 44,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের সেন্টমার্টিন দ্বীপ কোন জেলায়?",
+      "options": {
+        "A": "ভোলা",
+        "B": "নোয়াখালী",
+        "C": "চট্টগ্রাম",
+        "D": "কক্সবাজার"
+      },
+      "correct_answer": "D",
+      "explanation": "কক্সবাজার জেলায় সেন্টমার্টিন দ্বীপ। বাংলাদেশের সর্ব দক্ষিণ পূর্বে অবস্থিত। সেন্টমার্টিন দ্বীপের অপর নাম ‘নারিকেল জিনজিরা’। এটি বাংলাদেশের একমাত্র প্রবাল দ্বীপ। এর বর্তমান আয়তন ৮ বর্গ কি.মি."
+    },
+    {
+      "question_number": 45,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের সর্বাধিক বৈদেশিক মুদ্রা অর্জনকারী বিষয় কি?",
+      "options": {
+        "A": "প্রবাসী শ্রমিক",
+        "B": "পাট",
+        "C": "রেডিমেড গার্মেন্টস",
+        "D": "চামড়া"
+      },
+      "correct_answer": "C",
+      "explanation": "২০২২-২৩ অর্থবছরে ৪ হাজার ৬৯৯ কোটি ডলারের তৈরি পোশাক রপ্তানি হয়েছে।"
+    },
+    {
+      "question_number": 46,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "‘শালবন বিহার’ কোথায়?",
+      "options": {
+        "A": "গাজীপুর",
+        "B": "মধুপুর",
+        "C": "রাজবাড়ী",
+        "D": "কুমিল্লার ময়নামতি পাহাড়ের পাশে"
+      },
+      "correct_answer": "D",
+      "explanation": "‘শালবন বিহার’ ময়নামতির প্রত্নতাত্ত্বিক খনন স্থানগুলোর মধ্যে সবচেয়ে গুরুত্বপূর্ণ প্রত্নস্থল। কুমিল্লার কাছে কোটবাড়ির বর্তমান বাংলাদেশ পল্লী উন্নয়ন একাডেমীর লাগোয়া লালমাই পাহাড়ের মধ্যবর্তী এলাকায় এর অবস্থান।"
+    },
+    {
+      "question_number": 47,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "‘সাবাস বাংলাদেশ’ ভাস্কর্যটি কোথায় অবস্থিত?",
+      "options": {
+        "A": "টিএসসি মোড়ে",
+        "B": "ঢাকা বিশ্ববিদ্যালয়ে",
+        "C": "রেসকোর্স ময়দানে",
+        "D": "রাজশাহী বিশ্ববিদ্যালয়ে"
+      },
+      "correct_answer": "D",
+      "explanation": "‘সাবাস বাংলাদেশ’ ভাস্কর্যটি বাংলাদেশের মুক্তিযুদ্ধের স্মৃতিবিজড়িত ভাস্কর্যগুলোর অন্যতম। এ ভাস্কর্যটি রাজশাহী বিশ্ববিদ্যালয়ে অবস্থিত। ভাস্কর্যটির স্থপতি নিতুন কুণ্ডু।"
+    },
+    {
+      "question_number": 48,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "এশিয়া কাপ ক্রিকেট, ২০১২ কোন স্টেডিয়ামে অনুষ্ঠিত হয়?",
+      "options": {
+        "A": "বঙ্গবন্ধু জাতীয় স্টেডিয়াম",
+        "B": "শেরে বাংলা জাতীয় স্টেডিয়াম",
+        "C": "বাংলাদেশ আর্মি স্টেডিয়াম",
+        "D": "রাজশাহী স্টেডিয়াম"
+      },
+      "correct_answer": "B",
+      "explanation": "প্রথম এশিয়া কাপ অনুষ্ঠিত হয় ১৯৮৩-৮৪ (ক্যাস্পিয়ন, ভারত)। ২০১২ সালের ১১-১২ মার্চ ১১তম এশিয়া কাপ ক্রিকেট বাংলাদেশের শেরে বাংলা জাতীয় স্টেডিয়াম, মিরপুরে অনুষ্ঠিত হয়। ২০২৩ সালের এশিয়া কাপ আয়োজনের দায়িত্ব পাকিস্তানকে দেয় এশিয়ান ক্রিকেট।"
+    },
+    {
+      "question_number": 49,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের জাতীয় দিবস কবে?",
+      "options": {
+        "A": "১৬ ডিসেম্বর",
+        "B": "৭ মার্চ",
+        "C": "২৬ মার্চ",
+        "D": "১৭ এপ্রিল"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/4.jpg"
+    },
+    {
+      "question_number": 50,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "শ্রীলঙ্কার মুদ্রার নাম কি?",
+      "options": {
+        "A": "ডলার",
+        "B": "পাউন্ড",
+        "C": "টাকা",
+        "D": "রূপী"
+      },
+      "correct_answer": "D",
+      "explanation": "শ্রীলঙ্কার মুদ্রার নাম শ্রীলঙ্কান রুপি। এছাড়া ভারত, নেপাল, পাকিস্তান, মরিশাস, সিচেলিস এর মুদ্রা রুপি। যুক্তরাষ্ট্র, অস্ট্রেলিয়া, সিঙ্গাপুরসহ বিশ্বের ৩০ টিরও বেশি দেশের মুদ্রার নাম ডলার। যুক্তরাজ্য, মিশর, লেবানন, সিরিয়া, সুদান, দক্ষিণ সুদান এ ৭টি দেশের মুদ্রা পাউন্ড। বাংলাদেশের মুদ্রা টাকা।"
+    },
+    {
+      "question_number": 51,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "সার্ক-এর সদস্য দেশ কয়টি?",
+      "options": {
+        "A": "৬",
+        "B": "৭",
+        "C": "৮",
+        "D": "৯"
+      },
+      "correct_answer": "C",
+      "explanation": "সার্কভুক্ত দেশ ৮টি। দেশগুলো হলো: বাংলাদেশ, ভারত, পাকিস্তান, শ্রীলংকা, নেপাল, ভুটান, মালদ্বীপ ও আফগানিস্তান। ৩ এপ্রিল ২০০৭ সার্কের সর্বশেষ বা অষ্টম সদস্যপদ লাভ করে আফগানিস্তান।"
+    },
+    {
+      "question_number": 52,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলদেশের প্রথম প্রধান সেনাপতি কে ছিলেন?",
+      "options": {
+        "A": "মে. জে. জিয়াউর রহমান",
+        "B": "মে. জে. সফিউল্লাহ",
+        "C": "লে. জে. এইচ. এম এরশাদ",
+        "D": "জে. আতাউল গনি ওসমানী"
+      },
+      "correct_answer": "D",
+      "explanation": "বাংলাদেশ সশস্ত্রবাহিনী ও মুক্তিবাহিনীর প্রধান সেনাপতি জে. আতাউল গনি ওসমানী। ১৯৭১ সালের ১০ এপ্রিল গঠিত অস্থায়ী সরকারের প্রধান সেনাপতির দায়িত্ব তাঁকে দেয়া হয়।"
+    },
+    {
+      "question_number": 53,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের রাজধানী কোথায়?",
+      "options": {
+        "A": "ঢাকা উত্তর",
+        "B": "ঢাকা দক্ষিণ",
+        "C": "ঢাকা",
+        "D": "শেরে বাংলা নগর"
+      },
+      "correct_answer": "C",
+      "explanation": "বাংলাদেশ সংবিধানের ৫(১) অনুচ্ছেদ অনুযায়ী ঢাকা বাংলাদেশের রাজধানী। ১৯০৫ সালে লর্ড কার্জন বঙ্গভঙ্গ সম্পন্ন করলে নবগঠিত প্রদেশ পূর্ববঙ্গ ও আসাম এর রাজধানীর মর্যাদা পায় ঢাকা। ১৯৪৭ সালে পাকিস্তান সৃষ্টির পর ঢাকা পূর্ব পাকিস্তানের প্রাদেশিক রাজধানীর মর্যাদা পায়। ১৯৭১ সালের ১৬ ডিসেম্বর ঢাকা হয় স্বাধীন বাংলাদেশের রাজধানী।"
+    },
+    {
+      "question_number": 54,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "পৃথিবীর বৃহত্তম বিমান বন্দরটি কোথায় অবস্থিত?",
+      "options": {
+        "A": "নিউইয়র্ক",
+        "B": "লন্ডন",
+        "C": "বার্লিন",
+        "D": "জেদ্দা"
+      },
+      "correct_answer": "",
+      "explanation": "বর্তমানে আয়তনে বৃহত্তম বিমান বন্দর সৌদি আরবের ‘কিং ফাহাদ আন্তর্জাতিক বিমান বন্দর’।"
+    },
+    {
+      "question_number": 55,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "পৃথিবীর গভীরতম স্থান কোন মহাসাগরে?",
+      "options": {
+        "A": "ভারত",
+        "B": "আটলান্টিক",
+        "C": "প্রশান্ত",
+        "D": "উত্তর"
+      },
+      "correct_answer": "C",
+      "explanation": "প্রশান্ত মহাসাগরের ঠিক পশ্চিমে অবস্থিত পৃথিবীর গভীরতম খাদ বা স্থান মারিয়ানা ট্রেঞ্চ। বিভিন্ন সময়ে এর গভীরতা বিভিন্ন রকম মাপা হলেও আধুনিক বিজ্ঞানীদের মতে এর গভীরতা ৩৬,০৭০ ফুট (প্রায় ১১ কিলোমিটার)।"
+    },
+    {
+      "question_number": 56,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "পৃথিবীর গভীরতম হ্রদ কোনটি?",
+      "options": {
+        "A": "কাস্পিয়ান",
+        "B": "বৈকাল",
+        "C": "মানস সরোবর",
+        "D": "ডেড সী (Dead Sea)"
+      },
+      "correct_answer": "B",
+      "explanation": "বৈকাল হ্রদ রাশিয়ার সাইবেরিয়ার দক্ষিণভাগে অবস্থিত একটি সুপেয় পানির হ্রদ। এটি বিশ্বের গভীরতম হ্রদ। ১৯৯৬ সালে ইউনেস্কো এটিকে ৭৫৪তম বিশ্ব ঐতিহ্য হিসেবে ঘোষণা করে। বিশ্বের বৃহত্তম হ্রদ কাস্পিয়ান।"
+    },
+    {
+      "question_number": 57,
+      "subject": "INTERNATIONAL-AFFAIRS",
+      "question_text": "২০১৪ সালে বিশ্বকাপ ফুটবল কোথায় অনুষ্ঠিত হবে?",
+      "options": {
+        "A": "লন্ডন",
+        "B": "বার্লিন",
+        "C": "ব্রাজিল",
+        "D": "আর্জেন্টিনা"
+      },
+      "correct_answer": "C",
+      "explanation": "২০১৪ সালের ১২ জুন-১৩ জুলাই ব্রাজিলে অনুষ্ঠিত হয় ২০তম বিশ্বকাপ ফুটবল। উল্লেখ্য, সর্বশেষ বিশ্বকাপ ২০২২ সালে কাতারে অনুষ্ঠিত হয় এবং ২০২৬ সালে যৌথভাবে যুক্তরাষ্ট্র, কানাডা ও মেক্সিকোতে বিশ্বকাপ ফুটবল অনুষ্ঠিত হবে।"
+    },
+    {
+      "question_number": 58,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "শিল্পী জয়নুল আবেদিনের সংগ্রহশালাটি কোথায়?",
+      "options": {
+        "A": "ঢাকায়",
+        "B": "ময়মনসিংহে",
+        "C": "চট্টগ্রামে",
+        "D": "নড়াইলে"
+      },
+      "correct_answer": "B",
+      "explanation": "বাংলাদেশের প্রধান ও সর্ববৃহৎ জাদুঘর ‘বাংলাদেশ জাতীয় জাদুঘর’ এর যে চারটি শাখা জাদুঘর রয়েছে তন্মধ্যে ‘জয়নুল আবেদিন সংগ্রহশালা’ অন্যতম। এটি ১৯৭৫ সালে প্রতিষ্ঠিত হয়। এ জাদুঘরটি ময়মনসিংহে অবস্থিত।"
+    },
+    {
+      "question_number": 59,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের কোন ছবি সম্প্রতি ‘কলকাতা ফিল্ম ফেস্টিভাল’ পুরস্কার লাভ করে?",
+      "options": {
+        "A": "ওরা এগার জন",
+        "B": "গেরিলা",
+        "C": "আবার তোরা মানুষ হ",
+        "D": "স্টপ জেনোসাইড"
+      },
+      "correct_answer": "B",
+      "explanation": "২০১১ সালের ১০-১৭ নভেম্বর ভারতের কলকাতায় অনুষ্ঠিত ১৭তম কলকাতা ফিল্ম ফেস্টিভালে সেরা চলচ্চিত্রের পুরস্কার নেটপ্যাক (নেটওয়ার্ক ফর দ্য প্রমোশন অব এশিয়ান সিনেমা) লাভ করে বাংলাদেশের চলচ্চিত্র ‘গেরিলা’। মুক্তিযুদ্ধের ওপর নির্মিত ছবিটি পরিচালনা করেছেন নাসির উদ্দীন ইউসুফ।"
+    },
+    {
+      "question_number": 60,
+      "subject": "BANGLADESH-AFFAIRS",
+      "question_text": "বাংলাদেশের আপিল বিভাগের মোট বিচারক কতজন?",
+      "options": {
+        "A": "১১",
+        "B": "২১",
+        "C": "৯",
+        "D": "১৫"
+      },
+      "correct_answer": "A",
+      "explanation": "সংবিধান অনুযায়ী আপিল বিভাগে বিচারপতির সংখ্যা বাড়ানোর এখতিয়ার রয়েছে একমাত্র রাষ্ট্রপতির। বাংলাদেশ সংবিধানের ৯৪(২) অনুচ্ছেদে বলা হয়েছে- “প্রত্যেক বিভাগে আসন গ্রহণের জন্য রাষ্ট্রপতি যেরূপ সংখ্যক বিচারক নিয়োগের প্রয়োজন বোধ করিবেন, সেইরূপ সংখ্যক বিচারক লইয়া সুপ্রীম কোর্ট গঠিত হইবে।” স্বাধীনতার পর সুপ্রিম কোর্টের আপিল বিভাগ ৫ জন বিচারপতি নিয়ে পরিচালিত হতো। ১৯৯১ সালে তা বৃদ্ধি করে ৭ জন করা হয়। ৯ জুলাই ২০০৯ রাষ্ট্রপতি সংবিধানের ৯৪(২) ধারা মোতাবেক আপিল বিভাগে বিচারপতির সংখ্যা ৭ থেকে বাড়িয়ে ১১তে উন্নীত করেন। বর্তমান বিচারক ৯ জন। সর্বশেষ গত ২০ সেপ্টেম্বর ২০২০ তারিখে বিচারপতি তারিক উল হাকিম ও বিচারপতি ওবায়দুল হাসান শপথ নেন।"
+    },
+    {
+      "question_number": 61,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোনটি এন্টিবায়োটিক?",
+      "options": {
+        "A": "ইনসুলিন",
+        "B": "পেপসিন",
+        "C": "পেনিসিলিন",
+        "D": "ইথিলিন"
+      },
+      "correct_answer": "C",
+      "explanation": "পেনিসিলিন একটি এন্টিবায়োটিক। ১৯২৮ সালে পেনিসিলিন আবিষ্কার করেন আলেকজান্ডার ফ্লেমিং। ইনসুলিনের অভাবে ডায়াবেটিস রোগ হয়। পেপসিন নামক এনজাইম প্রোটিন পরিপাকে সহায়তা করে। ফল পাকানোর জন্য দায়ী ফাইটোহরমোনের নাম ইথিলিন।"
+    },
+    {
+      "question_number": 62,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "জন্ডিসে আক্রান্ত হয়–",
+      "options": {
+        "A": "যকৃত",
+        "B": "কিডনি",
+        "C": "পাকস্থলী",
+        "D": "হৃৎপিণ্ড"
+      },
+      "correct_answer": "A",
+      "explanation": "শরীরের জলীয় অংশে এবং রক্তে বিলিরুবিন স্বাভাবিক মাত্রা ০.২-০.৪ মি.গ্রা. নামক পিত্ত উপাদানের আধিক্যের কারণে শরীরের ত্বক ও শ্লেষ্মাঝিল্লি হলুদ বর্ণ ধারণ করার ফলে সৃষ্ট রোগের নাম জন্ডিস বা পাণ্ডুরোগ বা কামেলা রোগ। এ রোগে যকৃত (লিভার) ছাড়াও প্লীহা, রক্ত ইত্যাদি আক্রান্ত হয়।"
+    },
+    {
+      "question_number": 63,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোনটি বিদ্যুৎ পরিবাহী নয়?",
+      "options": {
+        "A": "তামা",
+        "B": "লোহা",
+        "C": "রূপা",
+        "D": "রাবার"
+      },
+      "correct_answer": "D",
+      "explanation": "যেসব পদার্থের ভিতর দিয়ে সহজে তড়িৎ চলাচল করতে পারে তাদেরকে পরিবাহী বলে। যেমন: রুপা, তামা, লোহা, ধাতব পদার্থ, কার্বন, মানবদেহ, কয়লা, এসিড মিশ্রিত পানি, মাটি, পারদ ইত্যাদি। যেসব পদার্থের ভিতর দিয়ে তড়িৎ একেবারে চলাচল করতে পারে না তাদেরকে অপরিবাহী পদার্থ বলে। যেমন: রাবার, শুকনা বায়ু, পার্সেলিন, কাচ, কাগজ, কাঠ, গন্ধক, ইবোনাইট, রঞ্জন, রেশম ইত্যাদি।"
+    },
+    {
+      "question_number": 64,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোনটি নবায়নযোগ্য শক্তির উৎস?",
+      "options": {
+        "A": "সূর্যরশ্মি",
+        "B": "পীট কয়লা",
+        "C": "পেট্রোল",
+        "D": "প্রাকৃতিক গ্যাস"
+      },
+      "correct_answer": "A",
+      "explanation": "যেসব শক্তির উৎস অফুরন্ত এবং বারবার ব্যবহার করা যায় তাদেরকে নবায়নযোগ্য শক্তির উৎস বলা হয। সূর্য, পানি ও বায়ু নবায়নযোগ্য শক্তির উৎস। অফুরন্ত নয় এবং বারবার ব্যবহারের ফলে একসময় নিঃশেষিত হয়ে যায় সেগুলোকে অনবায়নযোগ্য শক্তির উৎস বলে। কয়লা, গ্যাস, তেল ইত্যাদি অনবায়নযোগ্য শক্তির উৎস।"
+    },
+    {
+      "question_number": 65,
+      "subject": "COMPUTER-AND-INFORMATION-TECHNOLOGY",
+      "question_text": "ইন্টারনেট চালুর বছর-",
+      "options": {
+        "A": "১৯৫৯",
+        "B": "১৯৬৫",
+        "C": "১৯৬৯",
+        "D": "১৯৮১"
+      },
+      "correct_answer": "C",
+      "explanation": "১৯৬৯ সালের সেপ্টেম্বরে পরীক্ষামূলকভাবে ক্যালিফোর্নিয়া বিশ্ববিদ্যালয়, লস অ্যাঞ্জেলেস এবং স্ট্যানফোর্ড রিসার্চ ইনস্টিটিউট এর মধ্যে প্রথম নেটওয়ার্ক যোগাযোগ স্থাপিত হয়। তবে TCP/IP প্রতিষ্ঠার মাধ্যমে ইন্টারনেট আনুষ্ঠানিকভাবে যাত্রা শুরু করে ১ জানুয়ারি ১৯৮৩। এর জনক ভিনটন জি কার্ফ।"
+    },
+    {
+      "question_number": 66,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "MKS পদ্ধতিতে ভরের একক-",
+      "options": {
+        "A": "কিলোগ্রাম",
+        "B": "পাউন্ড",
+        "C": "গ্রাম",
+        "D": "আউন্স"
+      },
+      "correct_answer": "A",
+      "explanation": "MKS পদ্ধতিতে ভরের একক কিলোগ্রাম, CGS পদ্ধতিতে ভরের একক গ্রাম, FPS পদ্ধতিতে ভরের একক পাউন্ড।"
+    },
+    {
+      "question_number": 67,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোনটিকে চুম্বকে পরিণত করা যায়?",
+      "options": {
+        "A": "তামা",
+        "B": "ইস্পাত",
+        "C": "পিতল",
+        "D": "স্বর্ণ"
+      },
+      "correct_answer": "B",
+      "explanation": "যেসব পদার্থ চুম্বক দ্বারা আকৃষ্ট বা বিকৃষ্ট হয় এবং যাদেরকে চুম্বকে পরিণত করা যায় তাদেরকে চৌম্বক পদার্থ বলে। যেমন: লোহা, নিকেল, কোবাল্ট, ইস্পাত ইত্যাদি। অপরদিকে, যেসব পদার্থ চুম্বক দ্বারা আকৃষ্ট হয় না এবং যাদেরকে চুম্বকে পরিণত করা যায় না তাদেরকে অচৌম্বক পদার্থ বলে। যেমন: কাচ, তামা, পিতল, রূপা, সোনা ইত্যাদি অচৌম্বক পদার্থ।"
+    },
+    {
+      "question_number": 68,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "অ্যালটিমিটার (Altimeter) কি?",
+      "options": {
+        "A": "তাপ পরিমাপক যন্ত্র",
+        "B": "উষ্ণতা পরিমাপক যন্ত্র",
+        "C": "গ্যাসের চাপ পরিমাপক যন্ত্র",
+        "D": "উচ্চতা পরিমাপক যন্ত্র"
+      },
+      "correct_answer": "D",
+      "explanation": "অ্যালটিমিটার উচ্চতা পরিমাপক যন্ত্র, ক্যালরিমিটার তাপ পরিমাপক যন্ত্র, থার্মোমিটার উষ্ণতা পরিমাপক যন্ত্র, ম্যানোমিটার গ্যাসের চাপ নির্ণায়ক যন্ত্র।"
+    },
+    {
+      "question_number": 69,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোনটি মৌলিক পদার্থ?",
+      "options": {
+        "A": "লোহা",
+        "B": "ব্রোঞ্জ",
+        "C": "পানি",
+        "D": "ইস্পাত"
+      },
+      "correct_answer": "A",
+      "explanation": "যে পদার্থকে রাসায়নিকভাবে বিশ্লেষণ করে অন্য কোনো পদার্থ পাওয়া যায় না তাকে মৌল বা মৌলিক পদার্থ বলে। যেমন: সোনা, তামা, লোহা, হাইড্রোজেন, নাইট্রোজেন, অক্সিজেন ইত্যাদি। পক্ষান্তরে, ব্রোঞ্জ (তামা + টিন), পানি (হাইড্রোজেন + অক্সিজেন), ইস্পাত (লোহা + নির্দিষ্ট পরিমাণ কার্বন) হচ্ছে যৌগিক পদার্থ।"
+    },
+    {
+      "question_number": 70,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোন ধাতু স্বাভাবিক তাপমাত্রায় তরল থাকে?",
+      "options": {
+        "A": "পারদ",
+        "B": "লিথিয়াম",
+        "C": "জার্মেনিয়াম",
+        "D": "ইউরেনিয়াম"
+      },
+      "correct_answer": "A",
+      "explanation": "পারদ সাধারণ তাপমাত্রায় তরল থাকে। পারদের ভর সংখ্যা ২০০.৫৯। এটি প্রকৃতিতে প্রাপ্ত সবচেয়ে ভারী তরল ধাতু।"
+    },
+    {
+      "question_number": 71,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "স্টেইনলেস স্টিলের অন্যতম উপাদান-",
+      "options": {
+        "A": "তামা",
+        "B": "দস্তা",
+        "C": "ক্রোমিয়াম",
+        "D": "এলুমিনিয়াম"
+      },
+      "correct_answer": "C",
+      "explanation": "স্টেইনলেস স্টিলের অন্যতম উপাদান ক্রোমিয়াম। স্টেইনলেস স্টিলে যাতে মরিচা না ধরে এবং এর গুণাগুণ বৃদ্ধি করার জন্য এক বা একাধিক মৌল ক্রোমিয়াম ও নিকেল মিশ্রিত করা হয়।"
+    },
+    {
+      "question_number": 72,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সর্বাপেক্ষা হালকা গ্যাস–",
+      "options": {
+        "A": "অক্সিজেন",
+        "B": "হাইড্রোজেন",
+        "C": "র‌্যাডন",
+        "D": "নাইট্রোজেন"
+      },
+      "correct_answer": "B",
+      "explanation": "সবচেয়ে হালকা গ্যাস হাইড্রোজেন। হাইড্রোজেনের ১টি পরমাণুর প্রকৃত ভর হচ্ছে \\(\\mathrm{১.৬৭৩×১০^{-২৪}}\\) গ্রাম।"
+    },
+    {
+      "question_number": 73,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ভারী পানির রাসায়নিক সংকেত–",
+      "options": {
+        "A": "\\(\\mathrm {2H_2 O_2}\\)",
+        "B": "\\(\\mathrm {H_2 O}\\)",
+        "C": "\\(\\mathrm {D_2 O}\\)",
+        "D": "\\(\\mathrm {HD_2 O_2}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "ভারী পানি হচ্ছে পানির একটি রূপভেদ যেখানে পারমাণবিক ভর ১ সংবলিত হাইড্রোজেন পরমাণুসহ পারমাণবিক ভর ২ সংবলিত হাইড্রোজেনের আইসোটোপ ডিউটোরিয়াম দ্বারা প্রতিস্থাপিত হয়। ভারী পানির আণবিক সংকেত \\(\\mathrm {D_2 O}\\)।"
+    },
+    {
+      "question_number": 74,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "লোহাকে গ্যালভানাইজিং করতে ব্যবহৃত হয়–",
+      "options": {
+        "A": "তামা",
+        "B": "দস্তা",
+        "C": "রূপা",
+        "D": "এলুমিনিয়াম"
+      },
+      "correct_answer": "B",
+      "explanation": "লৌহা বা ইস্পাতের জিনিসকে মরিচার হাত থেকে রক্ষা করতে এর উপর দস্তা বা জিংকের প্রলেপ দেয়ার পদ্ধতিকে গ্যালভানাইজিং বলে। যেমন: ঘরের ঢেউটিন, পানির বালতি, ল্যাম্প প্রভৃতি মরিচার হাত হতে রক্ষার জন্য দস্তার প্রলেপ দেয়া হয়।"
+    },
+    {
+      "question_number": 75,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "সংকর ধাতু পিতলের উপাদান-",
+      "options": {
+        "A": "তামা ও টিন",
+        "B": "তামা ও দস্তা",
+        "C": "তামা ও সীসা",
+        "D": "তামা ও নিকেল"
+      },
+      "correct_answer": "B",
+      "explanation": "সংকর ধাতু পিতলের উপাদান তামা ও দস্তা। তামা ও টিন মিশিয়ে ব্রোঞ্জ বা কাঁসা প্রস্তুত করা হয়।"
+    },
+    {
+      "question_number": 76,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "কোনটি সিমেন্ট তৈরির অন্যতম কাঁচামাল?",
+      "options": {
+        "A": "জিপসাম",
+        "B": "সালফার",
+        "C": "সোডিয়াম",
+        "D": "খনিজ লবণ"
+      },
+      "correct_answer": "A",
+      "explanation": "সিমেন্ট নির্মাণ কাজের অপরিহার্য উপাদান। দালান কোঠা নির্মাণে যে কংক্রিট বানানো হয় তাতে জোড়া লাগাবার উপকরণ হিসেবে সিমেন্ট ব্যবহৃত হয়। সিমেন্ট তৈরির অন্যতম কাঁচামাল জিপসাম। সিমেন্টে বিদ্যমান উল্লেখযোগ্য রাসায়নিক উপাদানগুলো হলো সামান্য ম্যাগনেসিয়াম অক্সাইড ও সালফার ট্রাইঅক্সাইডসহ চুন, সিলিকা, অ্যালুমিনা ও লৌহ। জিপসামের রাসায়নিক সংকেত হল \\((\\mathrm {CaSO_4,H_2 O})\\)"
+    },
+    {
+      "question_number": 77,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "বিগব্যাঙ তত্ত্বের প্রবক্তা–",
+      "options": {
+        "A": "আইনস্টাইন",
+        "B": "জি. ল্যামেটার",
+        "C": "স্টিফেন হকিং",
+        "D": "গ্যালিলিও"
+      },
+      "correct_answer": "B",
+      "explanation": "বিগব্যাং তত্ত্বের প্রবক্তা জর্জ ল্যামেটর। তিনিই প্রথম বিগব্যাং সম্পর্কে ধারণা প্রদান করেন। এছাড়া পদার্থবিজ্ঞানী স্টিফেন হকিং তার ‘A Brief History of Time’ গ্রন্থে বিগব্যাং তত্ত্বের পক্ষে যুক্তি দেন এবং পদার্থ বিদ্যার দৃষ্টিকোণ থেকে এর ব্যাখ্যা উপস্থাপন করেন।"
+    },
+    {
+      "question_number": 78,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "মহাজাগতিক রশ্মির আবিষ্কারক–",
+      "options": {
+        "A": "হেস",
+        "B": "আইনস্টাইন",
+        "C": "টলেমি",
+        "D": "হাবল"
+      },
+      "correct_answer": "A",
+      "explanation": "ভিক্টর ফ্রান্‌ৎস হেস্‌ মহাজাগতিক রশ্মি আবিষ্কারের জন্য ১৯৩৬ সালে নোবেল পুরস্কার পান। মহাশূন্য থেকে পৃথিবীতে আগত রশ্মি ও কণকে মহাজাগতিক রশ্মি বা কসমিক রশ্মি বলে। আপেক্ষিক তত্ত্বের জনক আইনস্টাইন।"
+    },
+    {
+      "question_number": 79,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "ইউরি গ্যাগারিন মহাশূন্যে যান–",
+      "options": {
+        "A": "১৯৫৬ সালে",
+        "B": "১৯৬১ সালে",
+        "C": "১৯৬৪ সালে",
+        "D": "১৯৬৯ সালে"
+      },
+      "correct_answer": "B",
+      "explanation": "বিশ্বের প্রথম মহাশূন্যচারী রাশিয়ার মেজর ইউরি গ্যাগারিন। তিনি ১৯৬১ সালে ১২ এপ্রিল নভোযান ভোস্টক-১ এ করে মহাশূন্যে যান। মহাকাশে ১০৯ মিনিট অবস্থান করেন।"
+    },
+    {
+      "question_number": 80,
+      "subject": "GENERAL-SCIENCE",
+      "question_text": "গ্রিনিচ মানমন্দির অবস্থিত-",
+      "options": {
+        "A": "যুক্তরাজ্যে",
+        "B": "যুক্তরাষ্ট্রে",
+        "C": "ফ্রান্সে",
+        "D": "জার্মানিতে"
+      },
+      "correct_answer": "A",
+      "explanation": "গ্রিনিচ মানমন্দির অবস্থিত যুক্তরাজ্যে। ১৬৭৫ সালে রাজা দ্বিতীয় চার্লস লন্ডনের গ্রিনউইচে একটি মানমন্দির নির্মাণের নির্দেশ দেন। এর নকশা তৈরি করেন স্যার ক্রিস্টোফার রেন। পৃথিবীর সময়শূন্য স্থান এ গ্রিনউইচ মানমন্দির এবং গ্রিনিচ মান সময় (Greenwich Mean Time –GMT) মেনে নেয়া হয় ১৮৮৪ সালে।"
+    },
+    {
+      "question_number": 81,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "তিন সদস্যের একটি বিতর্ক দলের সদস্যদের গড় বয়স ২৪ বছর। যদি কোনো সদস্যের বয়সই ২১ বছরের নিচে না হয় তবে তাদের কোনো একজনের সর্বোচ্চ বয়স কত হতে পারে?",
+      "options": {
+        "A": "২৫ বছর",
+        "B": "৩০ বছর",
+        "C": "২৮ বছর",
+        "D": "৩২ বছর"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/5.jpg"
+    },
+    {
+      "question_number": 82,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\((\\sqrt[3]3×\\sqrt[3]4)^6\\) = কত?",
+      "options": {
+        "A": "12",
+        "B": "48",
+        "C": "36",
+        "D": "144"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/6.jpg"
+    },
+    {
+      "question_number": 83,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি সমকোণী ত্রিভুজের লম্ব ভূমি অপেক্ষা ২ সে.মি. ছোট; কিন্তু অতিভুজ ভূমি অপেক্ষা ২ সে. মি. বড়। অতিভুজের দৈর্ঘ্য কত?",
+      "options": {
+        "A": "১০ সে. মি.",
+        "B": "৮ সে. মি.",
+        "C": "৪ সে. মি.",
+        "D": "৬ সে. মি."
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/7.jpg"
+    },
+    {
+      "question_number": 84,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {m}\\) সংখ্যক সংখ্যার গড় \\(\\mathrm x\\) এবং \\(\\mathrm n\\) সংখ্যক সংখ্যার গড় \\(\\mathrm y\\) হলে সব সংখ্যার গড় কত?",
+      "options": {
+        "A": "\\(\\mathrm {x+y \\over mn}\\)",
+        "B": "\\(\\mathrm {x+y \\over m+n}\\)",
+        "C": "\\(\\mathrm {mx+ny \\over m+n}\\)",
+        "D": "\\(\\mathrm {mx+ny \\over mn}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/8.jpg"
+    },
+    {
+      "question_number": 85,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "যদি \\(({\\mathrm {a\\over b})^{\\mathrm x-3}}=({\\mathrm {b\\over a}})^{\\mathrm x-5}\\) হয় তবে \\(\\mathrm x\\) এর মান কত?",
+      "options": {
+        "A": "8",
+        "B": "3",
+        "C": "5",
+        "D": "4"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/9.png"
+    },
+    {
+      "question_number": 86,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\sqrt[3]{\\sqrt[3]{a^3}}\\) = কত?",
+      "options": {
+        "A": "a",
+        "B": "1",
+        "C": "\\(\\mathrm a^{1\\over 3}\\)",
+        "D": "\\(\\mathrm a^{ 3}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/10.png"
+    },
+    {
+      "question_number": 87,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি সাবানের আকার ৫ সে.মি. × ৪ সে.মি. × ১.৫ সে.মি. হলে ৫৫ সে.মি. দৈর্ঘ্য, ৪৮ সে.মি. প্রস্থ এবং ৩০ সে.মি. উচ্চতাবিশিষ্ট একটি বাক্সের মধ্যে কতটি সাবান রাখা যাবে?",
+      "options": {
+        "A": "২৬৪০টি",
+        "B": "১৩২০টি",
+        "C": "৩৬০০টি",
+        "D": "৫২৪০টি"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/11.png"
+    },
+    {
+      "question_number": 88,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "যদি সেট A={5, 15, 20,30} এবং B={3,5,15,18,20} হয় তবে নিচের কোনটি A∩B নির্দেশ করবে?",
+      "options": {
+        "A": "{3,18,30}",
+        "B": "{3,5,15,18,20,30}",
+        "C": "{5,15,20}",
+        "D": "কোনটিই নয়"
+      },
+      "correct_answer": "C",
+      "explanation": "A∩B={5,15,20,30}∩{3,5,15,18,20}={5,15,20}"
+    },
+    {
+      "question_number": 89,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "১,১,২,৩,৫,৮,১৩,২১.............. ধারার ১০ম পদটি কত?",
+      "options": {
+        "A": "৩৪",
+        "B": "৫৫",
+        "C": "৪৮",
+        "D": "৬৪"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/12.jpg"
+    },
+    {
+      "question_number": 90,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {4^x+4^x+4^x+4^x}\\) এর মান নিচের কোনটি?",
+      "options": {
+        "A": "\\(16^\\mathrm x\\)",
+        "B": "\\(4^\\mathrm {4x}\\)",
+        "C": "\\(2^\\mathrm {2x+2}\\)",
+        "D": "\\(2^\\mathrm {8x}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/13.jpg"
+    },
+    {
+      "question_number": 91,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "রকীব সাহেব ৩,৭৩,৮৯৯ টাকা ব্যাংকে রাখলেন। \\(\\mathrm{৭ {১\\over ২}}\\) বছর পর তিনি আসল টাকার \\(\\mathrm{১{১\\over ৪}}\\) অংশ সুদ পেলেন। ব্যাংকের সুদের হার কত?",
+      "options": {
+        "A": "\\(\\mathrm{১২ {১ \\over ২}\\%}\\)",
+        "B": "\\(\\mathrm{১৬ {২ \\over ৩}\\%}\\)",
+        "C": "\\(\\mathrm{৮{১ \\over ৩}\\%}\\)",
+        "D": "\\(\\mathrm{১১ {১ \\over ৯}\\%}\\)"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/14.jpg"
+    },
+    {
+      "question_number": 92,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "নিচের কোনটি \\((\\sqrt 5 -\\sqrt 3)\\) এর সমান?",
+      "options": {
+        "A": "\\(\\sqrt 2\\)",
+        "B": "\\(1\\over 2(\\sqrt 5-\\sqrt 3)\\)",
+        "C": "\\(1\\over \\sqrt 5\\)+\\(1\\over \\sqrt 3\\)",
+        "D": "\\(2\\over \\sqrt 3+ \\sqrt 5\\)"
+      },
+      "correct_answer": "D",
+      "explanation": "\\(\\sqrt 5-\\sqrt 3= {(\\sqrt 5-\\sqrt3)(\\sqrt 5+\\sqrt3) \\over \\sqrt 5+\\sqrt3}= {5-3\\over \\sqrt 5+\\sqrt3}= {2\\over \\sqrt 3+\\sqrt 5}\\)"
+    },
+    {
+      "question_number": 93,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৫ জন তাঁত-শ্রমিক ৫ দিনে ৫টি কাপড় বুনতে পারে। একই ধরনের ৭টি কাপড় বুনতে ৭ জন শ্রমিকের কত দিন লাগবে?",
+      "options": {
+        "A": "৫ দিন",
+        "B": "\\(\\mathrm{২৫ \\over ৪৯}\\) দিন",
+        "C": "\\(\\mathrm{৪৯ \\over ২৫}\\) দিন",
+        "D": "৭ দিন"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/15.png"
+    },
+    {
+      "question_number": 94,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm{36.2^{3x-8}=3^2}\\) হলে \\(\\mathrm x\\) এ রর মান কত?",
+      "options": {
+        "A": "\\(7\\over 3\\)",
+        "B": "3",
+        "C": "\\(8\\over 3\\)",
+        "D": "2"
+      },
+      "correct_answer": "D",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/16.png"
+    },
+    {
+      "question_number": 95,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি ত্রিভুজের দুটি কোণের পরিমাণ ৩৫°ও ৫৫°। ত্রিভুজটি কোন ধরনের?",
+      "options": {
+        "A": "সমকোণী",
+        "B": "সমবাহু",
+        "C": "সমদ্বিবাহু",
+        "D": "স্থূলকোণী"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/17.png"
+    },
+    {
+      "question_number": 96,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\((\\mathrm {x-y,3)=(0,x+2y})\\) হলে \\((\\mathrm {x,y})\\)= কত?",
+      "options": {
+        "A": "(1,1)",
+        "B": "(1,3)",
+        "C": "(-1,-1)",
+        "D": "(-3,1)"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/18.png"
+    },
+    {
+      "question_number": 97,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "\\(\\mathrm {x\\over y}\\) এর সাথে কত যোগ করলে যোগফল \\(\\mathrm {y\\over x}\\) হবে?",
+      "options": {
+        "A": "\\(\\mathrm {x^2-y^2\\over xy}\\)",
+        "B": "\\(\\mathrm {2x^2-y^2\\over xy}\\)",
+        "C": "\\(\\mathrm {y^2-x^2\\over xy}\\)",
+        "D": "\\(\\mathrm {x^2-2y^2\\over xy}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": "\\(\\mathrm {y\\over x}- {\\mathrm {x \\over y}= {\\mathrm {y^2-x^2 \\over xy}}}\\)"
+    },
+    {
+      "question_number": 98,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি আয়তাকার ঘরের প্রস্থ তার দৈর্ঘ্যের \\(২\\over ৩\\) অংশ। ঘরটির পরিসীমা ৪০ মিটার হলে তার ক্ষেত্রফল কত?",
+      "options": {
+        "A": "৬০ বর্গমিটার",
+        "B": "৯৬ বর্গমিটার",
+        "C": "৭২ বর্গমিটার",
+        "D": "৬৪ বর্গমিটার"
+      },
+      "correct_answer": "B",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/19.jpg"
+    },
+    {
+      "question_number": 99,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "৩ সে.মি., ৪ সে.মি. ও ৫ সে.মি. বাহুবিশিষ্ট তিনটি ঘনক গলিয়ে নতুন একটি ঘনক তৈরি করা হল। নতুন ঘনকের বাহুর দৈর্ঘ্য কত হবে?",
+      "options": {
+        "A": "৭.৫ সে.মি.",
+        "B": "৬.৫ সে.মি.",
+        "C": "৬ সে.মি.",
+        "D": "৭ সে.মি."
+      },
+      "correct_answer": "C",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/20.jpg"
+    },
+    {
+      "question_number": 100,
+      "subject": "MATHEMATICAL-REASONING",
+      "question_text": "একটি রম্বসের কর্ণদ্বয়ের দৈর্ঘ্য ৮ সে.মি. ও ৯ সে.মি.। এই রম্বসের ক্ষেত্রফলের সমান ক্ষেত্রফলবিশিষ্ট বর্গক্ষেত্রের পরিসীমা কত?",
+      "options": {
+        "A": "২৪ সে.মি",
+        "B": "১৮ সে.মি",
+        "C": "৩৬ সে.মি",
+        "D": "১২ সে.মি"
+      },
+      "correct_answer": "A",
+      "explanation": "https://uttoron.academy/media/Images/Question/33rd-bcs/21.jpg"
+    }
+  ]
+}

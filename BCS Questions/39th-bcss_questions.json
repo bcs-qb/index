@@ -1,0 +1,1306 @@
+{
+  "exam_name": "39th-bcss Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "ANATOMY",
+      "question_text": "The superficial Inguinal ring is an opening in the:",
+      "options": {
+        "A": "Internal obllque aponcurosis",
+        "B": "Conjoint tendon",
+        "C": "External oblique aponeurosis",
+        "D": "Fascia transversalis"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 2,
+      "subject": "",
+      "question_text": "Which of the following type of necrosis is seen in ancute myocardial infarction?",
+      "options": {
+        "A": "Cascous necrosis",
+        "B": "Gangrenous necrosis",
+        "C": "Coagulative necrosis",
+        "D": "Fat necrosis"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 3,
+      "subject": "",
+      "question_text": "Main seat of peripheral resistance is:",
+      "options": {
+        "A": "Arteriole",
+        "B": "Metaarteriole",
+        "C": "Venule",
+        "D": "Capillary"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 4,
+      "subject": "",
+      "question_text": "Blood group antigens are:",
+      "options": {
+        "A": "Present in the Hb molecules",
+        "B": "Present in the dense granules of platelets",
+        "C": "Present in the RBC membrance",
+        "D": "Present in the plasma"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 5,
+      "subject": "",
+      "question_text": "Signs of upper motor neuron lesion include all except:",
+      "options": {
+        "A": "Weakness or paralysis of limb",
+        "B": "Hypertonia of muscles",
+        "C": "Loss of all reflexes",
+        "D": "Planter response extensor"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 6,
+      "subject": "",
+      "question_text": "Neonates may be infected with except:",
+      "options": {
+        "A": "Brucellosis",
+        "B": "Hepatitis B virus",
+        "C": "Malaria",
+        "D": "Shigellosis"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 7,
+      "subject": "",
+      "question_text": "Insulin increases:",
+      "options": {
+        "A": "Lipolysis",
+        "B": "Ketogenesis",
+        "C": "Glycogenesis",
+        "D": "Gluconeogenesis"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 8,
+      "subject": "",
+      "question_text": "Commonest cause of hepatic cirrhosis in Bangladesh is:",
+      "options": {
+        "A": "HAV",
+        "B": "HBV",
+        "C": "HCV",
+        "D": "HEV"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 9,
+      "subject": "",
+      "question_text": "Dermis:",
+      "options": {
+        "A": "Is a layer of epithelial tissue",
+        "B": "Is formed by connective tissue",
+        "C": "Contain melanocytes",
+        "D": "Possess keratinocytes"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 10,
+      "subject": "",
+      "question_text": "Clinical cyanosis is due to:",
+      "options": {
+        "A": "Adult hemoglobin",
+        "B": "Reduced hemoglobin",
+        "C": "Fetal hemoglobin",
+        "D": "Biliverdin"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 11,
+      "subject": "",
+      "question_text": "Clinical toxicity occurs in all of the following micro nutrients except:",
+      "options": {
+        "A": "Iron",
+        "B": "lodine",
+        "C": "Fluoride",
+        "D": "Copper"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 12,
+      "subject": "",
+      "question_text": "Prednisolone 5 mg is equivalent to:",
+      "options": {
+        "A": "Hydrocortisone 40mg",
+        "B": "Hydrocortisone 20mg",
+        "C": "Dexamethasone 2mg",
+        "D": "Dexamethasone 8mg"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 13,
+      "subject": "",
+      "question_text": "\"Ghon Focus\" is situated in:",
+      "options": {
+        "A": "Pleura",
+        "B": "Pericardium",
+        "C": "Peritoneum",
+        "D": "Lung"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 14,
+      "subject": "",
+      "question_text": "Which of the following crosses the ureter in the female as it approaches the ureterovesical junction?",
+      "options": {
+        "A": "Ovarian artery",
+        "B": "Uterine artery",
+        "C": "Obturator nerve",
+        "D": "Internal illiac artery"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 15,
+      "subject": "",
+      "question_text": "Histamin causes:",
+      "options": {
+        "A": "Hypertension",
+        "B": "Vasoconstriction",
+        "C": "Vasodilatation",
+        "D": "Bradycardia"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 16,
+      "subject": "",
+      "question_text": "Atherosclerosis:",
+      "options": {
+        "A": "Begin after 40 years",
+        "B": "Charactesized by focal deposition of coilgen, protein and fat",
+        "C": "Is a progressive inflammatory disorder of the arterial wall",
+        "D": "Involves only some blood vessels of body"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 17,
+      "subject": "",
+      "question_text": "Erythroblastosis fetalis may develop when:",
+      "options": {
+        "A": "Rh (+) mother carries Rh(-) fetus",
+        "B": "Rh (-) mother carries Rh (+) fetus",
+        "C": "Rh (+) mother carries Rh (+) fetus",
+        "D": "Rh (-) mother carrier Rh (-) fetus"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 18,
+      "subject": "",
+      "question_text": "Meiosis produces:",
+      "options": {
+        "A": "4 Diploid cells",
+        "B": "2 Diploid cells",
+        "C": "4 haploid cells",
+        "D": "2 Haploid cells"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 19,
+      "subject": "",
+      "question_text": "Smooth muscle is found in:",
+      "options": {
+        "A": "Soft palate",
+        "B": "Diaphargm",
+        "C": "Wall of blood vessel",
+        "D": "Tongue"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 20,
+      "subject": "",
+      "question_text": "Which of the following may cause hypercalcaemia?",
+      "options": {
+        "A": "Multiple myeloma",
+        "B": "Frusemide therapy",
+        "C": "Hypoparathyroidism",
+        "D": "Cushing’s syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 21,
+      "subject": "",
+      "question_text": "In which region, deep fascia is absent?",
+      "options": {
+        "A": "Sole",
+        "B": "Face",
+        "C": "Neek",
+        "D": "Abdominal Wall"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 22,
+      "subject": "",
+      "question_text": "Which one is false about lung?",
+      "options": {
+        "A": "Conical in shape",
+        "B": "The right lung is slightly larger than the left",
+        "C": "The left lung has only an oblique fissure",
+        "D": "The left lung is divided into 3 lobes"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 23,
+      "subject": "",
+      "question_text": "Ovulation occurs:",
+      "options": {
+        "A": "During female orgasm",
+        "B": "14 days after the onset of menstruation",
+        "C": "14 days before the onset of next menstruation",
+        "D": "During the midpart of menstruation"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 24,
+      "subject": "",
+      "question_text": "The function of mitochondria includes:",
+      "options": {
+        "A": "Anaerobic glycolysis",
+        "B": "Activation of intrinsic pathway of apoptois",
+        "C": "Vesicle transport",
+        "D": "Proton pump operation"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 25,
+      "subject": "",
+      "question_text": "The function of mitochondria includes:",
+      "options": {
+        "A": "Anaerobic glycolysis",
+        "B": "Activation of intrinsic pathway of apoptois",
+        "C": "Vesicle transport",
+        "D": "Proton pump operation"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 26,
+      "subject": "",
+      "question_text": "Rx-39 strip test is used to diagnose:",
+      "options": {
+        "A": "Malaria",
+        "B": "Kala-azar",
+        "C": "Dengue fever",
+        "D": "Tuberculosis"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 27,
+      "subject": "",
+      "question_text": "Which one of the following clotting factor is called primary clotting factor?",
+      "options": {
+        "A": "Fibrinogen",
+        "B": "Stable factor",
+        "C": "Labile factor",
+        "D": "Antehemophilic factor"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 28,
+      "subject": "",
+      "question_text": "Cardiogenic shock may be due to:",
+      "options": {
+        "A": "Pump failure",
+        "B": "Infection",
+        "C": "Hypovolumia",
+        "D": "Neurogenic"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 29,
+      "subject": "",
+      "question_text": "Which one of the following is responsible for carpal tunnei syndrome?",
+      "options": {
+        "A": "Axillary nerve compression",
+        "B": "Ulnar nerve compression",
+        "C": "Median nerve compression",
+        "D": "Radial nerve compression"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 30,
+      "subject": "",
+      "question_text": "Abnormal constituent of urine is:",
+      "options": {
+        "A": "Creatinine",
+        "B": "Urea",
+        "C": "Disodium mono hydrogen phosphate",
+        "D": "Albumin"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 31,
+      "subject": "",
+      "question_text": "Site of absorption of vitamin B12 is:",
+      "options": {
+        "A": "Stomach",
+        "B": "Duodenum",
+        "C": "Jejunum",
+        "D": "Ileum"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 32,
+      "subject": "",
+      "question_text": "Causes of renal failure in multiple myeloma includes all except:",
+      "options": {
+        "A": "Membranous glomerulonephritis",
+        "B": "Para protein deposition",
+        "C": "Hypocalcaemia",
+        "D": "Amyloild deposition"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 33,
+      "subject": "",
+      "question_text": "Superior mesentric artery supplies blood to:",
+      "options": {
+        "A": "ist part of duodenum",
+        "B": "left 1/3rd of transverse colon",
+        "C": "Gail bladder",
+        "D": "The appendix"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 34,
+      "subject": "",
+      "question_text": "The value of lung tidal volume is:",
+      "options": {
+        "A": "1500 ml",
+        "B": "2000 ml",
+        "C": "500 ml",
+        "D": "5000 ml"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 35,
+      "subject": "",
+      "question_text": "Which of the following occurs during reverse transcriptase polymerase chain reaction?",
+      "options": {
+        "A": "Proteins are converted to DNA",
+        "B": "DNA is converted to RNA",
+        "C": "Used to amplify DNA",
+        "D": "RNA is converted to DNA"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 36,
+      "subject": "",
+      "question_text": "Adult polycystic kidney disease is a condition of",
+      "options": {
+        "A": "Chromosomal abnormality",
+        "B": "X-linked recssive",
+        "C": "Autosomal dominent trait",
+        "D": "Autonormal recessive"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 37,
+      "subject": "",
+      "question_text": "A 60 year old gentleman has been diagnosed as vitamin B12 deficiency due to pernicious anemia. Which of the following is unlikely to happen?",
+      "options": {
+        "A": "Corticospinal tract involvement",
+        "B": "Seizure",
+        "C": "Posterior column involvement",
+        "D": "Optic atrophy"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 38,
+      "subject": "",
+      "question_text": "In progressive phase of shock:",
+      "options": {
+        "A": "Survival is not possible",
+        "B": "Complete renal shutdown",
+        "C": "Metabolic alkalosis",
+        "D": "There is wide spread tissue hypoxia"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 39,
+      "subject": "",
+      "question_text": "Microcytic hypochromic anemia is found in:",
+      "options": {
+        "A": "Liver disease",
+        "B": "Infective endocarditis",
+        "C": "Thalassaemia",
+        "D": "Multiple myeloma"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 40,
+      "subject": "",
+      "question_text": "Rh incompatibility is:",
+      "options": {
+        "A": "Atopic",
+        "B": "Anaphylactic",
+        "C": "Cytotoxic",
+        "D": "Delayed hypersensitivity"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 41,
+      "subject": "",
+      "question_text": "Nephrotic syndrome includes?",
+      "options": {
+        "A": "Hematuria",
+        "B": "Hypertension",
+        "C": "Oliguria",
+        "D": "Overt proteinuria"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 42,
+      "subject": "",
+      "question_text": "Extracellular matrix is more in:",
+      "options": {
+        "A": "Nervous tissue",
+        "B": "Epithelial tissue",
+        "C": "Muscular tissue",
+        "D": "Connective tissue"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 43,
+      "subject": "",
+      "question_text": "Heparin is:",
+      "options": {
+        "A": "A natural articoagulant",
+        "B": "An enzyme",
+        "C": "Secreted by goblet cell",
+        "D": "Found in the bone marrow"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 44,
+      "subject": "PHYSIOLOGY",
+      "question_text": "Which of the following condition is not precancerous?",
+      "options": {
+        "A": "Solar keratosis of skin",
+        "B": "Ulcerative colitis",
+        "C": "Cervical dysplasia",
+        "D": "Glycogen storage disease"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 45,
+      "subject": "",
+      "question_text": "Mycobacterium leprae has special predilection for-",
+      "options": {
+        "A": "Epithelium",
+        "B": "Lymphatics",
+        "C": "Dwan cells",
+        "D": "Dorsal root ganglion"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 46,
+      "subject": "",
+      "question_text": "Autonomic ganglion are:",
+      "options": {
+        "A": "Adrenergic",
+        "B": "Noradrenergic",
+        "C": "Cholinergic",
+        "D": "Dopaminergic"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 47,
+      "subject": "",
+      "question_text": "Basal cell carcinoma includes:",
+      "options": {
+        "A": "No metastasis",
+        "B": "Typically at the non sun exposure",
+        "C": "Mutation of RB gene occur",
+        "D": "Early lesions of pale"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 48,
+      "subject": "",
+      "question_text": "At which of the following phase of cardiac cycle does the atrioventricular valve open?",
+      "options": {
+        "A": "During atrial filling",
+        "B": "During isovolumetric contraction",
+        "C": "During isovolumetric relaxation",
+        "D": "During ventricular filling"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 49,
+      "subject": "",
+      "question_text": "Causes of bilateral leg swelling does not always include:",
+      "options": {
+        "A": "Hypoprotenaenia",
+        "B": "Heat failure",
+        "C": "kidney failure",
+        "D": "Deep vein Thrombosis"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 50,
+      "subject": "",
+      "question_text": "Which of the following types of shock is caused by failure of the heart to pump effectively?",
+      "options": {
+        "A": "Septic shock",
+        "B": "Cardiogenic shock",
+        "C": "Hyporolemic shock",
+        "D": "Anaphylactic shock"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 51,
+      "subject": "",
+      "question_text": "Drug causing increased uric acid level is:",
+      "options": {
+        "A": "Pyrazinamide",
+        "B": "Steroid",
+        "C": "Colchichine",
+        "D": "Levofloxacin"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 52,
+      "subject": "",
+      "question_text": "Immediate blood transfusion reaction includes:",
+      "options": {
+        "A": "Air embolism",
+        "B": "Hypercalcemia",
+        "C": "Hypokalacmia",
+        "D": "Circulating overload"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 53,
+      "subject": "",
+      "question_text": "Which one of the following acts as anti oxidant?",
+      "options": {
+        "A": "Ceroloplasmin",
+        "B": "Jonizing radiation",
+        "C": "Hydrozen per oxide",
+        "D": "Hypochlorous acid"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 54,
+      "subject": "",
+      "question_text": "The tissue macrophage is derived from:",
+      "options": {
+        "A": "Lymphocyte",
+        "B": "Monocyte",
+        "C": "Eosinophil",
+        "D": "Helper T cell"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 55,
+      "subject": "",
+      "question_text": "Pre XDR tuberculosis means:",
+      "options": {
+        "A": "TB resistant to isoniazid and rifampicin",
+        "B": "TB resistant to isoniazid and ciprofloxacin",
+        "C": "TB resistant to isoniazid, rifampicin and ciprofloxacin",
+        "D": "TB resistant to isoniazid, rifampicin and pyrazinamide"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 56,
+      "subject": "",
+      "question_text": "Serum sodium level is:",
+      "options": {
+        "A": "130-140 mmol/L",
+        "B": "125-140 mmol/L",
+        "C": "135-145 mmol/L",
+        "D": "145-155 mmol/L"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 57,
+      "subject": "",
+      "question_text": "Which vitamin is not synthesised in body?",
+      "options": {
+        "A": "Vit-D",
+        "B": "Vit-K",
+        "C": "Vit-A",
+        "D": "Biotin"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 58,
+      "subject": "",
+      "question_text": "Extra pyramidal lesion causes:",
+      "options": {
+        "A": "Flacid paralysis",
+        "B": "Hyper kinesia",
+        "C": "Cog wheel rigidity",
+        "D": "Hyper reflexion of lower limb"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 59,
+      "subject": "",
+      "question_text": "Which component is not present in CSF?",
+      "options": {
+        "A": "Glucose",
+        "B": "Protein",
+        "C": "Erythrocyte",
+        "D": "Leucocyte"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 60,
+      "subject": "",
+      "question_text": "Medial surface of brain is supplied by:",
+      "options": {
+        "A": "Middle cerebral arlery",
+        "B": "Anterior cerebral artery",
+        "C": "Verlebral artery",
+        "D": "Porterior inferior cerebellar artery"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 61,
+      "subject": "",
+      "question_text": "Urinary bladder is lined by.",
+      "options": {
+        "A": "Squamous epithelium",
+        "B": "Transitional epithelium",
+        "C": "Columner epithelium",
+        "D": "Cuboidal epithelium"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 62,
+      "subject": "",
+      "question_text": "Exotoxin mediated disease is:",
+      "options": {
+        "A": "Necrotizing fascitis",
+        "B": "Wegener’s gramulomatosis",
+        "C": "Kuru",
+        "D": "Nipah encephalitis"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 63,
+      "subject": "",
+      "question_text": "Which of the following malagnancies is associated with radiation?",
+      "options": {
+        "A": "Ovarian carcinoma",
+        "B": "Maltoma",
+        "C": "Burkitt’s lymphoma",
+        "D": "Acute lyumphoblastic leukaemia"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 64,
+      "subject": "",
+      "question_text": "Cardinal feature of atopic dermatitis is:",
+      "options": {
+        "A": "Swelling",
+        "B": "Scratching",
+        "C": "Widespread oily skin",
+        "D": "Increased IgM level"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 65,
+      "subject": "",
+      "question_text": "Morphological appearance of necrosis is the result of:",
+      "options": {
+        "A": "Denaturation of intracellular proteins",
+        "B": "Saponification of cells",
+        "C": "Mummification of cells",
+        "D": "Intra celluler alkalosis"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 66,
+      "subject": "",
+      "question_text": "Elastic cartilage is not found in:",
+      "options": {
+        "A": "Auditory tube",
+        "B": "Epiglottis",
+        "C": "Auricle of ear",
+        "D": "Epiphyseal plate of bone"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 67,
+      "subject": "",
+      "question_text": "Simple squamous epithelium is found in:",
+      "options": {
+        "A": "Lining of gall bladder",
+        "B": "Lining of urinary bladder",
+        "C": "Lining of fallopian tube",
+        "D": "Endothelium"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 68,
+      "subject": "",
+      "question_text": "BCG vaccine at birth causes:",
+      "options": {
+        "A": "Prevention of primary tuberculosis",
+        "B": "Prevention of secondary tuberculosis",
+        "C": "Controlled primary infection",
+        "D": "Prevention of MDR tuberculosis"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 69,
+      "subject": "",
+      "question_text": "During accommodation reaction there is:",
+      "options": {
+        "A": "Constriction of pupil by sympathetic nerve",
+        "B": "Contraction of suspensory ligament",
+        "C": "Increase in transeverse diameter of len",
+        "D": "Contraction of ciliary musele"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 70,
+      "subject": "",
+      "question_text": "The drug of choice for cerebral malaria is:",
+      "options": {
+        "A": "Oral quinine",
+        "B": "Injectable artesunat",
+        "C": "Oral doxycycline",
+        "D": "Combination of sulphametoxazole and pyremethamine"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 71,
+      "subject": "",
+      "question_text": "Karyotype of Turner Syndrom is:",
+      "options": {
+        "A": "45 XO",
+        "B": "45 XY",
+        "C": "46 XX",
+        "D": "47 XXY"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 72,
+      "subject": "",
+      "question_text": "Male external genital organ includes:",
+      "options": {
+        "A": "Seminal vesicle",
+        "B": "Epididymis",
+        "C": "Penis",
+        "D": "Prostate"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 73,
+      "subject": "",
+      "question_text": "Extracellular structural protein is:",
+      "options": {
+        "A": "Elastin",
+        "B": "Keratin",
+        "C": "Tubulin",
+        "D": "Gastrin"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 74,
+      "subject": "",
+      "question_text": "Features of fibroadenoma include:",
+      "options": {
+        "A": "Usually multiple",
+        "B": "Recetangular in shape",
+        "C": "Common age after 30 years",
+        "D": "Stroma is scanty"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 75,
+      "subject": "",
+      "question_text": "DNA is found in:",
+      "options": {
+        "A": "Golgi complex",
+        "B": "Ribosome",
+        "C": "Chromosome",
+        "D": "Lysosome"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 76,
+      "subject": "",
+      "question_text": "Confirmatory marker for Virimic stage of Hepatitis B virus (HBV) infection is:",
+      "options": {
+        "A": "HBsAg",
+        "B": "Anti-HBs",
+        "C": "HBV DNA",
+        "D": "Anti-HBcgG"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 77,
+      "subject": "",
+      "question_text": "The rectum:",
+      "options": {
+        "A": "Begins infront of the 1st sacral vertebra",
+        "B": "Has a lining of stratified squamous epithelium",
+        "C": "Is relaled anteriorly to the cervix",
+        "D": "Has a venous drainage into the superior vena cava"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 78,
+      "subject": "",
+      "question_text": "Milk ejection in female is caused by:",
+      "options": {
+        "A": "Oestrogen",
+        "B": "Progesterone",
+        "C": "Prolactin",
+        "D": "Oxytocin"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 79,
+      "subject": "",
+      "question_text": "Mutable risk factor of hypertension is:",
+      "options": {
+        "A": "Age",
+        "B": "Smoking",
+        "C": "Sex",
+        "D": "Family history"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 80,
+      "subject": "",
+      "question_text": "Which of the following is a tumoros marker?",
+      "options": {
+        "A": "PSA",
+        "B": "CA 19-9",
+        "C": "CRP",
+        "D": "Family history"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 81,
+      "subject": "",
+      "question_text": "Christmas disease develops due to deficiency of clotting factor:",
+      "options": {
+        "A": "V",
+        "B": "VII",
+        "C": "VIII",
+        "D": "IX"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 82,
+      "subject": "",
+      "question_text": "Acute heart failure may occur in:",
+      "options": {
+        "A": "Rheumatoid arthritis",
+        "B": "Rheumatic fever",
+        "C": "Myxedema",
+        "D": "Laparomatous condition"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 83,
+      "subject": "",
+      "question_text": "Detrusor muscle is a muscle of:",
+      "options": {
+        "A": "Scrotum",
+        "B": "Spermatic cord",
+        "C": "Urogenital diaphragm",
+        "D": "Urinary bladder"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 84,
+      "subject": "",
+      "question_text": "Amount of Hb contained in late normoblast is:",
+      "options": {
+        "A": "20 Pg",
+        "B": "25 Pg",
+        "C": "30 Pg",
+        "D": "35 Pg"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 85,
+      "subject": "",
+      "question_text": "X-linked recessive disorder is:",
+      "options": {
+        "A": "Alkaptonuria",
+        "B": "Hemophilia",
+        "C": "Polycystic kidney disease",
+        "D": "Wilson's disease"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 86,
+      "subject": "",
+      "question_text": "Parasitic infection associated with anemia is:",
+      "options": {
+        "A": "Loa loa",
+        "B": "W. bancrofti",
+        "C": "Onchocerca volvulus",
+        "D": "Necator americanus"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 87,
+      "subject": "",
+      "question_text": "Which of the following structure passes through the aortic opening of the diaphragm?",
+      "options": {
+        "A": "Azygos vein",
+        "B": "Inferior venacava",
+        "C": "Thoracic duct",
+        "D": "Vagal trunk"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 88,
+      "subject": "",
+      "question_text": "In infants, defecation often follows a meal. The cause of colonic contractions in the situation is:",
+      "options": {
+        "A": "Histamine",
+        "B": "Increased circulating level of CCK",
+        "C": "The gastrocolic reflex",
+        "D": "The enterogastric reflex"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 89,
+      "subject": "",
+      "question_text": "The supporting cells of nervous system is called:",
+      "options": {
+        "A": "Neuron",
+        "B": "Neuroglia",
+        "C": "Ganglia",
+        "D": "Purkinjec cell"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 90,
+      "subject": "",
+      "question_text": "Which disease is the mimicking anxiety disorder?",
+      "options": {
+        "A": "Alcohol withdrawal",
+        "B": "Hypothyroidism",
+        "C": "Hypoglycaemia",
+        "D": "Temporal lobe epilepsy"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 91,
+      "subject": "",
+      "question_text": "Medial boundary of the femoral ring is formed by:",
+      "options": {
+        "A": "Pectineus muscle",
+        "B": "Inguinal ligament",
+        "C": "Lecunar ligament",
+        "D": "Femoral vein"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 92,
+      "subject": "",
+      "question_text": "Following are the causes of vertigo except:",
+      "options": {
+        "A": "Benign positional vertigo",
+        "B": "Acoustic neuroma",
+        "C": "Vestibular neuritis",
+        "D": "Bell's palsy"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 93,
+      "subject": "",
+      "question_text": "Non cardiac causes of atrial fibrillation is:",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Chronic liver disease",
+        "C": "Chronic kidney disease",
+        "D": "Stroke"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 94,
+      "subject": "",
+      "question_text": "Compared to hepatic bile, gall bladder bile contains a reduced concentration of which of the following?",
+      "options": {
+        "A": "Water",
+        "B": "Bile acids",
+        "C": "Protein",
+        "D": "Glucose"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 95,
+      "subject": "",
+      "question_text": "All are functions of epithelial tissue except:",
+      "options": {
+        "A": "Absorption",
+        "B": "Secretion",
+        "C": "Contractility",
+        "D": "Globulin synthesis"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 96,
+      "subject": "",
+      "question_text": "The major patho physiologic abnormality of Dengue Shock Syndrome is:",
+      "options": {
+        "A": "High haematocrit",
+        "B": "Leukopenia",
+        "C": "Plasma leakage",
+        "D": "Thrombocytopenia"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 97,
+      "subject": "",
+      "question_text": "Drug used in \"Scabies\" is:",
+      "options": {
+        "A": "Permethrin",
+        "B": "Streptomycin",
+        "C": "Sulfasalazine",
+        "D": "Ivermectin"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 98,
+      "subject": "",
+      "question_text": "During sleep, there is fall in the circulating level of hormone except:",
+      "options": {
+        "A": "Adrenaline",
+        "B": "Cortisol",
+        "C": "Growth hormone",
+        "D": "Insulin"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 99,
+      "subject": "",
+      "question_text": "In adult, the daily loss of fluid in the feces, normally is:",
+      "options": {
+        "A": "50 ml",
+        "B": "100 ml",
+        "C": "150 ml",
+        "D": "200 ml"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 100,
+      "subject": "",
+      "question_text": "Plasma clearance value of glucose is:",
+      "options": {
+        "A": "0 ml/min",
+        "B": "75 ml/min",
+        "C": "125 ml/min",
+        "D": "140 ml/min"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    }
+  ]
+}

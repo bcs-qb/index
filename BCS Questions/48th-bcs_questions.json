@@ -1,0 +1,1306 @@
+{
+  "exam_name": "48th-bcs Preliminary",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "subject": "",
+      "question_text": "ফররুখ আহমদের ‘সাত সাগরের মাঝি’ কত সালে প্রকিাশিত হয়?",
+      "options": {
+        "A": "১৯০৫",
+        "B": "১৯৪০",
+        "C": "১৯৪৪",
+        "D": "১৯৫৫"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 2,
+      "subject": "",
+      "question_text": "কোন দেশের গৃহযুদ্ধ কারণে ইউরোপজুড়ে অভিবাসী সংকট সৃষ্টি হয়েছে?",
+      "options": {
+        "A": "সিরিয়া",
+        "B": "লেবানন",
+        "C": "আফগানিস্তান",
+        "D": "ইরাক"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 3,
+      "subject": "",
+      "question_text": "কোন ঘটনার কারণে ধরিত্রী দিবসের সূচনা হয়?",
+      "options": {
+        "A": "ব্যাপক বায়ু দূষণ",
+        "B": "জলবায়ু পরিবর্তন",
+        "C": "ব্যাপক তেল নিঃসরণ",
+        "D": "পারমানবিক বিস্ফোরণ"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 4,
+      "subject": "",
+      "question_text": "\\(\\mathrm {x+\\frac{1}{x}}=2\\) হলে, \\(\\mathrm {x^4+\\frac {1}{x^4}}\\) এর মান-",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "\\(\\frac {1}{2}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 5,
+      "subject": "",
+      "question_text": "টেকসই উন্নয়ন লক্ষ্য (এসডিজি) অর্জনের নিচের কোনটির গুরুত্ব সবচেয়ে বেশী?",
+      "options": {
+        "A": "সক্ষমতা তৈরি",
+        "B": "অংশীদারিক",
+        "C": "সমতা বিধান",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 6,
+      "subject": "",
+      "question_text": "Doctor Faustus is ____",
+      "options": {
+        "A": "a comedy",
+        "B": "a tragedy",
+        "C": "a historical novel",
+        "D": "an absurd play"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 7,
+      "subject": "",
+      "question_text": "‘যে আলোতে কুমুদ ফোটে’ – এককথায় কী হবে?",
+      "options": {
+        "A": "কুমুদিন",
+        "B": "কৌমুদী",
+        "C": "প্রভাবতী",
+        "D": "বিভঅ"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 8,
+      "subject": "",
+      "question_text": "নিচের কোনটি যেকোনো সেটের উপসেট?",
+      "options": {
+        "A": "ϕ",
+        "B": "(ϕ)",
+        "C": "{ϕ}",
+        "D": "{0}"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 9,
+      "subject": "",
+      "question_text": "কোনটি উন্নয়ন কার্যক্রমে ঋণ সহয়তাদানকারী সংস্থা?",
+      "options": {
+        "A": "ইউরোপীয় ইউনিয়ন",
+        "B": "এশীয় উন্নয়ন ব্যাংক",
+        "C": "বিশ্বব্যাংক",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 10,
+      "subject": "",
+      "question_text": "John keats wrote ___",
+      "options": {
+        "A": "Ode to the West Wind",
+        "B": "Ode on a Grecian urn",
+        "C": "Tinter Abbey",
+        "D": "The Accient Mariner"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 11,
+      "subject": "",
+      "question_text": "The passive form of the sentence, “Who did the work” is-",
+      "options": {
+        "A": "By whom the work was done?",
+        "B": "Whom had the work done by?",
+        "C": "By whom was the work done?",
+        "D": "Who was the work done?"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 12,
+      "subject": "",
+      "question_text": "নিচের কোন প্রতিষ্ঠান বাংলাদেশের ২১শে ফেব্রুয়ারির শহিদ দিবসকে ‘আন্তর্জাতিক মাতৃভাষা দিবস’ হিসেবে স্বীকৃতি প্রদান করে?",
+      "options": {
+        "A": "ইউনিসেফ",
+        "B": "ইউনেস্কো",
+        "C": "ইউএস",
+        "D": "এডিবি"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 13,
+      "subject": "",
+      "question_text": "কোন শব্দে দ্বিস্বরধ্বনি রয়েছে?",
+      "options": {
+        "A": "তিসি",
+        "B": "মালি",
+        "C": "লাউ",
+        "D": "মেয়ে"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 14,
+      "subject": "",
+      "question_text": "কমনওয়েলথ কোন ধরনের দেশ নিয়ে গঠিত?",
+      "options": {
+        "A": "ইংরেজ শাসন থেকে স্বাধীনতাপ্রাপ্ত দেশসমূহ",
+        "B": "তেল উৎপাদনকারী দেশসমূহ",
+        "C": "এশিয়া ও ইউরোপের দেশসমূহ",
+        "D": "স্বল্প উন্নত দেশসমূহ"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 15,
+      "subject": "",
+      "question_text": "বাংলাদেশের কর্ণফুলি নদীর উৎপত্তিস্থল কোথায়?",
+      "options": {
+        "A": "লুসাই পাহাড়",
+        "B": "সিকিমের পাবর্ত্য অঞ্চল",
+        "C": "তিব্বতের মানোস সরোবর",
+        "D": "নাগা-মনিপুর অঞ্চলের বোরাক নদী"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 16,
+      "subject": "",
+      "question_text": "She succeeded ____ her good work.",
+      "options": {
+        "A": "because",
+        "B": "since",
+        "C": "because of",
+        "D": "as"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 17,
+      "subject": "",
+      "question_text": "Choose the correct sentence.",
+      "options": {
+        "A": "He resembles like his father.",
+        "B": "He resembles with his father.",
+        "C": "He resembles his father.",
+        "D": "He resembles similar to his father."
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 18,
+      "subject": "",
+      "question_text": "Who composed ‘Paradise Lost’?",
+      "options": {
+        "A": "John Donne",
+        "B": "John Keats",
+        "C": "John Dryden",
+        "D": "John Milton"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 19,
+      "subject": "",
+      "question_text": "প্রত্যয়যোগে গঠিত শব্দ কোনটি?",
+      "options": {
+        "A": "ডাক্তারখানা",
+        "B": "অনুগমন",
+        "C": "দিলখোলা",
+        "D": "সম্রাট"
+      },
+      "correct_answer": "BLANK",
+      "explanation": ""
+    },
+    {
+      "question_number": 20,
+      "subject": "",
+      "question_text": "একটি গাছের পাদদেশ হতে \\(26\\sqrt {3}\\) মিটার দূরে একটি স্থানে গাছটির শীর্ষের উন্নতি কোণ \\(30°\\) হলে, গাছটির উচ্চতা কত মিটার?",
+      "options": {
+        "A": "\\(\\frac {\\sqrt {3}}{{26}}\\)",
+        "B": "\\(\\frac {{26}}{{\\sqrt 3}}\\)",
+        "C": "26",
+        "D": "78"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 21,
+      "subject": "",
+      "question_text": "‘তিনি কথা বললেন না।’ -বাক্যটির অস্তিবাচক রূপ কী হবে?",
+      "options": {
+        "A": "তিনি কথা বলতে চাইলেন না।",
+        "B": "তিনি কথা না বলে থাকতে পারলেন না।",
+        "C": "তিনি নীরব থাকতে চেষ্টা করলেন।",
+        "D": "তিনি চুপ করে থাকলেন।"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 22,
+      "subject": "",
+      "question_text": "‘টঙ্ক (Tonk) আন্দোলন’ কি?",
+      "options": {
+        "A": "সাঁওতাল বিদ্রোহ",
+        "B": "কৃষক আন্দোলন",
+        "C": "প্রাকৃতিক সম্পদ রক্ষার আন্দোলন",
+        "D": "কোনটিই নয়"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 23,
+      "subject": "",
+      "question_text": "‘অন্তর্ভুক্তিমূলক’ শব্দ উচ্চারণে কয়টি অক্ষর পাওয়া যায়?",
+      "options": {
+        "A": "৫",
+        "B": "৬",
+        "C": "৭",
+        "D": "৮"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 24,
+      "subject": "",
+      "question_text": "শুদ্ধ বাক্য কোনটি?",
+      "options": {
+        "A": "সারা দেশব্যাপী দিবসটি উদ্‌যাপন করা হবে।",
+        "B": "সারা দেশে দিবসটি উদ্যাপন করা হবে।",
+        "C": "দেশব্যাপী দিবসটি উদ্‌যাপন করা হবে।",
+        "D": "সারা দেশে দিবসটি উদ্‌যাপন করা হবে।"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 25,
+      "subject": "",
+      "question_text": "What is the meaning of ‘French leave’?",
+      "options": {
+        "A": "Leave on holidays",
+        "B": "Spending time in France",
+        "C": "Leave without permission",
+        "D": "Emergency leave"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 26,
+      "subject": "",
+      "question_text": "‘ইউসুফ-জোলেখা’র কবি শাহ মুহম্মদ সগীরের জন্ম কোথায়?",
+      "options": {
+        "A": "বগুড়া",
+        "B": "সিলেট",
+        "C": "নদীয়া",
+        "D": "চট্টগ্রাম"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 27,
+      "subject": "",
+      "question_text": "নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে? ![Image](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABVCAYAAACy2jEbAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AAAkrSURBVHhe7Z1ZiBTXGsfjvsXtqhiNBqMRURT3uEZFfQiKXsRgDFw39IoYt+u+PmTUB/FFGRSNK4Mb4qh4FWJ8iEPAUXDciPsYrkjUeHXcR5zJeHJ+p78ex57p6aruqu6qmfrBB00t53zf/999urr7nOqPKgCjJAJSSF0dtyR4HJAi/qNDSfA4IAV8quNPHWEjeMy2gCSzqUGDBqpRo0YmeMy20K6AZNFbx5slS5aoQYMGmeAx22RfQBKoquOnFi1aqMePH6sBAwaY4DHb2CfHBLjMNzrUhg0bFHTv3t0EsI19ckyAi3ys41q3bt1Ufn6+Eb+kEWxjH8fIsQEusUyHOnbsmBEeShoB7OMYOTbABdro+P/o0aNF8hCRRgDHcKyOzzkxwFl21KlTR12+fFnkDlGWERzDsZwTOjXAKQboKJw/f75I/Z6yjACO5Rw5N8ABuBT9pVWrVurhw4ci83uiGcGxnMO50kZAgvxLh9q8ebNI/CHRjADO4VxpIyABGunI7d27t3r79q3I+yHlGcE5nEsb0lZAnPxQpUoVdfLkSZG2NOUZAZxLG7QVajLALl/oeDpu3DiRtGxiGQG0QVvSZoBN9tavX19du3ZN5CwbK0bQBm3RZqjpAKsM1VG0fPlykTI6VowA2qJNaTvAAtV1nGnTpo168uSJyBgdq0bQFm3StvQREIOpOtTOnTtFwvKxagTQJm1LHwHl0FTH/wYOHKgKCwtFvvKxYwRt0jZ9SF8BUVhXtWpVdfr0aZEuNnaMANqmD/oKdRkQSScdryZMmCCSWcOuEUAf9CV9BkRwiEkAt2/fFrmsEY8R9EFf9BnqOiDM1zrepaWliVTWiccIoC/6lL4DNLV0nG/fvr16/vy5yGSdeI2gL/qkb8mh0vO9DrVv3z6RyB7xGgH0Sd86ZpFIZeYTHX8MGzZMFRUViTz2SMQI+qRvcpBcKi0batSoobKzs0Ua+yRiBNA3OZBLKKXKRzcd+dOmTRNJ4iNRI4AcyEVyqnT8t2nTpuru3bsiR3w4YQQ5kAs5hVKrPPxTh1q3bp1IET9OGAHkQk6SW6Wgjo7LnTp1Ui9fvhQZ4scpI8iFnMhNcqzwLNChMjMzRYLEcMoIICdykxwrNK11/DlixAgpPXGcNALIjRwl1wrLllq1aqmcnBwpO3GcNoLcyJFcQylXPL7UUTBr1iwp2RmcNgLIkVwl5wpFFR0/s5Dk/v37Uq4zuGEEOcqil58l9wrDtzrUxo0bpVTncMMIIFdyltwrBA103ECsN2/eSJnO4ZYR5Eq75C41+J4VOtTx48elRGdxywggZ3KXGnwNC0XyxowZI6U5j5tGALlTg9TiW3bVq1dPXblyRcpyHreNIHdqoJZQSf7jKx2FCxculJLcwW0jgBqoRWryFdV0ZLFQ5NGjR1KOO/To0cN1I6hBFr1kSW2+YaIOtXXrVinFPVjO67YRQC3UJLX5gn/oyO3Tp0/UxSVOsWnTJlW3bl0ze89tqIWaqE1q9DxpLAw5deqUlOA8eXl5auLEieFnqBoyZIjscRdqkkUvaRTqZTroeDF+/HhJ3XnOnDmjOnToYAxYu3at6tKli+rVq5fsdR9qo0ap1bPsb9iwobp+/bqk7SwsTmTeapMmTYrvPsAaOd4nkgW1USO1hkr2HsN1FK1YsUJSdo6SQ9HQoUNVbm6u7EnO5Wsk1EitUrOnYKZcdtu2bdXTp08lXWc4e/as6tixozGBVT+R0/VTYQQ1tmvXjpyypXbP8G8davfu3ZKqM2zZsqV4KDp69Khs/ZBUGAHUSs1Suydgwcdd7iJmdXFJLBiKJk+ebAodPHiwunXrluwpTaqMoFZqpnbRIOWsr169usrKypIUE+PcuXOqc+fOxoSlS5fGNDdVRgA1UzsaGCVSSBcdLydNmiSpJQZDUbVq1cxQdOTIEdlaPqk0AqgdDUSLlJHJgo87d+5IWvHBUDRlyhTzKuDlfvPmTdkTm1QbQe2y6CXTKJICRupQa9askZTi4/z58+ZDGW1xp0q77zOpNgLQgPxFk6TCTLgcLiufPXsm6diHL9LCQ9Hhw4dlqz28YASLXuQSO0e0SRqzdagDBw5IKvbgOnzq1KnmWWR3KIrEC0YAWlCPaJMUWuh4MHz4cPXu3TtJwzpM4OratatJetGiRQlf8nrFCLRAE7QRjVwnnZlwfOK1y7Zt28xQ1LhxY3Xo0CHZmhheMQLQRGYJpoekco8eOvKnT58uXVuD95HwUMRvBzdu3JA9ieMlIwBt0Ei0co3jzZo1U/fu3ZNuY3Px4sXwTXHNb79O/1jkNSPQBo3QyijmAmN0qPXr10uXsdm+fbv55MnXxgcPHpStzuI1IwCN0Eo0cxT+reQ3rvdfvXol3UWHoUjWpTk+FEXiRSPQSD4b/SbaOcZiHZau9S9dumSE4XjuverGNMuSeNEIQCs0EO0c4TMdj0aOHCldRGfHjh2qZs2a5rZt8X7GsItXjQA0QzvRMGF+rF27trpw4YI0X5oXL16ErxbMfzm4ORRF4mUj0Azt0NAomQB9dRTMnTtXmi5NyaFo3rx5xX8nkCy8bASgHRqKlnHBAo1TLVu2jLq4ZNeuXcZx5obu379ftiYXrxuBdmiIlqKpbb7TodLT06XJ93BVMGPGjOKhyK1ZG1bwuhGAhmglmtqChRk3e/bsWeoDGH8JwHxTvd+87F6/fi17UoMfjEBDtERT0dYyq3SoEydOSFMhMjIyzBRHhqJ4b+vjNH4wAtASTUVbS7TVkTd27FhpQpln/cyZM01D/fv3j3l34mTiFyMATdFWNI5JBs/48LjPVZG8rMxQZOWTdTLxkxFXr14NL3rJMEqXwyAdf61atcqcuGfPHnMiw9HevXvNNq/hJyNg8eLFGPGXaF0m3Kb5V6ay8G8kCxYsMK+Cvn37Gie9it+MYNFL69at0fZX0bwUk/l6gu+H5PZqavbs2Z4biiLxmxHAD2Toi+YIX5LGOn7HCG6rxnDEsOQH/GhEQUGB6tevH0b8ruODf3pZo8OYMGrUKPXgwQM5xfswLZ/wG6xWlX8cLl70wjeDzFQzO+bMmaNWr15tZl4vW7bM89G8eXMTZe3zcqxcuTL81QeLXswtiVhwER6zgkhJfLTvbz9VLvoW0q4GAAAAAElFTkSuQmCC)",
+      "options": {
+        "A": "৪টি",
+        "B": "৫টি",
+        "C": "৬টি",
+        "D": "৭টি"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 28,
+      "subject": "",
+      "question_text": "\\(|\\mathrm {3x - 4|≤ 2}\\) এর সমাধান",
+      "options": {
+        "A": "\\(\\frac {2}{3}≤x≤2\\)",
+        "B": "\\(\\mathrm {\\frac {2}{3}≤x<2}\\)",
+        "C": "\\(\\frac{2}{3}< \\mathrm x ≤2\\)",
+        "D": "\\(\\frac {2}{3} < \\mathrm x <2\\)"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 29,
+      "subject": "",
+      "question_text": "বাংলাদেশের প্রাচীনতম জনপদ কোনটি?",
+      "options": {
+        "A": "মহাস্থানগড়",
+        "B": "পাহাড়পুর",
+        "C": "ময়নামতি",
+        "D": "উয়ারীবটেশ্বর"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 30,
+      "subject": "",
+      "question_text": "মার্কিন যুক্তরাষ্ট্রের আইনসভার নাম কি?",
+      "options": {
+        "A": "পার্লামেন্ট",
+        "B": "কংগ্রেস",
+        "C": "সিনেট",
+        "D": "কোনটিই নয়"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 31,
+      "subject": "",
+      "question_text": "বাংলাদেশের সংসদীয় সরকার ব্যবস্থায় নিয়মতান্ত্রিক প্রধান কে?",
+      "options": {
+        "A": "প্রধানমন্ত্রী",
+        "B": "রাষ্ট্রপতি",
+        "C": "স্পিকার",
+        "D": "সংসদ সচিব"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 32,
+      "subject": "",
+      "question_text": "১, ৪, ৯, ১৬, ২৫, ….. অনুক্রমটির পরবর্তী সংখ্যাটি কত?",
+      "options": {
+        "A": "৬৬",
+        "B": "৪৯",
+        "C": "৩৬",
+        "D": "৩৪"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 33,
+      "subject": "",
+      "question_text": "প্রথম বিশ্বযুদ্ধের সমাপ্তিতে কোন চুক্তি স্বাক্ষরিত হয়?",
+      "options": {
+        "A": "সেভার্স চুক্তি",
+        "B": "লুজেন (Lausamme) চুক্তি",
+        "C": "ভার্সাই চুক্তি",
+        "D": "প্যারিস চুক্তি"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 34,
+      "subject": "",
+      "question_text": "She works hard. What part of speech is the underlined word?",
+      "options": {
+        "A": "Adjective",
+        "B": "Adverb",
+        "C": "Verb",
+        "D": "Noun"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 35,
+      "subject": "",
+      "question_text": "The synonym of the word ‘spectacular’ is-",
+      "options": {
+        "A": "ugly",
+        "B": "spacious",
+        "C": "spatial",
+        "D": "breathtaking"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 36,
+      "subject": "",
+      "question_text": "What type of sentence is ‘Do or die.’",
+      "options": {
+        "A": "Complex",
+        "B": "Simple",
+        "C": "Compound",
+        "D": "Exclamatory"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 37,
+      "subject": "",
+      "question_text": "\\(\\sqrt \\frac{9}{4}\\) সংখ্যাটি-",
+      "options": {
+        "A": "স্বাভাবিক সংখ্যা",
+        "B": "মূলদ সংখ্যা",
+        "C": "অমূলদ সংখ্যা",
+        "D": "জটিল সংখ্যা"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 38,
+      "subject": "",
+      "question_text": "জাতিসংঘের কোন সংস্থা বাংলাদেশ ও মায়ানমারের মধ্যকার রোহিঙ্গা বিষয়ে মধ্যস্থতা করছে?",
+      "options": {
+        "A": "ইউএনডিপি",
+        "B": "ইউনিসেফ",
+        "C": "ইউএনএইচসিআর",
+        "D": "ইউনেস্কো"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 39,
+      "subject": "",
+      "question_text": "ক্রিয়াপদের মূল অংশকে কী বলে?",
+      "options": {
+        "A": "কর্ম",
+        "B": "ধাতু",
+        "C": "প্রত্যয়",
+        "D": "বিভক্তি"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 40,
+      "subject": "",
+      "question_text": "কোন ইউরোপীয় ভারতে আসার জলপথ আবিষ্কার করেন?",
+      "options": {
+        "A": "ফ্রান্সিস ড্রেক",
+        "B": "ফার্ডিনান্ড ম্যাগেলান",
+        "C": "ভাস্কো-ডা-গামা",
+        "D": "ক্রিস্টোফার কলম্বাস"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 41,
+      "subject": "",
+      "question_text": "যদি P = 16 এবং TAP = 37 হয় তবে CUP = কত?",
+      "options": {
+        "A": "40",
+        "B": "38",
+        "C": "36",
+        "D": "39"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 42,
+      "subject": "",
+      "question_text": "কোন রাষ্ট্রের আইনসভা দ্বি-কক্ষ বিশিষ্ট?",
+      "options": {
+        "A": "যুক্তরাষ্ট্র",
+        "B": "ভারত",
+        "C": "যুক্তরাজ্য",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 43,
+      "subject": "",
+      "question_text": "বাংলাদেশের সিভিল সার্ভিস (বিসিএস) পরীক্ষা সর্বপ্রথম কত সালে শুরু হয়েছিল?",
+      "options": {
+        "A": "১৯৭৩",
+        "B": "১৯৭৪",
+        "C": "১৯৭৫",
+        "D": "১৯৭৬"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 44,
+      "subject": "",
+      "question_text": "‘সাফটা’ (SAFTA) চুক্তি কত সালে সম্পাদিত হয়?",
+      "options": {
+        "A": "১৯৯৮",
+        "B": "২০০২",
+        "C": "২০০৪",
+        "D": "২০০৯"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 45,
+      "subject": "",
+      "question_text": "Charles Dickens was an English ___",
+      "options": {
+        "A": "poet",
+        "B": "playwright",
+        "C": "politician",
+        "D": "novelist"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 46,
+      "subject": "",
+      "question_text": "বাংলাদেশের পোশাক সর্বাধিক কোন দেশে রপ্তানি করা হয়?",
+      "options": {
+        "A": "যুক্তরাষ্ট্র",
+        "B": "যুক্তরাজ্য",
+        "C": "ফ্রান্স",
+        "D": "জার্মানি"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 47,
+      "subject": "",
+      "question_text": "বর্তমানে অন্তবর্তীকালীন সরকার কখন গঠিত হয়?",
+      "options": {
+        "A": "০৮ আগস্ট ২০২৪",
+        "B": "১০ আগস্ট ২০২৪",
+        "C": "১২ আগস্ট ২০২৪",
+        "D": "০৫ আগস্ট ২০২৪"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 48,
+      "subject": "",
+      "question_text": "He as well as his parents ____ spending vacation abroad.",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "will",
+        "D": "can"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 49,
+      "subject": "",
+      "question_text": "Transparency শব্দের বাংলা পরিভাষা কী?",
+      "options": {
+        "A": "যথার্থতা",
+        "B": "নির্ভরযোগ্যতা",
+        "C": "স্বচ্ছতা",
+        "D": "দুর্নীতিদমন"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 50,
+      "subject": "",
+      "question_text": "These books ___ me.",
+      "options": {
+        "A": "belongs to",
+        "B": "belong to",
+        "C": "are belonged by",
+        "D": "belongs by"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 51,
+      "subject": "",
+      "question_text": "বাংলাদেশে কখন প্রথম প্রেসিডেন্ট পদ্ধতির সরকার গঠিত হয়?",
+      "options": {
+        "A": "১৯৭১",
+        "B": "১৯৭২",
+        "C": "১৯৭৫",
+        "D": "১৯৮০"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 52,
+      "subject": "",
+      "question_text": "কোনটি অশুদ্ধ বানান?",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Dyspepsia",
+        "C": "Gastitris",
+        "D": "Diarrhoea"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 53,
+      "subject": "",
+      "question_text": "_____ others is a great deed.",
+      "options": {
+        "A": "To help",
+        "B": "Help",
+        "C": "To helping",
+        "D": "To have helped"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 54,
+      "subject": "",
+      "question_text": "কে প্রথম ‘গ্লোবাল ভিলেজ’ ধারাটির উপস্থাপন করেন?",
+      "options": {
+        "A": "হার্বট মার্শাল ম্যাকলুহান",
+        "B": "রবার্ট কিংসলে",
+        "C": "হেনরি জি. ম্যাকমিলান",
+        "D": "ডব্লিউ জি. পেরি"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 55,
+      "subject": "",
+      "question_text": "Lord of the Flies was written by ___.",
+      "options": {
+        "A": "William Shakespeare",
+        "B": "William Wordsworth",
+        "C": "William Golding",
+        "D": "T.S. Eliot"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 56,
+      "subject": "",
+      "question_text": "\\(\\mathrm {A(1,-1),B(2,2)}\\) এবং \\(\\mathrm{C(4,t)}\\) বিন্দুত্রয় সমরেখ হলে \\(\\mathrm t\\) এর মান কত?",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "4",
+        "D": "7"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 57,
+      "subject": "",
+      "question_text": "Do you know the solution ___ the problem.",
+      "options": {
+        "A": "of",
+        "B": "for",
+        "C": "about",
+        "D": "to"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 58,
+      "subject": "",
+      "question_text": "ইসরায়েল ও ইরানের মধ্যে চলমান সংঘাতের কারণ কোনটি?",
+      "options": {
+        "A": "বাণিজ্যিক",
+        "B": "পারমানবিক শক্তি",
+        "C": "অর্থনৈতিক",
+        "D": "কোনটি নয়"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 59,
+      "subject": "",
+      "question_text": "বাংলাদেশের সংবিধানের নাম কি?",
+      "options": {
+        "A": "বাংলাদেশের সংবিধান",
+        "B": "বাংলাদেশের সাংবিধানিক বিধিমালা",
+        "C": "গণপ্রজাতন্ত্রী বাংলাদেশ সংবিধান",
+        "D": "প্রজাতন্ত্র বাংলাদেশ সংবিধান"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 60,
+      "subject": "",
+      "question_text": "\\(\\mathrm {x-2y-10=0}\\) এবং \\(\\mathrm {2x+y-3=0}\\) রেখাদ্বয়ের ঢালদ্বয়ের গুণফল-",
+      "options": {
+        "A": "\\(-2\\)",
+        "B": "\\(2\\)",
+        "C": "\\(-3\\)",
+        "D": "\\(-1\\)"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 61,
+      "subject": "",
+      "question_text": "চীনের ‘ওয়ান বেশট ওয়ান রোড’ কিয় কোন দেশসমূহের মধ্যে সংযোগ বৃদ্ধি করবে?",
+      "options": {
+        "A": "এশিয়া, ইউরোপ, আমেরিকা",
+        "B": "এশিয়া, আফ্রিকা, আরব",
+        "C": "এশিয়া, অস্ট্রেলিয়া, আফ্রিকা",
+        "D": "এশিয়া, ইউরোপ, আফ্রিকা"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 62,
+      "subject": "",
+      "question_text": "‘আফতাব’ শব্দের সমার্থক শব্দ কোনটি?",
+      "options": {
+        "A": "অর্ণব",
+        "B": "রাতুল",
+        "C": "অর্ক",
+        "D": "জলধি"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 63,
+      "subject": "",
+      "question_text": "What does the idiom “take someone to task” mean?",
+      "options": {
+        "A": "someone a task to do",
+        "B": "To praise someone for his task",
+        "C": "To rebuke someone",
+        "D": "To appoint someone"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 64,
+      "subject": "",
+      "question_text": "১৯৭১ সালে সর্বপ্রথম কোন পত্রিকা পাকিস্তানী বাহিনীর গণহত্যার উপর ব্রিটিশ সাংবাদিক সাইমন ড্রিং এর প্রতিবেদন প্রকাশ করে?",
+      "options": {
+        "A": "নিউইয়র্ক টাইমস",
+        "B": "ডেইলি মেইল",
+        "C": "ডেইলি টেলিগ্রাফ",
+        "D": "দ্য ইনডিপেনডেন্ট"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 65,
+      "subject": "",
+      "question_text": "বাংলাদেশের মোট দেশজ উৎপাদন (জিডিপি) এর জন্য অর্থনীতিকে মোট কতটি প্রধান খাতে বিভক্ত করা হয়?",
+      "options": {
+        "A": "০৫টি",
+        "B": "১০টি",
+        "C": "১৫টি",
+        "D": "২০টি"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 66,
+      "subject": "",
+      "question_text": "Choose the correct spelling.",
+      "options": {
+        "A": "Repeatition",
+        "B": "Repeatation",
+        "C": "Repetition",
+        "D": "Ripitetion"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 67,
+      "subject": "",
+      "question_text": "I love reading books and ___ football.",
+      "options": {
+        "A": "to play",
+        "B": "play",
+        "C": "playing",
+        "D": "to have played"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 68,
+      "subject": "",
+      "question_text": "আন্তর্জাতিক ওজোন দিবস (International Day for the Prevention of the Ozone Layer) কত তারিখে পালিত হয়?",
+      "options": {
+        "A": "২২ জুলাই",
+        "B": "২৮ জুলাই",
+        "C": "১৭ আগস্ট",
+        "D": "১৬ সেপ্টেম্বর"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 69,
+      "subject": "",
+      "question_text": "মুক্তিযুদ্ধ চলাকালীন সময়ে প্রবাসী গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের অস্থায়ী সচিবালয় (সদর দপ্তর) কোথায় ছিল?",
+      "options": {
+        "A": "মুজিবনগর",
+        "B": "থিয়েটার রোড, কলকাতা",
+        "C": "কমিরগঞ্জ",
+        "D": "বেনাপোল"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 70,
+      "subject": "",
+      "question_text": "নিচের কোনটি বাংলাদেশের শিল্প সংক্রান্ত অর্থনৈতিক কর্মকান্ড নয়?",
+      "options": {
+        "A": "মাছ চাষ",
+        "B": "বস্ত্র",
+        "C": "পাট",
+        "D": "সিমেন্ট"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 71,
+      "subject": "",
+      "question_text": "বাক্যের অন্তর্গত শব্দের পারস্পরিক সম্পর্ক ব্যাকরণের কোন অংশে আলোচিত হয়?",
+      "options": {
+        "A": "সন্ধি",
+        "B": "পদ",
+        "C": "কাল",
+        "D": "কারক"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 72,
+      "subject": "",
+      "question_text": "বর্তমান বিশ্বের কতটি দেশ জাতিসংঘের সদস্য?",
+      "options": {
+        "A": "১৮৩",
+        "B": "১৮৮",
+        "C": "১৯৩",
+        "D": "১৯৭"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 73,
+      "subject": "",
+      "question_text": "এশীয় দেশসমূহের মধ্যে কোনটি বিশ্বের উন্নত দেশ?",
+      "options": {
+        "A": "চীন",
+        "B": "ভারত",
+        "C": "জাপান",
+        "D": "সিঙ্গাপুর"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 74,
+      "subject": "",
+      "question_text": "অনুভূতিজাত দ্বিরুক্ত শব্দ কোনটি?",
+      "options": {
+        "A": "ছমছম",
+        "B": "ঝমঝম",
+        "C": "টিকটিক",
+        "D": "ঠিক ঠিক"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 75,
+      "subject": "",
+      "question_text": "‘আজ চারদিক হতে বণিক শোষণকারীর জাত, ও ভাই জোঁকের মতন শুষছে রক্ত, কাড়ছে থালার ভাত।’ -কার লেখা?",
+      "options": {
+        "A": "রবীন্দ্রনাথ ঠাকুর",
+        "B": "কাজী নজরুল ইসলাম",
+        "C": "গোলাম মোস্তফা",
+        "D": "সত্যেন্দ্রনাথ দত্ত"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 76,
+      "subject": "",
+      "question_text": "যদি \\(U={\\{1,2,3,4,5,6,7,8,9,10\\}}, \\mathrm P={\\{1,2,5\\}}\\) এবং \\(\\mathrm Q={\\{6,7\\}}\\) হয় তবে \\(\\mathrm {P∩Q'}\\) এর মান কত?",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "Q’",
+        "D": "P’"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 77,
+      "subject": "",
+      "question_text": "কোন বানানটি প্রমিত?",
+      "options": {
+        "A": "পশ্চাদপদ",
+        "B": "পশ্চাৎগামী",
+        "C": "পশ্চাদ্‌ভূমি",
+        "D": "পশ্চাৎবর্তী"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 78,
+      "subject": "",
+      "question_text": "বিশ্বস্বাস্থ্য সংস্থা কত সালে বাংলাদেশকে পোলিও মুক্ত ঘোষণা করে?",
+      "options": {
+        "A": "১৯৯৮",
+        "B": "২০০৪",
+        "C": "২০১৪",
+        "D": "২০১৯"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 79,
+      "subject": "",
+      "question_text": "বাংলা অব্যয়ীভাব সমাসের উদাহরণ ব্যাকরণের কোন অংশের অন্তর্ভুক্ত করা যায়?",
+      "options": {
+        "A": "সন্ধি",
+        "B": "উপসর্গ",
+        "C": "কারক",
+        "D": "প্রত্যয়"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 80,
+      "subject": "",
+      "question_text": "জাতিসংঘ কবে আনুষ্ঠানিকভাবে আত্মপ্রকাশ করে?",
+      "options": {
+        "A": "২৪ অক্টোবর, ১৯৪৫",
+        "B": "২৮ নভেম্বর, ১৯৪৩",
+        "C": "২৮ জানুয়ারি, ১৯৪৩",
+        "D": "২৪ ডিসেম্বর, ১৯৪৫"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 81,
+      "subject": "",
+      "question_text": "বাংলাদেশের জাতীয় আয়ের (জিপিপি-র) কত শতাংশ কৃষি থেকে আসে?",
+      "options": {
+        "A": "১২.৪০%",
+        "B": "১২.৮৯%",
+        "C": "১৩.০২%",
+        "D": "১৩.৩৫%"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 82,
+      "subject": "",
+      "question_text": "বাংলাদেশ ১৯৭৪ সালে জাতিসংঘের কততম সদস্য রাষ্ট্র হিসেবে অন্তর্ভুক্ত হয়?",
+      "options": {
+        "A": "১২৬তম",
+        "B": "১৩০তম",
+        "C": "১৩৬তম",
+        "D": "১৩৯তম"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 83,
+      "subject": "",
+      "question_text": "বাংলাদেশের সংবিধানের কত নং অনুচ্ছেদে চিন্তা, বিবেক ও বাকস্বাধীনতা নাগরিকের মৌলিক অধিকার হিসেবে স্বীকৃত?",
+      "options": {
+        "A": "১৫",
+        "B": "২৭",
+        "C": "৩৭",
+        "D": "৩৯"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 84,
+      "subject": "",
+      "question_text": "নিচের চিত্রে BC এর মান কত? ![Image](data:image/png;base64,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)",
+      "options": {
+        "A": "9 মিটার",
+        "B": "6 মিটার",
+        "C": "4 মিটার",
+        "D": "3 মিটার"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 85,
+      "subject": "",
+      "question_text": "কোনটি বিশেষণ?",
+      "options": {
+        "A": "সৎ",
+        "B": "একতা",
+        "C": "দর্শন",
+        "D": "জনতা"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 86,
+      "subject": "",
+      "question_text": "\\(\\mathrm k\\) এর মান কত হলে \\(\\mathrm {kx^2+3x+4}\\) রাশিটি পূর্ণবর্গ হবে?",
+      "options": {
+        "A": "\\(- \\frac {16}{9}\\)",
+        "B": "\\(- \\frac {9}{16}\\)",
+        "C": "\\(\\frac {9}{16}\\)",
+        "D": "\\(\\frac {16}{9}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 87,
+      "subject": "",
+      "question_text": "ছড়ার ছন্দকে কী বলে?",
+      "options": {
+        "A": "স্বরবৃত্ত",
+        "B": "মাত্রাবৃত্ত",
+        "C": "অক্ষরবৃত্ত",
+        "D": "গদ্যছন্দ"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 88,
+      "subject": "",
+      "question_text": "একটি দেশের মোট আয়তনের কত শতাংশ বনভূমি থাকা প্রয়োজন?",
+      "options": {
+        "A": "১৫-২০%",
+        "B": "২০-২৫%",
+        "C": "৩০-৩৫%",
+        "D": "৩৫-৪০%"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 89,
+      "subject": "",
+      "question_text": "ইসমাইল হোসেন সিরাজীর কোন কাব্যটি বাজেয়াপ্ত হয়?",
+      "options": {
+        "A": "‘অনল প্রবাহ’",
+        "B": "‘আকাঙ্ক্ষা’",
+        "C": "‘উদ্বোধন’",
+        "D": "‘নব উদ্দীপনা’"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 90,
+      "subject": "",
+      "question_text": "যদি \\(\\mathrm {log_{10}⁡x=-3}\\) হয়, তবে \\(\\mathrm x\\) এর মান কত?",
+      "options": {
+        "A": "0.1",
+        "B": "0.01",
+        "C": "0.001",
+        "D": "0.0001"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 91,
+      "subject": "",
+      "question_text": "একটি চৌবাচ্চার দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে ৩ মিটার, ৪ মিটার ও ৫ মিটার হলে, এতে কত লিটার বিশুদ্ধ পানি ধরবে?",
+      "options": {
+        "A": "৬০০০০০",
+        "B": "৬০০০০",
+        "C": "৬০০০",
+        "D": "৬০০"
+      },
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "question_number": 92,
+      "subject": "",
+      "question_text": "\\(\\frac {1}{\\mathrm x-1}+\\frac {2}{\\mathrm x-2}=\\frac {3}{\\mathrm x-3}\\) এর সমাধান-",
+      "options": {
+        "A": "\\(\\frac {3}{2}\\)",
+        "B": "\\(\\frac {2}{3}\\)",
+        "C": "\\(\\frac {5}{1}\\)",
+        "D": "\\(\\frac {2}{5}\\)"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 93,
+      "subject": "",
+      "question_text": "Choose the correct sentecnce.",
+      "options": {
+        "A": "Where have you born?",
+        "B": "Where are you born?",
+        "C": "Where were you born",
+        "D": "Where did you born?"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    },
+    {
+      "question_number": 94,
+      "subject": "",
+      "question_text": "যদি \\(\\mathrm {x : y = 4 : 3, y : z = 5 : 4}\\) এবং \\(\\mathrm x = 200\\) হয়, তবে \\(\\mathrm z\\) এর মান কত?",
+      "options": {
+        "A": "\\(\\frac {100}{3}\\)",
+        "B": "\\(\\frac {800}{3}\\)",
+        "C": "150",
+        "D": "120"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 95,
+      "subject": "",
+      "question_text": "‘শ্রীকৃষ্ণকীর্তন’ কাব্যের প্রথম খণ্ডের নাম কী?",
+      "options": {
+        "A": "জন্মখণ্ড",
+        "B": "তাম্বুলখণ্ড",
+        "C": "দানখণ্ড",
+        "D": "রাধাবিরহ"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 96,
+      "subject": "",
+      "question_text": "বাংলামতি কি?",
+      "options": {
+        "A": "এক প্রকার ধান",
+        "B": "এক প্রকার গম",
+        "C": "এক প্রকার আম",
+        "D": "একটি নদীর নাম"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 97,
+      "subject": "",
+      "question_text": "\\(\\mathrm {log2 + log4 + log8 +}\\) … ধারাটির অষ্টম পদ কোনটি?",
+      "options": {
+        "A": "log256",
+        "B": "log128",
+        "C": "log64",
+        "D": "log32"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 98,
+      "subject": "",
+      "question_text": "বাংলাদেশের সরকারের আয়ের উৎস কোনটি?",
+      "options": {
+        "A": "আবগারি শুল্ক",
+        "B": "মূল্য সংযোজন কর",
+        "C": "জরিমানা ও শান্তিমূলক ফি",
+        "D": "উপরের সবগুলো"
+      },
+      "correct_answer": "D",
+      "explanation": ""
+    },
+    {
+      "question_number": 99,
+      "subject": "",
+      "question_text": "অক্টোবর সমাজতান্ত্রিক বিপ্লব কত খ্রিস্টাব্দে সংঘটিত হয়?",
+      "options": {
+        "A": "১৯১৭",
+        "B": "১৮৫৭",
+        "C": "১৮৪৯",
+        "D": "১৭৫৭"
+      },
+      "correct_answer": "A",
+      "explanation": ""
+    },
+    {
+      "question_number": 100,
+      "subject": "",
+      "question_text": "২ ঘণ্টা ৪০ মিনিট ৬ ঘণ্টার কত অংশ?",
+      "options": {
+        "A": "\\(\\frac {১}{৬}\\)",
+        "B": "\\(\\frac {১}{৫}\\)",
+        "C": "\\(\\frac {৪}{৯}\\)",
+        "D": "\\(\\frac {১}{২}\\)"
+      },
+      "correct_answer": "C",
+      "explanation": ""
+    }
+  ]
+}
