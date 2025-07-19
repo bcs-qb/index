@@ -235,13 +235,13 @@
 
         },
         {
-            "title":"48th BCS",
+            "title":"48th BCS (special-general)",
             "sub":"48th-bcs Preliminary",
             "file":"https://bcs-qb.github.io/index/data/48th-bcs_questions.json"
 
         },
         {
-            "title":"48th BCS",
+            "title":"48th BCS (special-medical)",
             "sub":"48th-bcs Preliminary (Medical Part)",
             "file":"https://bcs-qb.github.io/index/data/48thbcs_questions.json"
 
