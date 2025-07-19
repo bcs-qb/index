@@ -280,10 +280,10 @@
       "subject": "MENTAL-ABILITY",
       "question_text": "যদি একটি কামান থেকে নিম্নলিখিত ৪টি বস্তুকে অনুভূমিক ভাবে নিক্ষেপ করা হয়, তবে কোনটি সবচেয়ে বেশি দূরে উড়ে যাবে?",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/22.1.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/22.2.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/22.3.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/22.4.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/46th%20BCS/22.1.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/46th%20BCS/22.2.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/46th%20BCS/22.3.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/46th%20BCS/22.4.jpg"
       },
       "correct_answer": "C",
       "explanation": "নিম্নলিখিত ৪টি বস্তুকে অনুভূমিকভাবে নিক্ষেপ করা হলে গোলাকৃতি বস্তুটি সবচেয়ে বেশি দূরে উড়ে যাবে কারণ গোলাকৃতি বস্তুর আয়তন কম হওয়ায় এর বিরুদ্ধে বাতাসের বাঁধা কম থাকবে অন্য তিনটি বস্তুর তুলনায়।"
