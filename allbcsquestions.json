@@ -91,7 +91,7 @@
 
         },
         {
-            "title":"24th BCS",
+            "title":"24th BCS cancelled",
             "sub":"24th-bcs Preliminary (cancelled)",
             "file":"https://bcs-qb.github.io/index/data/24th-bcsc_questions.json"
 
@@ -181,13 +181,13 @@
 
         },
         {
-            "title":"39th BCS",
+            "title":"39th BCS (special-general)",
             "sub":"39th-bcs Preliminary",
             "file":"https://bcs-qb.github.io/index/data/39th-bcs_questions.json"
 
         },
         {
-            "title":"39th BCS",
+            "title":"39th BCS (special-medical) ",
             "sub":"39th-bcs Preliminary (medical part)",
             "file":"https://bcs-qb.github.io/index/data/39th-bcss_questions.json"
 
