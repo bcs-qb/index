@@ -1123,7 +1123,7 @@
     {
       "question_number": 87,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/41st-bcs/24.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/41st-bcs/24.jpg",
       "options": {
         "A": "১৮",
         "B": "৬৮",
@@ -1138,10 +1138,10 @@
       "subject": "MENTAL-ABILITY",
       "question_text": "‘RELATION’- এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/41st-bcs/26.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/41st-bcs/27.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/41st-bcs/28.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/41st-bcs/29.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/41st-bcs/26.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/41st-bcs/27.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/41st-bcs/28.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/41st-bcs/29.jpg"
       },
       "correct_answer": "A",
       "explanation": "আয়নাতে Capital letter ‘A, H, I, M, O, T U, V, W, X, Y’ এবং Small letter এ ‘i, l, o, v, w, x’ এর কোন পরিবর্তন হয় না তাই উত্তর হবে ক।"

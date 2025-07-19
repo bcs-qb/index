@@ -1567,10 +1567,10 @@
       "subject": "MENTAL-ABILITY",
       "question_text": "কোনটি ভারসাম্যপূর্ণ অবস্থা?",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/19.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/119.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/20.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/21.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/45th-bcs/19.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/45th-bcs/119.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/45th-bcs/20.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/45th-bcs/21.jpg"
       },
       "correct_answer": "A",
       "explanation": "তিনটি ভেক্টরের ভারসাম্যপূর্ণ হওয়া মানে, তাদের যোগফল শূন্য। সেক্ষেত্রে, তীর চিহ্ন ধরে যেখানে শুরু সেখানেই ফেরা যাবে। ‘গ’ চিত্রে (–) অনুযায়ী তীর চিহ্ন ঘুরিয়ে দিলে এই শর্ত পূর্ণ হয়।"
@@ -1591,7 +1591,7 @@
     {
       "question_number": 123,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/120.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/45th-bcs/120.jpg",
       "options": {
         "A": "১",
         "B": "৩",
@@ -1632,9 +1632,9 @@
       "subject": "MENTAL-ABILITY",
       "question_text": "ROSE এর আয়নায় প্রতিবিম্ব কোনটি হবে?",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/122.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/123.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/124.jpg)",
+        "A": "https://uttoron.academy/media/Images/Question/45th-bcs/122.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/45th-bcs/123.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/45th-bcs/124.jpg",
         "D": "কোনোটিই নয়"
       },
       "correct_answer": "C",
@@ -1643,12 +1643,12 @@
     {
       "question_number": 127,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/126.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/45th-bcs/126.jpg",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/127.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/128.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/129.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/45th-bcs/130.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/45th-bcs/127.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/45th-bcs/128.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/45th-bcs/129.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/45th-bcs/130.jpg"
       },
       "correct_answer": "B",
       "explanation": "https://uttoron.academy/media/Images/Question/45th-bcs/131.jpg"

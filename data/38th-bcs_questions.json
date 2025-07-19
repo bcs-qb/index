@@ -2267,7 +2267,7 @@
     {
       "question_number": 175,
       "subject": "MATHEMATICAL-REASONING",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/22.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/38th-bcs/22.jpg",
       "options": {
         "A": "45°",
         "B": "22.5°",
@@ -2345,7 +2345,7 @@
     {
       "question_number": 181,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/26.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/38th-bcs/26.jpg",
       "options": {
         "A": "১৬৪",
         "B": "৯৭",
@@ -2360,10 +2360,10 @@
       "subject": "MENTAL-ABILITY",
       "question_text": "‘UNFARE’- এর আয়নায় দেখলে তার সঠিক রূপটি হবে-",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/28.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/29.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/30.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/31.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/38th-bcs/28.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/38th-bcs/29.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/38th-bcs/30.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/38th-bcs/31.jpg"
       },
       "correct_answer": "A",
       "explanation": ""
@@ -2384,7 +2384,7 @@
     {
       "question_number": 184,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/32.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/38th-bcs/32.jpg",
       "options": {
         "A": "১",
         "B": "১০",
@@ -2410,7 +2410,7 @@
     {
       "question_number": 186,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/34.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/38th-bcs/34.jpg",
       "options": {
         "A": "NJ",
         "B": "MI",
@@ -2436,7 +2436,7 @@
     {
       "question_number": 188,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/38th-bcs/37.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/38th-bcs/37.jpg",
       "options": {
         "A": "৬ : ১৫",
         "B": "৮ : ৪০",

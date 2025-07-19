@@ -2410,7 +2410,7 @@
     {
       "question_number": 186,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/39.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/44th-bcs/39.jpg",
       "options": {
         "A": "১",
         "B": "২",
@@ -2462,7 +2462,7 @@
     {
       "question_number": 190,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/40.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/44th-bcs/40.jpg",
       "options": {
         "A": "১০টি",
         "B": "১২টি",
@@ -2475,7 +2475,7 @@
     {
       "question_number": 191,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/41.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/44th-bcs/41.jpg",
       "options": {
         "A": "৪ কেজি",
         "B": "৬ কেজি",
@@ -2516,10 +2516,10 @@
       "subject": "MENTAL-ABILITY",
       "question_text": "‘MEMORY’ শব্দটির আয়নার প্রতিবিম্ব কোনটি?",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/29.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/30.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/31.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/32.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/44th-bcs/29.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/44th-bcs/30.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/44th-bcs/31.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/44th-bcs/32.jpg"
       },
       "correct_answer": "B",
       "explanation": "https://uttoron.academy/media/Images/Question/44th-bcs/33.jpg"
@@ -2527,7 +2527,7 @@
     {
       "question_number": 195,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/44th-bcs/34.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/44th-bcs/34.jpg",
       "options": {
         "A": "৬৪",
         "B": "৬৬",

@@ -213,7 +213,7 @@
     {
       "question_number": 17,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/17.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/46th%20BCS/17.jpg",
       "options": {
         "A": "৪৩৫২১",
         "B": "৩৫৪২১",
@@ -317,12 +317,12 @@
     {
       "question_number": 25,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/25.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/46th%20BCS/25.jpg",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/25.1.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/25.2.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/25.3.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/25.4.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/46th%20BCS/25.1.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/46th%20BCS/25.2.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/46th%20BCS/25.3.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/46th%20BCS/25.4.jpg"
       },
       "correct_answer": "A",
       "explanation": "https://uttoron.academy/media/Images/Question/46th%20BCS/25.5.jpg"
@@ -330,7 +330,7 @@
     {
       "question_number": 26,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/26.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/46th%20BCS/26.jpg",
       "options": {
         "A": "৮০",
         "B": "১১৪",
@@ -1193,7 +1193,7 @@
         "A": "রামাই পন্ডিত",
         "B": "হলায়ূধ মিশ্র",
         "C": "কাহ্নপা",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/46th%20BCS/92.jpg)"
+        "D": "https://uttoron.academy/media/Images/Question/46th%20BCS/92.jpg"
       },
       "correct_answer": "A",
       "explanation": "ন্যপুরাণ বাংলা সাহিত্যের অন্ধকার যুগের সাহিত্য কর্ম। এর রচয়িতা রামাই পন্ডিত। এটি সদ্য পদ্য মিশ্রিত চম্পুকাব্য।"

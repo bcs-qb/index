@@ -5,7 +5,7 @@
     {
       "question_number": 1,
       "subject": "BANGLA-LANGUAGE",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/35th-bcs/1.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/35th-bcs/1.jpg",
       "options": {
         "A": "প্রথমটি অশুদ্ধ, দ্বিতীয়টি শুদ্ধ",
         "B": "প্রথমটি শুদ্ধ, দ্বিতীয়টি অশুদ্ধ",
@@ -2306,7 +2306,7 @@
     {
       "question_number": 178,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/35th-bcs/17.png)",
+      "question_text": "https://uttoron.academy/media/Images/Question/35th-bcs/17.png",
       "options": {
         "A": "৪",
         "B": "৭",
@@ -2319,7 +2319,7 @@
     {
       "question_number": 179,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/35th-bcs/19.png)",
+      "question_text": "https://uttoron.academy/media/Images/Question/35th-bcs/19.png",
       "options": {
         "A": "৬",
         "B": "৮",
@@ -2371,7 +2371,7 @@
     {
       "question_number": 183,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/35th-bcs/20.png)",
+      "question_text": "https://uttoron.academy/media/Images/Question/35th-bcs/20.png",
       "options": {
         "A": "TENSION",
         "B": "RELATION",
@@ -2384,7 +2384,7 @@
     {
       "question_number": 184,
       "subject": "MENTAL-ABILITY",
-      "question_text": "নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে? ![Image](data:image/png;base64,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)",
+      "question_text": "নিচের চিত্রে মোট কয়টি ত্রিভুজ আছে? data:image/png;base64,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",
       "options": {
         "A": "১৭",
         "B": "১৮",
@@ -2397,7 +2397,7 @@
     {
       "question_number": 185,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/35th-bcs/23.png)",
+      "question_text": "https://uttoron.academy/media/Images/Question/35th-bcs/23.png",
       "options": {
         "A": "৬টি",
         "B": "৭টি",

@@ -837,7 +837,7 @@
     {
       "question_number": 65,
       "subject": "MATHEMATICAL-REASONING",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/7.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/43rd-bcs/7.jpg",
       "options": {
         "A": "\\(\\{3, 5, 8\\}\\)",
         "B": "\\(\\{4, 5, 7\\}\\)",
@@ -967,7 +967,7 @@
     {
       "question_number": 75,
       "subject": "MATHEMATICAL-REASONING",
-      "question_text": "O কেন্দ্র বিশিষ্ট বৃত্তে \\(\\mathrm{x}\\) কোণের মান কত? ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/18.jpg)",
+      "question_text": "O কেন্দ্র বিশিষ্ট বৃত্তে \\(\\mathrm{x}\\) কোণের মান কত? https://uttoron.academy/media/Images/Question/43rd-bcs/18.jpg",
       "options": {
         "A": "54°",
         "B": "72°",
@@ -980,12 +980,12 @@
     {
       "question_number": 76,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/19.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/43rd-bcs/19.jpg",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/20.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/21.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/22.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/23.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/43rd-bcs/20.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/43rd-bcs/21.jpg",
+          "C": "https://uttoron.academy/media/Images/Question/43rd-bcs/22.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/43rd-bcs/23.jpg"
       },
       "correct_answer": "A",
       "explanation": "https://uttoron.academy/media/Images/Question/43rd-bcs/24.jpg"
@@ -1019,7 +1019,7 @@
     {
       "question_number": 79,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/26.png)",
+      "question_text": "https://uttoron.academy/media/Images/Question/43rd-bcs/26.png",
       "options": {
         "A": "30 পাউন্ড",
         "B": "25 পাউন্ড",
@@ -1097,7 +1097,7 @@
     {
       "question_number": 85,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/30.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/43rd-bcs/30.jpg",
       "options": {
         "A": "20",
         "B": "26",
@@ -1162,12 +1162,12 @@
     {
       "question_number": 90,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/34.png)",
+      "question_text": "https://uttoron.academy/media/Images/Question/43rd-bcs/34.png",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/35.png)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/36.png)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/37.png)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/43rd-bcs/38.png)"
+        "A": "https://uttoron.academy/media/Images/Question/43rd-bcs/35.png",
+        "B": "https://uttoron.academy/media/Images/Question/43rd-bcs/36.png",
+        "C": "https://uttoron.academy/media/Images/Question/43rd-bcs/37.png",
+        "D": "https://uttoron.academy/media/Images/Question/43rd-bcs/38.png"
       },
       "correct_answer": "A",
       "explanation": "১ম ও ২য় চিত্রে V ও W এসেছে ৩য় চিত্রে উল্টো V তাই পরের চিত্রে উল্টো W হবে।"

@@ -1097,12 +1097,12 @@
     {
       "question_number": 85,
       "subject": "MENTAL-ABILITY",
-      "question_text": " ![Image](https://uttoron.academy/media/Images/Question/42nd-bcs/17.jpg)",
+      "question_text": "https://uttoron.academy/media/Images/Question/42nd-bcs/17.jpg",
       "options": {
-        "A": " ![Image](https://uttoron.academy/media/Images/Question/42nd-bcs/18.jpg)",
-        "B": " ![Image](https://uttoron.academy/media/Images/Question/42nd-bcs/19.jpg)",
-        "C": " ![Image](https://uttoron.academy/media/Images/Question/42nd-bcs/20.jpg)",
-        "D": " ![Image](https://uttoron.academy/media/Images/Question/42nd-bcs/21.jpg)"
+        "A": "https://uttoron.academy/media/Images/Question/42nd-bcs/18.jpg",
+        "B": "https://uttoron.academy/media/Images/Question/42nd-bcs/19.jpg",
+        "C": "https://uttoron.academy/media/Images/Question/42nd-bcs/20.jpg",
+        "D": "https://uttoron.academy/media/Images/Question/42nd-bcs/21.jpg"
       },
       "correct_answer": "B",
       "explanation": ""
