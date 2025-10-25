@@ -251,6 +251,12 @@
             "sub":"48th-bcs Preliminary (Medical Part)",
             "file":"https://bcs-qb.github.io/index/data/48thbcs_questions.json"
 
+        },
+        {
+            "title":"49th BCS",
+            "sub":"49th-bcs Preliminary",
+            "file":"https://bcs-qb.github.io/index/data/49th-bcs_questions.json"
+
         }
     ]
 }
