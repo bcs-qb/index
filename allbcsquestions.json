@@ -257,6 +257,11 @@
             "sub":"49th-bcs Preliminary",
             "file":"https://bcs-qb.github.io/index/data/49th-bcs_questions.json"
 
+        },
+        {
+            "title":"50th BCS",
+            "sub":"50th-bcs Preliminary",
+            "file":"https://bcs-qb.github.io/index/data/50th-bcs_questions.json"
         }
     ]
 }
